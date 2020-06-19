@@ -1,6 +1,7 @@
 {
 	"homepage": "https://manaandartifice.com",
 	"promos": {
-		"1.15.2-prealpha": "1.0.3"		
+		"1.15.2-latest": "1.0.3-pre1",
+		"1.15.2-recommended": "1.0.3-pre1"
 	}
 }
