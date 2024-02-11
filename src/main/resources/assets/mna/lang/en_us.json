@@ -492,7 +492,7 @@
 	"item.mna.lantern_wraith_spawn_egg": "Lantern Wraith Spawn Egg",
 	
 	"item.mna.hulking_zombie_spawn_egg": "Hulking Zombie Spawn Egg",
-	"item.mna.skeleton_assassin_spawn_egg": "Skeleton Assassin Spawn Egg",
+	"item.mna.skeleton_assassin_spawn_egg": "Crypt Stalker Spawn Egg",
 	"item.mna.chatterer_spawn_egg": "Chatterer Spawn Egg",
 	
 	"item.mna.trickery_bracelet": "Bracelet of Trickery",
@@ -1944,9 +1944,9 @@
 	"entity.mna.spell_breaker": "Spellbreaker",
 	"entity.mna.arcane_eye": "Arcane Eye",
 	"entity.mna.barkling": "Barkling",
-	"entity.mna.skeleton_assassin": "Skeleton Assassin",
-	"entity.mna.skeleton_assassin_bolo": "Skeleton Assassin Bolo",
-	"entity.mna.skeleton_assassin_shuriken": "Skeleton Assassin Shuriken",
+	"entity.mna.skeleton_assassin": "Crypt Stalker",
+	"entity.mna.skeleton_assassin_bolo": "Crypt Stalker Bolo",
+	"entity.mna.skeleton_assassin_shuriken": "Crypt Stalker Shuriken",
 	"entity.mna.hulking_zombie": "Hulking Zombie",
 	"entity.mna.witch_hunter": "Witch Hunter",
 	"entity.mna.witch_hunter_arrow": "Witch Hunter Arrow",
