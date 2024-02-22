@@ -64,21 +64,21 @@
       },
       {
         "type": "title",
-        "value": "Return to Category Index"
+        "value": "カテゴリ選択に戻る"
       },
       {
         "type": "text",
-        "value": "When viewing an entry, click the back button to return to the category index pages.",
+        "value": "項目を閲覧しているとき、 下の黒いボタンをクリックすることでカテゴリーに戻ることができます。",
         "json": [
           {
-            "text": "When viewing an entry, click the "
+            "text": "項目を閲覧しているとき、 下の"
           },
           {
-            "text": "back button",
+            "text": "黒いボタン",
             "color": "blue"
           },
           {
-            "text": " to return to the category index pages."
+            "text": "をクリックすることでカテゴリーに戻ることができます。"
           }
         ]
       },
@@ -91,21 +91,21 @@
       },
       {
         "type": "title",
-        "value": "Categories"
+        "value": "カテゴリー"
       },
       {
         "type": "text",
-        "value": "This codex is broken down into categories.  They are displayed with green tabs on the side, and represent various logical areas within the mod.  Click a category to view the items within it.",
+        "value": "このコーデックスは、カテゴリに分けられています。 それらは横の緑色のタブで表示され、MOD内の様々な種類のアイテムを表しています。 カテゴリをクリックすると、その中にあるアイテムが表示されます。",
         "json": [
           {
-            "text": "This codex is broken down into "
+            "text": "このコーデックスは、"
           },
           {
-            "text": "categories",
+            "text": "カテゴリ",
             "color": "blue"
           },
           {
-            "text": ". They are displayed with green tabs on the side, and represent various logical areas within the mod. Click a category to view the items within it."
+            "text": "に分けられています。それらは横の緑色のタブで表示され、MOD内の様々な種類のアイテムを表しています。 カテゴリをクリックすると、その中にあるアイテムが表示されます。"
           }
         ]
       },
@@ -118,21 +118,21 @@
       },
       {
         "type": "title",
-        "value": "Search"
+        "value": "検索"
       },
       {
         "type": "text",
-        "value": "Click the search tab at the bottom of this UI to bring up a search window.  Search for what you're looking for and click the result you want in order to jump to it.",
+        "value": "このUIの下部にある検索タブをクリックすると、検索ウィンドウが表示されます。 目的のものを検索し、検索結果をクリックすると、そのページにジャンプできます。",
         "json": [
           {
-            "text": "Click the "
+            "text": "このUIの下部にある"
           },
           {
-            "text": "search tab",
+            "text": "検索タブ",
             "color": "blue"
           },
           {
-            "text": " at the bottom of this UI to bring up a search window. Search for what you're looking for and click the result you want in order to jump to it."
+            "text": " をクリックすると、検索ウィンドウが表示されます。 目的のものを検索し、検索結果をクリックすると、そのページにジャンプできます。"
           }
         ]
       },
@@ -172,14 +172,14 @@
       },
       {
         "type": "title",
-        "value": "Recipes"
+        "value": "レシピ"
       },
       {
         "type": "text",
-        "value": "When viewing a codex entry, you will often see recipes pinned to the right of the page in blue tabs.  Click these to see how to make the given item.",
+        "value": "コーデックスの項目を読んでいると、ページの右側に青いタブでレシピが表示されていることがよくあります。 これをクリックすることで、そのアイテムの作り方を見ることができます。",
         "json": [
           {
-            "text": "When viewing a codex entry, you will often see recipes pinned to the right of the page in blue tabs. Click these to see how to make the given item."
+            "text": "コーデックスの項目を読んでいると、ページの右側に青いタブでレシピが表示されていることがよくあります。 これをクリックすることで、そのアイテムの作り方を見ることができます。"
           }
         ]
       },
@@ -192,7 +192,7 @@
       },
       {
         "type": "title",
-        "value": "Pinning Recipes"
+        "value": "レシピのピン止め"
       },
       {
         "type": "text",
