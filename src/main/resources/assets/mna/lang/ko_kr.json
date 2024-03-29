@@ -2363,7 +2363,7 @@
 	"mna:tier_2/cast_t2_cantrip.title": "간단한 마술",
 	"mna:tier_2/cast_t2_cantrip.description": "마나위빙 완드를 사용하여 2단계 캔트립 시전하기",
 	"mna:tier_2/perform_mote_ritual.title": "엘리멘탈리스트",
-	"mna:tier_2/perform_mote_ritual.description": "여섯 가지 속성 조각 의식 중 하나를 사용하여 속성 조각 제작하기",
+	"mna:tier_2/perform_mote_ritual.description": "여섯 가지 속성 티끌 의식 중 하나를 사용하여 속성 티끌 제작하기",
 	"mna:tier_2/craft_wood_stone_construct.title": "골렘을 생각나게 해",
 	"mna:tier_2/craft_wood_stone_construct.description": "나무 또는 돌 부품이 3개 이상 포함된 조합체 동작시키기",
 	"mna:tier_2/perform_alteration_ritual.title": "변형 작업",
