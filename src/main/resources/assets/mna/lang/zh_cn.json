@@ -482,7 +482,7 @@
 		
 	"item.mna.spellbreaker_spawn_egg": "破法者刷怪蛋",
 	"item.mna.witch_hunter_spawn_egg": "猎巫人刷怪蛋",
-	"item.mna.living_ward_spawn_egg": "活化守卫(暂定翻译)刷怪蛋",
+	"item.mna.living_ward_spawn_egg": "活化守卫刷怪蛋",
 	
 	"item.mna.mushroom_soldier_spawn_egg": "蘑菇士兵刷怪蛋",
 	"item.mna.barkling_spawn_egg": "树皮之精刷怪蛋",
@@ -493,7 +493,7 @@
 	
 	"item.mna.hulking_zombie_spawn_egg": "重型僵尸刷怪蛋",
 	"item.mna.skeleton_assassin_spawn_egg": "骷髅刺客刷怪蛋",
-	"item.mna.chatterer_spawn_egg": "喋喋不休者刷怪蛋",
+	"item.mna.chatterer_spawn_egg": "颤齿颅刷怪蛋",
 	
 	"item.mna.trickery_bracelet": "欺诈手镯",
 	"item.mna.thaumaturgic_link": "魔法连接",
@@ -1938,7 +1938,7 @@
 	"entity.mna.magic_broom": "魔法扫帚",
 	"entity.mna.mushroom_soldier": "蘑菇士兵",
 	"entity.mna.pixie": "小精灵",
-	"entity.mna.chatterer": "喋喋不休者",
+	"entity.mna.chatterer": "颤齿颅",
 	"entity.mna.demon_imp": "小恶魔",
 	"entity.mna.bubble_boat": "泡状舱船",
 	"entity.mna.lantern_wraith": "灯之幽魂",
