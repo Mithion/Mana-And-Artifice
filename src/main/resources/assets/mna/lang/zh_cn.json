@@ -1240,7 +1240,7 @@
 	"gui.mna.parameter.hunt.underground": "构装体是否应该在地下狩猎生物？构装体需要具有20或更高的感知能力才能在地下看到猎物，或者需要至少有20个光源方块（如火把）在其库存中。",
 	"gui.mna.parameter.hunt.swimming": "构装体是否应该狩猎水生生物？构装体需要具有1或更高的浮性，或者具备捕鱼能力。",
 	"gui.mna.parameter.hunt.flying": "构装体是否应该狩猎飞行生物？构装体需要具备远程攻击能力，或者具备飞行或传送的能力。",
-	"gui.mna.parameter.hunt.items": "为构装体发现的物品指定一个筛选器，说明构装体应该/不应该带回来的物品。如果希望带回所有物品，请留空。",
+	"gui.mna.parameter.hunt.items": "为构装体发现的物品指定一个过滤器，说明构装体应该/不应该带回来的物品。如果希望带回所有物品，请留空。",
 	
 	"gui.mna.lodestar.start": "这是开始节点。从这里拖拽到出连接线，并连接至任何一个有效节点的输入节点(黄色的订针)处，即可指定此输入节点为开端。",
 	"gui.mna.lodestar.error": "在逻辑流中检测到了错误",		
@@ -2451,9 +2451,9 @@
 	"mna.constructs.feedback.death": "再见了老大……希望我没拖后腿。真的好想一直守护着你……",
 	"mna.constructs.feedback.return_to_table": "老大我回到装载台了。我会做梦吗？当我回来时，我还会是我吗？",
 	"mna.constructs.feedback.hunt_no_mobs": "老大，对不起，我没法完成你要求的狩猎任务。",
-	"mna.constructs.feedback.milk_target": "老大，我准备前往 %s 挤牛奶。",
+	"mna.constructs.feedback.milk_target": "老大，我准备前往%s挤牛奶。",
 	"mna.constructs.feedback.milk_no_target": "老大，我在你指定的区域内没有找到可以挤奶的牛。",
-	"mna.constructs.feedback.milk_success": "老大，我已经挤了 %s，一切顺利。",
+	"mna.constructs.feedback.milk_success": "老大，我已经挤了%s，一切顺利。",
 	
 	"mna:advancements.root.title": "魔法盛宴",
 	"mna:advancements.root.description": "开启你的巧工魔艺之旅。",
