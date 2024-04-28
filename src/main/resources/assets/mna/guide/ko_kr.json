@@ -4088,14 +4088,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "금속 의식 룬"
+        "value": "룬: 의식(금속)"
       },
       {
         "type": "text",
         "value": "It may be desirable to have certain rituals not remove their ritual runes when completing.  Creating the ritual pattern out of metal ritual runes will achieve this goal.\n\nYou can mix and match metal and non-metal ritual runes together in the same ritual.",
         "json": [
           {
-            "text": "의식을 위해 분필로 바닥에 패턴을 그릴 때, 일회용인것이 불편할때가 종종 있습니다.\n룬: 의식(금속)을 이용하여 패턴을 그릴 수 있으며 의식이 완료된 후에도 계속 남아있어 편리하니 필요할때 사용해보세요.\n\n"
+            "text": "의식을 위해 분필로 바닥에 패턴을 그릴 때, 일회용인것이 불편할때가 종종 있습니다.\n이를 보완하기위해 만들어진게 룬: 의식(금속)입니다. 이 룬으로는 패턴을 그릴 수 있으며, 의식이 완료된 후에도 계속 남아있어 편리합니다.\n\n"
           },
           {
             "text": "분필로 그린 것과 혼용하는 것도 가능합니다.",
