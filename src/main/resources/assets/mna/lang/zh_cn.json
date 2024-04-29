@@ -1955,6 +1955,7 @@
 	"entity.mna.demon_imp": "小恶魔",
 	"entity.mna.bubble_boat": "泡状舱船",
 	"entity.mna.lantern_wraith": "灯之幽魂",
+	"entity.mna.living_ward":"活化守卫",
 	"entity.mna.spell_breaker": "破法者",
 	"entity.mna.arcane_eye": "奥秘之眼",
 	"entity.mna.barkling": "树皮之精",
@@ -1997,7 +1998,7 @@
 	"entity.mna.allfather_axe_thrown": "众神之父的斧头",
 	"entity.mna.odin.defeated": "好了，勇士。今日，你已证明了你的英勇果敢。我将这把斧子赐予你，你的勇气值得这份奖赏。我的祝福与这把斧子同在。",
 	"entity.mna.tfpd": "猪龙",
-	"entity.mna.magmoo": "Magmoo",
+	"entity.mna.magmoo": "烈焰牛",
 	
 	"key.categories.mna": "巧工魔艺",
 	"key.spellbookopen": "法术书快速选择",
