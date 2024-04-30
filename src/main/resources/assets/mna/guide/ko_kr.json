@@ -368,7 +368,7 @@
             "color": "blue"
           },
           {
-            "text": ",  "
+            "text": ", "
           },
           {
             "text": "겨울의 얼음",
@@ -575,7 +575,7 @@
             "color": "blue"
           },
           {
-            "text": ",  "
+            "text": ", "
           },
           {
             "text": "마나 차",
@@ -682,7 +682,7 @@
         "value": "There are certain flowers that grow around the world that I'll need in order to make the most use of magic.  These flowers are often used as reagents or ingredients, so I should take note of where to find them.",
         "json": [
           {
-            "text": "마법을 최대한 활용하기 위해서는 전 세계에서 자라는 특정 꽃이 필요합니다. 이 꽃들은 종종 시약이나 재료로 사용되기 때문에 어디서 구할 수 있는지 기억해 두어야 합니다.\n\n 모든 꽃을 으깨서 염료로 만들 수 있으며, 특히 일부 색은 다른 방법으로는 구하기 어렵습니다.\n\n 또한 "
+            "text": "마법을 최대한 활용하기 위해서는 전 세계에서 자라는 특정 꽃이 필요합니다. 이 꽃들은 종종 시약이나 재료로 사용되기 때문에 어디서 구할 수 있는지 기억해 두어야 합니다.\n\n모든 꽃을 으깨서 염료로 만들 수 있으며, 특히 일부 색은 다른 방법으로는 구하기 어렵습니다.\n\n또한 "
           },
           {
             "text": "마을",
@@ -1262,7 +1262,7 @@
             "color": "dark_green"
           },
           {
-            "text": "  소속의 병사입니다. \n\n그들은 보기보다 빠르고 원거리와 근거리에서 강력한 독 공격을 가하지만, 근접 독 공격이 훨씬 더 위험합니다."
+            "text": " 소속의 병사입니다. \n\n그들은 보기보다 빠르고 원거리와 근거리에서 강력한 독 공격을 가하지만, 근접 독 공격이 훨씬 더 위험합니다."
           }
         ]
       },
@@ -1292,7 +1292,7 @@
             "color": "dark_green"
           },
           {
-            "text": " 소속의 병사입니다. \n\n네 가지 원소 중 하나로 생성되며, 각 원소의 화살로 공격합니다.  작고 타격하기 어려우며, 더 강력한 개체들은 짧은 거리를 순간이동하여 적을 피할 수 있습니다.\n\n불의 픽시는 장착한 방어구를 녹일 수 있으며, 그 열기로 인해 영향을 받는 대상은 공격 시 피해를 더 받습니다. \n\n물의 픽시는 서리로 속도를 늦추거나 물속으로 끌어당길 수 있습니다. \n\n공기의 픽시는 상대방을 공중으로 던질 수 있습니다. \n\n땅의 픽시는 플레이어에게 물리 피해를 입힐 수 있으며, 공중에 있는 경우 플레이어를 땅으로 끌어당길 수 있습니다. \n\n픽시 자체는 성가신 존재에 지나지 않지만, 픽시 그룹은 "
+            "text": " 소속의 병사입니다. \n\n네 가지 원소 중 하나로 생성되며, 각 원소의 화살로 공격합니다.  작고 타격하기 어려우며, 더 강력한 개체들은 짧은 거리를 순간이동하여 적을 피할 수 있습니다.\n\n불의 픽시는 장착한 방어구를 녹일 수 있으며, 그 열기로 인해 영향을 받는 대상은 공격 시 피해를 더 받습니다. \n\n물의 픽시는 서리로 속도를 늦추거나 물속으로 끌어당길 수 있습니다. \n\n공기의 픽시는 상대방을 공중으로 던질 수 있습니다. \n\n대지의 픽시는 플레이어에게 물리 피해를 입힐 수 있으며, 공중에 있는 경우 플레이어를 지면로 끌어당길 수 있습니다. \n\n픽시 자체는 성가신 존재에 지나지 않지만, 픽시 그룹은 "
           },
           {
             "text": "머쉬룸솔져",
@@ -1334,14 +1334,14 @@
       },
       {
         "type": "title",
-        "value": "데몬임프"
+        "value": "임프"
       },
       {
         "type": "text",
         "value": "Imps are one of the soldiers of the Demons of the Nether, and will aid and defend those allied to the Demons.  They have powerful legs that let them leap great distances at their targets, covering ground quickly.  Their sharp claws have made short work of many a wizard.",
         "json": [
           {
-            "text": "데몬임프",
+            "text": "임프",
             "color": "dark_red"
           },
           {
@@ -1442,7 +1442,7 @@
             "color": "dark_gray"
           },
           {
-            "text": " 소속의 병사입니다. \n\n이 무시무시한 스토커는 연막탄을 투하하여 자신을 보이지 않게 만드는 능력을 가지고 있습니다. 은신 상태에서 공격하는 방법을 알고 있으며, 그 상태로 공격 시 훨씬 더 큰 피해를 입힙니다. 또한 빠른 속도로 치명적인 수리검을 던질 수 있으며, 날아다니는 목표물을 땅에 떨어뜨리기 위해 볼로를 던지기도 합니다."
+            "text": " 소속의 병사입니다. \n\n이 무시무시한 스토커는 연막탄을 투하하여 자신을 보이지 않게 만드는 능력을 가지고 있습니다. 은신 상태에서 공격하는 방법을 알고 있으며, 그 상태로 공격 시 훨씬 더 큰 피해를 입힙니다. 또한 빠른 속도로 치명적인 수리검을 던질 수 있으며, 날아다니는 목표물을 지면에 떨어뜨리기 위해 볼로를 던지기도 합니다."
           }
         ]
       },
@@ -1590,7 +1590,7 @@
         "value": "Your faction gives you access to unique relics and spell parts that are specific to each faction.  The occulus shows these items by putting a badge representing your faction on their badges.  You cannot craft the spells and artifacts from the other factions, however you can trade for them either by doing the Ritual of the Iron Bell once you hit Tier 3, or by simply trading with other wizards in multiplayer.",
         "json": [
           {
-            "text": "각 진영은 고유한 유물과 스펠 부품을 사용할 수 있으며 지팡이, 팔찌, 스태프와 같은 스펠 포커스 아이템에 특정 마법을 부여하여 특별한 능력을 얻습니다.\n\n오큘러스는 아이템의 카드에 해당 진영을 나타내는 배지를 놓아서 관련 아이템을 표시해줍니다. \n\n다른 진영의 스펠과 유물은 제작할 수 없지만, 아이언 벨 의식을 수행하거나 협력 환경에서 다른 마법사와 거래하여 얻을 수 있습니다."
+            "text": "각 진영은 고유한 유물과 스펠 부품을 사용할 수 있으며 지팡이, 팔찌, 스태프와 같은 스펠 시전 아이템에 특정 마법을 부여하여 특별한 능력을 얻습니다.\n\n오큘러스는 아이템의 카드에 해당 진영을 나타내는 배지를 놓아서 관련 아이템을 표시해줍니다. \n\n다른 진영의 스펠과 유물은 제작할 수 없지만, 아이언 벨 의식을 수행하거나 협력 환경에서 다른 마법사와 거래하여 얻을 수 있습니다."
           }
         ]
       },
@@ -1626,7 +1626,7 @@
             "color": "dark_red"
           },
           {
-            "text": "는 정면에서 공격합니다. \n\n 그들은 마나대신"
+            "text": "는 정면에서 공격합니다. \n\n그들은 마나대신 "
           },
           {
             "text": "유황",
@@ -1654,21 +1654,21 @@
             "color": "dark_purple"
           },
           {
-            "text": "바이옴에서는 더욱 "
+            "text": " 바이옴에서는 더욱 "
           },
           {
             "text": "느리게",
             "color": "dark_purple"
           },
           {
-            "text": " 회복됩니다.\n\n또한 유황은 피해, 반경, 사거리에 더 높은 수치를 부여하고 주문 재사용 대기시간을 25% 감소시킵니다.\n\n유황은 마나가 부족해 스펠 및 기타 효과를 사용할 수 없는 경우 하트를 소모합니다. 이 체력 소모는 지속 효과에는 적용되지 않으며, 어려움이 높은 세계일수록 시전자를 사망에 이르게 할 수 있습니다.\n\n 악마 유물에는 부착된 불 스펠을 강화할 수 있는"
+            "text": " 회복됩니다.\n\n또한 유황은 피해, 반경, 사거리에 더 높은 수치를 부여하고 주문 재사용 대기시간을 25% 감소시킵니다.\n\n유황은 마나가 부족해 스펠 및 기타 효과를 사용할 수 없는 경우 하트를 소모합니다. 이 체력 소모는 지속 효과에는 적용되지 않으며, 어려움이 높은 세계일수록 시전자를 사망에 이르게 할 수 있습니다.\n\n악마 유물에는 부착된 불 스펠을 강화할 수 있는 "
           },
           {
             "text": "헬파이어 스태프",
             "color": "dark_red"
           },
           {
-            "text": ", 불로부터 자신을 보호하는"
+            "text": ", 불로부터 자신을 보호하는 "
           },
           {
             "text": "엠버글로우 팔찌",
@@ -1689,7 +1689,7 @@
             "color": "dark_red"
           },
           {
-            "text": "등이 있습니다.\n\n악마는 스펠 포커스에"
+            "text": "등이 있습니다.\n\n악마는 "
           },
           {
             "text": "화염",
@@ -1748,7 +1748,7 @@
             "color": "dark_green"
           },
           {
-            "text": ", 웅크리면 투명 상태가 되고 그 상태엣서 때리면 적을 날려버릴 수 있는"
+            "text": ", 웅크리면 투명 상태가 되고 그 상태엣서 때리면 적을 날려버릴 수 있는 "
           },
           {
             "text": "속임수의 팔찌",
@@ -1769,7 +1769,7 @@
             "color": "dark_green"
           },
           {
-            "text": "등이 있습니다.\n\n페이 진영은 스펠 포커스에 "
+            "text": "등이 있습니다.\n\n페이 진영은 "
           },
           {
             "text": "가시",
@@ -1828,14 +1828,14 @@
             "color": "blue"
           },
           {
-            "text": "등이 있습니다.\n\n평의회는 스펠 포커스에 "
+            "text": "등이 있습니다.\n\n평의회는 "
           },
           {
             "text": "파워",
             "color": "blue"
           },
           {
-            "text": "마법부여 혜택을 가지게 되며, 각 혜택은 적용된 파워 마법부여 따라 증가합니다:\n- 엠버와 투사체 스펠의 돌아오는 능력 증가\n- 시길 제한 증가\n- 낙하 시 타격 보너스 피해 증가\n\n오큘러스에서 평의회 진영이 필요한 항목에는 다음 아이콘이 표시되어 있습니다:"
+            "text": " 마법부여 혜택을 가지게 되며, 각 혜택은 적용된 파워 마법부여 따라 증가합니다:\n- 잿불과 투사체 스펠의 따라가는 능력 증가\n- 시길 제한 증가\n- 처단의 낙하 피해 증가\n\n오큘러스에서 평의회 진영이 필요한 항목에는 다음 아이콘이 표시되어 있습니다:"
           }
         ]
       },
@@ -1859,7 +1859,7 @@
             "color": "dark_gray"
           },
           {
-            "text": "끈질긴 지구력과 영혼 마법에 초점을 맞추고 있으며, 영혼을 먹이로 삼거나 다른 존재에 빙의하거나 패러다임을 바꾸는 등의 효과를 가지고 있습니다.\n\n언데드 진영은 플레이하기 까다로운 진영입니다. 그들의 시전 자원은 "
+            "text": "는 끈질긴 지구력과 영혼 마법에 초점을 맞추고 있으며, 영혼을 먹이로 삼거나 다른 존재에 빙의하거나 패러다임을 바꾸는 등의 효과를 가지고 있습니다.\n\n언데드 진영은 플레이하기 까다로운 진영입니다. 그들의 시전 자원은 "
           },
           {
             "text": "영혼",
@@ -1876,18 +1876,18 @@
             "text": "합니다. 영혼을 얻기 위해 다른 플레이어를 죽이거나 자원을 소모하는 의식을 수행해야만 영혼을 얻을 수 있습니다. 하지만 언데드는 "
           },
           {
-            "text": "다른 마법사가 마나를 보유한 것보다 훨씬 더 많은 영혼을 보유하고 있습니다.",
+            "text": "다른 마법사가 마나를 보유한 것보다 훨씬 더 많은 영혼을 보유하고 있습니다",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\n같은 언데드는 영혼을 가장 적게 주고, 동물, 몬스터, 마을 주민, 플레이어 순으로 줍니다.\n\n관을 침대처럼 사용할 수 있으며, 관에서 잠을 자면 최대 25%의 영혼을 회복할 수 있습니다."
+            "text": ".\n\n영혼은 언데드가 가장 적게 주고, 동물, 몬스터, 마을 주민, 플레이어 순으로 줍니다.\n\n관을 침대처럼 사용할 수 있으며, 관에서 잠을 자면 최대 25%의 영혼을 회복할 수 있습니다."
           },
           {
             "text": "(회복률 감소가 기본 적용되며, 대략 현실시간 15분이 지나야 최대로 회복됩니다)",
             "italic": true
           },
           {
-            "text": ", 또한"
+            "text": ", 또한 "
           },
           {
             "text": "햇빛에 불타는 특성",
@@ -1915,14 +1915,14 @@
             "color": "dark_purple"
           },
           {
-            "text": " 됩니다. 나이트 비전을 다시 시전하면 효과를 해제할 수 있습니다.\n\n언데드는 스펠 포커스에 "
+            "text": " 됩니다. 나이트 비전을 다시 시전하면 효과를 해제할 수 있습니다.\n\n언데드는 "
           },
           {
             "text": "프로스트 워커",
             "color": "dark_gray"
           },
           {
-            "text": " 마법부여 혜택을 가지게됩니다.이는 박동하는 오라를 내뿜어 피해를 입히고 웅크린 상태로 점프하여 안개로 변해 짧은 시간 동안 비행할 수 있습니다. 또한 언데드는 "
+            "text": " 마법부여 혜택을 가지게 됩니다. 이는 박동하는 오라를 내뿜어 피해를 입히고 웅크린 상태로 점프하여 안개로 변해 짧은 시간 동안 비행할 수 있습니다. 또한 언데드는 "
           },
           {
             "text": "최대 소환수 증가",
@@ -1955,7 +1955,7 @@
       },
       {
         "type": "text",
-        "value": "이 모드에는 서버관리자 혹은 모드개발자를 위한 커맨드가 존재합니다.'/mna'로 커맨드를 사용하세요."
+        "value": "이 모드에는 서버관리자 혹은 모드개발자를 위한 커맨드가 존재합니다. '/mna'로 커맨드를 사용하세요."
       }
     ],
     "related_recipes": []
@@ -2004,7 +2004,7 @@
             "color": "blue"
           },
           {
-            "text": "은 망치, 끌, 점토 그리고 패턴을 입/출력 할 수 있습니다. 망치, 끌, 점토는 측면으로부터 출력시킬 수 있으며, 패턴은 위/아래로 출력시킬 수 있습니다.\n\n"
+            "text": "은 망치, 끌, 점토, 패턴 아이템을 모든 방향으로 넣을 수 있습니다. 망치, 끌, 점토는 좌우앞뒤로 빼낼 수 있으며, 패턴은 상단과 하단으로 빼낼 수 있습니다.\n\n"
           },
           {
             "text": "또한 웅크린채로 룬 제련 망치를 든 상태로 룬 문자 테이블에 우클릭하여 GUI를 열지 않고 놓거나 회수하는것도 가능합니다.",
@@ -2052,7 +2052,7 @@
             "text": " 모든 방향으로 넣고 빼는게 가능합니다. "
           },
           {
-            "text": "현재 굽고 있는게 아니라면",
+            "text": "현재 뭔가를 굽고 있는게 아니라면",
             "color": "dark_purple"
           },
           {
@@ -2118,7 +2118,7 @@
             "color": "dark_purple"
           },
           {
-            "text": " 상단과 하단에서 프로젝션 룬을 빼낼 수 있으며, 좌우앞뒤에서 처리된 아이템을 빼낼 수 있습니다."
+            "text": " 상단과 하단에서 프로젝션 룬을 빼낼 수 있으며, 좌우앞뒤로 처리된 아이템을 빼낼 수 있습니다."
           }
         ]
       },
@@ -2250,18 +2250,18 @@
     "sections": [
       {
         "type": "title",
-        "value": "What is Manaweaving"
+        "value": "마나위빙에 대한 정의"
       },
       {
         "type": "text",
         "value": "Manaweaving is the process of infusing your own magic into your creations.  Spells, rituals, runes, and more can make use of it.",
         "json": [
           {
-            "text": "Manaweaving",
+            "text": "마나위빙",
             "color": "blue"
           },
           {
-            "text": " is the process of infusing my own magic into my creations. Spells, rituals, runes, and more can make use of it."
+            "text": "은 창조물에 나만의 마법을 그려넣는 과정입니다. 스펠, 의식, 룬 등등에서 사용됩니다."
           }
         ]
       },
@@ -2270,35 +2270,35 @@
         "value": "To do it, first craft a Manaweaver's Wand.  The vinteum wands have limited uses and will eventually break, however later on you can make more powerful ones that will last forever.",
         "json": [
           {
-            "text": "To do it, I must first craft a "
+            "text": "마나위빙을 시작하기에 앞서. "
           },
           {
-            "text": "Manaweaver's Wand",
+            "text": "마나위빙 완드",
             "color": "blue"
           },
           {
-            "text": ". \n\nThe "
+            "text": "를 제작하여야합니다. \n\n"
           },
           {
-            "text": "improvised and vinteum wands",
+            "text": "급조된 혹은 빈테움 마나위빙 완드",
             "color": "dark_purple"
           },
           {
-            "text": " have limited uses and "
+            "text": "는 내구도가 존재하여 "
           },
           {
-            "text": "will eventually break",
+            "text": "언젠가는 부숴집니다",
             "color": "dark_purple"
           },
           {
-            "text": ", however I'm certain I can make more powerful ones that will "
+            "text": ". 하지만 "
           },
           {
-            "text": "last forever if I can find the right materials to do so",
+            "text": "희귀한 재료를 넣은 완드",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "는 영원히 사용할 수 있을지도 모릅니다."
           }
         ]
       },
@@ -2312,7 +2312,7 @@
         "value": "Next, hold the wand in your hand and begin using it (hold the right mouse button).  Then, draw the shape in the air.  Stop using the wand when you're done.",
         "json": [
           {
-            "text": "Once I have my wand crafted, I need to hold the wand in my hand and begin channeling magic through the wand (hold the right mouse button). Then, I carefully draw the shape in the air.  \n\nOnce I stop channeling magic, if I've done it right, the pattern will appear in the air in front of me."
+            "text": "지팡이를 만들었다면 손에 들고 우클릭을 꾹 누른채로 허공에 그림을 그릴 수 있게 되는데, 해리포터에서 지팡이를 휘두르듯이 네모, 세모, 원 등의 모양을 그려내는것이 바로 마나위빙입니다!"
           }
         ]
       },
@@ -2327,70 +2327,70 @@
         "value": "The concentration required will consume your mana quickly.  Do not let this rush you, however, lest you make mistakes: an incorrectly pattern will do nothing.\n\nSome mages claim to have heard chimes while using a manaweaver wand.  While not confirmed, such an occurrence would be an indication that the wand is working.\n\nThere are also those that are either unable or unwilling to draw the shapes in the air.  To that end, the manaweave projector was developed.  Simply place it on the ground and it will draw in your mana (or that of others nearby) to power itself.  When activated, it will project the pattern it is set to after a few seconds.",
         "json": [
           {
-            "text": "The concentration required will consume my mana quickly. "
+            "text": "도형을 집중해서 그린다고 우클릭을 계속 유지하게되면 마나를 낭비하게되고, 너무 성의없이 빠르게만 하면 "
           },
           {
-            "text": "I should not rush",
+            "text": "다른 도형으로 잘못 그릴 수도",
             "color": "dark_purple"
           },
           {
-            "text": ", however, lest I make mistakes: "
+            "text": " 있습니다. 잘못된 패턴을 그리는건 "
           },
           {
-            "text": "an incorrectly pattern will do nothing",
+            "text": "아무짝에 쓸모없는 행위라는걸 알아두세요",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nSome mages claim to have heard "
+            "text": ". \n\n마나위빙 완드를 사용하는동안 "
           },
           {
-            "text": "chimes while using",
+            "text": "종소리",
             "color": "dark_purple"
           },
           {
-            "text": " a manaweaver wand. While not confirmed, such an occurrence would be an "
+            "text": "가 들릴텐데, 이 소리는 "
           },
           {
-            "text": "indication that the wand is working",
+            "text": "완드가 작동하고 있다는 신호",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThere are also those that are either "
+            "text": "입니다. \n\n어떤이들은 "
           },
           {
-            "text": "unable or unwilling to draw the shapes in the air",
+            "text": "도형을 그리기 힘들거나 그리고 싶지 않은",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nTo that end, the "
+            "text": "사람도 있기 마련입니다.\n\n그런 분들은 위해 "
           },
           {
-            "text": "Manaweave Projector",
+            "text": "마나위빙 프로젝터",
             "color": "blue"
           },
           {
-            "text": " was developed. Simply place it on the ground and it will draw in my mana (or that of others nearby) to power itself. When activated, it will project the pattern it is set to after a few seconds.\n\nI can also "
+            "text": "가 개발되었습니다. 바닥에 놓기만 하면 내 마나(또는 주변 사람들의 마나)를 끌어와 스스로 전원을 공급합니다. 활성화 시 몇 초 후에 설정한 패턴을 투사합니다.\n\n또 다른 방법으로는 "
           },
           {
-            "text": "prepare manaweaves in advance",
+            "text": "마나위빙 완드",
             "color": "dark_purple"
           },
           {
-            "text": " by "
+            "text": "로 "
           },
           {
-            "text": "capturing a drawn manaweave",
+            "text": "패턴을 그린",
             "color": "dark_purple"
           },
           {
-            "text": " in a "
+            "text": " 후 "
           },
           {
-            "text": "simple glass bottle",
+            "text": "유리병을 든 채로 우클릭",
             "color": "dark_purple"
           },
           {
-            "text": ".  It will remain there until I need it.  I can release the manaweave by throwing the bottle, which unfortunately breaks the glass but instantly recreates the manaweave at the point the bottle landed.  I'm sure I can automate bottling manaweaves too, if I'm clever."
+            "text": "하여 해당 패턴을 유리병안에 가둘 수 있고, 필요할때 해당 유리병을 던져서 사용할 수 있습니다. 물론 이는 일회용이며, 추후에 병입하는 작업을 자동화할 수 있을지도 모릅니다."
           }
         ]
       },
@@ -2430,90 +2430,76 @@
     "sections": [
       {
         "type": "title",
-        "value": "Cantrips"
+        "value": "캔트립"
       },
       {
         "type": "text",
         "value": "Cantrips are spells that you can cast using nothing but manaweaving pattern combination.  You unlock new cantrips every time you tier up.",
         "json": [
           {
-            "text": "Cantrips",
+            "text": "캔트립",
             "color": "blue"
           },
           {
-            "text": " are spells that I can cast using nothing but manaweaving. \n\nI learn new cantrips every time I tier up."
+            "text": "은 아무것도 없는 상태에서도 시전할 수 있는 스펠을 뜻합니다. \n\n티어를 올릴 때마다 새로운 캔트립을 배울 수 있습니다."
           }
         ]
       },
       {
         "type": "title",
-        "value": "The Cantrip GUI"
+        "value": "캔트립 GUI"
       },
       {
         "type": "text",
         "value": "To view the cantrips GUI, simply hold any manaweaver wand in your hand, press the gui key (default control), and right click.  The wand's tooltip will show this as well.\n\nOnce in the gui, hover over any of the cantrip icons to see a description of what the cantrip does.  You can also change the patterns required for that cantrip (minimum 2) by using the arrows next to the boxes below each cantrip's icon.\n\nSome cantrips allow inserting items as well that are related to that cantrip (such as spells).  For example the 'Freeform Spell' cantrips require that you place a spell into the inventory slot before they'll do anything.",
         "json": [
           {
-            "text": "Cantrips can be customized so that any combination of two or more manaweaving patterns will cast it.\n\nIf I want to customize cantrips, all I need to do is hold any manaweaver wand in my hand and "
+            "text": "캔트립은 두 개 이상의 마나위빙 패턴을 조합하여 시전할 수 있으며, 사용자가 원하는 스펠을 지정해야합니다.\n\n캔트립을 지정하는 방법은 마나위빙 완드를 손에 쥐고 "
           },
           {
-            "text": "focus",
+            "text": "CTRL+우클릭",
             "color": "blue"
           },
           {
-            "text": " "
+            "text": "하여 GUI를 열 수 있습니다. \n\nGUI에서 아이콘들에 마우스를 갖다대면 각 캔트립이 뭔지를 확인가능하며 시전을 위한 패턴을 변경하는 것 또한 가능합니다."
           },
           {
-            "text": "(press the gui key, default control, and right click. The wand's tooltip will show this as well)",
-            "italic": true
-          },
-          {
-            "text": ". \n\nOnce in the gui, I can look at "
-          },
-          {
-            "text": "(hover over)",
-            "italic": true
-          },
-          {
-            "text": " any of the cantrip icons to recall what the cantrip does. I can also change the patterns required for that cantrip"
-          },
-          {
-            "text": " (minimum 2, use the arrows next to the boxes below each cantrip's icon)",
+            "text": " (최소 2개의 패턴이 필요하고 패턴모양은 화살표를 클릭하여 변경할 수 있습니다)",
             "italic": true
           },
           {
             "text": ". \n\n"
           },
           {
-            "text": "Some cantrips require items as well that are related to that cantrip. For example the 'Freeform Spell' cantrips require that I place a spell into the inventory slot before they'll do anything meaningful.",
+            "text": "일부 캔트립에는 특정 아이템이 필요한 경우도 있습니다. 예를 들어 '프리폼 스펠' 캔트립은 인벤토리 슬롯에 스펠을 넣어야 작동합니다.",
             "italic": true
           }
         ]
       },
       {
         "type": "title",
-        "value": "Casting Cantrips"
+        "value": "캔트립 시전하기"
       },
       {
         "type": "text",
         "value": "To cast a cantrip, first you'll need a manaweaver's wand.  Equip that, and draw the first pattern using normal manaweaving.  It will appear in the air once complete.  Next, draw the second pattern.  Once complete it will merge with the first.  Once a cantrip pattern is matched, you will hear a tone and see an icon with a countdown bar.  For cantrips that must be aimed such as spells, it will target and cast where you are looking when that timer reaches the end.",
         "json": [
           {
-            "text": "To cast a cantrip, first I'll need a "
+            "text": "캔트립을 시전하려면 우선 "
           },
           {
-            "text": "Manaweaving Wand",
+            "text": "마나위빙 완드",
             "color": "blue"
           },
           {
-            "text": ". \n\nI must draw the patterns in order using standard manaweaving. "
+            "text": "가 필요합니다. \n\n스펠에 설정된 패턴의 순서에 유의하여 그림을 그려보세요.\n"
           },
           {
-            "text": "Patterns that are drawn close enough to each other will merge together",
+            "text": "패턴을 똑같은곳에 두 개 그리면",
             "color": "dark_purple"
           },
           {
-            "text": ".  It is these merged patterns that can cast cantrips.\n\nOnce a cantrip pattern is matched, I will hear a tone and will have a few seconds before the cantrip activates. For cantrips that must be aimed such as Ignite, or Freeform Spells, it will target and cast where I am looking after that delay."
+            "text": ", 그 두개의 패턴이 서로 합쳐지게 됩니다. 이런식으로 패턴을 조합하여 캔트립을 시전하시면 됩니다.\n\n캔트립 패턴이 일치하면 신호음이 들리고 캔트립이 활성화되기까지 몇 초의 지연시간이 주어지는데, 이그나이트나 프리폼 스펠과 같이 조준해야 하는 캔트립의 경우 그 지연 시간이 지난 후에 내가 보고 있는 곳으로 시전됩니다."
           }
         ]
       }
@@ -2539,42 +2525,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Improvised Manaweaving Wands"
+        "value": "급조된 마나위빙 완드"
       },
       {
         "type": "text",
         "value": "If I'm ever in a pinch, I'm pretty sure I can fashion a simple improvised manaweaver's wand using something as a rod and either a magical flower or chimerite.  This should allow me to do any emergency manaweaves, but likely will break after more than a few uses.  However, I can probably get a cantrip or two out of it before it breaks, and that might make all the difference.",
         "json": [
           {
-            "text": "If I'm ever in a pinch, I'm pretty sure I can fashion a simple "
+            "text": "위급한 상황에 마나위빙 완드가 급하게 필요하다면 "
           },
           {
-            "text": "Improvised Manaweaving Wand",
+            "text": "급조된 마나위빙 완드",
             "color": "blue"
           },
           {
-            "text": " using something as a rod and something as a focus.  There are probably quite a few items that will suffice for either. \n\nThis should allow me to do emergency manaweaving, but likely will "
+            "text": "를 만들어 사용하세요. 주변에서 얻을 수 있는 막대기와 마법 식물들로 만들 수 있습니다. \n\n이는 급할때 제작하여 사용할 수 있어 유용하지만 "
           },
           {
-            "text": "break after more than a few uses",
+            "text": "몇번 사용하면 부서집니다",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nHowever, I can probably get a "
+            "text": ". \n\n물론 부서지기 쉬운건 맞지만 "
           },
           {
-            "text": "cantrip",
+            "text": "캔트립",
             "color": "blue"
           },
           {
-            "text": " or a "
+            "text": " 혹은 "
           },
           {
-            "text": "ritual",
+            "text": "의식",
             "color": "blue"
           },
           {
-            "text": " out of it before it breaks, and that might make all the difference."
+            "text": "을 일반적인 완드와 같이 온전히 수행할 수 있으니 때에 맞게 사용해보세요."
           }
         ]
       }
@@ -2592,35 +2578,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Manaweaving Altar"
+        "value": "마나위빙 제단"
       },
       {
         "type": "text",
         "value": "The manaweaving altar is a pool of enchanted water used to craft items with magical properties.\n\nUp to nine ingredients can be inserted into the altar. Right clicking with an empty hand removes an item, from the most recently inserted to the least recently inserted.\n\nUsing a manaweaving wand while near a manaweaving altar causes the drawn patterns to float on the small, hovering pedestals around the pool. Right clicking the altar with a manaweaving wand removes a pattern, from the most recently drawn to the least recently drawn. If multiple manaweaving altars are near each other, you can bind your wand to a specific manaweaving altar by shift right clicking it with the wand in your hand.\n\nOnce all of the correct ingredients are inserted and the correct manaweaving patterns are present, the magical crafting process will begin automatically. Only manaweaving patterns need to be drawn in a particular order; ingredients are shapeless.\n\nAfter crafting an item, the last recipe used will be saved by the altar. Right clicking the altar with all the ingredients in your inventory allows you to re-craft that same item with a single click.",
         "json": [
           {
-            "text": "The Manaweaving Altar is a pool of enchanted water I can use to craft items with magical properties. \n\nUp to nine ingredients can be inserted into the altar by holding that item in my hand and activating the altar. "
+            "text": "마나위빙 제단은 마법 속성을 지닌 아이템을 제작하는 데 사용할 수 있는 마법이 깃든 물 웅덩이입니다. \n\n제단에는 최대 9개의 재료를 넣을 수 있으며, 해당 아이템을 손에 들고 제단에 우클릭하여 넣으면 활성화됩니다."
           },
           {
-            "text": "Activating the altar with an empty hand removes an item",
+            "text": " 빈 손으로 제단을 우클릭하면 가장 최근에 넣은 아이템",
             "color": "dark_purple"
           },
           {
-            "text": ", from the most recently inserted to the least recently inserted. \n\nUsing a "
+            "text": "부터 회수됩니다. \n\n마나위빙 제단 근처에서 "
           },
           {
-            "text": "Manaweaving Wand",
+            "text": "마나위빙 완드",
             "color": "blue"
           },
           {
-            "text": " while near a Manaweaving Altar causes the drawn patterns to float on the small, hovering pedestals around the pool. "
+            "text": "를 사용하여 패턴을 그리면, 제단의 웅덩이 주변의 작은 받침대 위에 해당 패턴이 들어가게되며, "
           },
           {
-            "text": "Activating the altar with a manaweaving wand removes a pattern",
+            "text": "완드를 들고 제단에 우클릭하여",
             "color": "dark_purple"
           },
           {
-            "text": ", from the most recently drawn to the least recently drawn. \n\nIf multiple Manaweaving Altars are near each other, I can bind a wand to a Manaweaving Altar by crouching as I activate the altar with the wand in my hand.  This will cause all patterns drawn near that altar to go into it, ignoring others.  I can remove this binding by crouching and activating any block that isn't a Manaweaving Altar with the bound wand in my hand.\n\nOnce all of the correct ingredients are inserted and the correct manaweaving patterns are present, the magical crafting process will begin automatically.\n\nOnly manaweaving patterns need to be drawn in a particular order; ingredients are shapeless. \n\nAfter crafting an item, the last recipe used will be saved by the altar. Activating the altar with all the ingredients in my inventory allows me to re-craft that same item with ease."
+            "text": " 최근에 넣은 패턴부터 하나씩 제거할 수 있습니다. \n\n여러 개의 마나위빙 제단이 서로 가까이 있을 경우, 손에 완드를 들고 웅크린채로 원하는 제단을 우클릭하여 해당 제단에만 패턴이 들어가게 만들 수 있습니다. 해제하고 싶을때는 아무 블록에나 웅크린채로 우클릭하여 해제하시면 됩니다.\n\n올바른 재료를 모두 넣고 올바른 마나위빙 패턴을 불어 넣으면, 자동으로 제작이 시작됩니다.\n\n마나위빙 패턴만 순서를 맞추면 되고, 재료는 순서에 상관없이 충족되기만 하면 됩니다. \n\n아이템 제작 후 마지막으로 사용한 레시피는 제단에 저장됩니다. 인벤토리에 있는 모든 재료가 있다는 가정하에 빈손으로 우클릭하면 해당 아이템을 쉽게 다시 제작할 수 있습니다."
           }
         ]
       }
@@ -2650,111 +2636,111 @@
     "sections": [
       {
         "type": "title",
-        "value": "Manaweave Projectors"
+        "value": "마나위빙 프로젝터"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "If I'm either unwilling or unable to draw manaweave patterns manually, I can craft a "
+            "text": "수동으로 마나위빙 패턴을 그릴 의향이 없거나 그릴 수 없는 경우, "
           },
           {
-            "text": "Manaweave Projector",
+            "text": "마나위빙 프로젝터",
             "color": "blue"
           },
           {
-            "text": ". \n\nThese devices, when placed, will draw mana from wizards within 2 blocks. When full, it will have drawn in "
+            "text": "를 만들어보세요. \n\n이 장치를 배치하면 2블록 내에 있는 마법사에게서 마나를 뽑아내며, 가득차기까지 "
           },
           {
-            "text": "100 mana",
+            "text": "100 마나",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nActivating the block when full will cause it to emit the current pattern. \n\nActivating the block with a "
+            "text": "가 필요합니다. \n\n프로젝터에 마나가 가득 찼을 때 우클릭하면 저장된 마나를 소모하여 적용된 패턴을 방출합니다. \n\n"
           },
           {
-            "text": "Manaweave Pattern Item",
+            "text": "마나위빙 패턴 아이템",
             "color": "blue"
           },
           {
-            "text": " will change the pattern that is emitted.  These can be obtained by "
+            "text": "을 프로젝터에 사용하여 방출될 패턴을 바꿀 수 있으며 이 아이템은 "
           },
           {
-            "text": "exploring",
+            "text": "탐험",
             "color": "blue"
           },
           {
-            "text": " or by trading with "
+            "text": " 혹은 "
           },
           {
-            "text": "Manaweaver Villagers",
+            "text": "마나위버 상인",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "과의 거래를 통해 얻을 수 있습니다."
           }
         ]
       },
       {
         "type": "title",
-        "value": "Bottled Manaweaves"
+        "value": "마나위빙 유리병"
       },
       {
         "type": "text",
         "value": "Manaweave automation is done by Manaweaves in a Bottle.  You can capture any drawn or projected manaweave pattern in a bottle by right clicking it.  You can then throw it like a potion or a snowball, and it will spawn the manaweave where it lands.  You can also draw/project manaweave patterns directly into a bottle sitting on a pedestal.\n\nAutomating something to place/remove the bottles and activating a projector charged by one or more mana crystals would be a good way to automate this.",
         "json": [
           {
-            "text": "Once drawn and in the world, I can "
+            "text": "마나위빙 완드 또는 프로젝터로 그린 "
           },
           {
-            "text": "bottle",
-            "color": "dark_purple"
-          },
-          {
-            "text": " a "
-          },
-          {
-            "text": "manaweave pattern",
+            "text": "마나위빙 패턴",
             "color": "blue"
           },
           {
-            "text": " by activating it with a plain bottle in my hand. \n\nI can then "
+            "text": "에 "
           },
           {
-            "text": "throw it like a potion",
+            "text": "비어있는 유리병",
             "color": "dark_purple"
           },
           {
-            "text": " or a snowball, and it will release the manaweave where it lands. \n\nI can "
+            "text": "을 들고 우클릭하면 마나위빙 패턴을 유리병에 넣을 수 있습니다. \n\n이는 "
           },
           {
-            "text": "bottle manaweaves directly into a bottle",
+            "text": "투척용 물약처럼 던져서",
             "color": "dark_purple"
           },
           {
-            "text": " sitting on a "
+            "text": " 사용할 수 있으며, 던진 자리에 들어있던 마나위빙 패턴이 나타나게 됩니다. \n\n또한 "
           },
           {
-            "text": "pedestal",
+            "text": "받침대",
             "color": "blue"
           },
           {
-            "text": " if they're drawn nearby. \n\n"
+            "text": "위에 "
           },
           {
-            "text": "Setting up a construct",
+            "text": "유리병",
             "color": "dark_purple"
           },
           {
-            "text": " to place empty bottles, activate a projector charged by one or more mana crystals, then remove the captured manaweave in a bottle and place it in some kind of storage container sounds like a "
+            "text": "을 놓고 마나위빙 패턴을 그리면 자동으로 올려놓은 유리병이 해당 패턴의 마나위빙 유리병으로 변합니다. \n\n"
           },
           {
-            "text": "good way to automate",
+            "text": "조합체",
             "color": "dark_purple"
           },
           {
-            "text": " this process."
+            "text": "를 이용하여 "
+          },
+          {
+            "text": "자동화",
+            "color": "dark_purple"
+          },
+          {
+            "text": "하는 방법도 고안할 수 있습니다. 빈 병을 배치하고 하나 이상의 마나 크리스탈을 이용해 충전된 프로젝터를 활성화한 다음 마나위빙 유리병을 만들고, 이를 꺼내 저장고에 넣는 프로세스를 구축해보세요."
           }
         ]
       }
@@ -2792,21 +2778,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Magic Staves, Wands, and Bangles"
+        "value": "스태프, 완드, 그리고 팔찌"
       },
       {
         "type": "text",
         "value": "Magic staves and wands are aesthetic choices for mages who want to cast from them.  They can also be found as loot in dungeons, and may have a random spell on it with limited charges.  Staves and wands with charges do not consume mana to cast, but will eventually break.\n\nA spell can be combined with a staff or wand at a manaweaving table.",
         "json": [
           {
-            "text": "Magic staves, wands, and bangles are aesthetic choices for mages who want to cast from them.\n\nStaves and wands are perfect for their direct look, and bangles are perfect when I simply want to hold the spell in my hands.\n\n"
+            "text": "마법 스태프, 완드, 그리고 팔찌는 스펠을 시전하는 마법사들에게 유용한 도구이자 있어보이게 만들어줍니다.\n\n지팡이와 완드는 직관적으로 스펠을 시전하기에 완벽한 도구이며, 팔찌는 스펠을 손에 들고 사용할때 쓰기 좋은 도구입니다.\n\n"
           },
           {
-            "text": "All of them can be enchanted",
+            "text": "마법부여가 가능",
             "color": "dark_purple"
           },
           {
-            "text": ", with some even applying bonuses to spells!"
+            "text": "하며, 일부 마법부여는 스펠에 보너스 효과를 적용하기도 합니다!"
           }
         ]
       },
@@ -2815,202 +2801,195 @@
         "value": "",
         "json": [
           {
-            "text": " Staves, wands, and bangles can be "
+            "text": "스태프, 완드, 팔찌는 "
           },
           {
-            "text": "found as loot",
+            "text": "던전 및 구조물의 상자",
             "color": "dark_purple"
           },
           {
-            "text": " in dungeons and structures, and may have a random spell on them with limited charges. Staves and wands with charges do not take any mana to cast, but will eventually break.  "
+            "text": "에서 얻을 수 있으며 제한된 충전량으로 무작위의 스펠이 부여되어 있습니다. 충전된 지팡이와 지팡이는 시전 시 마나를 소모하지 않지만 내구도에 의해 부서지며, 이를 보충할 수 있는 방법은 "
           },
           {
-            "text": "I do not know of any way to replenish these charges",
+            "text": "아직까지 알려지지 않았습니다",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nA "
+            "text": ".\n\n"
           },
           {
-            "text": "simple spell",
+            "text": "간단한 스펠",
             "color": "blue"
           },
           {
-            "text": " can be "
+            "text": "을 "
           },
           {
-            "text": "combined",
+            "text": "마나위빙 제단",
+            "color": "blue"
+          },
+          {
+            "text": "에 "
+          },
+          {
+            "text": "스태프, 완드, 팔찌",
+            "color": "blue"
+          },
+          {
+            "text": "를 같이 올려놓은 뒤 마나위빙으로 활성화시켜 스펠을 "
+          },
+          {
+            "text": "부여",
             "color": "dark_purple"
           },
           {
-            "text": " with a "
+            "text": "시킬 수 있습니다.\n\n"
           },
           {
-            "text": "staff, wand, or bangle",
+            "text": "암기한 스펠",
             "color": "blue"
           },
           {
-            "text": " at a "
+            "text": "을 "
           },
           {
-            "text": "Manaweaving Altar",
+            "text": "스태프, 완드, 팔찌",
             "color": "blue"
           },
           {
-            "text": ".\n\nA "
+            "text": "에 부여하려면 "
           },
           {
-            "text": "rote spell",
+            "text": "필사 테이블",
             "color": "blue"
           },
           {
-            "text": " can be "
-          },
-          {
-            "text": "transcribed",
-            "color": "dark_purple"
-          },
-          {
-            "text": " onto a "
-          },
-          {
-            "text": "staff, wand, or bangle",
-            "color": "blue"
-          },
-          {
-            "text": " using a "
-          },
-          {
-            "text": "Transcription Table",
-            "color": "blue"
-          },
-          {
-            "text": "."
+            "text": "을 이용해보세요."
           }
         ]
       },
       {
         "type": "title",
-        "value": "Enchantment Effects"
+        "value": "마법부여 효과"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "Certain enchantments are available to all factions on staves, and other enchants, while they can be applied, will only perform their effect if the wizard is a member of the correct faction.\n\n"
+            "text": "특정 마법부여는 모든 진영이 지팡이에 사용할 수 있으며, 그렇지 않은 마법부여는 적용 자체는 가능하지만 마법사가 올바른 진영에 속한 경우에만 효과가 발휘됩니다.\n\n"
           },
           {
-            "text": "Bludgeoning",
+            "text": "둔기 공격",
             "color": "blue"
           },
           {
-            "text": " will cause the staff, wand, or bangle to deal more melee damage.\n\n"
+            "text": "은 스태프, 완드, 그리고 팔찌로 근접 공격 시 더 많은 피해를 입히도록 만듭니다.\n\n"
           },
           {
-            "text": "Ascended Duration, Ascended Range, or Ascended Speed",
+            "text": "강화된 지속시간, 강화된 사정거리, 강화된 속도",
             "color": "blue"
           },
           {
-            "text": " causes the spell's Duration, Range, or Speed values respectively to be increased by a number of steps equal to the enchantment level.\n\n"
+            "text": "는 스태프, 완드, 또는 팔찌에 부여된 스펠을 마법부여 레벨만큼 증가시킵니다.\n\n"
           },
           {
-            "text": "Efficiency",
+            "text": "효율",
             "color": "blue"
           },
           {
-            "text": " reduces the mana cost of the contained spell.\n\n"
+            "text": "은 부여된 스펠의 마나소모를 감소시킵니다.\n\n"
           },
           {
-            "text": "Quick Charge",
+            "text": "빠른 장전",
             "color": "blue"
           },
           {
-            "text": " reduces the cooldown of the contained spell.\n\n"
+            "text": "은 부여된 스펠의 쿨타임을 감소시킵니다.\n\n"
           },
           {
-            "text": "Lure",
+            "text": "미끼",
             "color": "blue"
           },
           {
-            "text": " causes the spell to have a chance to taunt the target when it is successfully applied.\n\n"
+            "text": "는 부여된 스펠을 맞은 적이 도발에 걸리게 합니다.\n\n"
           },
           {
-            "text": "Aqua Affinity",
+            "text": "친수성",
             "color": "blue"
           },
           {
-            "text": " allows fire spells to work underwater.\n\n"
+            "text": "은 불 계열 스펠을 물속에서도 사용할 수 있게 합니다.\n\n"
           },
           {
-            "text": "Channeling",
+            "text": "집전",
             "color": "blue"
           },
           {
-            "text": " doubles the duration you can channel spells.\n\n"
+            "text": "은 채널링 계열 스펠의 채널링 시간을 두배로 늘려줍니다.\n\n"
           },
           {
-            "text": "Loyalty",
+            "text": "충성",
             "color": "blue"
           },
           {
-            "text": " increases the number of summons called with a single cast of a summon spell, and boosts the maximum number of summons you can have.\n\n"
+            "text": "은 한 번의 소환 스펠 시전으로 소환할 수 있는 소환수의 수를 증가시키고, 최대 소환 가능 횟수를 증가시킵니다.\n\n"
           },
           {
-            "text": "Demons",
+            "text": "악마",
             "color": "dark_red"
           },
           {
-            "text": " benefit from the "
+            "text": "는 "
           },
           {
-            "text": "Flame",
+            "text": "화염",
             "color": "dark_red"
           },
           {
-            "text": " enchantment on spell foci, which reduces spell cooldowns by 66.6% while the caster is on fire and makes brimstone overcasting from health twice as efficient.\n\n"
+            "text": " 마법부여 혜택을 받습니다. 이는 시전자가 불에 타오르는 동안 스펠 재사용 대기시간이 66.6% 감소하고, 체력에서 유황을 두 배로 흡수하는 효과가 있습니다.\n\n"
           },
           {
-            "text": "The Fey",
+            "text": "페이 궁정",
             "color": "dark_green"
           },
           {
-            "text": " benefit from a "
+            "text": "은 "
           },
           {
-            "text": "Thorns",
+            "text": "가시",
             "color": "dark_green"
           },
           {
-            "text": " enchantment on spell foci which causes targets hit in melee to gain the Writhing Brambles effect, causing damage when they move.\n\n"
+            "text": " 마법부여 혜택을 받습니다. 이는 상대방에게 피격 시 상대방에게 비틀거리는 가시나무 디버프가 걸리게되며, 움직일때마다 피해를 입게됩니다.\n\n"
           },
           {
-            "text": "The Council",
+            "text": "평의회",
             "color": "blue"
           },
           {
-            "text": " benefits from the "
+            "text": "는 "
           },
           {
-            "text": "Power",
+            "text": "파워",
             "color": "blue"
           },
           {
-            "text": " enchant on spell foci, granting the following benefits, each one scaling by the strength of the Power enchantment applied:\n- Embers and Projectile spells gain homing capabilities\n- Sigil limit is increased\n- Smite bonus damage from falling is increased\n\n"
+            "text": " 마법부여 혜택을 가지게 되며, 각 혜택은 적용된 파워 마법부여 따라 증가합니다:\n- 잿불과 투사체 스펠의 따라가는 능력 증가\n- 시길 제한 증가\n- 처단의 낙하 피해 증가\n\n"
           },
           {
-            "text": "Undead",
+            "text": "언데드",
             "color": "dark_gray"
           },
           {
-            "text": " benefit from the "
+            "text": "는 "
           },
           {
-            "text": "Frost Walker",
+            "text": "프로스트 워커",
             "color": "dark_gray"
           },
           {
-            "text": " enchantment on spell foci, giving them a pulsing aura of damage and causing jumping while sneaking to turn them into mist, allowing flight for short bursts."
+            "text": " 마법부여 혜택을 가지게됩니다. 이는 박동하는 오라를 내뿜어 피해를 입히고 웅크린 상태로 점프하여 안개로 변해 짧은 시간 동안 비행할 수 있습니다."
           }
         ]
       }
@@ -3051,165 +3030,162 @@
     "sections": [
       {
         "type": "title",
-        "value": "Initial Setup"
+        "value": "시작하기"
       },
       {
         "type": "text",
         "value": "Rituals are more in-depth magical castings that provide more powerful or long term effects than an instant cast spell typically will.  It involves additional preparation, reagents, and interactions to complete the effect, but there are some very powerful effects that can be achieved.\n\nTo start, draw the pattern on the ground using Wizard's Chalk.  The orientation doesn't matter.  Then, activate the centre of the ritual using Purified Vinteum Dust.  This will cause the ritual to begin displaying the needed reagents.  Reagent numbers in gold are mandatory, and numbers in white are optional.\n\nPlace the required reagents in the correct positions, then activate the centre of the ritual again using Purified Vinteum Dust.  This will cause the ritual to begin casting.",
         "json": [
           {
-            "text": "Rituals",
+            "text": "의식",
             "color": "blue"
           },
           {
-            "text": " are more in-depth magical castings that provide more powerful or long term effects than an instant cast spell typically will. \n\nIt involves additional preparation, reagents, and interactions to complete the effect, but there are some very powerful effects that can be achieved. \n\nTo start, I need to draw the pattern on the ground using "
+            "text": "은 일반적으로 즉시 시전하는 스펠보다 더 강력하거나 장기적인 효과를 제공하는 보다 심층적인 마법입니다. \n\n활성화를 위해서는 기초적인 준비, 시약 및 상호 작용과 같은 귀찮은 과정이 필요하지만 그에 걸맞는 매우 강력한 효과를 얻을 수 있습니다. \n\n시작을 위해서 먼저 "
           },
           {
-            "text": "Wizard's Chalk",
+            "text": "마법사의 분필",
             "color": "blue"
           },
           {
-            "text": ". "
+            "text": "을 사용하여 바닥에 패턴을 그려야 하며 "
           },
           {
-            "text": "The orientation doesn't matter",
+            "text": "방향은 중요하지 않습니다",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThen, I need to "
+            "text": ". \n\n그런 다음 "
           },
           {
-            "text": "activate the center",
-            "color": "dark_purple"
-          },
-          {
-            "text": " of the ritual using "
-          },
-          {
-            "text": "Purified Vinteum Dust",
+            "text": "정제된 빈테움 가루",
             "color": "blue"
           },
           {
-            "text": ". This will cause the ritual to begin displaying the needed reagents. "
+            "text": "를 들고 "
           },
           {
-            "text": "Reagent numbers, if present, in gold are mandatory, and numbers in white are optional.",
+            "text": "패턴의 중심",
+            "color": "dark_purple"
+          },
+          {
+            "text": "에 우클릭하여 활성화합니다. 이렇게 하면 필요한 시약이 위에 표시될겁니다. "
+          },
+          {
+            "text": "금색 숫자는 필수적으로 필요한 시약이라는 뜻이고(갯수가 아닙니다), 흰색 숫자로 표시된건 없어도 되지만 있으면 좋은 시약을 뜻합니다.",
             "italic": true
           },
           {
-            "text": " \n\nLastly, I need to "
+            "text": " \n\n마지막으로 올바른 위치에"
           },
           {
-            "text": "place the reagents",
+            "text": "시약",
             "color": "dark_purple"
           },
           {
-            "text": " in the correct positions, then "
+            "text": "을 놓고 "
           },
           {
-            "text": "activate the center of the ritual again",
-            "color": "dark_purple"
-          },
-          {
-            "text": " using "
-          },
-          {
-            "text": "Purified Vinteum Dust",
+            "text": "정제된 빈테움 가루",
             "color": "blue"
           },
           {
-            "text": ". This will cause the ritual to begin casting."
+            "text": "를 "
+          },
+          {
+            "text": "패턴의 중심",
+            "color": "dark_purple"
+          },
+          {
+            "text": "에 다시 한번 우클릭하시면 의식이 활성화되는게 보일겁니다."
           }
         ]
       },
       {
         "type": "title",
-        "value": "Collecting Reagents"
+        "value": "시약 모으기"
       },
       {
         "type": "text",
         "value": "The ritual will power up and then begin drawing in the reagents.  Take care to ensure that no reagents are removed and that the chalk runes remain intact, lest you encounter more...explosive results.\n\nNot all rituals require reagents.",
         "json": [
           {
-            "text": "The ritual will power up and then begin drawing in the reagents. I must take extra care to ensure that "
+            "text": "의식이 시작되면 시약을 끌어오기 시작합니다. 이 시간동안 "
           },
           {
-            "text": "no reagents are removed and that the chalk runes remain intact",
+            "text": "시약이 제거되지 않고 패턴이 그대로 유지되도록",
             "color": "dark_purple"
           },
           {
-            "text": ", lest I encounter more..."
+            "text": "각별히 주의해야 하며, 그렇지 않으면..."
           },
           {
-            "text": "explosive results",
+            "text": "폭발을 초래할겁니다",
             "color": "dark_purple"
           },
           {
-            "text": ". Not all rituals require reagents."
+            "text": ". 또한 시약이 필요없는 의식도 존재합니다."
           }
         ]
       },
       {
         "type": "title",
-        "value": "Manaweaving"
+        "value": "마나위빙"
       },
       {
         "type": "text",
         "value": "After the reagents are consumed, the ritual will begin displaying manaweave patterns.  You need to draw the required pattern (or use a manaweave projector to create it), and the ritual will draw it in, then display the next pattern.\n\nNot all rituals require patterns.\n\nOnce all patterns are added, the ritual will complete over the next few seconds.",
         "json": [
           {
-            "text": "After the reagents are consumed, the ritual will begin displaying "
+            "text": "시약이 소모된 후 패턴 위에 "
           },
           {
-            "text": "manaweave patterns",
+            "text": "마나위빙",
             "color": "blue"
           },
           {
-            "text": ". \n\nI need to "
+            "text": "을 요구할때도 있습니다. \n\n해당 "
           },
           {
-            "text": "draw the required pattern",
+            "text": "마나위빙 패턴을 직접",
             "color": "dark_purple"
           },
           {
-            "text": " (or use a "
+            "text": " 그리거나 "
           },
           {
-            "text": "Manaweave Projector",
+            "text": "마나위빙 프로젝터",
             "color": "blue"
           },
           {
-            "text": " or "
+            "text": "를 사용해도 되며, "
           },
           {
-            "text": "Bottled Manaweave",
+            "text": "마나위빙 유리병",
             "color": "blue"
           },
           {
-            "text": " to create it), and the ritual will draw it in, then display the next pattern. Not all rituals require patterns. Once all patterns are added, the ritual will complete over the next few seconds."
+            "text": "을 사용해도 됩니다. 패턴 하나를 알맞게 그렸다면, 다음 패턴이 표시될겁니다. 또한 모든 의식에 마나위빙 패턴이 필요한것은 아닙니다. 모든 과정을 이루어내면 의식은 완료됩니다."
           }
         ]
       },
       {
         "type": "title",
-        "value": "Dynamic Reagents"
+        "value": "스펠 레시피에 대한 시약"
       },
       {
         "type": "text",
         "value": "Some rituals require an item to display reagents, such as the Ritual of Arcana requiring a spell recipe.  You will need to place the item in first, and then the remaining reagents will be displayed.  You do not need to reactivate the ritual using Purified Vinteum Dust for the dynamic reagents to be displayed.",
         "json": [
           {
-            "text": "Some rituals require an item to display reagents, such as the "
-          },
-          {
-            "text": "Ritual of Arcana",
+            "text": "아르카나의 의식",
             "color": "blue"
           },
           {
-            "text": " requiring a spell recipe. I will need to place the item in first, and then the remaining reagents will be displayed. \n\n"
+            "text": "과 같은 일부 의식의 경우에는 스펠 레시피가 필요하며, 넣는 레시피에 따라 필요한 시약이 표시됩니다. \n\n"
           },
           {
-            "text": "I do not need to reactivate the ritual using Purified Vinteum Dust for the dynamic reagents to be displayed.",
+            "text": "추가적인 시약을 표시하기위해 정제된 빈테움 가루를 사용하여 의식을 다시 활성화하지 않아도 됩니다",
             "color": "dark_purple"
           }
         ]
@@ -3248,81 +3224,81 @@
     "sections": [
       {
         "type": "title",
-        "value": "Tagging Charms"
+        "value": "태그된 부적"
       },
       {
         "type": "text",
         "value": "Player charms and world charms, once crafted, can be attuned to by a player or world by right clicking on the charm.  Attuned player charms can then be given to trusted allies to allow them to use rituals involving you, such as Summoning or Visiting (once unlocked).  Attuned world charms can be used to use a Ritual of Return or a Ritual of the Gate to target a point in a different dimension.",
         "json": [
           {
-            "text": "Player Charms",
+            "text": "플레이어 부적",
             "color": "blue"
           },
           {
-            "text": " and "
+            "text": " 및 "
           },
           {
-            "text": "World Charms",
+            "text": "다차원 부적",
             "color": "blue"
           },
           {
-            "text": ", once crafted, can be attuned to by a wizard or dimension respectively by "
+            "text": "은 제작한 뒤에 "
           },
           {
-            "text": "activating the charm while holding it",
+            "text": "우클릭",
             "color": "dark_purple"
           },
           {
-            "text": ".  \n\nIn the case of "
+            "text": "하여 플레이어 및 월드를 조율할 수 있습니다.  \n\n"
           },
           {
-            "text": "Player Charms",
+            "text": "플레이어 부적",
             "color": "blue"
           },
           {
-            "text": ", the charm will attune "
+            "text": "의 경우 "
           },
           {
-            "text": "to the wizard that activated it",
+            "text": "활성화 한 마법사에 맞게 조율",
             "color": "dark_purple"
           },
           {
-            "text": ". The charm can then be given to trusted allies to allow them to use rituals involving the wizard the charm is attuned to, such as "
+            "text": "되며, 이 부적을 신뢰할 수 있는 아군에게 주어 "
           },
           {
-            "text": "Summoning",
+            "text": "소환",
             "color": "blue"
           },
           {
-            "text": " or "
+            "text": " 또는 "
           },
           {
-            "text": "Visiting",
+            "text": "방문",
             "color": "blue"
           },
           {
-            "text": " (if they possess the skill to perform them). \n\nAttuned "
+            "text": "과 같이 부적에 조율된 마법사와 관련된 의식에 사용됩니다.(해당 스킬을 수행할 수 있을 만큼의 지식이 있는 경우에만 작동합니다) \n\n"
           },
           {
-            "text": "World Charms",
+            "text": "다차원 부적",
             "color": "blue"
           },
           {
-            "text": " can be used to use a "
+            "text": "은 조율 시 다른 차원에서도 사용가능한 "
           },
           {
-            "text": "Ritual of Return",
+            "text": "귀환의 의식",
             "color": "blue"
           },
           {
-            "text": " or a "
+            "text": " 또는 "
           },
           {
-            "text": "Ritual of the Gate",
+            "text": "관문의 의식",
             "color": "blue"
           },
           {
-            "text": " to target a point in a different dimension."
+            "text": "등에 사용됩니다."
           }
         ]
       }
@@ -3344,112 +3320,112 @@
     "sections": [
       {
         "type": "title",
-        "value": "Motes"
+        "value": "티끌"
       },
       {
         "type": "text",
         "value": "There are rituals that exist to create various elemental motes.  There is one ritual/mote for each affinity.  Be sure to check the ritual entries in this codex as the mote rituals all have special conditions required in order to perform the ritual.\n\nThe rituals are:\n\nRitual of the Endless Void / Mote of Ender\n\nRitual of Forgotten Lore / Mote of Magic\n\nRitual of the Untamed Wind / Mote of Air\n\nRitual of the Searing Inferno / Mote of Fire\n\nRitual of the Deep Ocean / Mote of Water\n\nRitual of Ancient Stone / Mote of Earth.",
         "json": [
           {
-            "text": "There are rituals that exist to create various elemental motes.  These motes are used in a multitude of crafting recipes, so I should consider setting up places to perform them with means to get there easily.\n\nThere is one ritual/mote for each affinity. \n\nThe mote rituals all have special conditions required in order to perform the ritual.  I have documented them in this Codex under the ritual's specific entry. \n\nThe rituals are: \n"
+            "text": "다양한 원소 티끌을 생성하는 의식이 존재합니다. 이 티끌은 다양한 제작 레시피에 사용되므로 의식을 너무 먼곳에 놓지 않는게 좋습니다.\n\n각 친화력마다 별개의 의식/티끌이 있습니다. \n\n모든 티끌 의식을 수행하는 데 필요한 시약이 다르므로, 아래 항목을 참고해주세요. \n\n의식: \n"
           },
           {
-            "text": "Ritual of the Endless Void",
+            "text": "끝없는 공허의 의식",
             "color": "dark_purple"
           },
           {
             "text": " / "
           },
           {
-            "text": "Mote of Ender ",
+            "text": "엔더의 티끌",
             "color": "blue"
           },
           {
             "text": "\n"
           },
           {
-            "text": "Ritual of Forgotten Lore",
+            "text": "잊혀진 지식의 의식",
             "color": "dark_purple"
           },
           {
             "text": " / "
           },
           {
-            "text": "Mote of Magic ",
+            "text": "마법의 티끌",
             "color": "blue"
           },
           {
             "text": "\n"
           },
           {
-            "text": "Ritual of the Untamed Wind",
+            "text": "길들여지지 않은 바람의 의식",
             "color": "dark_purple"
           },
           {
             "text": " / "
           },
           {
-            "text": "Mote of Air ",
+            "text": "공기의 티끌",
             "color": "blue"
           },
           {
             "text": "\n"
           },
           {
-            "text": "Ritual of the Searing Inferno",
+            "text": "작열하는 네더의 의식",
             "color": "dark_purple"
           },
           {
             "text": " / "
           },
           {
-            "text": "Mote of Fire",
+            "text": "불의 티끌",
             "color": "blue"
           },
           {
             "text": " \n"
           },
           {
-            "text": "Ritual of the Deep Ocean",
+            "text": "심해의 의식",
             "color": "dark_purple"
           },
           {
             "text": " / "
           },
           {
-            "text": "Mote of Water ",
+            "text": "물의 티끌",
             "color": "blue"
           },
           {
             "text": "\n"
           },
           {
-            "text": "Ritual of Ancient Stone",
+            "text": "고대석의 의식",
             "color": "dark_purple"
           },
           {
             "text": " / "
           },
           {
-            "text": "Mote of Earth",
+            "text": "대지의 티끌",
             "color": "blue"
           },
           {
-            "text": "\n\nThese rituals are ideal candidates for a "
+            "text": "\n\n해당 원소 의식들은  "
           },
           {
-            "text": "Practitioner's Pouch",
+            "text": "패치",
             "color": "blue"
           },
           {
-            "text": " upgraded with a few "
+            "text": "를 넣은 "
           },
           {
-            "text": "Patches",
+            "text": "의식 전문가의 주머니",
             "color": "blue"
           },
           {
-            "text": ", which will allow them to be made with significantly more speed and ease."
+            "text": "를 이용해 더 빠르고 쉽게 만들 수 있습니다."
           }
         ]
       }
@@ -3487,73 +3463,73 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch"
+        "value": "의식 전문가의 주머니"
       },
       {
         "type": "text",
         "value": "Having to draw out a ritual each and every time can be time consuming.  Enter the practitioner's pouch.\n\nTo bind the pouch to a specific ritual pattern, sneak while activating the centre of a ritual.\n\nHold the GUI key (default left Ctrl) and right click the pouch to open it.  Place all items needed for the ritual inside the pouch.\n\nActivating the pouch on a sufficiently sized, empty flat space will instantly place and activate the ritual.  Items will be consumed from the pouch.\n\nPractitioner's Pouches can store multiple rituals.  Select a slot before binding or placing using the UI key (default 'z') and the radial menu.",
         "json": [
           {
-            "text": "Having to draw out a ritual each and every time can be time consuming. Enter the "
+            "text": "매번 의식을 위한 패턴을 그리는 것은 많은 시간이 소요됩니다. 이를 해결하고 싶다면 "
           },
           {
-            "text": "Practitioner's Pouch",
+            "text": "의식 전문가의 주머니",
             "color": "blue"
           },
           {
-            "text": ". \n\nTo use it, I need to place all items needed for the ritual inside the pouch. Activating the pouch on a sufficiently sized, empty flat space will instantly place and activate the ritual. Items will be consumed from the pouch.\n\n"
+            "text": "를 열어보세요. \n\n의식에 필요한 모든 품목을 주머니 안에 넣고 충분한 크기의 빈 평평한 공간에서 주머니를 우클릭하면 즉시 의식을 배치하고 활성화할 수 있습니다. 아이템은 주머니에서 소모됩니다.\n\n"
           },
           {
-            "text": "To bind the pouch to a specific ritual pattern, sneak while activating the center of a ritual. Hold the GUI key (default left Ctrl) and right click the pouch to open it.  Practitioner's Pouches can store multiple rituals. Select a slot before binding or placing using the UI key (default 'z') and the radial menu.",
+            "text": "주머니를 들고 패턴의 중심을 웅크린채로 우클릭하여 의식을 저장할 수 있고, GUI 키(기본값은 왼쪽 Ctrl)을 누른 상태에서 우클릭하여 주머니를 열 수 있습니다. 또한 의식 전문가의 주머니는 여러 가지 의식을 보관할 수 있고 UI 키(기본값 'z')를 눌러 방사형 메뉴를 펼치고, 원하는 의식을 선택하여 충분히 평평한 땅을 우클릭하여 의식을 배치하여 보세요.",
             "italic": true
           }
         ]
       },
       {
         "type": "title",
-        "value": "Patches"
+        "value": "패치"
       },
       {
         "type": "text",
         "value": "One of the most beneficial things about a practitioner's pouch is the ability to extend its functionality through patches.\n\nTo apply a patch to the practitioner's pouch, place the pouch down on a Runic Anvil.  Then, place the patch on top of the pouch.  Finally, activate the anvil with a Sorcerous Sewing Set to stitch the patch on to the pouch.\n\nGiven the relatively small size of the pouch, there's only about enough space for three different kinds of patches (excluing the speed pouch, that one can always be applied in combination with any others).  Rumor has it that there exist powerful variants of this pouch that have every single patch applied.  Some very smart wizard must have figured out how to do it long ago.",
         "json": [
           {
-            "text": "One of the most beneficial things about a practitioner's pouch is the ability to extend its functionality through "
+            "text": "의식 전문가의 주머니가 가진 가장 큰 장점 중 하나는 "
           },
           {
-            "text": "patches",
+            "text": "패치",
             "color": "blue"
           },
           {
-            "text": ". \n\nTo apply a patch to the practitioner's pouch, "
+            "text": "를 통해 기능을 확장할 수 있다는 점입니다. \n\n의식 전문가의 주머니에 패치를 적용하려면 "
           },
           {
-            "text": "place the pouch down on a Runic Anvil",
+            "text": "룬 모루 위에 주머리를 올려놓고",
             "color": "dark_purple"
           },
           {
-            "text": ". Then, place the "
+            "text": ", 그 위에 "
           },
           {
-            "text": "patch on top of the pouch",
+            "text": "패치",
             "color": "dark_purple"
           },
           {
-            "text": ". Finally, "
+            "text": "를 올려놓으세요. 그런 후 "
           },
           {
-            "text": "activate the anvil with a Sorcerous Sewing Set",
+            "text": "마법 재봉 키트를 들고 우클릭하여",
             "color": "dark_purple"
           },
           {
-            "text": " to stitch the patch on to the pouch. \n\nGiven the relatively small size of the pouch, there's only about enough space for three different kinds of patches (excluding the "
+            "text": " 주머니에 패치를 적용시키세요. \n\n주머니에는 세 가지 종류의 패치를 넣을 수 있는 공간만 있습니다. ("
           },
           {
-            "text": "speed pouch",
+            "text": "스피드 주머니",
             "color": "blue"
           },
           {
-            "text": ", that one can always be applied in combination with any others). \n\nRumor has it that there exist powerful variants of this pouch that have every single patch applied. Some very smart wizard must have figured out how to do it long ago."
+            "text": "를 제외하면 다양한 패치를 함께 사용할 수 있습니다) \n\n소문에 따르면 모든 패치가 적용된 강력한 주머니가 존재한다고 합니다. 아주 똑똑한 마법사가 오래 전에 방법을 알아냈을 겁니다."
           }
         ]
       }
@@ -3583,42 +3559,29 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Void"
+        "value": "패치: 공허"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch along with a Collection Patch, a Void Patch provides an additional sixteen slot filter. Upon collecting an item in this filter, it will be destroyed if all stacks of that item in the Pouch are full instead of being placed into the player's inventory.",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "의식 전문가의 주머니",
             "color": "blue"
           },
           {
-            "text": " along with a "
+            "text": "에 "
           },
           {
-            "text": "Collection Patch",
+            "text": "공허 패치",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "를 적용 시 16개의 추가 슬롯이 제공되며, "
           },
           {
-            "text": "Void Patch",
-            "color": "blue"
-          },
-          {
-            "text": " provides an additional sixteen slot filter. Upon collecting an item in this filter, it will be destroyed "
-          },
-          {
-            "text": "if all stacks of that item in the Pouch are full",
+            "text": "해당 슬롯에 넣어놓은 아이템과 일치하는 아이템을 플레이어가 줍게되면 해당 아이템이 즉시 파괴됩니다.",
             "color": "dark_purple"
-          },
-          {
-            "text": " instead of being placed into the player's inventory."
           }
         ]
       }
@@ -3636,66 +3599,63 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Depth"
+        "value": "패치: 깊이"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch, a Depth patch increases the stack limit of items within the Pouch to four times their normal value.\n\nAccomplished magicians can create improved Depth Patches that can be sewn on top of the basic Depth Patch. Stitching an improved patch onto a Pouch that already has a Depth Patch increases the stack limits of the items within by four times again (sixteen times its normal limit in total).",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "의식 전문가의 주머니",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "에 "
           },
           {
-            "text": "Depth Patch",
+            "text": "깊이 패치",
             "color": "blue"
           },
           {
-            "text": " increases the "
+            "text": "를 적용 시 주머니 안에 들어가는 "
           },
           {
-            "text": "stack limit of items",
+            "text": "아이템의 스택 제한",
             "color": "dark_purple"
           },
           {
-            "text": " within the Pouch to "
+            "text": "이 "
           },
           {
-            "text": "four times their normal value",
+            "text": "기존보다 4배 증가합니다",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nAccomplished magicians can create "
+            "text": ".\n\n숙련된 마법사는 "
           },
           {
-            "text": "improved Depth Patches",
+            "text": "향상된 깊이 패치",
             "color": "blue"
           },
           {
-            "text": " that can be "
+            "text": "를 적용 가능하며 "
           },
           {
-            "text": "sewn on top of the basic Depth Patch",
+            "text": "기본 깊이 패치를 적용한 주머니",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nStitching an "
+            "text": "에만 사용가능합니다. \n\n"
           },
           {
-            "text": "improved patch",
+            "text": "향상된 패치",
             "color": "dark_purple"
           },
           {
-            "text": " onto a Pouch that already has a Depth Patch increases the stack limits of the items within by four times again for a total of"
+            "text": "를 적용시킨 주머니는 기존의 4배인 스택 제한을 4배 더 증폭시켜 스택 제한이 "
           },
           {
-            "text": " sixteen times its normal limit",
+            "text": "기존대비 16배 증가합니다",
             "color": "dark_purple"
           },
           {
@@ -3721,49 +3681,46 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Speed"
+        "value": "패치: 속도"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch, a Speed Patch increases the rate at which a ritual bound to the Pouch draws and readies itself by 30%.\n\nAccomplished magicians can create improved Speed Patches that can be sewn on top of the basic Speed Patch. Stitching an improved patch onto a Pouch that already has a Speed Patch further increases the rate at which bound rituals ready themselves by an additional 30% each (to a maximum of 90% increased ritual speed).",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "의식 전문가의 주머니",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "에 "
           },
           {
-            "text": "Speed Patch ",
+            "text": "속도 패치",
             "color": "blue"
           },
           {
-            "text": "increases the rate at which a ritual bound to the Pouch draws and readies itself by "
+            "text": "를 적용 시 의식을 준비하고 실행하는 속도가 "
           },
           {
             "text": "30%",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nAccomplished magicians can create "
+            "text": " 증가합니다. \n\n숙련된 마법사는 "
           },
           {
-            "text": "improved Speed Patches",
+            "text": "향상된 속도 패치",
             "color": "blue"
           },
           {
-            "text": " that can be sewn on top of the basic Speed Patch. \n\nStitching an improved patch onto a Pouch that already has a Speed Patch further increases the rate at which bound rituals ready themselves by an additional 30% each (to a "
+            "text": "를 적용가능하며, 기본 속도 패치를 적용한 주머니에만 사용가능합니다. \n\n향상된 패치를 적용시킨 주머니는 속도가 30%씩 증가하고, "
           },
           {
-            "text": "maximum of 90% increased ritual speed",
+            "text": "최대 90%의 속도 증가를 가질 수 있습니다",
             "color": "dark_purple"
           },
           {
-            "text": ")."
+            "text": "."
           }
         ]
       }
@@ -3789,56 +3746,44 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Glyph"
+        "value": "패치: 문양"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch, a Glyph Patch provides an additional sixteen slot inventory that can only hold dyed glyphs.\n\nThe additional inventory can be accessed by clicking on the green + icon over the Glyph Patch icon, and can be closed by clicking on the red - icon in the upper right of the patch inventory.",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "의식 전문가의 주머니",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "에 "
           },
           {
-            "text": "Glyph Patch",
+            "text": "문양 패치",
             "color": "blue"
           },
           {
-            "text": " provides an additional sixteen slot inventory that can only hold dyed glyphs, useful for rituals requiring them.  If a glyph is collected by a "
+            "text": "를 적용 시 염색된 문양을 넣을 수 있는 16개의 추가 슬롯이 제공되고, "
           },
           {
-            "text": "Collection Patch",
+            "text": "수집 패치",
             "color": "blue"
           },
           {
-            "text": ", it will first try to enter this glyph inventory.\n\n"
+            "text": "로 염색된 문양을 지정했을 경우 추가 슬롯으로 문양이 자동으로 들어갑니다.\n\n"
           },
           {
-            "text": "The additional inventory can be accessed by clicking on the green ",
+            "text": "추가 슬롯은 주머니를 열고 ",
             "italic": true
           },
           {
-            "text": "+",
+            "text": "우측에 있는 패치 아이콘",
             "italic": true,
             "color": "dark_green"
           },
           {
-            "text": " icon over the Glyph Patch icon, and can be closed by clicking on the red",
-            "italic": true
-          },
-          {
-            "text": " -",
-            "italic": true,
-            "color": "dark_red"
-          },
-          {
-            "text": " icon in the upper right of the patch inventory.",
+            "text": "을 클릭하면 나타납니다.",
             "italic": true
           }
         ]
@@ -3857,56 +3802,44 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Mote"
+        "value": "패치: 티끌"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch, a Mote Patch provides an additional twelve slot inventory that can only hold motes and greater motes.\n\nThe additional inventory can be accessed by clicking on the green + icon over the Mote Patch icon, and can be closed by clicking on the red - icon in the upper right of the patch inventory.",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "의식 전문가의 주머니",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "에 "
           },
           {
-            "text": "Mote Patch",
+            "text": "티끌 패치",
             "color": "blue"
           },
           {
-            "text": " provides an additional twelve slot inventory that can only hold motes and greater motes.  If a mote is collected by a "
+            "text": "를 적용 시 티끌을 넣을 수 있는 12개의 추가 슬롯이 제공됩니다. "
           },
           {
-            "text": "Collection Patch",
+            "text": "수집 패치",
             "color": "blue"
           },
           {
-            "text": ", it will first try to enter this mote inventory.\n\n"
+            "text": "로 티끌을 지정했을 경우, 추가 슬롯으로 티끌이 자동으로 들어갑니다.\n\n"
           },
           {
-            "text": "The additional inventory can be accessed by clicking on the green ",
+            "text": "추가 슬롯은 주머니를 열고 ",
             "italic": true
           },
           {
-            "text": "+",
+            "text": "우측에 있는 패치 아이콘",
             "italic": true,
             "color": "dark_green"
           },
           {
-            "text": " icon over the Mote Patch icon, and can be closed by clicking on the red",
-            "italic": true
-          },
-          {
-            "text": " -",
-            "italic": true,
-            "color": "dark_red"
-          },
-          {
-            "text": " icon in the upper right of the patch inventory.",
+            "text": "을 클릭하면 나타납니다.",
             "italic": true
           }
         ]
@@ -3925,38 +3858,31 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Rift"
+        "value": "패치: 이공간"
       },
       {
         "type": "text",
         "value": "Normally, a ritual bound to a Practitioner's Pouch needs all of the necessary items within itself. When sewn onto a Practitioner's Pouch, a Rift Patch allows a ritual to search for missing items within the user's Rift storage instead. If necessary items are contained both in the Pouch and the Rift, items in the Rift will be consumed first.",
         "json": [
           {
-            "text": "Normally, a ritual bound to a "
+            "text": "의식에 필요한 아이템은 "
           },
           {
-            "text": "Practitioner's Pouch",
+            "text": "주머니",
             "color": "blue"
           },
           {
-            "text": " needs all of the necessary items within itself. When sewn onto a "
+            "text": "안에 넣어야만 사용할 수 있는것이 일반적입니다. 하지만 "
           },
           {
-            "text": "Practitioner's Pouch",
+            "text": "이공간 패치",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "를 적용하면 이공간 스펠을 시전하여 사용가능한 이공간 저장고안에 있는 아이템을 의식에 사용할 수 있습니다. 만약 주머니와 이공간 저장고에 같은 아이템이 들어있다면 "
           },
           {
-            "text": "Rift Patch",
-            "color": "blue"
-          },
-          {
-            "text": " allows a ritual to search for missing items within the user's Rift storage instead. If necessary items are contained both in the Pouch and the Rift, "
-          },
-          {
-            "text": "items in the Rift will be consumed first",
+            "text": "이공간 저장고에 있는 아이템이 우선적으로 사용됩니다",
             "color": "dark_purple"
           },
           {
@@ -3978,63 +3904,51 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Weave"
+        "value": "패치: 위빙"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch, a Weave Patch provides an additional twelve slot inventory that can only hold bottles containing manaweave patterns. When a ritual is started with the Pouch, any necessary manaweave patterns stored in the Weave Patch will be consumed automatically. If all manaweaves are present in bottles, no manaweaving will be necessary to complete the ritual.\n\nThe additional inventory can be accessed by clicking on the green + icon over the Weave Patch icon, and can be closed by clicking on the red - icon in the upper right of the patch inventory.",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "의식 전문가의 주머니",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "에 "
           },
           {
-            "text": "Weave Patch",
+            "text": "위빙 패치",
             "color": "blue"
           },
           {
-            "text": " provides an additional twelve slot inventory that can only hold "
+            "text": "를 적용 시 "
           },
           {
-            "text": "Bottled Manaweave Patterns",
+            "text": "마나위빙 유리병",
             "color": "blue"
           },
           {
-            "text": ". \n\nWhen a ritual is started with the pouch, any necessary manaweave patterns stored in the Weave Patch will be consumed automatically. "
+            "text": "을 넣을 수 있는 추가 슬롯이 제공됩니다. \n\n주머니로 의식을 시작하면 위빙 패치에 저장된 마나위빙 패턴이 자동으로 소모됩니다. "
           },
           {
-            "text": "If all manaweaves are present in bottles, no manaweaving will be necessary to complete the ritual",
+            "text": "모든 마나위빙 패턴이 추가 슬롯에 존재한다면 자동으로 소모하여 의식이 완료되며",
             "color": "dark_purple"
           },
           {
-            "text": ". If some of the manaweaves are present in bottles in the pouch, only the missing ones will be required to complete the ritual.\n\n"
+            "text": ", 만약 빠진 마나위빙 패턴이 있다면 해당 마나위빙만 따로 그려주면 의식이 완료됩니다. \n\n"
           },
           {
-            "text": "The additional inventory can be accessed by clicking on the green ",
+            "text": "추가 슬롯은 주머니를 열고 ",
             "italic": true
           },
           {
-            "text": "+",
+            "text": "우측에 있는 패치 아이콘",
             "italic": true,
             "color": "dark_green"
           },
           {
-            "text": " icon over the Weave Patch icon, and can be closed by clicking on the red ",
-            "italic": true
-          },
-          {
-            "text": "-",
-            "italic": true,
-            "color": "dark_red"
-          },
-          {
-            "text": " icon in the upper right of the patch inventory.",
+            "text": "을 클릭하면 나타납니다.",
             "italic": true
           }
         ]
@@ -4053,56 +3967,53 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Conveyance"
+        "value": "패치: 운반"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch, a Conveyance Patch provides a single slot that can only hold a Rune of Marking.\n\nNormally, a ritual bound to a Practitioner's Pouch needs all of the necessary items within itself. A Conveyance Patch allows a ritual to search for missing items within the inventory the provided Rune of Marking points to, if it is loaded.\n\nIf necessary items are contained both in the Pouch and the marked inventory, items in the marked inventory will be consumed first. If the Pouch has both a Conveyance Patch and a Rift Patch, items in the Rift will be consumed before items in the marked inventory.",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "의식 전문가의 주머니",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "에 "
           },
           {
-            "text": "Conveyance Patch",
+            "text": "운반 패치",
             "color": "blue"
           },
           {
-            "text": " provides a single slot that can only hold a "
+            "text": "를 적용 시 "
           },
           {
-            "text": "Rune of Marking",
+            "text": "룬: 마킹",
             "color": "blue"
           },
           {
-            "text": ". Normally, a ritual bound to a Practitioner's Pouch needs all of the necessary items within itself. \n\nA Conveyance Patch allows a ritual to "
+            "text": "아이템을 넣을 수 있는 단일 슬롯이 제공됩니다. 의식에 필요한 아이템은 주머니 안에 넣어야만 사용할 수 있는것이 일반적입니다. \n\n하지만 운반 패치를 사용하면 "
           },
           {
-            "text": "search for missing items within the inventory the provided Rune of Marking points to",
+            "text": "룬: 마킹으로 지정한 저장고",
             "color": "dark_purple"
           },
           {
-            "text": ", if it is loaded. If necessary items are contained both in the Pouch and the marked inventory, "
+            "text": "를 탐색하고 사용할 수 있게됩니다. 만약 주머니와 저장고에 같은 아이템이 존재한다면 "
           },
           {
-            "text": "items in the marked inventory will be consumed first",
+            "text": "저장고에 있는 아이템이 우선적으로 사용됩니다",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIf the Pouch has both a "
+            "text": ". \n\n만약 주머니에 "
           },
           {
-            "text": "Conveyance Patch and a Rift Patch",
+            "text": "이공간 패치와 운반 패치가 모두 있는 경우",
             "color": "blue"
           },
           {
-            "text": ", items in the Rift will be consumed before items in the marked inventory."
+            "text": ", 이공간 저장고에 있는 아이템이 우선적으로 사용됩니다."
           }
         ]
       }
@@ -4120,49 +4031,46 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Collection"
+        "value": "패치: 수집"
       },
       {
         "type": "text",
         "value": "Normally, items must be inserted into a Practitioner's Pouch manually. When sewn on, a Collection Patch causes any items picked up to automatically go to the Pouch's inventory instead.\n\nItems will only enter the Pouch if the item already exists in the pouch and is not at its stack limit.",
         "json": [
           {
-            "text": "Normally, items must be inserted into a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "의식 전문가의 주머니",
             "color": "blue"
           },
           {
-            "text": " manually. When sewn on, a "
+            "text": "에 아이템을 넣을때는 수동으로 열어서 넣는 것이 일반적입니다. "
           },
           {
-            "text": "Collection Patch",
+            "text": "수집 패치",
             "color": "blue"
           },
           {
-            "text": " causes any items picked up to automatically go to the Pouch's inventory instead."
+            "text": "를 적용 시 직접 주운 아이템이 "
           },
           {
-            "text": " Items will only enter the Pouch if the item already exists in the pouch and is not at its stack limit.",
+            "text": "이미 주머니에 존재하고 스택 제한에 도달하지 않은 경우에 자동으로 들어갑니다",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nThis pairs exceptionally well with "
+            "text": ".\n\n이는 "
           },
           {
-            "text": "Depth Patches",
+            "text": "깊이 패치",
             "color": "blue"
           },
           {
-            "text": " and "
+            "text": " 혹은 "
           },
           {
-            "text": "Void Patches",
+            "text": "공허 패치",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "와 같이 쓰기에 좋습니다."
           }
         ]
       }
@@ -4180,17 +4088,17 @@
     "sections": [
       {
         "type": "title",
-        "value": "Metal Ritual Runes"
+        "value": "룬: 의식(금속)"
       },
       {
         "type": "text",
         "value": "It may be desirable to have certain rituals not remove their ritual runes when completing.  Creating the ritual pattern out of metal ritual runes will achieve this goal.\n\nYou can mix and match metal and non-metal ritual runes together in the same ritual.",
         "json": [
           {
-            "text": "It may be desirable to have certain rituals not remove their ritual runes when completing.\nCreating the ritual pattern out of metal ritual runes will achieve this goal. \n\n"
+            "text": "의식을 위해 분필로 바닥에 패턴을 그릴 때, 일회용인것이 불편할때가 종종 있습니다.\n이를 보완하기위해 만들어진게 룬: 의식(금속)입니다. 이 룬으로는 패턴을 그릴 수 있으며, 의식이 완료된 후에도 계속 남아있어 편리합니다.\n\n"
           },
           {
-            "text": "I can mix and match metal and non-metal ritual runes together in the same ritual.",
+            "text": "분필로 그린 것과 혼용하는 것도 가능합니다.",
             "color": "dark_purple"
           }
         ]
@@ -4217,21 +4125,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Aurora"
+        "value": "오로라 의식"
       },
       {
         "type": "text",
         "value": "This ritual will turn night into day.  It can only be performed at night or during thunderstorms.",
         "json": [
           {
-            "text": "This ritual will turn "
+            "text": "이 의식은 시간을 "
           },
           {
-            "text": "night into day",
+            "text": "밤에서 낮으로",
             "color": "dark_purple"
           },
           {
-            "text": ". It can only be performed at night or during thunderstorms."
+            "text": " 바꿉니다. 밤일때 혹은 천둥 번개가 칠 때만 수행할 수 있습니다."
           }
         ]
       }
@@ -4249,21 +4157,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Odin's Call"
+        "value": "오딘의 부름 의식"
       },
       {
         "type": "text",
         "value": "This ritual challenges a diety of magic, Odin himself.  Be on your guard, this fight is extremely deadly.  The ritual must be performed at a place that can see the sky while a thunderstorm is happening.",
         "json": [
           {
-            "text": "This ritual challenges a diety of magic, "
+            "text": "이 의식은 "
           },
           {
-            "text": "Odin ",
+            "text": "오딘",
             "color": "blue"
           },
           {
-            "text": "himself. Be on your guard, this fight is extremely deadly. The ritual must be performed at a place that can see the sky while a thunderstorm is happening."
+            "text": "의 힘에 도전하는 의식입니다. 격렬한 싸움이 될것이고, 매우 치명적이니 방심하지 마세요. 천둥 번개가 치는 동안 하늘이 보이는 곳에서 의식을 치뤄야합니다."
           }
         ]
       }
@@ -4281,39 +4189,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Locating"
+        "value": "탐색의 의식"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This ritual will enchant a compass to find a structure, village, or biome. Trade with the "
+            "text": "이 의식은 나침반에 마법부여를 하여 구조물, 마을, 바이옴 등을 탐색할 수 있게 됩니다. "
           },
           {
-            "text": "Wandering Wizard",
+            "text": "방랑하는 마법사의 의식",
             "color": "blue"
           },
           {
-            "text": " summoned by the aptly named "
+            "text": "을 시행하여 그를 이 세계로 불러들이고, 거래를 통해 "
           },
           {
-            "text": "Ritual of the Wandering Wizard",
+            "text": "써마터지 링크",
             "color": "blue"
           },
           {
-            "text": " to get "
+            "text": "를 얻을 수 있으며 추가로 "
           },
           {
-            "text": "most of ",
-            "italic": true
-          },
-          {
-          	"text": "the locating patterns, as well as "
-          },
-          {
-            "text": "Maps and Compasses.",
+            "text": "지도, 나침반, 마나위빙 패턴",
             "color": "blue"
+          },
+		  {
+            "text": " 등을 얻을 수도 있습니다.(거래 재화는 빈테움 주괴입니다)"
           }
         ]
       }
@@ -4335,31 +4239,31 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Wandering Wizard"
+        "value": "방랑하는 마법사의 의식"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This ritual will open a portal and summon a walker of the planes, a "
+            "text": "이 의식은 포탈을 하나 생성하며, 거기에서 여기저기를 떠돌아 다니며 거래를 하는 "
           },
           {
-            "text": "Wandering Wizard",
+            "text": "방랑하는 마법사",
             "color": "blue"
           },
           {
-            "text": " that will trade with you for various magical wares. \n\nAn experienced traveller, he has access to all of the patterns needed for manaweaving as well as the "
+            "text": "가 튀어나옵니다. \n\n숙련된 여행자인 그는 탐색에 필요한 모든 패턴과 모든 "
           },
           {
-            "text": "Ritual of Locating",
+            "text": "탐색의 의식",
             "color": "blue"
           },
           {
-            "text": ". Well, most of the locations.  There are locations that even this experienced traveler won't share, out of fear of retribution from the various magical factions.  However, rumors tell of a very powerful creature that harbors no such fear and will deal in these locations in exchange for theses of rote knowledge. "
+            "text": "에 대해 익혔습니다.아, 모든은 아니래요. 이 숙련된 여행자조차도 여러 마법 진영들의 보복이 두려워서 공유하지 않는 장소가 있다고 합니다. 하지만 그런 두려움을 품지 않고 암기된 지식을 대가로 그 장소에 대해 거래하는 매우 강력한 생명체에 대한 소문도 있습니다. "
           },
           {
-            "text": "The Wandering Wizard will only remain for a minute before continuing on his journey.",
+            "text": "방랑하는 마법사는 몇분동안만 이곳에 머물고 시간이 지나면 다른곳으로 여행을 떠나갑니다.",
             "color": "dark_purple"
           }
         ]
@@ -4378,21 +4282,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Iron Bell"
+        "value": "철 종의 의식"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "The tolling of the iron bell rings out into the ether, summoning a mysterious entity only known as "
+            "text": "철종의 종소리가 에테르 속으로 울려 퍼지며 신비한 존재라고 알려진 "
           },
           {
-            "text": "The Broker",
+            "text": "브로커",
             "color": "blue"
           },
           {
-            "text": ". This entity will remain for one half day and will trade a combination of faction tokens obtained by defeating faction troops in addition to relics of my own faction in exchange for relics it has somehow obtained from the other factions. \n\nI should ensure that I have one of each of my faction's relics available for trade and at least a stack of each of the faction tokens before calling upon The Broker.\n\nIt's anyone's guess what use it has for the marks."
+            "text": "를 소환합니다. 브로커는 반나절 동안만 있으며 내 진영의 유물, 다른 진영을 처치해 얻은 징표를 다른 진영의 유물과 맞교환할 수 있습니다. \n\n브로커를 호출하기 전에 거래를 위한 내 진영의 유물 1개와 각 진영의 징표 여러개가 있는지 확인하는게 좋습니다.\n\n징표가 어떤 용도로 사용되는지는 묻지마세요."
           }
         ]
       }
@@ -4410,21 +4314,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Arcana"
+        "value": "아르카나 의식"
       },
       {
         "type": "text",
         "value": "This ritual is used to craft spells.  You will first need to craft an inscription table, and scribe a spell onto vellum.",
         "json": [
           {
-            "text": "This ritual is used to craft spells. You will first need to craft an "
+            "text": "이 의식은 스펠을 만들 때 사용됩니다. "
           },
           {
-            "text": "inscription table",
+            "text": "각인 테이블",
             "color": "blue"
           },
           {
-            "text": ", and scribe a spell onto paper."
+            "text": "을 이용하여 종이 위에 스펠 작성하는 것 부터 시작해보세요."
           }
         ]
       }
@@ -4458,35 +4362,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Alteration"
+        "value": "변형의 의식"
       },
       {
         "type": "text",
         "value": "This ritual is used to add modifiers to spells you have already crafted.  You will first need to craft a Book of Alteration, and use its radial menu (hold in your hand and hold 'Z') to select the modifier you want to add.  Then place the required items in the ritual and perform it to add the modifier to the spell.  You can only have 3 modifiers on a spell.  If you try to add more, the ritual will fail.",
         "json": [
           {
-            "text": "This ritual is used to "
+            "text": "이 의식은 이미 만들어놓은 "
           },
           {
-            "text": "add modifiers to spells",
+            "text": "스펠에 보조효과를 추가",
             "color": "dark_purple"
           },
           {
-            "text": " I have already crafted. I will first need to craft a "
+            "text": "할 때 사용됩니다. 그러기에 앞서 "
           },
           {
-            "text": "Book of Alteration",
+            "text": "변형의 책",
             "color": "blue"
           },
           {
-            "text": ", and bookmark the modifier I want to add "
+            "text": "이 필요하고, 적용하고 싶은 보조효과를 선택해야합니다."
           },
           {
-            "text": "(use its radial menu (hold in your hand and hold 'Z') to select the modifier you want to add)",
+            "text": "(손에 든채로 'Z'를 눌러 방사형 메뉴를 펼치시고 보조효과를 선택하세요)",
             "italic": true
           },
           {
-            "text": ". \n\nThen place the required items in the ritual and perform it to add the modifier to the spell. \n\nThis ritual will not allow me to bypass the 3 modifier limit on a spell. If I try to add more, the ritual will fail."
+            "text": ". \n\n그런 다음 의식에 필요한 아이템을 배치하고 실행하여 스펠에 보조효과를 추가하십시오. \n\n이 의식은 스펠의 수식어 3개 제한을 우회할 수 없습니다. 더 추가하려고 시도하면 실패합니다."
           }
         ]
       }
@@ -4508,21 +4412,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Eventide"
+        "value": "일몰 의식"
       },
       {
         "type": "text",
         "value": "This ritual will turn day to night.  It can only be performed during the day.",
         "json": [
           {
-            "text": "This ritual will turn"
+            "text": "이 의식은 시간을 "
           },
           {
-            "text": " day to night",
+            "text": "낮에서 밤으로",
             "color": "dark_purple"
           },
           {
-            "text": ". It can only be performed during the day."
+            "text": " 바꿉니다. 낮일때만 수행할 수 있습니다."
           }
         ]
       }
@@ -4540,21 +4444,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Yawning Chasm"
+        "value": "하품하는 틈새의 의식"
       },
       {
         "type": "text",
         "value": "This ritual will summon a powerful destructive force that will burrow straight down until it reaches bedrock.  It will not drop any blocks during this process, consuming them to continue to fuel itself.",
         "json": [
           {
-            "text": "This ritual will summon a powerful destructive force that will "
+            "text": "이 의식은 강력한 파괴력을 소환하여 "
           },
           {
-            "text": "burrow straight down until it reaches bedrock.",
+            "text": "기반암에 닿을 때 까지 아래로 파고 들어갑니다",
             "color": "dark_purple"
           },
           {
-            "text": " It will not drop any blocks during this process, consuming them to continue to fuel itself."
+            "text": ". 이 과정에서 아이템을 떨어뜨리지 않고 연료로 소모하며 파고 내려갑니다."
           }
         ]
       }
@@ -4576,21 +4480,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Earthen Steppes"
+        "value": "대초원의 의식"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This ritual will summon a powerful destructive force that will "
+            "text": "이 의식은 강력한 파괴력을 소환하여 "
           },
           {
-            "text": "burrow down at an angle until it reaches bedrock",
+            "text": "기반암에 도달 할 때까지 굴을 파고 들어갑니다",
             "color": "dark_purple"
           },
           {
-            "text": ". It will not drop any blocks during this process, consuming them to continue to fuel itself."
+            "text": ". 이 과정에서 아이템을 떨어뜨리지 않고 연료로 소모하며 파고 내려갑니다."
           }
         ]
       }
@@ -4612,42 +4516,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Homestead"
+        "value": "집의 의식"
       },
       {
         "type": "text",
         "value": "This ritual will create a waystone underneath it matching the rune combination used in the ritual, in the same order.\n\nCasting the Ritual of Return will allow you to use the matching rune combination to return to this location, provided you are on the same dimension.",
         "json": [
           {
-            "text": "This ritual will create a "
+            "text": "이 의식은 "
           },
           {
-            "text": "Waystone ",
+            "text": "웨이스톤",
             "color": "blue"
           },
           {
-            "text": "underneath it "
+            "text": "을 생성하게되며 "
           },
           {
-            "text": "matching the rune combination used in the ritual, in the same order",
+            "text": "다른 의식과 같이 연계되는 특징을 가지고있습니다",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nPerforming the "
+            "text": ". \n\n"
           },
           {
-            "text": "Ritual of Return",
+            "text": "귀환의 의식",
             "color": "blue"
           },
           {
-            "text": " will allow me to use the same rune combination in the same order to return to this location, provided I am in the same dimension, or have a "
+            "text": "을 시행하면 같은 월드내에 있다는 가정하에 집의 의식으로 생성된 웨이스톤으로 귀환하게되며, "
           },
           {
-            "text": "World Charm",
+            "text": "다차원 부적",
             "color": "blue"
           },
           {
-            "text": " available to target the Waystone's dimension."
+            "text": "을 추가로 넣어 의식을 시행하면 다른 차원으로도 이동할 수 있게됩니다."
           }
         ]
       }
@@ -4669,11 +4573,11 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Return"
+        "value": "귀환의 의식"
       },
       {
         "type": "text",
-        "value": "This ritual will find a waystone with the matching rune combination and open a portal to it.  Stepping through the portal will teleport you instantly to that location.\n\nRemember, a portal will never teleport a sneaking target."
+        "value": "이 의식은 집의 의식으로 설정해놓은 웨이스톤으로 가는 포탈을 엽니다. 포탈을 통과하면 해당 위치로 즉시 순간이동합니다.\n\n주의하세요, 웅크린 대상은 순간이동시키지 않습니다."
       }
     ],
     "related_recipes": [
@@ -4694,49 +4598,49 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Gate"
+        "value": "관문의 의식"
       },
       {
         "type": "text",
         "value": "This ritual will find a waystone with the matching rune combination and open a portal to it.  Stepping through the portal will teleport you instantly to that location.  Unlike the Ritual of Return, this portal will remain open until a rune of marking is thrown into it.\n\nOptionally, Adding a dye to the center will change the color of the portal.\n\nRemember, a portal will never teleport a sneaking target.",
         "json": [
           {
-            "text": "This ritual will find a "
+            "text": "이 의식은 "
           },
           {
-            "text": "Waystone",
+            "text": "웨이스톤",
             "color": "blue"
           },
           {
-            "text": " with the matching rune combination and open a short-lived portal to it. \n\nStepping through the portal will teleport me instantly to that location. \n\nUnlike the "
+            "text": "을 드나들 수 있는 포탈을 엽니다. \n\n포탈을 통과하면 해당 위치로 즉시 순간이동합니다. \n\n"
           },
           {
-            "text": "Ritual of Return",
+            "text": "귀환의 의식",
             "color": "blue"
           },
           {
-            "text": ", this portal will remain open until a "
+            "text": "과는 달리, 관문의 의식에 의해 열린 포탈은 "
           },
           {
-            "text": "Rune of Marking",
+            "text": "룬: 마킹",
             "color": "blue"
           },
           {
-            "text": " is thrown into it. \n\nOptionally, adding a dye to the center will change the color of the portal. \n\nRemember, "
+            "text": "을 던져넣기 전까지 영구히 유지됩니다. \n\n추가적으로 의식 패턴의 상단 염료 자리에 넣은 염료의 색깔에 따라 포탈의 색이 결정됩니다. \n\n또한 "
           },
           {
-            "text": "a portal will never teleport a sneaking target",
+            "text": "웅크린 대상은 순간이동 시키지 않습니다",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nIf I replace the dye with a "
+            "text": ".\n\n만약 염료 자리에 "
           },
           {
-            "text": "Greater Ender Mote ",
+            "text": "상급 엔더의 티끌",
             "color": "blue"
           },
           {
-            "text": ", the portal will open and will teleport those that walk through it to a random position."
+            "text": "을 놓고 포탈을 열게되면, 포탈을 통과하는 대상을 임의의 위치로 순간이동시킵니다."
           }
         ]
       }
@@ -4758,28 +4662,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Summoning"
+        "value": "소환의 의식"
       },
       {
         "type": "text",
         "value": "This ritual will use a player charm to open a portal at that player's current location.  That portal will allow the player to step through and teleport to the location that the ritual was performed.",
         "json": [
           {
-            "text": "This ritual will use a "
+            "text": "이 의식은 "
           },
           {
-            "text": "Player Charm",
+            "text": "플레이어 부적",
             "color": "blue"
           },
           {
-            "text": " to open a portal at that player's current location, provided they are in the same dimension, or a dimension specified by an optional "
+            "text": "을 사용하며, 해당 부적에 조율된 플레이어의 위치에 포탈을 생성합니다. 다른 차원에서도 작동하게 하려면 "
           },
           {
-            "text": "World Charm",
+            "text": "다차원 부적",
             "color": "blue"
           },
           {
-            "text": ".\n\nThat portal will allow the player to step through and teleport to the location that the ritual was performed."
+            "text": "을 추가로 넣어 의식을 시행하시면 됩니다.\n\n이 포탈을 통해 플레이어는 의식을 수행한 장소로 순간이동할 수 있습니다."
           }
         ]
       }
@@ -4805,46 +4709,49 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Visiting"
+        "value": "방문의 의식"
       },
       {
         "type": "text",
         "value": "This ritual will use a player charm to open a portal at the center of the ritual.  Stepping through the portal will teleport you to the location the player was at when the ritual was completed.",
         "json": [
           {
-            "text": "This ritual will use a "
+            "text": "이 의식은 "
           },
           {
-            "text": "Player Charm",
+            "text": "플레이어 부적",
             "color": "blue"
           },
           {
-            "text": " to open a portal at the center of the ritual.\n\nThe portal will teleport any who step through to the location the player was at "
+            "text": "을 사용하며, 의식의 중간에 포탈이 생성됩니다.\n\n포탈을 통과하는 모든 플레이어는 플레이어 부적에 조율된 플레이어가 있는 위치로 순간이동됩니다. "
           },
           {
-            "text": "when the ritual was completed.  ",
+            "text": "의식이 완벽하다면 말이죠",
             "color": "dark_purple"
           },
           {
-            "text": "If the target player is in a different dimension, a "
+            "text": ". 만약 플레이어의 위치가 다른 차원에 있다면 "
           },
           {
-            "text": "World Charm ",
+            "text": "다차원 부적",
             "color": "blue"
           },
           {
-            "text": "must be provided for their dimension in order to find them.\n\nIf both of the optional "
+            "text": "을 추가로 넣어 의식을 시행하시면 됩니다.\n\n"
           },
           {
-            "text": "Bones",
+            "text": "뼈",
             "color": "blue"
           },
           {
-            "text": " are provided, the portal will instead open with a "
+            "text": "를 추가로 넣어 의식을 시행하면 "
           },
           {
-            "text": "target of the player's last death.",
+            "text": "해당 플레이어가 마지막에 죽은 지점",
             "color": "dark_purple"
+          },
+          {
+            "text": "으로 가는 포탈을 생성합니다."
           }
         ]
       }
@@ -4870,18 +4777,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Ancient Stone"
+        "value": "고대석의 의식"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This ritual coalesces the elements of earth and nature into an essence. \n"
+            "text": "이 의식은 대지와 자연의 원소를 에센스로 통합하는 의식입니다. \n"
           },
           {
-            "text": "It can only be performed while far underground, where the deepslate resides.",
+            "text": "심층암이 있는 지하 깊은 곳에서만 수행할 수 있습니다",
             "color": "dark_purple"
+          },
+          {
+            "text": "."
           }
         ]
       }
@@ -4899,17 +4809,17 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Deep Ocean"
+        "value": "심해의 의식"
       },
       {
         "type": "text",
         "value": "This ritual coalesces the elements of water and the deep sea into an essence.\n\nThis ritual can only be performed while in an ocean biome.",
         "json": [
           {
-            "text": "This ritual coalesces the elements of water and the deep sea into an essence. \n"
+            "text": "이 의식은 물과 심해의 원소를 에센스로 통합하는 의식입니다. \n"
           },
           {
-            "text": "It can only be performed while in an ocean biome",
+            "text": "바다 바이옴 안에서만 수행할 수 있습니다",
             "color": "dark_purple"
           },
           {
@@ -4931,17 +4841,17 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Endless Void"
+        "value": "끝없는 공허의 의식"
       },
       {
         "type": "text",
         "value": "This ritual coalesces the elements of entropy and the void into an essence.\n\nThis ritual can only be performed while all ritual runes are in complete darkness.",
         "json": [
           {
-            "text": "This ritual coalesces the elements of entropy and the void into an essence. \n"
+            "text": "이 의식은 엔트로피와 공허의 원소를 에센스로 통합하는 의식입니다. \n"
           },
           {
-            "text": "It can only be performed while all ritual runes are in complete darkness",
+            "text": "모든 의식 룬이 완전한 어둠 속에 있을 때만 수행할 수 있습니다",
             "color": "dark_purple"
           },
           {
@@ -4963,31 +4873,31 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Forgotten Lore"
+        "value": "잊혀진 지식의 의식"
       },
       {
         "type": "text",
         "value": "This ritual coalesces the elements of knowledge and study into an essence.\n\nThis ritual must be done by placing enough blocks that improve enchantments (such as bookshelves) anywhere along the ritual's outer border.  I think ten should do the trick.",
         "json": [
           {
-            "text": "This ritual coalesces the elements of knowledge and study into an essence. \n"
+            "text": "이 의식은 지식과 공부의 원소를 에센스로 통합하는 의식입니다. \n"
           },
           {
-            "text": "It must be done by placing enough blocks that improve enchantments",
+            "text": "마법부여를 향상시키는 블록을 충분히 배치하여 수행해야합니다.",
             "color": "dark_purple"
           },
           {
-            "text": " (such as bookshelves)"
+            "text": "(책장과 같은 아이템) "
           },
           {
-            "text": " anywhere along the ritual's outer border",
+            "text": "의식의 외곽 경계를 따라 어디든 배치하시면 됩니다",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\n"
+            "text": ".\n\n"
           },
           {
-            "text": "The important part is the number of blocks, not the strength of their enchantment boost.  I think ten should do the trick.",
+            "text": "중요한 부분은 마법부여의 강도가 아니라 블록의 개수입니다. 아마 10개면 충분할 것 같습니다.",
             "color": "dark_purple"
           }
         ]
@@ -5012,17 +4922,17 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Searing Inferno"
+        "value": "작열하는 네더의 의식"
       },
       {
         "type": "text",
         "value": "This ritual coalesces the elements of fire and brimstone into an essence.\n\nThis ritual can only be performed in the nether.",
         "json": [
           {
-            "text": "This ritual coalesces the elements of fire and brimstone into an essence. \n"
+            "text": "이 의식은 불과 유황의 원소를 에센스로 통합하는 의식입니다. \n"
           },
           {
-            "text": "It can only be performed in the nether",
+            "text": "네더에서만 수행할 수 있습니다",
             "color": "dark_purple"
           },
           {
@@ -5044,24 +4954,24 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Untamed Wind"
+        "value": "길들여지지 않은 바람의 의식"
       },
       {
         "type": "text",
         "value": "This ritual coalesces the elements of wind and air into an essence.\n\nThis ritual can only be performed while high above the clouds.",
         "json": [
           {
-            "text": "This ritual coalesces the elements of wind and air into an essence. \n"
+            "text": "이 의식은 바람과 공기의 원소를 에센스로 통합하는 의식입니다. \n"
           },
           {
-            "text": "This ritual can only be performed while high above the clouds",
+            "text": "구름 위 높은 곳에서만 수행할 수 있습니다",
             "color": "dark_purple"
           },
           {
             "text": ".\n\n"
           },
           {
-            "text": "(Since graphics options can disable clouds, above Y=132 is considered high enough)",
+            "text": "(그래픽 옵션을 건드려 구름을 볼 수 없는 경우라면, Y=132 이상이면 충분히 높은 것으로 간주됩니다)",
             "italic": true
           }
         ]
@@ -5080,70 +4990,70 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Burning Hells"
+        "value": "불타는 지옥의 의식"
       },
       {
         "type": "text",
         "value": "This forbidden ritual summons a demon lord.  These demons often offer power to those that seek it, though with power always comes a price.\n\nDemons are very powerful, and respect only those that can withstand such power.  Proper precautions should be taken before attempting to make an bargain with a demon lest the summoner find themselves burned alive.\n\nThis includes both protections, as well as having an offering of a Mote of Fire to offer the demon.\n\nAllying oneself with such entities will almost assuredly make enemies of others.",
         "json": [
           {
-            "text": "This forbidden ritual summons a "
+            "text": "이 금지된 의식은 "
           },
           {
-            "text": "Demon Lord",
+            "text": "악마 군주",
             "color": "dark_red"
           },
           {
-            "text": ". \n\nThese demons often offer power to those that seek it, though with power always comes a price. Demons are very powerful, and respect only those that can withstand such power. "
+            "text": "를 불러냅니다. \n\n이 악마들은 종종 힘을 원하는 자에게 힘을 제공하지만, 힘에는 항상 대가가 따릅니다. 악마는 매우 강력하며, 그런 힘을 견딜 수 있는 존재만을 존중합니다. "
           },
           {
-            "text": "Proper precautions should be taken",
+            "text": "단단히 준비하는게 좋을겁니다!",
             "color": "dark_purple"
           },
           {
-            "text": " before attempting to make an bargain with a demon "
+            "text": " 악마들과 협상을 시도하기도 전에 "
           },
           {
-            "text": "lest the summoner find themselves burned alive",
+            "text": "산 채로 불태워지지 않게 주의하세요",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nTo mollify the rage of the demon, I should have an offering of a "
+            "text": ". \n\n그의 분노를 달래고 힘을 얻으려면 "
           },
           {
-            "text": "Mote of Fire",
+            "text": "불의 티끌",
             "color": "blue"
           },
           {
-            "text": " to offer the demon, "
+            "text": "을 악마에게 바쳐야합니다. "
           },
           {
-            "text": "in addition to the ritual reagents",
+            "text": "의식에 사용된 시약외에 따로 바치셔야 합니다!",
             "color": "blue"
           },
           {
-            "text": ". \n\n"
+            "text": "\n\n"
           },
           {
-            "text": "Allying oneself with such entities will almost assuredly make enemies of others.",
+            "text": "지옥의 진영과 동맹을 맺게되면 다른 진영을 적으로 돌리게 될겁니다.",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nAlternatively, performing this ritual in a "
+            "text": "\n\n그러고 싶지 않다면 다른 방법으로, "
           },
           {
-            "text": "Demon Arena",
+            "text": "악마 투기장",
             "color": "dark_red"
           },
           {
-            "text": " will challenge the "
+            "text": "에서 이 의식을 수행하면 "
           },
           {
-            "text": "Demon Lord",
+            "text": "악마 군주",
             "color": "dark_red"
           },
           {
-            "text": " to a duel."
+            "text": "에게 결투를 신청할 수 있습니다."
           }
         ]
       }
@@ -5165,56 +5075,56 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Faerie Courts"
+        "value": "페이 궁정의 의식"
       },
       {
         "type": "text",
         "value": "This forbidden ritual summons a faerie queen.  Through bargains, the fey often offer power to those that seek it, though with power always comes a price.\n\nAn offering of a Mote of Air is usually a good bet.\n\nAllying oneself with such entities will almost assuredly make enemies of others.",
         "json": [
           {
-            "text": "This forbidden ritual summons a "
+            "text": "이 금지된 의식은 "
           },
           {
-            "text": "Faerie Queen from either Summer or Winter",
+            "text": "여름 또는 겨울의 페이 여왕",
             "color": "dark_green"
           },
           {
-            "text": ".\n\nThrough bargains, the fey often offer power to those that seek it, though with power always comes a price. An offering of a "
+            "text": "을 불러냅니다.\n\n협상을 통해 페이는 종종 권력을 원하는 자에게 권력을 제공하지만, 권력에는 항상 대가가 따릅니다. 그들에게 "
           },
           {
-            "text": "Mote of Air",
+            "text": "공기의 티끌",
             "color": "blue"
           },
           {
-            "text": " is usually a good bet, "
+            "text": "을 바쳐야합니다. "
           },
           {
-            "text": "in addition to the other ritual reagents",
+            "text": "의식에 사용된 시약 외에 따로 바치셔야 합니다!",
             "color": "blue"
           },
           {
-            "text": ".\n\n"
+            "text": "\n\n"
           },
           {
-            "text": "Allying oneself with such entities will almost assuredly make enemies of others.",
+            "text": "페이 진영과 동맹을 맺게되면 다른 진영을 적으로 돌리게 될겁니다.",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nAlternatively, performing this ritual in the right spot within a "
+            "text": "\n\n그러고 싶지 않다면 다른 방법으로, "
           },
           {
-            "text": "Great Fey Tree",
+            "text": "울창한 페이 나무",
             "color": "dark_green"
           },
           {
-            "text": " will challenge both "
+            "text": "에서 이 의식을 수행하면 "
           },
           {
-            "text": "Faerie Queens",
+            "text": "페이의 여왕",
             "color": "dark_green"
           },
           {
-            "text": " to a duel."
+            "text": "에게 도전할 수 있습니다."
           }
         ]
       }
@@ -5236,44 +5146,44 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Shifting Seasons"
+        "value": "계절 이동의 의식"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "Those within the fey often feel themselves called to both summer and winter. \n\nUsing this ritual, a fey wizard can "
+            "text": "페이 종족은 종종 여름과 겨울 모두에 부름을 받았다고 느낍니다. \n\n페이 마법사들은 이 의식을 수행하여 "
           },
           {
-            "text": "alter which season they are currently aligned to",
+            "text": "현재 어느 계절에 맞춰져 있는지 변경할 수 있습니다",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThis changes their spells to cast with either "
+            "text": ". \n\n계절을 알맞게 바꾸게 되면 "
           },
           {
-            "text": "summer fire",
+            "text": "여름의 화염",
             "color": "red"
           },
           {
-            "text": " or "
+            "text": " 혹은 "
           },
           {
-            "text": "winter ice",
+            "text": "겨울의 얼음",
             "color": "dark_aqua"
           },
           {
-            "text": ", said spells becoming more powerful during the day or night respectively, and weaker during the opposite. \n\nThe court that is aligned to is determined by the flower chosen, with "
+            "text": "으로 스펠이 변경되고, 낮이나 밤에 각각 더 강력해지고, 그 반대일 때는 약해진다고 합니다. \n\n궁정에 의하면 선택한 꽃에 따라서 성질이 바뀐다고 합니다: "
           },
           {
-            "text": "white and pink tulips joining winter",
+            "text": "하얀색 및 분홍색 튤립은 겨울",
             "color": "dark_aqua"
           },
           {
-            "text": " and "
+            "text": ", "
           },
           {
-            "text": "red and orange tulips joining summer.",
+            "text": "빨간색 및 주황색 튤립은 여름",
             "color": "red"
           }
         ]
@@ -5292,49 +5202,49 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Wizard's Council"
+        "value": "마법사 평의회의 의식"
       },
       {
         "type": "text",
         "value": "This ritual summons a conclave from the Ancient Council of Wizards.  By doing so, you are offering to align yourself with the council in exchange for access to their knowledge of higher magics.\n\nOnce you have summoned the council, stand in the center of them to receive their blessing, if you believe you are worthy.\n\nAllying oneself with such entities will almost assuredly make enemies of others.",
         "json": [
           {
-            "text": "This ritual summons a conclave from the "
+            "text": "이 의식은 마법사 평의회에서 "
           },
           {
-            "text": "Ancient Council of Wizards",
+            "text": "평의회 이사",
             "color": "blue"
           },
           {
-            "text": ".\n\nBy doing so, I am offering to align myself with the council in exchange for access to their knowledge of higher magics.\n\nOnce I have summoned the council, I must stand in the center of the circle to receive their blessing, if I believe I am worthy.\n\n"
+            "text": "를 불러냅니다.\n\n그들은 더 높은 마법에 대한 지식에 접근하는 대가로 평의회와 협력할 것을 제안하게 될겁니다.\n\n평의회를 소집 후 자격을 인정받았다면 원의 중앙에 서서 그들의 축복을 받아야 합니다.\n\n"
           },
           {
-            "text": "Allying oneself with such entities will almost assuredly make enemies of others.",
+            "text": "평의회 진영과 동맹을 맺게되면 다른 진영을 적으로 돌리게 될겁니다.",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nAlternatively, performing this ritual in a "
+            "text": "\n\n그러고 싶지 않다면 다른 방법으로, "
           },
           {
-            "text": "Council Great Hall",
+            "text": "평의회 대강당",
             "color": "blue"
           },
           {
-            "text": " will challenge the "
+            "text": "에서 의식을 수행하여 "
           },
           {
-            "text": "Senior Council",
+            "text": "평의회",
             "color": "blue"
           },
           {
-            "text": " to a duel. While they almost assuredly will not accept such a challenge, I may instead draw the attention of a "
+            "text": "에게 도전할 수 있습니다. 그들은 대부분 도전을 받아들이지 않을 것이 거의 확실하지만, "
           },
           {
-            "text": "Council Warden",
+            "text": "평의회 수호자",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "의 관심을 끌 수 있을겁니다."
           }
         ]
       }
@@ -5352,42 +5262,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Cold Dark"
+        "value": "차가운 어둠의 의식"
       },
       {
         "type": "text",
         "value": "This ritual calls out to the legions of the Undead.  By doing so, you are offering to align yourself with the undead in exchange for access to their dark powers.\n\nIf the undead respond, they will give you a sign.  Follow the instructions if you believe you are worthy.\n\nAllying oneself with such entities will almost assuredly make enemies of others.",
         "json": [
           {
-            "text": "This ritual calls out to the legions of the "
+            "text": "이 의식은 군단을 이루어다니는 "
           },
           {
-            "text": "Undead",
+            "text": "언데드",
             "color": "dark_gray"
           },
           {
-            "text": ".\n\nBy doing so, I am offering to align myself with the undead in exchange for access to their dark powers.\n\nIf the undead respond, they will "
+            "text": "를 불러냅니다.\n\n그들은 언데드의 어둠의 힘에 접근하는 대가로 언데드에 동조하는 것을 제안합니다.\n\n그들의 불음에 답하게되면 "
           },
           {
-            "text": "give me a sign",
+            "text": "사인을 줄겁니다",
             "color": "dark_gray"
           },
           {
-            "text": ". I should follow the instructions if I believe I am worthy.\n\nAllying oneself with such entities will almost assuredly make enemies of others.\n\nAlternatively, performing this ritual in a "
+            "text": ". 자격이 있다고 생각되면 그들의 지침을 따라야 합니다.\n\n언데드 진영과 동맹을 맺게되면 다른 진영을 적으로 돌리게 될겁니다.\n\n그러고 싶지 않다면 다른 방법으로, "
           },
           {
-            "text": "Cathedral Great Hall",
+            "text": "대성당",
             "color": "dark_gray"
           },
           {
-            "text": " will challenge a "
+            "text": "에서 의식을 수행하여 "
           },
           {
-            "text": "Powerful Undead Monster",
+            "text": "강력한 언데드 몬스터",
             "color": "dark_gray"
           },
           {
-            "text": " to a duel."
+            "text": "에게 결투를 신청할 수 있습니다."
           }
         ]
       },
@@ -5396,7 +5306,7 @@
         "value": "WARNING:  The undead faction is a much more difficult faction to play.  Your casting resource becomes souls, something that does not naturally regenerate.  You must kill others to obtain their souls.  Other undead give the least, then animals, then monsters, then villagers, then players.\n\nYou can sleep in coffins as if they were beds, will burn in sunlight, but can breathe underwater.  Wearing a helmet can mitigate the burning but eventually the helmet will burn away and break.\n\nChoose this path at your own risk.",
         "json": [
           {
-            "text": "WARNING: The undead faction is a much more difficult faction to play.",
+            "text": "경고: 언데드 진영은 플레이하기 훨씬 더 어려운 진영입니다.",
             "italic": true,
             "color": "dark_purple"
           },
@@ -5404,11 +5314,11 @@
             "text": "\n\n"
           },
           {
-            "text": "Your casting resource becomes souls, something that does not naturally regenerate. ",
+            "text": "스펠 시전 자원이 자연적으로 재생되지 않는 영혼으로 바뀌게 되고, ",
             "italic": true
           },
           {
-            "text": "You must kill others to obtain their souls.",
+            "text": "다른 존재들을 죽임으로써 영혼을 빼앗아야합니다.",
             "italic": true,
             "color": "dark_gray"
           },
@@ -5416,39 +5326,39 @@
             "text": "\n\n\n"
           },
           {
-            "text": "Other undead give the least, then animals, then monsters, then villagers, then players.",
+            "text": "영혼은 언데드가 가장 적게 주고, 동물, 몬스터, 마을 주민, 플레이어 순으로 줍니다.",
             "italic": true
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "They can sleep in coffins as if they were beds and in doing so will regain 25% of souls, will ",
+            "text": "관을 침대처럼 사용할 수 있으며, 관에서 잠을 자면 최대 25%의 영혼을 회복할 수 있습니다. ",
             "italic": true
           },
           {
-            "text": "burn in sunlight",
+            "text": "햇빛에 불타는 특성 ",
             "italic": true,
             "color": "dark_purple"
           },
           {
-            "text": ", but can ",
+            "text": "을 가지는 단점이 존재하지만, ",
             "italic": true
           },
           {
-            "text": "breathe underwater",
+            "text": "물속에서 숨쉴 수 있습니다",
             "italic": true,
             "color": "dark_purple"
           },
           {
-            "text": ". Wearing a helmet can mitigate the burning but eventually the helmet will burn away and break.",
+            "text": ". 헬멧을 착용하면 화상을 완화할 수 있지만 결국 헬멧이 타서 파손될 수 있습니다.",
             "italic": true
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "Choose this path at your own risk.",
+            "text": "이 진영을 선택하는 것은 본인의 책임입니다.",
             "italic": true
           }
         ]
@@ -5468,28 +5378,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Sanctum Invocation"
+        "value": "생텀 소환의 의식"
       },
       {
         "type": "text",
         "value": "This ritual Designates a place of power for your faction.  Upon completion, it spawns a single block, a 'circle of power'.  Right click this block to display a structure that you will then need to build.  Upon completion, the circle of power will activate.  Allied faction players (and you of course) when standing near or within the completed structure will gain a powerful buff to their spell casting, causing more damage with spells and making their buffs last significantly longer.",
         "json": [
           {
-            "text": "This ritual designates a "
+            "text": "이 의식은 내 진영의 "
           },
           {
-            "text": "Place of Power",
+            "text": "힘의 장소",
             "color": "blue"
           },
           {
-            "text": " for your faction. \n\nUpon completion, it spawns a single block, a "
+            "text": "를 세우는 의식입니다. \n\n의식이 완료되면 하나의 블록, "
           },
           {
-            "text": "Loci of Power",
+            "text": "힘의 중심",
             "color": "blue"
           },
           {
-            "text": "'. \n\nActivating this block will cause me to be granted a vision of a structure that I will then need to build. \n\nUpon completion, the Circle of Power will activate. Allied faction wizards (and me of course) when standing near or within the completed structure will gain a powerful buff to their spell casting, causing more damage with spells and making their buffs last significantly longer."
+            "text": "이 생성됩니다. \n\n이 블록을 활성화하면 건설해야 할 구조물에 대한 환영이 보일겁니다. \n\n완료되면 힘의 원이 활성화되고, 완성된 구조물 근처 또는 그 안에 서 있는 아군 진영 마법사(물론 저도 포함)는 스펠 시전에 강력한 강화 효과를 얻게 되어, 더 많은 피해를 입히고 강화 효과가 훨씬 더 오래 지속됩니다."
           }
         ]
       },
@@ -5498,21 +5408,18 @@
         "value": "For the undead, this sanctum serves an additional purpose.  Enemies within the sanctum will be given the 'Vulnerable Soul' debuff.  Killing enemies with this debuff will yield significantly more souls than normal.",
         "json": [
           {
-            "text": "For the "
-          },
-          {
-            "text": "Undead",
+            "text": "언데드",
             "color": "dark_gray"
           },
           {
-            "text": ", this sanctum serves an additional purpose. Enemies within the sanctum will be given the "
+            "text": "의 생텀은 추가적인 효과를 제공합니다. 생텀 내에 들어온 적에게 "
           },
           {
-            "text": "Vulnerable Soul",
+            "text": "취약한 영혼",
             "color": "blue"
           },
           {
-            "text": " debuff. Killing enemies with this debuff will yield significantly more souls than normal."
+            "text": "이라는 디버프를 부여하고, 해당 디버프를 받은 적을 죽일 시 더 많은 영혼을 얻을 수 있습니다."
           }
         ]
       }
@@ -5547,28 +5454,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Flat Lands"
+        "value": "평지의 의식"
       },
       {
         "type": "text",
         "value": "This very powerful magic allows a mage to mark out an area using special runes of marking, then perform the ritual close to the marked location, within about 16m or so of either of the marked points.  The magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more.\n\nEach of the two Runes of Marking marks the opposite corners of a cube to target.",
         "json": [
           {
-            "text": "This very powerful magic allows me to mark out an area using "
+            "text": "이 매우 강력한 의식은 "
           },
           {
-            "text": "Runes of Marking",
+            "text": "룬: 마킹",
             "color": "blue"
           },
           {
-            "text": ", then perform the ritual close to the marked location, within about 16m or so of either of the marked points. \n\nThe magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more. Each of the two "
+            "text": "으로 특정 지역을 표시한 다음 16m 정도 내의 위치에서 의식을 수행할 수 있습니다. \n\n마법이 흘러나와 표시한 지점의 나무, 식물, 흙, 바위, 광석 등을 무차별적으로 파괴합니다. "
           },
           {
-            "text": "Runes of Marking",
+            "text": "룬: 마킹",
             "color": "blue"
           },
           {
-            "text": " marks the opposite corners of a cube to target.\n\nIf I hold one of the Runes of Marking in each hand, I will be able to visualize the area that they cover."
+            "text": "을 시약으로 위아래에 2개가 사용되며, 각각의 위치를 모서리로 하는 큐브만큼의 범위가 지정됩니다.\n\n왼손 오른손에 각각의 룬: 마킹을 같이 쥐고있으면 범위가 표시됩니다."
           }
         ]
       },
@@ -5582,10 +5489,10 @@
         "value": "It seems that only basic blocks are affected by this spell, and not anything like chests, furnaces, or the like.\n\nThere are rumors that no mage has been able to make this ritual function on an area larger than 48m or so.  Any larger just seems to consume the materials and then quickly implode upon itself.  Conversely, any dimension smaller than 3m also seems to have the same effect.",
         "json": [
           {
-            "text": "It seems that only basic blocks are affected by this spell, and not anything like chests, furnaces, or the like. \n\nThere are rumors that no mage has been able to make this ritual function on an area larger than 48m or so. Any larger just seems to consume the materials and then quickly implode upon itself. \n\nConversely, any dimension smaller than 3m also seems to have the same effect.\n\n"
+            "text": "또한 이 의식은 기본 블록에만 영향을 미치고 상자, 용광로 등에는 영향을 미치지 않는 것 같습니다. \n\n48미터 이상의 면적에서 이 의식을 실행할 수 있는 마법사는 없다고 전해지며, 그것보다 더 크면 재료를 소모한 후 빠르게 자체적으로 붕괴하는 것처럼 보입니다. \n\n반대로 3m보다 작은 면적도 같은것으로 보입니다.\n\n"
           },
           {
-            "text": "(1m = 1 block)",
+            "text": "(1m = 1블록)",
             "italic": true
           }
         ]
@@ -5612,22 +5519,22 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Clear Skies"
+        "value": "청명한 하늘의 의식"
       },
       {
         "type": "text",
         "value": "This ritual allows me to change the weather to be clear blue skies.  Reciting the magic words 'rain, rain, go away, come again another day' does not seem to have any extra effect.",
         "json": [
           {
-            "text": "This ritual allows me to change the weather to be clear blue skies. \n\nReciting the magic words "
+            "text": "이 의식은 날씨를 맑고 푸른 하늘로 바꿀 수 있습니다. \n\n마법의 단어로 "
           },
           {
-            "text": "rain, rain, go away, come again another day",
+            "text": "기우제를 지낸다 한들",
             "italic": true,
             "color": "blue"
           },
           {
-            "text": " does not seem to have any extra effect."
+            "text": " 의식에는 못 미치는거 같네요."
           }
         ]
       }
@@ -5646,14 +5553,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Monsoon"
+        "value": "몬순의 의식"
       },
       {
         "type": "text",
         "value": "I can use this ritual to summon a torrent of rain.  If I add some gray wool to the top of the ritual, it will cause a thunderstorm.  If I leave it out, it will just rain.",
         "json": [
           {
-            "text": "I can use this ritual to summon a torrent of rain. \nIf I add some gray wool to the top of the ritual, it will cause a thunderstorm."
+            "text": "이 의식을 사용하면 폭풍우를 내리게 할 수 있습니다. \n의식의 상단에 회색 양털을 추가하면 뇌우를 일으킬 것입니다."
           }
         ]
       }
@@ -5675,42 +5582,39 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Shadow Soul"
+        "value": "그림자 영혼의 의식"
       },
       {
         "type": "text",
         "value": "Since I can make Crystallize to capture things within Crystalline Cages, I can use those cages to fill a Crystal Phylactery.  Of course I can still use the normal method as well to fill the phylacteries, but this might still come in handy.",
         "json": [
           {
-            "text": "Since I can make a "
-          },
-          {
-            "text": "Crystallize",
+            "text": "결정화",
             "color": "blue"
           },
           {
-            "text": " spell to capture things within "
+            "text": " 스펠을 사용하여 엔티티를 "
           },
           {
-            "text": "Crystalline Cages",
+            "text": "크리스탈 케이지",
             "color": "blue"
           },
           {
-            "text": ", I can use those cages to fill a "
+            "text": "에 가둘 수 있고, 이를 이용해 의식을 수행하여 "
           },
           {
-            "text": "Crystal Phylactery",
+            "text": "크리스탈 성물함",
             "color": "blue"
           },
           {
-            "text": ". \n\nOf course I can still use the "
+            "text": "을 채울 수 있습니다. \n\n물론 "
           },
           {
-            "text": "normal method",
+            "text": "일반적인 방법",
             "italic": true
           },
           {
-            "text": " as well to fill the phylacteries, but this might still come in handy."
+            "text": "으로도 성물함을 채울 수 있지만, 의식을 이용한 방법이 더 효율적일 수 있습니다."
           }
         ]
       }
@@ -16122,7 +16026,6 @@
       },
       {
         "type": "text",
-        "value": "Most commands within the delegation station have parameters.  Click a task to see its parameters on the right.  Some parameters take items, others are buttons/checkboxes/sliders.  In the case of items, ghost items are used.  Simply drop the item in like you would any inventory slot.  The item will be copied and used.",
         "json": [
           {
             "text": "Most "
@@ -16525,7 +16428,6 @@
       },
       {
         "type": "text",
-        "value": "This command will cause the construct to take an item out of the specified inventory.  The marking rune specifies the side and position of the container to search.  The filter is optional, and will take any item if left blank.  It requires the construct have at least one grabber arm to hold the item, and it can't already have something in it.  If you give a construct two hands and want to fill both, you will need to use this command twice in a row.",
         "json": [
           {
             "text": "This command will cause the construct to "
@@ -16559,11 +16461,11 @@
             "text": ", and will take any item if left blank. \n\nIt requires the construct have "
           },
           {
-            "text": "at least one grabber arm",
+            "text": "at least one grabber arm or storage torso",
             "color": "dark_purple"
           },
           {
-            "text": " to hold the item, and it can't already have something in it. \n\nIf you give a construct two hands and want to fill both, you will need to use this command twice in a row."
+            "text": " to hold the item, and it can't already have something in it.  Stack merging is done as part of taking, but not during the initial check for performance reasons. As such, this command requires at least one empty slot somewhere in the construct's inventory. \n\nIf you give a construct two hands and want to fill both or wish to fill several inventory slots, you will need to use this command multiple times in a row."
           }
         ]
       }
@@ -16872,6 +16774,39 @@
       }
     ]
   },
+  "Command: Guard": {
+  	"index": 4,
+  	"category": "constructs",
+  	"sections": [
+      {
+        "type": "title",
+        "value": "Command: Patrol"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "This command will cause the construct to "
+          },
+          {
+            "text": "move to the specified point and match its facing",
+            "color": "dark_purple"
+          },
+          {
+            "text": ", standing guard and attacking enemies that come within range of its sight (if it is capable of doing so).  If its attack causes it to move too far away from the guard point (based on the construct's perception stat), "
+          },
+          {
+            "text": "it will cease attack and return to its post",
+            "color": "dark_purple"
+          },
+          {
+            "text": ". \n\nAfter standing guard for the specified number of seconds, the task will complete and the construct will go on to any other tasks afterward."
+          }
+        ]
+      }
+    ]
+  },
   "Command: Patrol": {
     "index": 4,
     "category": "constructs",
@@ -17152,7 +17087,6 @@
       },
       {
         "type": "text",
-        "value": "This command will cause the construct to shear nearby sheep, mooshrooms, and other animals that can be sheared, as well as periodically pluck feathers from chickens within the configured radius.  The construct must have a blade arm in order to use this task.  If the parameter to do so is turned on, the construct will instead shear blocks instead of mobs.",
         "json": [
           {
             "text": "This command will cause the construct to "
@@ -17196,6 +17130,38 @@
       }
     ]
   },
+  "Command: Milk": {
+    "index": 4,
+    "category": "constructs",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Command: Milk"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This command will cause the construct to "
+          },
+          {
+            "text": "milk nearby cows and cow variants where possible",
+            "color": "dark_purple"
+          },
+          {
+            "text": " within the configured radius. \n\nThe construct "
+          },
+          {
+            "text": "must have a fluid nozzle and tank torso",
+            "color": "dark_purple"
+          },
+          {
+            "text": " in order to use this task."
+          }
+        ]
+      }
+    ]
+  },
   "Command: Place Block": {
     "index": 4,
     "category": "constructs",
@@ -17206,7 +17172,6 @@
       },
       {
         "type": "text",
-        "value": "This command will cause the construct to place the block that it currently has in its hand (use a Take Item command to get one there) at the given location, provided it is a block or an item that creates a block (like seeds or saplings).  The construct needs to have the carrying capability in order to do this task.",
         "json": [
           {
             "text": "This command will cause the construct to "
@@ -17563,6 +17528,75 @@
           },
           {
             "text": "The construct needs a minimum intelligence of 16 to perform this task.",
+            "color": "dark_purple"
+          }
+        ]
+      }
+    ]
+  },
+  "Command: Adventure": {
+    "index": 4,
+    "category": "constructs",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Command: Hunt"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This command will cause the construct to "
+          },
+          {
+            "text": "wander off and disappear for a few minutes as it goes monster hunting",
+            "color": "dark_purple"
+          },
+          {
+            "text": ". When it returns it will have some random dimension-appropriate hunting loot it found on its journey. \n\n"
+          },          
+          {
+            "text": "It will require either a "
+          },
+          {
+            "text": "storage torso",
+            "color": "blue"
+          },
+          {
+            "text": " and/or a "
+          },
+          {
+            "text": "grabber arm",
+            "color": "blue"
+          },
+          {
+            "text": " in order to carry home the loot.\n\n"
+          },
+          {
+            "text": "What monsters it fights depends on the configuration of the task.\n\n",
+            "color": "dark_purple"
+          },
+          {
+            "text": "It is possible for the construct to die during this task, but the risk can be mitigated:",
+            "color": "dark_red"
+          },
+          {
+            "text": "\n\nThe construct must be able to engage with at least one of the configured enemy types (ranged attacks, flight, teleportation, or spell casting for flying monsters, buoyancy for water monsters, and perception 20 or lights (consumed) in its inventory for underground.  It will skip any types that it does not meet the criteria for.  For example, setting surface and underground will cause the construct to still perform a surface hunt if it doesn't have the required perception or light sources available."
+          },
+          {
+            "text": "\n\nThe risk level determines how dangerous the prey it will attempt to fight.  Stronger combat capabilities (more damage) will mitigate damage taken, as will armor and toughness.\n\nAffinity also plays a role in the construct's survivability, with wind/arcane protecting from flying monsters, water protecting from aquatic monsters, earth/fire/ender protecting from underground, and earth protecting from surface encounters."
+          },
+          {
+            "text": "\n\nSurface is the least dangerous, followed by water, flying, and finally underground."
+          },
+          {
+            "text": "\n\nFriendly faction mobs encountered during the hunt will serve instead to heal the construct.  Their loot will never be returned."
+          },
+          {
+            "text": "\n\nIt is suggested to make use of the health condition task in a lodestar to ensure the construct has healed before leaving on a hunt.  Their natural regeneration can heal them to full, after all."
+          },
+          {
+            "text": "\n\nThe construct needs a minimum intelligence of 16 to perform this task, and higher perception will result in more encounters.  Having intelligence 36 and perception 20 will allow the construct to bring back drops that require a player kill.",
             "color": "dark_purple"
           }
         ]
@@ -19052,7 +19086,6 @@
       },
       {
         "type": "text",
-        "value": "The storage torso allows the construct to have an additional 9 slots of inventory.  This will cause them to bring back more resources from mining and adventuring, and to be able to pick up more items.  Better materials do not give more storage.",
         "json": [
           {
             "text": "The storage torso allows the construct to have an "
@@ -19069,7 +19102,10 @@
             "color": "dark_purple"
           },
           {
-            "text": ", and to be able to pick up more items. Better materials do not give more storage."
+            "text": ", and to be able to pick up more items. Better materials allow for larger stack sizes each additional slot:"
+          },
+          {
+            "text": "\n  Wickerwood: 4\n  Wood/Stone: 8\n  Iron/Gold: 16\n  Obsidian: 32\n  Diamond: 64\n\nThis is further increased by ender affinity, which will multiply the stack size by 8.  Regardless of material or affinity, stack size will always cap at 64."
           }
         ]
       }
@@ -25012,35 +25048,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Feast of Souls"
+        "value": "영혼 축제의 의식"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This ritual consumes a creature trapped within a "
+            "text": "이 의식은 "
           },
           {
-            "text": "Crystalline Cage",
+            "text": "크리스탈 케이지",
             "color": "blue"
           },
           {
-            "text": " to give "
+            "text": "에 갇힌 생물을 소모하여 "
           },
           {
-            "text": "twenty times the number of souls it normally would.  ",
+            "text": "평소보다 20배의 영혼을 얻게 합니다. ",
             "color": "dark_purple"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "The diamond will be returned",
+            "text": "다이아는 다시 사용할 수 있도록 반환됩니다",
             "color": "dark_purple"
           },
           {
-            "text": ", ready for re-use."
+            "text": "."
           }
         ]
       }
