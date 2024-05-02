@@ -1264,6 +1264,7 @@
 	"gui.mna.parameter.find_block.point": "应该搜寻哪个点位上的方块？",
 	"gui.mna.parameter.fluid_in_container.filter": "寻找哪种流体？那些可以存储一定量流体的物品可以充当过滤器。",
 	"gui.mna.parameter.fluid_in_container.pos": "在哪个容器里找寻流体？",
+	"gui.mna.parameter.fluid_in_container.pct": "容器必须达到多少百分比的容量，才会输出成功？",
 	"gui.mna.parameter.item_in_container.filter": "寻找哪些物品？",
 	"gui.mna.parameter.item_in_container.pos": "在哪个容器里找寻物品？",
 	"gui.mna.parameter.item_in_container.amount": "需要匹配到的物品总量达到多少，才会输出成功？",
