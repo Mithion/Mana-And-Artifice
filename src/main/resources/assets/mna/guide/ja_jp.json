@@ -37,7 +37,7 @@
         "type": "text",
         "json": [
           {
-            "text": "この本はこのmodでいろいろするためのガイドです。  この本にはこのmodのすべてのレシピ、メカニズム、パーツとその作り方が載っています。 \n\nこの本は"
+            "text": "この本はこのmodで様々な事を行うためのガイドです。  この本にはこのmodのすべてのレシピ、メカニズム、パーツとその作り方が載っています。 \n\nこの本は"
           },
           {
             "text": "オキュラス",
@@ -71,16 +71,21 @@
         "value": "項目を閲覧しているとき、 下の黒いボタンをクリックすることでカテゴリーに戻ることができます。",
         "json": [
           {
-            "text": "項目を閲覧しているとき、 下の"
+            "text": "項目を閲覧しているとき、 左の"
           },
           {
-            "text": "黒いボタン",
+            "text": "青いボタン",
             "color": "blue"
           },
           {
-            "text": "をクリックすることでカテゴリーに戻ることができます。"
+            "text": "をクリックすることでカテゴリーに戻ることができます。\n\n"
           }
         ]
+      },
+      {
+        "type": "title",
+        "value": "カテゴリー",
+        "newPage": true
       },
       {
         "type": "image",
@@ -90,24 +95,25 @@
         "newPage": true
       },
       {
-        "type": "title",
-        "value": "カテゴリー"
-      },
-      {
         "type": "text",
-        "value": "このコーデックスは、カテゴリに分けられています。 それらは横の緑色のタブで表示され、MOD内の様々な種類のアイテムを表しています。 カテゴリをクリックすると、その中にあるアイテムが表示されます。",
+        "value": "この本は、カテゴリに分けられています。 それらは横の緑色のタブで表示され、MOD内の様々な種類のアイテムを表しています。 カテゴリをクリックすると、その中にあるアイテムが表示されます。",
         "json": [
           {
-            "text": "このコーデックスは、"
+            "text": "この本は、"
           },
           {
             "text": "カテゴリ",
             "color": "blue"
           },
           {
-            "text": "に分けられています。それらは横の緑色のタブで表示され、MOD内の様々な種類のアイテムを表しています。 カテゴリをクリックすると、その中にあるアイテムが表示されます。"
+            "text": "分けされています。それらは横の緑色のタブで表示され、MOD内の様々な種類のアイテムを表しています。 カテゴリをクリックすると、その中にあるアイテムが表示されます。"
           }
         ]
+      },
+      {
+        "type": "title",
+        "value": "検索",
+        "newPage": true
       },
       {
         "type": "image",
@@ -115,10 +121,6 @@
         "width": 18,
         "height": 28,
         "newPage": true
-      },
-      {
-        "type": "title",
-        "value": "検索"
       },
       {
         "type": "text",
@@ -136,6 +138,12 @@
           }
         ]
       },
+      
+      {
+        "type": "title",
+        "value": "「戻る」の動作",
+        "newPage": true
+      },
       {
         "type": "image",
         "location": "mna:textures/guide/back_behaviour.png",
@@ -144,24 +152,25 @@
         "newPage": true
       },
       {
-        "type": "title",
-        "value": "Back Behaviour"
-      },
-      {
         "type": "text",
-        "value": "Click the back behaviour tab at the bottom of this UI to change how you navigate through this codex.  There is support for changing back to a combination of escape, right mouse, and the UI buttons.",
+        "value": "このUIの下の「戻る動作」のタブをクリックすることでどのようにこの本を閲覧するか変更できます。UI、右クリック、ESCのボタンの組み合わせに対応しています。",
         "json": [
           {
-            "text": "Click the "
+            "text": "このUIの下の"
           },
           {
-            "text": "back behaviour",
+            "text": "「戻る動作」",
             "color": "blue"
           },
           {
-            "text": " tab at the bottom of this UI to change how you navigate through this codex. There is support for changing back to a combination of escape, right mouse, and the UI buttons."
+            "text": "のタブをクリックすることでどのようにこの本を閲覧するか変更できます。UI、右クリック、ESCのボタンの組み合わせに対応しています。"
           }
         ]
+      },
+      {
+        "type": "title",
+        "value": "レシピ",
+        "newPage": true
       },
       {
         "type": "image",
@@ -169,10 +178,6 @@
         "width": 28,
         "height": 18,
         "newPage": true
-      },
-      {
-        "type": "title",
-        "value": "レシピ"
       },
       {
         "type": "text",
@@ -184,6 +189,11 @@
         ]
       },
       {
+        "type": "title",
+        "value": "レシピのピン止め",
+        "newPage": true
+      },
+      {
         "type": "image",
         "location": "mna:textures/guide/pin_recipe.png",
         "width": 18,
@@ -191,22 +201,18 @@
         "newPage": true
       },
       {
-        "type": "title",
-        "value": "レシピのピン止め"
-      },
-      {
         "type": "text",
-        "value": "When viewing a recipe, in the top left you will see a pin icon.  Click this to pin a recipe to the HUD.  This recipe will show even when the codex is closed.  Click any pin on a recipe again to hide it, or click the red pin button that appears in your inventory when you have a recipe pinned.",
+        "value": "レシピを閲覧している場合、その左上にピンが表示されています。これをクリックすることでレシピをHUDにピン止めできます。このレシピは本を閉じた後も表示され続けます。本で何らかのレシピのピンをクリックするか、ピン止めが存在する場合にインベントリに表示される赤いピンをクリックすることでピン止めを非表示にできます。",
         "json": [
           {
-            "text": "When viewing a recipe, in the top left you will see a pin icon. Click this to "
+            "text": "レシピを閲覧している場合、その左上にピンが表示されます。これをクリックすることで"
           },
           {
-            "text": "pin a recipe to the HUD",
+            "text": "レシピをHUDにピン止め",
             "color": "blue"
           },
           {
-            "text": ". This recipe will show even when the codex is closed. Click any pin on a recipe again to hide it, or click the red pin button that appears in your inventory next to your player representation when you have a recipe pinned."
+            "text": "できます。このレシピは本を閉じた後も表示され続けます。本で何らかのレシピのピンをクリックするか、ピン止めが存在する場合にインベントリに表示される赤いピンをクリックすることでピン止めを非表示にできます。"
           }
         ]
       }
@@ -224,51 +230,51 @@
     "sections": [
       {
         "type": "title",
-        "value": "The HUD"
+        "value": "HUD表示"
       },
       {
         "type": "text",
-        "value": "The main hud is the mana bar.  In this you will see a badge with your level in it, a main bar representing your mana, and a smaller bar below representing your magic XP to next level.  The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it.",
+        "value": "マナを表示するバーがメインのHUDです。ここではレベルを表すバッジと、マナ残量を表示するメインのバー、その下の小さめのバーで魔法経験値を表示しています。魔法を手に持っている場合、メインのバーの暗くなっている部分が推定魔力消費量です。",
         "json": [
           {
-            "text": "The main hud is the mana bar. In this you will see a "
+            "text": "マナを表示するバーがメインのHUDです。ここでは"
           },
           {
-            "text": "badge with your level",
+            "text": "レベルを表すバッジ",
             "color": "dark_purple"
           },
           {
-            "text": " in it, a "
+            "text": " と、"
           },
           {
-            "text": "main bar representing your mana",
+            "text": "マナ残量を表すメインのバー",
             "color": "dark_purple"
           },
           {
-            "text": ", and a"
+            "text": "、そして"
           },
           {
-            "text": " smaller bar below representing your magic XP",
+            "text": "その下に次のレベルまでの魔法経験値",
             "color": "dark_purple"
           },
           {
-            "text": " to next level. The main bar also has a darker section when holding a spell; this represents the estimated mana cost of the spell, or in the case of a channeled spell, the cost to start channeling it."
+            "text": "を表示しています。メインのバーの暗くなっている部分があり、 これは魔法の推定マナ消費量を表しています。連続した魔法の場合は起動に消費するマナを表します。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "HUD Display Option"
+        "value": "HUD 表示設定"
       },
       {
         "type": "text",
-        "value": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never.\n\nIf you can't see your HUD, you've likely changed this option!",
+        "value": "左下のボタンをクリックすることでHUDの表示を変更することができます。設定は 常に(always)、 マナ利用時に(conditionally) , もしくはずっと表示しない(never)を選択することができます。\n\nHUDが見えない場合はこの設定を変更した可能性が高いです。",
         "json": [
           {
-            "text": "Click the hud display tab at the bottom of this UI to change how the HUD displays. You can select always, conditionally (when you have a mana-consuming item equipped), or never. "
+            "text": "左下のボタンをクリックすることでHUDの表示を変更することができます。設定は 常に(always)、 マナ利用時に(conditionally) , もしくはずっと表示しない(never)を選択することができます。"
           },
           {
-            "text": "If you can't see your HUD, you've likely changed this option!",
+            "text": "HUDが見えない場合はこの設定を変更した可能性が高いです！",
             "color": "dark_purple"
           }
         ]
@@ -281,15 +287,15 @@
       },
       {
         "type": "title",
-        "value": "HUD Position Option",
+        "value": "HUD 位置の設定",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "Click the hud position tab at the bottom of this UI to change the HUD position.",
+        "value": "このUIの下のHUD位置のタブをクリックすることでHUDの場所を変更できます。",
         "json": [
           {
-            "text": "Click the hud position tab at the bottom of this UI to change the HUD position."
+            "text": "このUIの下のHUD位置のタブをクリックすることでHUDの場所を変更できます。"
           }
         ]
       },
@@ -301,18 +307,18 @@
       },
       {
         "type": "text",
-        "value": "If you see a red drop with a lightning bolt in it next to your mana, this means that you have an item in your inventory that's low on charge.",
+        "value": "赤い雫に雷がマナの隣に表示されている場合、インベントリ内にマナが尽きた装備があることを示しています。",
         "newPage": true,
         "json": [
           {
-            "text": "If you see a "
+            "text": "マナの隣に"
           },
           {
-            "text": "red drop with a lightning bolt",
+            "text": "赤い雫に雷",
             "color": "dark_purple"
           },
           {
-            "text": " in it next to your mana, this means that you have an item in your inventory that's low on charge."
+            "text": "が表示されている場合、インベントリ内にマナが尽きた装備があることを示しています。"
           }
         ]
       },
@@ -332,92 +338,92 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mana, Regeneration, and Casting Resources"
+        "value": "マナ、再生と詠唱触媒"
       },
       {
         "type": "text",
-        "value": "When you perform several actions in the realms of magic, you will consume a resource called Mana.  Your maximum mana is based on your magic level, and increases every time you level up.  There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nRegardless of how much mana you have, it fully regenerates in 120 seconds, as long as you are well-fed.  Magic is hungry work after all!  Your mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level.",
+        "value": "魔法の領域でアクションを実行すると、マナと呼ばれる資源を消費します。 マナの最大値は本人の魔法レベルに応じて決まり、レベルアップするたびに増加します。 また、最大マナを増加させるトリンケットやエンチャント、ポーションも存在するという噂があります。\n\n 空腹ではない限り最大マナに関係なく１２０秒で最大まで回復します。デフォルトでマナは画面左上に表示され、経験値や魔力レベルも表示されます。",
         "json": [
           {
-            "text": "When you perform several actions in the realms of magic, you will consume your "
+            "text": "魔法に関するアクションを実行すると、 "
           },
           {
-            "text": "casting resource",
+            "text": "詠唱リソース",
             "color": "blue"
           },
           {
-            "text": ".\n\nYou start with "
+            "text": "を消費します。\n\n序盤は"
           },
           {
-            "text": "mana",
+            "text": "マナ",
             "color": "blue"
           },
           {
-            "text": ", but depending on faction choices your casting resource may change to something else such as "
+            "text": "ですが、選択した派閥によってはマナの代わりに"
           },
           {
-            "text": "souls",
+            "text": "魂",
             "color": "blue"
           },
           {
-            "text": ", "
+            "text": "、"
           },
           {
-            "text": "brimstone",
+            "text": "獄炎",
             "color": "blue"
           },
           {
-            "text": ", "
+            "text": "、"
           },
           {
-            "text": "summer fire",
+            "text": "夏火",
             "color": "blue"
           },
           {
-            "text": ", or "
+            "text": "、もしくは"
           },
           {
-            "text": "winter ice",
+            "text": "冬氷",
             "color": "blue"
           },
           {
-            "text": ".  Each one of these casting resources works a little differently, and will be detailed under the respective faction's entry.  For the rest of this entry, "
+            "text": "を使用します。それぞれの詠唱資源は少し異なっており、その派閥のページにて解説されています。以降のページでは、"
           },
           {
-            "text": "mana",
+            "text": "マナ",
             "color": "blue"
           },
           {
-            "text": " will be the casting resource described.\n\nYour maximum mana is based on your magic level, and increases every time you level up. There are also rumors of trinkets, enchantments, and potions that can give you boosts to your maximum mana.\n\nYour mana regenerates in a set amount of time (120 seconds by default, this is configurable) regardless of your maximum.  That means a boost to maximum mana will also boost regeneration.  Mana regenerates slower if you are not at full saturation.  Magic is hungry work after all! Having the shield effect will also slow your magic regeneration, as the effect interferes with your connection to the ambient Eldrin power in the air.\n\nYour mana bar is shown at the top left of the screen by default, along with your magic experience and your current magic level."
+            "text": "を詠唱リソースの基準として統一します。\n\nマナの最大値は本人の魔法レベルに応じて決まり、レベルアップによって増加します。 また、最大マナを増加させるトリンケットやエンチャント、ポーションも存在するという噂があります。\n\n マナは、最大マナに関係なく１２０秒で最大まで回復しますが、満腹ではない場合その速度は低下します。デフォルトでマナは画面左上に表示され、経験値や魔力レベルも表示されます。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "There are items, such as Mana Tea or Potions, that can help restore mana more quickly.  Potions restore instantly, while Mana Tea provides a regeneration buff.  There may be other methods as well to regenerate mana more quickly.",
+        "value": "マナティーやポーションなど、マナを素早く回復させることができるアイテムがあります。 ポーションはマナを即座に回復し、マナティーはマナの再生バフを与えます。 他にもマナを早く回復させる方法があるかもしれない",
         "json": [
           {
-            "text": "There are items, such as Mana Tea or Potions, that can help "
+            "text": "マナティーやポーションなど、"
           },
           {
-            "text": "restore mana more quickly",
+            "text": "マナを素早く回復",
             "color": "blue"
           },
           {
-            "text": ". Potions restore instantly, while Mana Tea provides a regeneration buff. There may be other methods as well to regenerate mana more quickly."
+            "text": "させることができるアイテムがありま。ポーションはマナを即座に回復し、マナティーはマナの再生バフを与えます。 他にもマナを早く回復させる方法があるかもしれません。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "Mana potions have five levels, they are: Minor, Light, Regular, Greater, Superior.  Each level restores 20% of your maximum mana.  Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are.",
+        "value": "マナポーションには五つのレベルがあります。下から下級、軽級、一般、上級、高級です。ポーションのレベルにつき最大マナの20%を回復します。魂はマナポーションでは回復できませんが、獄炎、夏火、冬氷はマナポーションでも回復できます。",
         "json": [
           {
-            "text": "Mana potions",
+            "text": "マナポーション",
             "color": "blue"
           },
           {
-            "text": " have five levels, they are: Minor, Light, Regular, Greater, Superior. Each level restores 20% of your maximum mana. Souls are not restorable by mana potions, however Brimstone, Summer Fire, and Winter Ice all are."
+            "text": "には五つのレベルがあります。下から下級、軽級、一般、上級、高級があります。ポーションのレベルにつき最大マナの20%を回復します。魂はマナポーションでは回復できませんが、獄炎、夏火、冬氷はマナポーションでも回復できます。"
           }
         ]
       }
@@ -439,42 +445,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "How to Progress"
+        "value": "このMODの進め方"
       },
       {
         "type": "text",
-        "value": "The occulus is a block that will help guide you through this mod along with this book.  It will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked.\n\nTo see what you need to do in order to progress, click the progress tab.\n\nConsider the occulus a list of *what* you need do to in order to progress, and this book instructions on *how*.\n\nRemember this book has a search feature to easily find things within it that you're looking for.",
+        "value": "オキュラスは、この本と一緒にこのMODを案内してくれるブロックです。 このMODの中で新しいものをアンロックするために必要なこと、そして現在アンロックされているものを示してくれます。\n\n進行するために必要なことを確認するには、進行状況タブをクリックします。\n\nオキュラスは上達するために*必要な行動*のリストであり、本書は*方法*の説明書だと考えてください。\n\nこの本には検索機能がついているので、探しているものを簡単に見つけることができます。",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "occulus",
+            "text": "オキュラス",
             "color": "blue"
           },
           {
-            "text": " is a block that will help guide you through this mod along with this book. \n\nIt will show you what you need to do in order to unlock new things within the mod, as well as what you currently have unlocked. \n\nTo see what you need to do in order to progress, click the progress tab. \n\nConsider the occulus a list of *"
+            "text": "は、この本と一緒にこのMODを案内してくれるブロックです。 このMODの中で新しいものをアンロックするために必要なこと、そして現在アンロックされているものを示してくれます。\n\n進行するために必要なことを確認するには、進行状況タブをクリックします。\n\nオキュラスは上達するために*"
           },
           {
-            "text": "what",
+            "text": "必要な行動",
             "color": "blue"
           },
           {
-            "text": "* you need do to in order to progress, and this book instructions on *"
+            "text": "*のリストであり、本書は*"
           },
           {
             "text": "how",
             "color": "blue"
           },
           {
-            "text": "*. \n\n"
+            "text": "*の説明書だと考えてください。\n\n"
           },
           {
-            "text": "Remember this book has a search feature",
+            "text": "この本には検索機能がついているので、",
             "color": "dark_purple"
           },
           {
-            "text": " to easily find things within it that you're looking for."
+            "text": "探しているものを簡単に見つけることができます。"
           }
         ]
       }
@@ -492,20 +498,20 @@
     "sections": [
       {
         "type": "title",
-        "value": "New Villager Types"
+        "value": "新たな村人"
       },
       {
         "type": "text",
-        "value": "Mana and Artifice adds three new villager types to help you with resources and trade throughout your playthrough.  Each one specializes in a different area of the mod, and can be used to help progress or simply trade for fun and useful items.  They are not required to start nor progress through the mod, if villagers aren't your thing.  M&A villagers trade in both emeralds and Transmuted Silver, so be sure to stock up on both.\n\nAll villager types can spawn naturally in villages, or can be created per vanilla rules by using their specific job block.",
+        "value": "Mana and Artificeには3つの新しい村人が追加され、プレイ中、資源や取引であなたを助けてくれます。 それぞれModの異なるエリアに特化しており、進行に役立てたり、単に楽しくて便利なアイテムと交換したりすることができます。 村人が苦手な場合は、MODの開始や進行に必須ではないので関わらなくても問題ないです。 M&A村人はエメラルドとトランスミューテッドシルバーの両方を取引するので、両方を蓄えておくのが賢明だ。",
         "json": [
           {
-            "text": "I am not alone in my quest for magic.  In villages throughout the world I have seen other practitioners peddling their wares.  Each one seems to specialize in different facets of magic, from general magic, to weaving magic into the air, to smithing powerful runes to enchant gear.\n\nIn terms of currency, I have seen them ask for Transmuted Silver, so I should stock up on that before making the journey to trade. \n\nI'm certain I can complete my studies without their help if I needed to though."
+            "text": "魔術の道は孤独ではない。この世界の様々な村にて他の探究者が行商を行っているのを見かけた事がある。それぞれ魔術の別の分野に特化しているようで、一般的な魔法や、魔術の空中投影を行ったり、強力なルーンを防具に刻むことでエンチャントを行うのもいるようだ。\n\n彼らは通貨として変異銀を取引するようで、蓄えておくのが賢明だろう。 \n\n必要とあらば、彼らの助けがなくても研究を終わらせる事は可能だろう。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Spellmongers",
+        "value": "魔法使い",
         "newPage": true
       },
       {
