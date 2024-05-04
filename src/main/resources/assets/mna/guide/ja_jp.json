@@ -106,7 +106,7 @@
             "color": "blue"
           },
           {
-            "text": "分けされています。それらは横の緑色のタブで表示され、MOD内の様々な種類のアイテムを表しています。 カテゴリをクリックすると、その中にあるアイテムが表示されます。"
+            "text": "分けされています。それらは右の緑色のタブで表示され、MOD内の様々な種類のアイテムを表しています。 カテゴリをクリックすると、その中にあるアイテムが表示されます。"
           }
         ]
       },
@@ -338,7 +338,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "マナ、再生と詠唱触媒"
+        "value": "マナ、再生と詠唱リソース"
       },
       {
         "type": "text",
@@ -387,7 +387,7 @@
             "color": "blue"
           },
           {
-            "text": "を使用します。それぞれの詠唱資源は少し異なっており、その派閥のページにて解説されています。以降のページでは、"
+            "text": "を使用します。それぞれの詠唱リソースは少し異なっており、その派閥のページにて解説されています。以降のページでは、"
           },
           {
             "text": "マナ",
@@ -445,11 +445,11 @@
     "sections": [
       {
         "type": "title",
-        "value": "このMODの進め方"
+        "value": "魔術の研究の進め方"
       },
       {
         "type": "text",
-        "value": "オキュラスは、この本と一緒にこのMODを案内してくれるブロックです。 このMODの中で新しいものをアンロックするために必要なこと、そして現在アンロックされているものを示してくれます。\n\n進行するために必要なことを確認するには、進行状況タブをクリックします。\n\nオキュラスは上達するために*必要な行動*のリストであり、本書は*方法*の説明書だと考えてください。\n\nこの本には検索機能がついているので、探しているものを簡単に見つけることができます。",
+        "value": "オキュラスは、この本と一緒にこのMODを案内してくれるブロックです。 魔術の分野で新しいものをアンロックするために必要なこと、そして現在アンロックされているものを示してくれます。\n\n進行するために必要なことを確認するには、進行状況タブをクリックします。\n\nオキュラスは上達するために*必要な行動*のリストであり、本書は*方法*の説明書だと考えてください。\n\nこの本には検索機能がついているので、探しているものを簡単に見つけることができます。",
         "json": [
           {
             "text": ""
@@ -459,7 +459,7 @@
             "color": "blue"
           },
           {
-            "text": "は、この本と一緒にこのMODを案内してくれるブロックです。 このMODの中で新しいものをアンロックするために必要なこと、そして現在アンロックされているものを示してくれます。\n\n進行するために必要なことを確認するには、進行状況タブをクリックします。\n\nオキュラスは上達するために*"
+            "text": "は、この本と一緒にこの探求を案内してくれるブロックです。 この分野の中で新しいものをアンロックするために必要なこと、そして現在アンロックされているものを示してくれます。\n\n進行するために必要なことを確認するには、進行状況タブをクリックします。\n\nオキュラスは上達するために*"
           },
           {
             "text": "必要な行動",
@@ -469,7 +469,7 @@
             "text": "*のリストであり、本書は*"
           },
           {
-            "text": "how",
+            "text": "どうやって",
             "color": "blue"
           },
           {
@@ -511,153 +511,163 @@
       },
       {
         "type": "title",
-        "value": "魔法使い",
+        "value": "魔法商",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "Spellmongers sell useful herbalist pouches, inks, and other common ingredients you'll frequently need throughout the mod.  The Spellmonger's job block is the Runeforge.",
+        "value": "魔法商は、便利な薬草屋のポーチやインク、その他MODの中で頻繁に必要となる一般的な材料を売っています。 呪術師の職業ブロックはRuneforgeです。",
         "json": [
           {
-            "text": "Spellmongers",
+            "text": "魔法商",
+            "color": "dark_purple"
+          },
+          
+          {
+            "text": "は、ランダムな魔法の花や、"
+          },
+          {
+            "text": "インク",
+            "color": "blue"
+          },
+          {
+            "text": "、そして他のよく使う"
+          },
+          {
+            "text": "一般的な素材",
+            "color": "blue"
+          },
+          {
+            "text": "が入っている"
+          },
+          {
+            "text": "薬師のポーチ",
+            "color": "blue"
+          },
+          
+          {
+            "text": "が購入できます。ポーチは革と糸でできており、素材を取り出した後に再利用できます。\n\n魔法商は仕事をするのに"
+          },
+          {
+            "text": "ルーンかまど",
             "color": "dark_purple"
           },
           {
-            "text": " sell useful "
-          },
-          {
-            "text": "herbalist pouches",
-            "color": "blue"
-          },
-          {
-            "text": " which contain random magical flowers, "
-          },
-          {
-            "text": "inks",
-            "color": "blue"
-          },
-          {
-            "text": ", and "
-          },
-          {
-            "text": "other common ingredients",
-            "color": "blue"
-          },
-          {
-            "text": " I frequently need for spell crafting.  The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that Spellmongers seem to require a "
-          },
-          {
-            "text": "Runeforge",
-            "color": "dark_purple"
-          },
-          {
-            "text": " to do their job."
+            "text": "が必要なようだ。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Manaweavers",
+        "value": "マナ織り師",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "Manaweavers sell useful manaweaver pouches, foci, silks and tea.  The Manaweaver's job block is the Manaweaving Altar.",
+        "value": "マナ織り師は、便利なマナウィーバーポーチやフォーチ、シルク、お茶などを売っています。 マナウィーバーのジョブブロックは、マナウィービング祭壇です。",
         "json": [
           {
-            "text": "Manaweavers",
+            "text": "マナ織り師は",
             "color": "dark_purple"
           },
           {
-            "text": " sell useful "
+            "text": "は、"
+          },
+          
+          {
+            "text": "即興で利用できるマナ織りの瓶詰や、"
           },
           {
-            "text": "manaweaver pouches",
+            "text": "焦点",
             "color": "blue"
           },
           {
-            "text": " which contain bottled manaweaves for quick use, "
+            "text": "、"
           },
           {
-            "text": "foci",
+            "text": "魔法の絹",
             "color": "blue"
           },
           {
-            "text": ", "
+            "text": "、そしてマナの回復を助ける"
           },
           {
-            "text": "magical silks",
+            "text": "お茶",
             "color": "blue"
           },
           {
-            "text": " and "
+            "text": "が含まれる"
           },
           {
-            "text": "teas ",
+            "text": "マナ織り師のポーチ",
             "color": "blue"
           },
+
           {
-            "text": "that help my mana regenerate faster. The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that Manaweavers seem to require a "
+            "text": "を売っています。ポーチは革と糸でできており、素材を取り出した後に再利用できます。\n\nマナ織り師は仕事をするのに"
           },
           {
-            "text": "Manaweaving Altar",
+            "text": "マナ織りの祭壇",
             "color": "dark_purple"
           },
           {
-            "text": " to do their job."
+            "text": "が必要なようだ。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Runesmiths",
+        "value": "ルーン鍛冶",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "Runesmiths sell useful inscription pouches, runes of marking, and other useful items for runescribing and construct crafting.  The Runesmiths's job block is the Runescribing Table.",
+        "value": "ルーン鍛冶は、ルーンスクリプションやコンストラクトのクラフトに便利なインスクリプションポーチやマーキングのルーンなどを販売しています。 ルーン師の職業ブロックはルーンスクリプティングテーブルです。",
         "json": [
           {
-            "text": "Runesmiths",
+            "text": "ルーン鍛冶",
             "color": "dark_purple"
           },
           {
-            "text": " sell useful "
+            "text": "は、"
+          },
+          
+          {
+            "text": "様々なルーンや、"
           },
           {
-            "text": "inscription pouches",
+            "text": "マーキングのルーン",
+            "color": "blue"
+          },
+          
+          {
+            "text": "、"
+          },
+          
+          {
+            "text": "その他コンストラクトやルーン鍛冶に便利なアイテムが含まれる",
             "color": "blue"
           },
           {
-            "text": " which contain various runes, "
-          },
-          {
-            "text": "runes of marking",
+            "text": "刻印師のポーチ",
             "color": "blue"
           },
           {
-            "text": ", "
+            "text": "を売っています。ポーチは革と糸でできており、素材を取り出した後に再利用できます。\n\n"
           },
           {
-            "text": "other useful items for runesmithing and construct crafting.",
-            "color": "blue"
-          },
-          {
-            "text": " The pouches are made leather and string which I can re-purpose after I have gotten the ingredients out.\n\nI've noticed that "
-          },
-          {
-            "text": "Runesmiths",
+            "text": "ルーン鍛冶",
             "color": "dark_purple"
           },
           {
-            "text": " seem to require a "
+            "text": "は仕事をするのに"
           },
           {
-            "text": "Runescribing Table",
+            "text": "ルーン刻印台",
             "color": "dark_purple"
           },
           {
-            "text": " to do their job."
+            "text": "が必要なようだ。"
           }
         ]
       }
@@ -690,41 +700,41 @@
     "sections": [
       {
         "type": "title",
-        "value": "Flowers"
+        "value": "魔法の花"
       },
       {
         "type": "text",
-        "value": "There are certain flowers that grow around the world that I'll need in order to make the most use of magic.  These flowers are often used as reagents or ingredients, so I should take note of where to find them.",
+        "value": "世界には、魔法を使いこなすために必要な花が咲いています。 この花は試薬や材料として使われることが多いので、どこにあるか覚えておくと便利です。",
         "json": [
           {
-            "text": "There are certain flowers that grow around the world that I'll need in order to make the most use of magic. These flowers are often used as reagents or ingredients, so I should take note of where to find them.\n\nAll of these flowers can be crushed into dyes, some of the colors being particularly hard to find otherwise.\n\nI can also trade with "
+            "text": "この世界には、魔法の力をより引き出すための花が咲いています。この花は試薬や材料として使われることが多いので、どこにあるか覚えておくと便利です。\n\nこれらの花は潰すことで、すべて染料にでき、いくつかの色は他の方法では入手が困難なものもあります。\n\nさらに、"
           },
           {
-            "text": "Spellmongers",
+            "text": "魔法商",
             "color": "blue"
           },
           {
-            "text": " in "
+            "text": "から"
           },
           {
-            "text": "villages",
+            "text": "村",
             "color": "blue"
           },
           {
-            "text": " for "
+            "text": "で"
           },
           {
-            "text": "Herbalist Pouches",
+            "text": "薬師のポーチ",
             "color": "blue"
           },
           {
-            "text": " for these flowers if I do not wish to locate them myself. "
+            "text": "を買うことで自分で見つけるのが面倒な場合でも花を手に入れることができます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Aum",
+        "value": "アウム",
         "newPage": true
       },
       {
@@ -734,30 +744,30 @@
       },
       {
         "type": "text",
-        "value": "Sometimes known as the 'lily of life', aum flowers are found in Forests and Plains.  They often have uses in healing and restorative endeavors despite their extremely bitter taste.",
+        "value": "アウムの花は、森や平原に自生し、「命のユリ」とも呼ばれています。 ",
         "json": [
           {
-            "text": "Sometimes known as the 'lily of life', "
+            "text": "「命のユリ」とも呼ばれる、 "
           },
           {
-            "text": "Aum",
+            "text": "アウム",
             "color": "blue"
           },
           {
-            "text": " are found in "
+            "text": "は、"
           },
           {
-            "text": "Forests and Plains",
+            "text": "森や平原",
             "color": "dark_purple"
           },
           {
-            "text": ". They often have uses in healing and restorative endeavors despite their extremely bitter taste."
+            "text": "に自生しています。非常に苦い花だが、癒しや回復のために使われることが多い。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Cerublossom",
+        "value": "セルの花",
         "newPage": true
       },
       {
@@ -767,30 +777,30 @@
       },
       {
         "type": "text",
-        "value": "An extremely common flower, cerublossom is often mistaken for a blue orchid at a glance.  However, they do have a telltale shimmer at closer inspection.  They can be found in Forests, Plains, and Wintery places.  Cerublossom are used in a wide variety of magical recipes.  It's been said that they can emit a soothing hum that can only be heard by young children.",
+        "value": "非常にありふれた花であるセルの花は、一見すると青い蘭と間違われることが多いです。 しかし、よく見るとキラキラと光っているのがわかります。 森や平原、冬によく見かける。 セルブロッサムは、さまざまな魔法のレシピに使用されています。 また、幼い子供にしか聞こえないような、心地よい音を発すると言われています。",
         "json": [
           {
-            "text": "An extremely common flower, "
+            "text": "非常にありふれた花である "
           },
           {
-            "text": "Cerublossom ",
+            "text": "セルの花",
             "color": "blue"
           },
           {
-            "text": "are often mistaken for a blue orchid at a glance. However, they do have a telltale shimmer at closer inspection. They can be found in "
+            "text": "は、一見すると青い蘭と間違われることが多いです。しかし、よく見るとキラキラと光っているのがわかります。 この花は"
           },
           {
-            "text": "forests, plains, and wintery places",
+            "text": "森や平原、そして寒い地方",
             "color": "dark_purple"
           },
           {
-            "text": ". Cerublossom are used in a wide variety of magical recipes. It's been said that they can emit a soothing hum that can only be heard by young children."
+            "text": "にてよく生えています。セルの花は、さまざまな魔法のレシピに使用されています。 また、幼い子供にしか聞こえないような、心地よい音を発すると言われています。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Tarma Root",
+        "value": "タルマの根",
         "newPage": true
       },
       {
@@ -800,27 +810,27 @@
       },
       {
         "type": "text",
-        "value": "Tarma root grow in large quantities in swamps.  Their sharp thorns make them uncomfortable to pick and nearly impossible to eat.  The way these roots can sway in the wind has lead to stories about them granting the ability to fly.  This, however, has never been accomplished and is widely believed to be nothing more than a legend.",
+        "value": "タルマの根は沼地に大量に生えています。 鋭い棘があるため、摘み取るのは困難で、食べることもほとんど不可能である。 この根が風に揺れる様から、空を飛ぶ能力があるという話もある。 しかし、実際に空を飛ぶことはできず、伝説に過ぎないという説が有力である。",
         "json": [
           {
-            "text": "Tarma Root ",
+            "text": "タルマの根",
             "color": "blue"
           },
           {
-            "text": "grow in large quantities in "
+            "text": "は "
           },
           {
-            "text": "swamps",
+            "text": "沼地",
             "color": "dark_purple"
           },
           {
-            "text": ". Their sharp thorns make them uncomfortable to pick and nearly impossible to eat. The way these roots can sway in the wind has lead to stories about them granting the ability to fly. This, however, has never been accomplished and is widely believed to be nothing more than a legend."
+            "text": "に大量に生えています。鋭い棘があるため、摘み取るのは困難で、食べることもほとんど不可能だ。この根が風に揺れる様から、空を飛ぶ力をもたらすという話もある。しかし、実際に空を飛ぶことはできず、伝説に過ぎないという説が有力である。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Desert Nova",
+        "value": "デザートノヴァ",
         "newPage": true
       },
       {
@@ -830,30 +840,31 @@
       },
       {
         "type": "text",
-        "value": "As their namesake suggests, Desert Nova grow in sandy regions.  Even on the coldest desert night they are warm to the touch, and have been used by many to keep warm by keeping a few in their pockets.",
+        "value": "デザート・ノヴァは、その名の通り、砂地に生育する植物です。 ",
         "json": [
           {
-            "text": "As their namesake suggests, "
+            "text": "その名の通り、 "
           },
           {
-            "text": "Desert Nova ",
+            "text": "デザート・ノヴァ",
             "color": "blue"
           },
           {
-            "text": "grow in "
-          },
-          {
-            "text": "warm sandy regions",
+            "text": "砂地に",
             "color": "dark_purple"
           },
           {
-            "text": ". Even on the coldest desert night they are warm to the touch, and have been used by many to keep warm by keeping a few in their pockets."
+            "text": "に生息します"
+          },
+          
+          {
+            "text": "。砂漠の一番寒い夜でも暖かく、ポケットに忍ばせて防寒対策に使う人も多い。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Wakebloom",
+        "value": "ウェイクブルーム",
         "newPage": true
       },
       {
@@ -863,21 +874,21 @@
       },
       {
         "type": "text",
-        "value": "Wakebloom thrive in water, growing as small seeds along the ocean floors and riverbeds before floating up to the top of the water and blooming in a beautiful fashion.  They carry a surprising amount of water with them even when harvested.",
+        "value": "ウェイクブルームは海底や川底で小さな種から成長し、水面に浮かび上がって美しい花を咲かせます。 収穫しても、驚くほど多くの水を含んでいます。",
         "json": [
           {
-            "text": "Wakebloom ",
+            "text": "ウェイクブルーム",
             "color": "blue"
           },
           {
-            "text": "thrive in "
+            "text": "は"
           },
           {
-            "text": "water",
+            "text": "水",
             "color": "dark_purple"
           },
           {
-            "text": ", growing as small seeds along the ocean floors and riverbeds before floating up to the top of the water and blooming in a beautiful fashion. They carry a surprising amount of water with them even when harvested."
+            "text": "を好み、海底や川底で小さな種から成長し、水面に浮かび上がって美しい花を咲かせます。収穫た後も、驚くほど多くの水を含んでいます。"
           }
         ]
       }
@@ -911,11 +922,11 @@
     "sections": [
       {
         "type": "title",
-        "value": "Vinteum"
+        "value": "ヴィンテウム"
       },
       {
         "type": "text",
-        "value": "I'm not sure what causes this seemingly coalesced arcane energy to gather in certain stones underground."
+        "value": "地中のある石に、一見すると凝集したような魔力が集まっているのは、何故なのかよくわからない。"
       },
       {
         "type": "item",
@@ -924,18 +935,18 @@
       },
       {
         "type": "text",
-        "value": "I do know though that I can run the ore through a furnace to turn it into a fine powder.  I'm sure there are a very large number of uses for such a thing."
+        "value": "ただし、鉱石を炉にかけて細かい粉末にすることはできると知っている。 粉にすれば使い方はいくらでもあるはずだ。"
       },
       {
         "type": "title",
-        "value": "Chimerite"
+        "value": "キメライト"
       },
       {
         "type": "text",
         "value": "I can't believe it's been under my nose this whole time - a hidden magical ore that I mistook for excess bits of rock when mining other valuable ores!  I call it Chimerite because it can look just like mining debris until one's magical senses are honed to be able to detect it.\n\nIt's easiest to find in emerald ore, something to do with the structure of emeralds themselves.  Most mages will be able to sense these with only a little bit of magical experience, probably mages that are at least level 5.\n\nNext are diamonds.  While not as easy as emeralds, chimerite can be found here by mages with a little bit more experience, above level 10.\n\nLastly is coal.  Chimerite is technically there in trace elements, but it takes a finely tuned magical mind to pick up the traces that are large enough to be useable.  I would say no mage under level 20 would see it.\n\nOn that point, I should note that the chimerite is also often destroyed as part of the mining process, and isn't always retrievable from every mining attempt.  Emeralds seem to have the best success rate here, followed by diamonds, and then again by coal.\n\nIt can be crafted into blocks and back using a crafting table.",
         "json": [
           {
-            "text": "I can't believe it's been under my nose this whole time - a hidden magical ore that I mistook for excess bits of rock when mining other valuable ores! \n\nI call it Chimerite because it can look just like mining debris until one's magical senses are honed to be able to detect it. \n\nIt's easiest to find in emerald ore, something to do with the structure of emeralds themselves. Most mages will be able to sense these with only a little bit of magical experience, probably mages that are at least level 5. \n\nNext are diamonds. While not as easy as emeralds, chimerite can be found here by mages with a little bit more experience, above level 10. \n\nLastly is coal. Chimerite is technically there in trace elements, but it takes a finely tuned magical mind to pick up the traces that are large enough to be useable. I would say no mage under level 20 would see it. \n\nOn that point, I should note that the chimerite is also often destroyed as part of the mining process, and isn't always retrievable from every mining attempt. Emeralds seem to have the best success rate here, followed by diamonds, and then again by coal. It can be crafted into blocks and back using a crafting table."
+            "text": "他の貴重な鉱石を採掘するときに、余分な岩石のかけらと間違えて、隠れた魔法の鉱石を採掘していたなんて!  魔法の感覚が研ぎ澄まされるまでは、採掘くずと同じように見えるので、キメライトと呼ばれています。\n\nエメラルド鉱石の中で最も見つけやすく、エメラルド自体の構造に関係するものです。 ほとんどの魔術師は、ほんの少しの魔法経験でこれを感知することができます。おそらくレベル5以上の魔術師が感知できるだろう。\n\n次はダイヤモンド。 エメラルドほどではないが、レベル10以上の魔術師ならここでキメライトを見つけることができます。 キメラライトは微量元素として存在するんだけど、その微量元素を使い物になる大きさに拾い上げるには、繊細な魔力が必要なんだ。 その点、キメラライトは採掘の過程で破壊されることも多く、採掘のたびに回収できるわけではありません。 一番成功率が高いのはエメラルド、次がダイヤモンド、そして石炭です。\n\n工作台を使ってブロックに細工して戻すことができる。"
           }
         ]
       }
@@ -973,20 +984,20 @@
     "sections": [
       {
         "type": "title",
-        "value": "Common Resources"
+        "value": "よく使う素材"
       },
       {
         "type": "text",
-        "value": "As you're progressing through the early stages of the mod there are several resources you'll need.  What they are, and how to obtain them, are listed below.\n\nThese are not always the only way to obtain these resources; in fact many have more convenient ways unlocked as you progress.",
+        "value": "MODの初期段階を進めていく中で、必要となるリソースがいくつかあります。 それらが何であるか、またどのように入手するかは、以下の通りです。\n\nこれらの資源は、必ずしも唯一の入手方法とは限りません。むしろ、多くの場合、進行に応じてより便利な方法がアンロックされます。",
         "json": [
           {
-            "text": "I've compiled a list of common materials I need. \nWhat they are and how to obtain them is listed below. \n\nThese are likely not always the only way to obtain these resources; in fact many will probably have more convenient ways unlocked as I progress."
+            "text": "よく使う素材のリストを作成しました。 \nそれが何か、何に使うかは下に記しました。 \n\nこれらの資源の入手法は、必ずしも唯一の入手方法とは限りません。むしろ、多くの場合、進行に応じてより便利な方法がアンロックされるはずです。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Bone Ash",
+        "value": "骨の灰",
         "newPage": true
       },
       {
@@ -996,11 +1007,11 @@
       },
       {
         "type": "text",
-        "value": "The runeforge's heat is able to break down bones into a fine ash.  I should be able to use this ash for multiple magical purposes."
+        "value": "ルーンかまどの熱は、骨を細かく砕いて灰にすることが可能です。 この灰は様々な魔法に使うことができるはずです。"
       },
       {
         "type": "title",
-        "value": "Transmuting Materials",
+        "value": "素材の変換",
         "newPage": true
       },
       {
@@ -1014,30 +1025,30 @@
       },
       {
         "type": "text",
-        "value": "Using a transmutation cantrip, I can target certain blocks placed within the world to transmute them into something else."
+        "value": "変換のキャントリップを使うことで、特定のブロックに狙いを定めて、別のものに変換することが可能です。"
       },
       {
         "type": "text",
-        "value": "- Arcane Stone is transmuted from Stone."
+        "value": "- 魔法の石は石から変換されます。"
       },
       {
         "type": "text",
-        "value": "- Arcane Sandstone is transmuted from Sandstone."
+        "value": "- 砂岩から魔法の砂岩が変換されます。"
       },
       {
         "type": "text",
-        "value": "- Transmuted Silver is transmuted from Copper Blocks."
+        "value": "- 銅のブロックから変異銀が変換されます。"
       },
       {
         "type": "text",
-        "value": "- Gravel is transmuted into flint."
+        "value": "- 砂利は火打ち石に変換されます。"
       },
       {
         "type": "text",
-        "value": "You can read more about Cantrips in their entirety under the Manaweaving section of this Codex.",
+        "value": "キャントリップについては、このCodexのManaweavingのセクションで詳しく説明されています。",
         "json": [
           {
-            "text": "I've detailed more about Cantrips in their entirety under the Manaweaving section of this Codex."
+            "text": "キャントリップについては、この本のマナ織りの項目で詳しく説明されています。"
           }
         ]
       }
@@ -1071,23 +1082,23 @@
     "sections": [
       {
         "type": "title",
-        "value": "Common Mundane Materials"
+        "value": "よく使う普通の素材"
       },
       {
         "type": "text",
-        "value": "This mod adds a few recipes for vanilla items that are often used in the mod or just generally difficult to obtain.  They are listed here.  Some are tier locked and will appear as you advance.",
+        "value": "このMODは、MODでよく使われる、あるいは一般的に入手が困難なバニラアイテムのレシピをいくつか追加します。 それらはここにリストアップされています。 いくつかはTierロックされており、上級者になると表示されるようになります。",
         "json": [
           {
-            "text": "I've created ways to magically synthesize common mundane materials that are otherwise rare or hard to obtain, but frequently used for magic. \n\nI'm sure I'll come up with more as I progress.  I'll make sure to list them here."
+            "text": "魔術にてよく使用される、レアだったり入手が困難だが一般的な素材を魔術で合成する方法を作成した。\n\n研究が進むほど、新たなレシピが思い浮かべるはずだ。思いついたらここに新しく載せるようにする。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "The included recipes are:\n\nLeather\nCrying Obsidian\nPrismarine Crystal\nPrismarine Shard\nGilded Blackstone\nName Tag\nPoisonous Potato\nSaddle",
+        "value": "記載しているレシピは:\n\nLeather\nCrying Obsidian\nPrismarine Crystal\nPrismarine Shard\nGilded Blackstone\nName Tag\nPoisonous Potato\nSaddle\nです。",
         "json": [
           {
-            "text": "The included recipes are:\n- Leather\n- Crying Obsidian\n- Prismarine Crystal\n- Prismarine Shard\n- Gilded Blackstone\n- Name Tag\n- Poisonous Potato \n- Saddle"
+            "text": "記載しているレシピは:\n\n- 革\n- 泣く黒曜石\n- プリズマリン\nクリスタル\n- プリズマリン\nの欠片\n- きらめく\nブラックストーン\n- 名札\n- 青くなったじゃがいも\n- 鞍 \nです。"
           }
         ]
       }
@@ -1133,24 +1144,24 @@
     "sections": [
       {
         "type": "title",
-        "value": "Enemies and Allies"
+        "value": "敵と味方"
       },
       {
         "type": "text",
-        "value": "This mod adds several new enemies and allies, depending on your faction choice.  You can read about them, and see them below.  They are all neutral until you reach tier 3 and choose a faction.  At that point, those allied with your faction will defend you from hostiles, and the other ones will become hostile.",
+        "value": "この世界では、あなたの派閥の選択に応じて、いくつかの新しい敵や味方になる存在がいます。 それらについては、以下の項目を読んでください。 あなたがTier 3に到達し、派閥を選択するまで、彼らはすべて中立です。 派閥を選択した時点で、あなたの派閥と同盟しているものは敵対者からあなたを守り、それ以外のものは敵対するようになります。",
         "json": [
           {
-            "text": "There are at least four "
+            "text": "最低でも４つの"
           },
           {
-            "text": "factions",
+            "text": "派閥",
             "color": "blue"
           },
           {
-            "text": ", all at war with each other.  Their troops are often encountered in the wild, but generally are passive to the factionless unless provoked.\n\nThe factions seem to deploy more powerful troops near where more powerful wizards exist.\n\n"
+            "text": "があり、お互いに戦争状態にあります。その兵士は野生でも発見できますが、無所属に対しては挑発されない限り中立です。\n\n派閥は、強力な魔術師が存在する地域により強力な兵士を派遣するようだ。\n\n"
           },
           {
-            "text": "They will attack members of opposing factions on sight, and defend those allied with their own faction.",
+            "text": "自身と同じ派閥に所属する者を守り、それ以外の者に対しては発見次第、即敵対してきます。",
             "color": "dark_purple"
           }
         ]

@@ -61,7 +61,7 @@
 	"item.mna.spell_part_thesis": "魔術の論文",
 	"item.mna.spell_part_thesis.empty": "論文が未完成である。",
 	"item.mna.spell_part_thesis.contains": "に関する詳しい文章が掲載されているようです。",
-	"item.mna.transmuted_silver": "変異した銀",
+	"item.mna.transmuted_silver": "変異銀",
 
 	"item.mna.break_ring_lesser": "破壊のリング (下位)",
 	"item.mna.break_ring_greater": "破壊のリング (上位)",
@@ -112,12 +112,12 @@
 	"item.mna.contingency_charm.charges_display": "Charges: %d/%d",
 	"item.mna.contingency_charm.consume_on_trigger": "This item will be consumed when triggered",
 
-	"item.mna.herbalist_pouch": "薬草屋のポーチ",
+	"item.mna.herbalist_pouch": "薬師のポーチ",
 	"item.mna.herbalist_pouch.desc": "便利な魔法の部品が複数入っている。 右クリックで開く。",
 	"item.mna.inscriptionist_pouch": "刻印師のポーチ",
-	"item.mna.inscriptionist_pouch.desc": "ルーンフォージに便利なアイテムが揃っています。 右クリックで開く。",
+	"item.mna.inscriptionist_pouch.desc": "ルーンフォージに便利なアイテム複数入っている。 右クリックで開く。",
 	"item.mna.weaver_pouch": "マナ織り師のポーチ",
-	"item.mna.weaver_pouch.desc": "便利なマナ織のアイテムがいくつか入っている。 右クリックで開く。",
+	"item.mna.weaver_pouch.desc": "便利なマナ織のアイテムが複数入っている。 右クリックで開く。",
 
 	"item.mna.cowl_of_consumption": "摂取のカウル",
 	"item.mna.chargeable.mana": "マナ: %.2f/%.2f",
@@ -213,7 +213,7 @@
 	"item.mna.hellfire_staff": "獄炎の杖",	
 	"item.mna.healing_poultice": "癒しの湿布",
 
-	"item.mna.infused_silk": "注入済の絹",	
+	"item.mna.infused_silk": "魔法の絹",	
 	"item.mna.infused_thread": "注入済みの糸",
 
 	"item.mna.eldrin_bracelet": "エルドリンパワーのブレスレット",	
@@ -709,7 +709,7 @@
 	"block.mna.refraction_lens_water": "Refraction Lens: Water",
 	"block.mna.refraction_lens_fire": "Refraction Lens: Fire",
 
-	"block.mna.manaweaving_altar": "Manaweaving Altar",
+	"block.mna.manaweaving_altar": "マナ織りの祭壇",
 	"block.mna.manaweaving_altar.repeat": "Right click with an empty hand to instantly re-craft:",
 	"block.mna.manaweaving_altar.repeat_mana_cost": "Costs %d mana",
 	"block.mna.manaweave_projector": "Manaweave Projector",
@@ -724,7 +724,7 @@
 	"block.mna.ritual_teleport_location": "Ritual Teleport Destination",
 	"block.mna.runic_anvil": "マナの金床",
 	"block.mna.runic_anvil.low_tier": "You feel like this might work, but you don't have the skill or knowledge to complete it at this time.",
-	"block.mna.runeforge": "Runeforge",
+	"block.mna.runeforge": "ルーンかまど",
 	"block.mna.runic_light": "Runic Light",
 	"block.mna.runic_torch": "Runic Torch",
 
@@ -747,13 +747,13 @@
 	"block.mna.spell_infusion": "Transcription Table",
 	"block.mna.book_stand": "Lectern",
 	
-	"block.mna.decoration.arcane_stone": "Arcane Stone",
-	"block.mna.decoration.arcane_stone_stairs": "Arcane Stone Stairs",
-	"block.mna.decoration.arcane_stone_slab": "Arcane Stone Slab",
-	"block.mna.decoration.arcane_stone_wall": "Arcane Stone Wall",
-	"block.mna.decoration.arcane_stone_pillar": "Arcane Stone Pillar",
+	"block.mna.decoration.arcane_stone": "魔法の石",
+	"block.mna.decoration.arcane_stone_stairs": "魔法の石の階段",
+	"block.mna.decoration.arcane_stone_slab": "魔法の石のハーフブロック",
+	"block.mna.decoration.arcane_stone_wall": "魔法の石の壁",
+	"block.mna.decoration.arcane_stone_pillar": "魔法の石の柱",
 	
-	"block.mna.decoration.vinteum_arcane_stone": "Vinteum Stone",
+	"block.mna.decoration.vinteum_arcane_stone": "ヴィンテウムの石",
 	"block.mna.decoration.vinteum_arcane_stone_chiseled": "Chiseled Vinteum Stone",
 	"block.mna.decoration.vinteum_arcane_stone_stairs": "Vinteum Stone Stairs",
 	"block.mna.decoration.vinteum_arcane_stone_stairs_line": "Vinteum Stone Stairs Line",
@@ -1017,7 +1017,7 @@
 	"gui.mna.jei.manaweaving_altar": "マナ織りの祭壇",
 	"gui.mna.jei.arcane_furnace": "Arcane Furnace",
 	"gui.mna.jei.runesmithing": "マナの金床",
-	"gui.mna.jei.runescribing": "Runescribing Table",
+	"gui.mna.jei.runescribing": "ルーン刻印テーブル",
 	"gui.mna.jei.crushing": "Crushing",
 	"gui.mna.jei.transmutation": "Transmutation",
 	"gui.mna.jei.eldrin_fume": "Eldrin Fume Filter Burnables",
@@ -1930,8 +1930,8 @@
 "mna:modifiers/precision": "Precision",
 	
 	
-	"entity.minecraft.villager.mna.spellmonger": "Spellmonger",
-	"entity.minecraft.villager.mna.manaweaver": "Manaweaver",
+	"entity.minecraft.villager.mna.spellmonger": "魔法商",
+	"entity.minecraft.villager.mna.manaweaver": "マナ織り師",
 	"entity.minecraft.villager.mna.ritualist": "Runesmith",
 "entity.mna.spectral_horse": "Summoned Skeletal Horse",
 	"entity.mna.insect_swarm": "Insect Swarm",
@@ -1942,7 +1942,7 @@
 	"entity.mna.demon_imp": "Imp",
 "entity.mna.bubble_boat": "Bubble Boat",
 	"entity.mna.lantern_wraith": "Lantern Wraith",
-	"entity.mna.spell_breaker": "Spellbreaker",
+	"entity.mna.spell_breaker": "スペルブレイカー",
 	"entity.mna.arcane_eye": "Arcane Eye",
 	"entity.mna.barkling": "Barkling",
 	"entity.mna.skeleton_assassin": "Crypt Stalker",
