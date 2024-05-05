@@ -449,7 +449,7 @@
       },
       {
         "type": "text",
-        "value": "オキュラスは、この本と一緒にこのMODを案内してくれるブロックです。 魔術の分野で新しいものをアンロックするために必要なこと、そして現在アンロックされているものを示してくれます。\n\n進行するために必要なことを確認するには、進行状況タブをクリックします。\n\nオキュラスは上達するために*必要な行動*のリストであり、本書は*方法*の説明書だと考えてください。\n\nこの本には検索機能がついているので、探しているものを簡単に見つけることができます。",
+        "value": "オキュラスは、この本と一緒にこの探求を案内してくれるブロックです。 魔術の分野で新しいものをアンロックするために必要なこと、そして現在アンロックされているものを示してくれます。\n\n進行するために必要なことを確認するには、進行状況タブをクリックします。\n\nオキュラスは上達するために*必要な行動*のリストであり、本書は*方法*の説明書だと考えてください。\n\nこの本には検索機能がついているので、探しているものを簡単に見つけることができます。",
         "json": [
           {
             "text": ""
@@ -546,14 +546,14 @@
           },
           
           {
-            "text": "が購入できます。ポーチは革と糸でできており、素材を取り出した後に再利用できます。\n\n魔法商は仕事をするのに"
+            "text": "を売っています。ポーチは革と糸でできており、素材を取り出した後に再利用できます。\n\n魔法商は仕事をするのに"
           },
           {
             "text": "ルーンかまど",
             "color": "dark_purple"
           },
           {
-            "text": "が必要なようだ。"
+            "text": "が必要なようです。"
           }
         ]
       },
@@ -611,7 +611,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "が必要なようだ。"
+            "text": "が必要なようです"
           }
         ]
       },
@@ -667,7 +667,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "が必要なようだ。"
+            "text": "が必要なようです。"
           }
         ]
       }
@@ -728,7 +728,7 @@
             "color": "blue"
           },
           {
-            "text": "を買うことで自分で見つけるのが面倒な場合でも花を手に入れることができます。"
+            "text": "を買うことで、自分で見つけるのが面倒な場合でも花を手に入れることができます。"
           }
         ]
       },
@@ -761,7 +761,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "に自生しています。非常に苦い花だが、癒しや回復のために使われることが多い。"
+            "text": "に自生しています。非常に苦い花ですが、癒しや回復のために使われることが多いです。"
           }
         ]
       },
@@ -810,7 +810,7 @@
       },
       {
         "type": "text",
-        "value": "タルマの根は沼地に大量に生えています。 鋭い棘があるため、摘み取るのは困難で、食べることもほとんど不可能である。 この根が風に揺れる様から、空を飛ぶ能力があるという話もある。 しかし、実際に空を飛ぶことはできず、伝説に過ぎないという説が有力である。",
+        "value": "タルマの根は沼地に大量に生えています。 鋭い棘があるため、摘み取るのは困難で、食べることもほとんど不可能です。 この根が風に揺れる様から、空を飛ぶ能力があるという話もありあｍす。 しかし、実際に空を飛ぶことはできず、伝説に過ぎないという説が有力です。",
         "json": [
           {
             "text": "タルマの根",
@@ -824,7 +824,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "に大量に生えています。鋭い棘があるため、摘み取るのは困難で、食べることもほとんど不可能だ。この根が風に揺れる様から、空を飛ぶ力をもたらすという話もある。しかし、実際に空を飛ぶことはできず、伝説に過ぎないという説が有力である。"
+            "text": "に大量に生えています。鋭い棘があるため、摘み取るのは困難で、食べることもほとんど不可能です。この根が風に揺れる様から、空を飛ぶ力をもたらすという話もあります。しかし、実際に空を飛ぶことはできず、伝説に過ぎないという説が有力です。"
           }
         ]
       },
@@ -858,7 +858,7 @@
           },
           
           {
-            "text": "。砂漠の一番寒い夜でも暖かく、ポケットに忍ばせて防寒対策に使う人も多い。"
+            "text": "。砂漠の一番寒い夜でも暖かく、ポケットに忍ばせて防寒対策に使う人も多いです。"
           }
         ]
       },
@@ -1148,23 +1148,24 @@
       },
       {
         "type": "text",
-        "value": "この世界では、あなたの派閥の選択に応じて、いくつかの新しい敵や味方になる存在がいます。 それらについては、以下の項目を読んでください。 あなたがTier 3に到達し、派閥を選択するまで、彼らはすべて中立です。 派閥を選択した時点で、あなたの派閥と同盟しているものは敵対者からあなたを守り、それ以外のものは敵対するようになります。",
+        "value": "この世界では、あなたの派閥の選択に応じて、いくつかの新しい敵や味方になる存在がいます。それらについては、以下の項目を読んでください。あなたがTier 3に到達し、派閥を選択するまで、彼らはすべて中立です。派閥を選択した時点で、あなたの派閥と同盟しているものは敵対者からあなたを守り、それ以外のものは敵対するようになります。",
         "json": [
           {
-            "text": "最低でも４つの"
+            "text": "４つの"
           },
           {
             "text": "派閥",
             "color": "blue"
           },
           {
-            "text": "があり、お互いに戦争状態にあります。その兵士は野生でも発見できますが、無所属に対しては挑発されない限り中立です。\n\n派閥は、強力な魔術師が存在する地域により強力な兵士を派遣するようだ。\n\n"
+            "text": "があり、お互いに戦争状態にあります。その兵士は野生でも発見できますが、無所属に対しては挑発されない限り中立です。\n\n派閥は、強力な魔術師が存在する地域により強力な兵士を派遣します。\n\n"
           },
           {
             "text": "自身と同じ派閥に所属する者を守り、それ以外の者に対しては発見次第、即敵対してきます。",
             "color": "dark_purple"
           }
-        ]
+        ],
+        "newPage": true
       },
       {
         "type": "recipe",
@@ -1174,32 +1175,32 @@
       },
       {
         "type": "title",
-        "value": "Spellbreaker"
+        "value": "スペルブレイカー"
       },
       {
         "type": "text",
-        "value": "Spell breakers are one of the soldiers of the Council of Wizards, and will aid and defend those allied to the Council.  They have a resilient shield that can reflect certain types of spells, and can unleash a battle cry that causes nearby allies of theirs to heal quickly for a short time, and to take less damage and deal much more damage for a moderate time.",
+        "value": "スペルブレイカーは魔術師評議会の兵士の1人であり、評議会に味方する者を守ります。彼らは特定の種類の呪文を反射できる弾力性のある盾を持ちます。鬨の声を放つことで、近くの味方を回復し、一定時間受けるダメージを低下させ与えるダメージを増加します。",
         "json": [
           {
-            "text": "Spellbreakers",
+            "text": "スペルブレイカー",
             "color": "blue"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": "は、派閥「"
           },
           {
-            "text": "Council",
+            "text": "評議会",
             "color": "blue"
           },
           {
-            "text": ".\n\nThey have a resilient shield that can reflect certain types of spells, although it "
+            "text": "」の兵士の一員です。\n\n彼らは一部の呪文を反射できる弾力性のある盾を持つが、"
           },
           {
-            "text": "can sometimes be broken by an axe",
+            "text": "斧で破壊",
             "color": "dark_purple"
           },
           {
-            "text": ".  Their stunning shield bash can silence for short periods of time.\n\nThey can unleash a battle cry that causes nearby allies of theirs to heal quickly for a short time, and to take less damage and deal much more damage for a moderate time."
+            "text": "することができます。彼らのシールドバッシュは相手を短時間魔法を詠唱できなくします。\n\n彼らはウォークライを放つことで、近くの味方を回復し、一定時間受けるダメージを低下させ与えるダメージを増加します。"
           }
         ]
       },
@@ -1211,25 +1212,25 @@
       },
       {
         "type": "title",
-        "value": "Witch Hunter"
+        "value": "魔女狩人"
       },
       {
         "type": "text",
-        "value": "Witch Hunters are one of the soldiers of the Council of Wizards, and will aid and defend those allied to the Council.  They are trained in agility, allowing them to attempt to dodge certain attacks and are expert marksman.  They use their crossbows to deadly effect and carry potions that can slow the movement or the mana regeneration of those unfortunate to be caught in their splash effect.",
+        "value": "魔女狩人は魔術師評議会の兵士の一員で、評議会に味方する人々を守ります。彼らは敏捷性を訓練され、特定の攻撃をかわすことができ、射撃の名手でもあります。彼らはクロスボウを駆使して攻撃し、彼らの投げたスプラッシュポーションに巻き込まれた者の動きやマナの回復を遅らせることができます。",
         "json": [
           {
-            "text": "Witch Hunters",
+            "text": "魔女狩人",
             "color": "blue"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": "は、派閥「"
           },
           {
-            "text": "Council",
+            "text": "評議会",
             "color": "blue"
           },
           {
-            "text": ". \n\nThey are trained in agility, allowing them to attempt to dodge certain attacks and are expert marksman. \n\nThey use their crossbows to deadly effect and carry potions that can slow the movement or the mana regeneration, or just deal damage to those unfortunate to be caught in their splash effect."
+            "text": "」の兵士の一員です。彼らは敏捷性を訓練され、特定の攻撃をかわすことができ、射撃の名手でもあります。\n\n彼らはクロスボウを駆使して攻撃し、彼らの投げたスプラッシュポーションに巻き込まれた者の動作やマナの回復を遅らせることができます。"
           }
         ]
       },
@@ -1240,25 +1241,25 @@
       },
       {
         "type": "title",
-        "value": "Living Ward"
+        "value": "ワード"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "Living Wards",
+            "text": "ワード",
             "color": "blue"
           },
           {
-            "text": " are creations of the "
+            "text": "は、派閥「"
           },
           {
-            "text": "Council",
+            "text": "評議会",
             "color": "blue"
           },
           {
-            "text": ".\n\nCreated to counter the flying threats of the other factions, Living Wards are small flying constructs that heavily resist magic.  They fire bolts that dampen the magic of their targets and drain a small amount of their casting resource. \n\nWhen in danger, they can detonate to drain a large amount of nearby wizards casting resource."
+            "text": "」の創造物の一つです。\n\n他の派閥の空の脅威に対応するために作成された、魔術に強い耐性を持つ飛行する小さい構造体です。彼らは相手の魔術を弱体化させるボルトを発射し、相手の詠唱リソースを少量減少させます。\n\n彼らの状態が危険になった場合、自爆することで周囲の魔術師の詠唱リソースを減らすことができます。"
           }
         ]
       },
@@ -1270,25 +1271,25 @@
       },
       {
         "type": "title",
-        "value": "Deathcap"
+        "value": "タマゴテングタケ"
       },
       {
         "type": "text",
-        "value": "Mushroom Soldiers are one of the soldiers of the Fey Courts, and will aid and defend those allied to the Fey.  They are quick and skilled with their spear, able to use it to toss their enemy into the air.  This can often combo with nearby pixies making them significantly more dangerous.",
+        "value": "キノコ兵はフェイの宮廷の兵士の一員であり、フェイに味方する者を守ります。 彼らは素早く、槍の扱いに長けており、槍で敵を空中に放り投げることができます。 この技は近くにいるピクシーとコンボになることが多く、より危険な存在となります。",
         "json": [
           {
-            "text": "Deathcaps",
+            "text": "タマゴテングタケ",
             "color": "dark_green"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": "は、派閥「"
           },
           {
-            "text": "Fey Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": ". \n\nThey are faster than they seem and wield powerful poison attacks from both near and far, however their close poison attacks are far more dangerous."
+            "text": "の兵士の一員です。 \n\n彼らは見た目よりも素早く、近距離、遠距離両方で強力な毒攻撃を行って決ます。ただ、近距離の毒攻撃のほうがさらに危険です。"
           }
         ]
       },
@@ -1300,32 +1301,32 @@
       },
       {
         "type": "title",
-        "value": "Pixie"
+        "value": "ピクシー"
       },
       {
         "type": "text",
-        "value": "Pixies are one of the soldiers of the Fey Courts, and will aid and defend those allied to the Fey.  They can spawn with one of the four elemental affinities, and each one will attack with elemental bolts.\n\nFire pixies can melt equipped armor and the heat makes those affected do less damage with their attacks.\n\nWater pixies can slow with frost, or pull you underwater.\n\nAir pixies can toss you into the air.\n\nEarth pixies can blast you with physical damage, and can pull you to the earth if you are airborne.\n\nPixies by themselves are not much more than a nuisance, but a group of them can pose a serious threat, especially when they have Mushroom Soldiers as their frontline.",
+        "value": "ピクシーは妖精の宮廷の兵士の一人であり、フェイに味方する人々を守ります。 彼らは4つの属性から1つを選んでスポーンし、それぞれがエレメンタルボルトで攻撃してきます。\n\nファイアピクシーは装備した鎧を溶かし、その熱で攻撃を受けた者のダメージを軽減させることができる。\n\n水の妖精は霜で減速したり、水中に引きずり込んだりします。\n\nエアピクシーは空中に放り出すことができる。\n\nアースピクシーは物理ダメージで吹き飛ばし、空中にいる場合は地上に引きずり込むことができる。\n\nピクシーは単体ではただの厄介者ですが、集団になると大変な脅威となり、特にキノコ兵を前線に置いた場合は注意が必要です。",
         "json": [
           {
-            "text": "Pixies",
+            "text": "ピクシー",
             "color": "dark_green"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": "は、派閥「"
           },
           {
-            "text": "Fey Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": ". \n\nThey can spawn with one of the four elemental affinities, and each one will attack with elemental bolts.  They are small and hard to hit, and more powerful ones can teleport short distances to escape foes.\n\nFire pixies can melt equipped armor and the heat makes those affected do less damage with their attacks. \n\nWater pixies can slow with frost, or pull you underwater. \n\nAir pixies can toss you into the air. \n\nEarth pixies can blast you with physical damage, and can pull you to the earth if you are airborne. \n\nPixies by themselves are not much more than a nuisance, but a group of them can pose a serious threat, especially when they have "
+            "text": "」の兵士の一員です。\n\n彼らは4つの属性から1つを選んでスポーンし、それぞれがエレメンタルボルトで攻撃してきます。彼らは小さく攻撃を当てにくく、強力な者になると敵から逃げ出すために短距離テレポートできるようになります。\n\n炎のピクシーは装備した鎧を溶かし、その熱で攻撃を受けた者の攻撃力を低下させます。\n\n水のピクシーは氷であいてを減速、相手を水中に引きずり込みます。\n\n空のピクシーは相手を空中に放り投げます。 \n\n地のピクシーは相手を物理ダメージで吹き飛ばし、相手が空中に言う場合は地面に落とします。\n\nピクシーは単体ではただの厄介者ですが、集団になると大変な脅威となり、特に"
           },
           {
-            "text": "Deathcaps",
+            "text": "キノコ兵",
             "color": "dark_green"
           },
           {
-            "text": " acting as their frontline."
+            "text": "を前線に置いた場合は注意が必要です。"
           }
         ]
       },
@@ -1337,18 +1338,18 @@
       },
       {
         "type": "title",
-        "value": "Barkling"
+        "value": "樹の精霊"
       },
       {
         "type": "text",
-        "value": "Barklings are part of the Fey Courts, and serve as lightweight infantry.  Wielding improvised wooden weapons and shields, they are capable combatants that know how to stand up to a wizard if needed.",
+        "value": "樹の精霊は妖精の宮廷の兵士の一員であり、軽装の歩兵としての役割を果たします。即席の木製盾と剣を装備し、必要な場合に魔術師に対して立ち上がる方法を知っています。",
         "json": [
           {
-            "text": "Barklings",
+            "text": "樹の精霊",
             "color": "dark_green"
           },
           {
-            "text": " are part of the Fey Courts, and serve as lightweight infantry. \n\nWielding improvised wooden weapons and shields, they are capable combatants that know how to stand up to a wizard if needed."
+            "text": "は「妖精の宮廷」の兵士の一員であり、軽装の歩兵としての役割を果たします。\n\n即席の木製盾と剣を装備し、必要な場合に魔術師に対して立ち上がる方法を知っています。"
           }
         ]
       },
@@ -1360,25 +1361,25 @@
       },
       {
         "type": "title",
-        "value": "Imp"
+        "value": "インプ"
       },
       {
         "type": "text",
-        "value": "Imps are one of the soldiers of the Demons of the Nether, and will aid and defend those allied to the Demons.  They have powerful legs that let them leap great distances at their targets, covering ground quickly.  Their sharp claws have made short work of many a wizard.",
+        "value": "インプはネザーの悪魔の兵士の一員で、悪魔と同盟を結んでいる人々を守ります。 彼らは強力な足を持っており、ターゲットに向かって遠くから跳躍し、素早く距離を移動することができます。 その鋭い爪は、多くの魔術師を手こずらせました。",
         "json": [
           {
-            "text": "Imps",
+            "text": "インプ",
             "color": "dark_red"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": "は、派閥「"
           },
           {
-            "text": "Demons of the Nether",
+            "text": "ネザーの悪魔",
             "color": "dark_red"
           },
           {
-            "text": ". \n\nThey have powerful legs that let them leap great distances at their targets, covering ground quickly. Their sharp claws have made short work of many a wizard."
+            "text": "」の兵士の一員です。\n\n 彼らは強力な足を持っており、ターゲットに向かって遠くから跳躍し、素早く距離を移動することができます。 その鋭い爪は、多くの魔術師を手こずらせました。"
           }
         ]
       },
@@ -1390,25 +1391,25 @@
       },
       {
         "type": "title",
-        "value": "Lantern Wraith"
+        "value": "ランタンレイス"
       },
       {
         "type": "text",
-        "value": "Lantern Wraiths are one of the soldiers of the Demons of the Nether, and will aid and defend those allied to the Demons.  They fire bolts made of the souls of those they've slain, and each one increasingly slows and deals more damage as their target is drained more and more.  These bolts eat away at the very life force of their target, and have been said to also drain mana of those they hit.",
+        "value": "ランタンレイスはネザーの悪魔の兵士の1人で、デーモンと同盟を結んでいる人々を守ります。 彼らは殺害した者の魂で作られたボルトを発射し、それは相手が被弾して消耗するにつれて次第に相手の速度を落とし、より大きなダメージを与えるようになります。 このボルトは標的の生命力を蝕み、当たった者のマナも消耗します。",
         "json": [
           {
-            "text": "Lantern Wraiths",
+            "text": "ランタンレイス",
             "color": "dark_red"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": "は、派閥「"
           },
           {
-            "text": "Demons of the Nether",
+            "text": "ネザーの悪魔",
             "color": "dark_red"
           },
           {
-            "text": ". \n\nThey fire long range bolts made of the souls of those they've slain, and each one increasingly slows and deals more damage as their target is drained more and more. These bolts eat away at the very life force of their target, and have been said to also drain mana of those they hit."
+            "text": "」の兵士の一員です。. \n\n彼らは殺害した者の魂で作られたボルトを発射し、それは相手が被弾して消耗するにつれて次第に相手の速度を落とし、より大きなダメージを与えるようになります。このボルトは標的の生命力を蝕み、当たった者のマナも消耗します。"
           }
         ]
       },
@@ -1420,25 +1421,25 @@
       },
       {
         "type": "title",
-        "value": "Hulking Zombie"
+        "value": "ムキゾンビ"
       },
       {
         "type": "text",
-        "value": "Hulking Zombies are one of the soldiers of the Undead, and will aid and defend those allied to the Undead.  They can take an extreme amount of damage, and can dish it out as well.  Their attacks can either knock their target back or up into the air, and they've been known to leap at airborne targets with the intent of spiking them back down to the ground (often at the expense of their own safety).",
+        "value": "ムキゾンビはアンデッドの兵士の一員で、アンデッドに味方する者を守ります。 彼らは極端な量のダメージを耐えることができ、またそれを与えることもできます。 彼らの攻撃はターゲットをノックバックさせたり空中に吹き飛ばすことができ、空中にいるターゲットに飛びかかり、地面に叩きつけることが知られている（しばしば自分の安全を犠牲にして）。",
         "json": [
           {
-            "text": "Hulking Zombies",
+            "text": "ムキゾンビ",
             "color": "dark_gray"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": "は、派閥「"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": ". \n\nThey can take an extreme amount of damage, and can dish it out as well. Their attacks can either knock their target back or up into the air, and they've been known to leap at airborne targets with the intent of spiking them back down to the ground (often at the expense of their own safety)."
+            "text": "」の兵士の一員です。\n\n 彼らは極端な量のダメージを耐えることができ、またそれを与えることもできます。彼らの攻撃はターゲットをノックバックさせたり空中に吹き飛ばすことができ、さらには空中にいるターゲットに飛びかかり、地面に叩きつけることも知られています（しばしば自分の安全を犠牲にして）。"
           }
         ]
       },
@@ -1450,25 +1451,25 @@
       },
       {
         "type": "title",
-        "value": "Skeleton Assassin"
+        "value": "スケルトンアサシン"
       },
       {
         "type": "text",
-        "value": "Skeleton Assassins are one of the soldiers of the Undead, and will aid and defend those allied to the Undead.  These terrifying stalkers have the ability to drop smoke bombs to make themselves invisible.  They know how to attack from concealment, making their attacks deal significantly more damage.  They also can throw deadly shurikens with high speed, and will throw bolos at flying targets in an attempt to bring them to the ground.",
+        "value": "スケルトンアサシンは不死者の兵士の一員であり、アンデッドに味方する者を守ります。この恐ろしいストーカー達は、煙幕を使用して自分の姿を見えなくする能力を持っています。彼らは身を隠しながら攻撃する方法を知っており、その攻撃は通常より大きなダメージを与えます。また、高速で手裏剣を投げることもでき、飛んでいるターゲットに対してはボロ（投げナイフ）を投げて地面に叩きつけようとします。",
         "json": [
           {
-            "text": "Skeleton Assassins",
+            "text": "スケルトンアサシン",
             "color": "dark_gray"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": "は、派閥「"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": ". \n\nThese terrifying stalkers have the ability to drop smoke bombs to make themselves invisible. They know how to attack from concealment, making their attacks deal significantly more damage. They also can throw deadly shurikens with high speed, and will throw bolos at flying targets in an attempt to bring them to the ground."
+            "text": "の兵士の一員です。\n\nこの恐ろしいストーカー達は、煙幕を使用して自分の姿を見えなくする能力を持っています。彼らは身を隠しながら攻撃する方法を知っており、その攻撃は通常より大きなダメージを与えます。また、高速で手裏剣を投げることもでき、飛んでいるターゲットに対してはボロ（投げナイフ）を投げて地面に叩きつけようとします。"
           }
         ]
       },
@@ -1479,105 +1480,105 @@
       },
       {
         "type": "title",
-        "value": "Chatterer"
+        "value": "チャッター"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "An insidious creature within the legions of the ",
+            "text": "派閥「",
             "color": "black"
           },
           {
-            "text": "undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": ", the Chatterer's iconic clicking sound has conditioned many a miner to abandon whatever they were doing and instead focus on the now obvious threat. ",
+            "text": "」に所属する陰湿な化け物、チャッターの象徴的なクリック音は多くの鉱夫に、やっていることを全て中止し、現れた脅威に集中するよう。",
             "color": "black"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "Found in the deepest depths and empowered with dark powers of plague and rot, the Chatterer will first use its magic to ",
+            "text": "深き深層にて見つかり、疫病と腐敗の闇の力によってこの化け物は動きます。チャッターはまず、その魔術で",
             "color": "black"
           },
           {
-            "text": "blind its victim",
+            "text": "被害者を盲目にします",
             "color": "blue"
           },
           {
-            "text": ". This is, thankfully, the largest effect the weakest variants of the chatterer can muster. More powerful Chatterers can layer on additional ",
+            "text": "。これは幸いなことに、一番弱い種類のチャッターが与える最大限影響です。さらに強力なチャッターは追加で",
             "color": "black"
           },
           {
-            "text": "toxins, vulnerabilities",
+            "text": "猛毒と弱体化",
             "color": "blue"
           },
           {
-            "text": ", and even make their targets ",
+            "text": "を与え、さらに相手に",
             "color": "black"
           },
           {
-            "text": "wither away",
+            "text": "衰弱",
             "color": "blue"
           },
           {
-            "text": ". ",
+            "text": "を付与することがあります。",
             "color": "black"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "Once sufficiently weakened and helpless, the Chatterer will ",
+            "text": "被害者が十分に弱体化し、無力になってあとにチャッターは",
             "color": "black"
           },
           {
-            "text": "destroy itself to summon additional undead",
+            "text": "自身を破壊し追加のアンデッドを召喚",
             "color": "blue"
           },
           {
-            "text": " to finish its grim work. ",
+            "text": "し、仕事を終わらせる最後の一押しにします。",
             "color": "black"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "The only saving grace to be found lies in the magical link between their eye and their target. Looking directly into the eye seems to stun the Chatterer...but that becomes impossible to do when blinded. ",
+            "text": "唯一の救いは、被害者とチャッターの目の間に見られる魔法の繋がりにあります。チャッターの目に視線を合わせることで、相手をスタンさせることができるようだ...だが相手に盲目にされた場合それを行うのは不可能になる。",
             "color": "black"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "Some also tell of a bright source of light such as a wizard that has made themselves ",
+            "text": "噂では、魔術師が自身の",
             "color": "black"
           },
           {
-            "text": "glow ",
+            "text": "身体を強力な光で光らせる",
             "color": "blue"
           },
           {
-            "text": "being effective, provided they can get close enough. ",
+            "text": "のが有効とされています。十分近くに近づくことが可能な前提ですが。",
             "color": "black"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "All of this is easier said than done as well, for ",
+            "text": "これらのすべては、言うは易く行うは難しである。さらに",
             "color": "black"
           },
           {
-            "text": "Chatterers seldom travel alone",
+            "text": "チャッターはめったに単独で行動しません",
             "color": "blue"
           },
           {
-            "text": ". In particular, Skeleton Assassins are far more deadly with the support of a Chatterer.",
+            "text": "。特に、スケルトンアサシンはチャッターの援護があると更なる脅威になります。",
             "color": "black"
           }
         ]
@@ -1591,32 +1592,32 @@
     "sections": [
       {
         "type": "title",
-        "value": "Factions"
+        "value": "派閥"
       },
       {
         "type": "text",
-        "value": "At a certain point in your journey through the world of the arcane, you will need to choose a faction.  This is given to you as a choice of a series of rituals to complete.\n\nChoose wisely.\n\nYour faction, once chosen, cannot be changed.",
+        "value": "魔法の世界を探求していると、ある時点であなたは派閥を選択する必要ができます。 これは、どの儀式を完了するかの選択として現れます。\n\n賢明に選ぶこと。\n\n一度選択した派閥は変更できません。",
         "json": [
           {
-            "text": "If I want to continue my journey through the world of the arcane, I will need to choose a faction.  Only they can provide the knowledge I seek.\n\nThis is given to me as a choice of a series of tasks to complete. I must choose wisely. \nMy faction, once chosen, cannot be changed."
+            "text": "魔法の世界を探求しているとある時点で、あなたは派閥を選択する必要ができます。 これは、どの派閥の儀式を完了するかの選択として現れます。\n\n賢明に選ぶこと。\n\n一度選択した派閥は変更できません。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "When you choose a faction, you make enemies out of the other ones.  Their mobs, which spawn naturally throughout the worlds where appropriate will become hostile to you.  However, your faction's mobs will come to your aid if they see you in trouble.",
+        "value": "派閥を選択すると、それ以外の派閥を敵に回すことになります。 派閥のモブは、条件を満たしたワールドの至る所に自然発生し、あなたに対して敵対的になります。\n\nしかし、あなたの派閥の一員は、あなたが攻撃されているのを見ると助けに来てくれるでしょう。",
         "json": [
           {
-            "text": "Once I choose a faction, I will make enemies out of the other ones.  Their troops, which can be found throughout the various worlds will become hostile to me.\n\nHowever, I do not stand alone.  My own faction's mobs will come to my aid if they see me in trouble."
+            "text": "派閥を選択すると、それ以外の派閥を敵に回すことになります。 派閥のモブは、条件を満たしたワールドの至る所に自然発生し、あなたに対して敵対的になります。\n\nしかし、あなたの派閥の一員は、あなたが攻撃されているのを見ると助けに来てくれるでしょう。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "Your faction gives you access to unique relics and spell parts that are specific to each faction.  The occulus shows these items by putting a badge representing your faction on their badges.  You cannot craft the spells and artifacts from the other factions, however you can trade for them either by doing the Ritual of the Iron Bell once you hit Tier 3, or by simply trading with other wizards in multiplayer.",
+        "value": "自分の派閥に固有なレリックやスペルパーツ、さらには杖などに派閥に対応したエンチャントを付けることで、特殊な能力を得ることができます。\n\nオキュラスではこれらのアイテムを、あなたの派閥を表すバッジをつけることで示します。\n\n他の派閥の呪文やアーティファクトをクラフトすることはできませんが、Tier 3に到達したらRitual of the Iron Bellを行うか、単にマルチプレイで他の魔術師と取引することでそれらを手に入れることが可能です。",
         "json": [
           {
-            "text": "My faction gives me access to unique relics and spell parts, and each faction gains special abilities from certain enchantments placed on spell focus items such as staves, bangles, or wands.\n\nThe occulus shows these items by putting a badge representing the appropriate faction on the item's card. \n\nI cannot craft the spells and artifacts from the other factions, however I can trade for them either by doing the Ritual of the Iron Bell, or by simply trading with other wizards in a collaborative environment."
+            "text": "自分の派閥に固有なレリックやスペルパーツ、さらには杖などに派閥に対応したエンチャントを付けることで、特殊な能力を得ることができます。\n\nオキュラスではこれらのアイテムを、あなたの派閥を表すバッジをつけることで示します。\n\n他の派閥の呪文やアーティファクトをクラフトすることはできませんが、Tier 3に到達したらRitual of the Iron Bellを行うか、単にマルチプレイで他の魔術師と取引することでそれらを手に入れることが可能です。"
           }
         ]
       },
