@@ -1469,14 +1469,15 @@
             "color": "dark_gray"
           },
           {
-            "text": "の兵士の一員です。\n\nこの恐ろしいストーカー達は、煙幕を使用して自分の姿を見えなくする能力を持っています。彼らは身を隠しながら攻撃する方法を知っており、その攻撃は通常より大きなダメージを与えます。また、高速で手裏剣を投げることもでき、飛んでいるターゲットに対してはボロ（投げナイフ）を投げて地面に叩きつけようとします。"
+            "text": "」の兵士の一員です。\n\nこの恐ろしいストーカー達は、煙幕を使用して自分の姿を見えなくする能力を持っています。彼らは身を隠しながら攻撃する方法を知っており、その攻撃は通常より大きなダメージを与えます。また、高速で手裏剣を投げることもでき、飛んでいるターゲットに対してはボロ（投げナイフ）を投げて地面に叩きつけようとします。"
           }
         ]
       },
       {
         "type": "recipe",
         "location": "mna:chatterer",
-        "recipeType": "entity"
+        "recipeType": "entity",
+        "newPage": true
       },
       {
         "type": "title",
@@ -1495,14 +1496,14 @@
             "color": "dark_gray"
           },
           {
-            "text": "」に所属する陰湿な化け物、チャッターの象徴的なクリック音は多くの鉱夫に、やっていることを全て中止し、現れた脅威に集中するよう。",
+            "text": "」に所属する陰湿な化け物であり、チャッターの象徴的なクリック音は多くの鉱夫に、やっていることを全て中止し、現れた脅威に集中するよう対処を余儀なくされた。",
             "color": "black"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "深き深層にて見つかり、疫病と腐敗の闇の力によってこの化け物は動きます。チャッターはまず、その魔術で",
+            "text": "深き深層にて見つかり、疫病と腐敗の闇の力を利用してこの化け物は生きています。チャッターはまず、その魔術で",
             "color": "black"
           },
           {
@@ -1510,7 +1511,7 @@
             "color": "blue"
           },
           {
-            "text": "。これは幸いなことに、一番弱い種類のチャッターが与える最大限影響です。さらに強力なチャッターは追加で",
+            "text": "。これは幸いなことに、一番弱い種類のチャッターが与える最大限の影響です。さらに強力なチャッターは追加で",
             "color": "black"
           },
           {
@@ -1533,7 +1534,7 @@
             "text": "\n\n"
           },
           {
-            "text": "被害者が十分に弱体化し、無力になってあとにチャッターは",
+            "text": "被害者が十分に弱体化し、無力になってからチャッターは",
             "color": "black"
           },
           {
@@ -1541,14 +1542,14 @@
             "color": "blue"
           },
           {
-            "text": "し、仕事を終わらせる最後の一押しにします。",
+            "text": "し、仕事を終わらせます。",
             "color": "black"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "唯一の救いは、被害者とチャッターの目の間に見られる魔法の繋がりにあります。チャッターの目に視線を合わせることで、相手をスタンさせることができるようだ...だが相手に盲目にされた場合それを行うのは不可能になる。",
+            "text": "唯一の救いは、被害者とチャッターの目の間に見られる魔法の繋がりにあります。チャッターの目と視線を合わせることで、相手をスタンさせることができます...ただし相手に盲目にされた場合それを行うのは不可能になります。",
             "color": "black"
           },
           {
@@ -1570,15 +1571,15 @@
             "text": "\n\n"
           },
           {
-            "text": "これらのすべては、言うは易く行うは難しである。さらに",
+            "text": "これらのすべては、言うは易く行うは難しです。さらに",
             "color": "black"
           },
           {
-            "text": "チャッターはめったに単独で行動しません",
+            "text": "チャッターはめったに単独で行動しない",
             "color": "blue"
           },
           {
-            "text": "。特に、スケルトンアサシンはチャッターの援護があると更なる脅威になります。",
+            "text": "という特徴があります。特に、スケルトンアサシンはチャッターの援護があると更なる脅威になります。",
             "color": "black"
           }
         ]
@@ -1599,7 +1600,7 @@
         "value": "魔法の世界を探求していると、ある時点であなたは派閥を選択する必要ができます。 これは、どの儀式を完了するかの選択として現れます。\n\n賢明に選ぶこと。\n\n一度選択した派閥は変更できません。",
         "json": [
           {
-            "text": "魔法の世界を探求しているとある時点で、あなたは派閥を選択する必要ができます。 これは、どの派閥の儀式を完了するかの選択として現れます。\n\n賢明に選ぶこと。\n\n一度選択した派閥は変更できません。"
+            "text": "魔法の世界を探求していると、ある時点で、あなたは派閥を選択する必要ができます。 これは、どの派閥の儀式を完了するかの選択として現れます。\n\n賢明に選ぶこと。\n\n一度選択した派閥は変更できません。"
           }
         ]
       },
@@ -1614,119 +1615,120 @@
       },
       {
         "type": "text",
-        "value": "自分の派閥に固有なレリックやスペルパーツ、さらには杖などに派閥に対応したエンチャントを付けることで、特殊な能力を得ることができます。\n\nオキュラスではこれらのアイテムを、あなたの派閥を表すバッジをつけることで示します。\n\n他の派閥の呪文やアーティファクトをクラフトすることはできませんが、Tier 3に到達したらRitual of the Iron Bellを行うか、単にマルチプレイで他の魔術師と取引することでそれらを手に入れることが可能です。",
+        "value": "自分の派閥には固有なレリックや呪文の部品があり、さらには杖などに派閥に対応したエンチャントを付けることで、特殊な能力を得ることができます。\n\nオキュラスではこれらのアイテムは、あなたの派閥を表すバッジがついて表示されます。\n\n他の派閥の呪文やアーティファクトをクラフトすることはできませんが、Tier 3に到達したら「鉄の鐘の儀式」を行うか、単にマルチプレイで他の魔術師と取引することでそれらを手に入れることが可能です。",
         "json": [
           {
-            "text": "自分の派閥に固有なレリックやスペルパーツ、さらには杖などに派閥に対応したエンチャントを付けることで、特殊な能力を得ることができます。\n\nオキュラスではこれらのアイテムを、あなたの派閥を表すバッジをつけることで示します。\n\n他の派閥の呪文やアーティファクトをクラフトすることはできませんが、Tier 3に到達したらRitual of the Iron Bellを行うか、単にマルチプレイで他の魔術師と取引することでそれらを手に入れることが可能です。"
+            "text": "自分の派閥に固有なレリックや呪文の部品があり、さらには杖などに派閥に対応したエンチャントを付けることで、特殊な能力を得ることができます。\n\nオキュラスではこれらのアイテムは、あなたの派閥を表すバッジがついて表示されます。\n\n他の派閥の呪文やアーティファクトをクラフトすることはできませんが、Tier 3に到達したら「鉄の鐘の儀式」を行うか、単にマルチプレイで他の魔術師と取引することでそれらを手に入れることが可能です。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "Though you must take care: using spells and relics from the other factions will eventually cause them to raid you, which involves them sending very powerful assassins after you.  These assassins have more devastating abilities than their natually spawning counterparts, and will prove significantly tougher to defeat.  They will also learn from their fights against you and will become more difficult over time.  If they manage to kill you, the fights will become easier.",
+        "value": "しかし、他の派閥の呪文やレリックを使用すると、最終的に他の派閥から襲撃を受け、非常に強力な刺客を送り込まれることになるので、注意が必要です。\n\nこの刺客は、自然発生する兵士よりも破壊的な能力を持っており、倒すのは非常に困難です。また、彼らはあなたとの戦いから学び、時間が経つにつれ、より強力になっていきます。\n\nもし、彼らがあなたを殺すことに成功すれば、送られてくる相手は弱くなります。",
         "json": [
           {
-            "text": "Though I must take care: using spells and relics from the other factions will eventually cause them to raid me, which involves them sending very powerful assassins after me. \n\nThese assassins have more devastating abilities than their commonly found counterparts, and will prove significantly tougher to defeat. They will also learn from their fights against me and will become more difficult over time. \n\nIf they manage to defeat me, the fights will become easier."
+            "text": "しかし、他の派閥の呪文やレリックを使用すると、最終的に他の派閥から襲撃を受け、非常に強力な刺客を送り込まれることになるので、注意が必要です。\n\nこの刺客は、自然発生する兵士よりも破壊的な能力を持っており、倒すのは非常に困難です。また、彼らはあなたとの戦いから学び、時間が経つにつれ、より強力になっていきます。\n\nもし、彼らがあなたを殺すことに成功すれば、送られてくる相手は弱くなります。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "The factions and their general feel are described below.",
+        "value": "派閥と、その大まかな概要は以下の通りです。",
         "json": [
           {
-            "text": "The factions and their general feel are described below."
+            "text": "派閥と、その大まかな概要は以下の通りです。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "The Demons of the Nether",
+        "value": "ネザーの悪魔",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "The Demons of the Nether have a focus on all-out offense.\n\nThey trade in mana for a new resource called Brimstone.  Brimstone recharges faster in biomes where snow golems would burn, and slower where it would snow instead of rain.\n\nBrimstone also allows higher modifiers for Damage, Radius, and Range, and lowers spell cooldowns by 25%.\n\nBrimstone will consume hearts if mana is insufficient to fuel spells and certain other effects.  This health consumption does not apply to passive effects.  It will not kill you unless the game is on Hard difficulty.\n\nDemon relics include items such as the Hellfire Staff, which can power up a fire spell attached to it, the Emberglow Bracelet which protects from fire and makes your attacks ignite enemies, and spell components such as Explosion and Cauterize.  When looking at the occulus, anything requiring the Demons faction will be marked with the following icon:",
+        "value": "ネザーの悪魔は、攻撃を最重視しています。彼らはマナの代わりに獄炎という新しいリソースを利用します。獄炎は、雪だるまが燃えるバイオームではその再生が早くなり、雨の代わりに雪が降るバイオームでは遅くなります。\n\n獄炎は、ダメージ、範囲、半径を高い倍率に変更できるようになり、そしてクールダウンが通常より２５％短くなります。獄炎は、呪文などに利用するマナが足りない場合、代わりに体力を消費します。この体力消費はパッシブの効果には影響しません。ゲームの難易度が高く設定されていない限り、これは体力を０にしません。 悪魔のレリックには、火の魔法をパワーアップさせることができる「獄炎の杖」や、火から身を守り自分の攻撃で敵を発火させる「琥珀輝のブレスレット」、また、呪文の部品として爆破、焼灼が追加されます。オキュラスを見ると、悪魔の派閥に限定なものには、以下のようなアイコンが表示されます：",
         "json": [
           {
-            "text": "The "
+            "text": "派閥"
           },
           {
-            "text": "Demons of the Nether",
+            "text": "「ネザーの悪魔」",
             "color": "dark_red"
           },
           {
-            "text": " have a focus on all-out offense.\n\nThey trade in mana for a new resource called "
+            "text": "は、攻撃を最重視しています。\n\n彼らはマナの代わりに"
           },
           {
-            "text": "Brimstone",
+            "text": "獄炎",
             "color": "dark_red"
           },
           {
-            "text": ".\n\nBrimstone recharges "
+            "text": "という新しいリソースを利用します。\n\n獄炎は、"
           },
           {
-            "text": "faster",
+            "text": "雪だるまが燃える",
             "color": "dark_purple"
           },
           {
-            "text": " in biomes where "
+            "text": "バイオームではその再生が"
           },
           {
-            "text": "snow golems would burn",
+            "text": "早くなり",
+            "color": "dark_purple"
+          },
+          
+          {
+            "text": "、そして"
+          },
+          {
+            "text": "雨の代わりに雪が降る",
             "color": "dark_purple"
           },
           {
-            "text": ", and "
+            "text": "バイオームではその再生が"
           },
           {
-            "text": "slower",
+            "text": "遅くなります",
             "color": "dark_purple"
           },
           {
-            "text": " where it would "
+            "text": "。\n\n獄炎は、ダメージ、範囲、半径を高い倍率に変更できるようになり、そしてクールダウンが通常より２５％短くなります。\n\n獄炎は、呪文などに利用するマナが足りない場合、代わりに体力を消費します。この体力消費はパッシブの効果には影響しません。ゲームの難易度が高く設定されている場合、これは詠唱者を殺害する可能性があります。\n\n悪魔のレリックには、火の魔法をパワーアップさせることができる"
           },
           {
-            "text": "snow instead of rain",
-            "color": "dark_purple"
-          },
-          {
-            "text": ".\n\nBrimstone also allows higher modifiers for Damage, Radius, and Range, and lowers spell cooldowns by 25%.\n\nBrimstone will consume hearts if mana is insufficient to fuel spells and certain other effects. This health consumption does not apply to passive effects. This health consumption can kill the caster in more challenging worlds.\n\nDemon relics include items such as the "
-          },
-          {
-            "text": "Hellfire Staff",
+            "text": "「獄炎の杖」",
             "color": "dark_red"
           },
           {
-            "text": ", which can power up a fire spell attached to it, the "
+            "text": "や、火から身を守り自分の攻撃で敵を発火させるようになる"
           },
           {
-            "text": "Emberglow Bracelet",
+            "text": "「琥珀輝のブレスレット」",
             "color": "dark_red"
           },
           {
-            "text": " which protects from fire and makes attacks ignite enemies, and spell components such as "
+            "text": "そして、呪文の部品として"
           },
           {
-            "text": "Explosion",
+            "text": "爆破",
             "color": "dark_red"
           },
           {
-            "text": " and "
+            "text": "と、"
           },
           {
-            "text": "Cauterize",
+            "text": "焼灼",
             "color": "dark_red"
           },
           {
-            "text": ".\n\nDemons benefit from the "
+            "text": "が追加されます。\n\n悪魔は"
           },
           {
-            "text": "Flame",
+            "text": "火属性",
             "color": "dark_red"
           },
           {
-            "text": " enchantment on spell foci, which reduces spell cooldowns by 66.6% while the caster is on fire and makes brimstone overcasting from health twice as efficient.\n\nWhen looking at the occulus, anything requiring the Demons faction will be marked with the following icon:"
+            "text": "エンチャントが焦点（杖や腕輪など）に付与されている場合、使用者が燃えている時の呪文のクールダウンを66.6%低下させ、マナの代わりに体力を獄炎に変換する効率を二倍にします。\n\nオキュラスでは、悪魔の派閥限定のものには、以下のようなアイコンが表示されます："
           }
         ]
       },
@@ -1738,78 +1740,78 @@
       },
       {
         "type": "title",
-        "value": "The Faerie Courts",
+        "value": "精霊の宮廷",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "The Courts of the Fey have a focus on subterfuge and trickery.  Their relics include items such as the Spectral Elytra, which is an enchanted elytra that uses mana to fly, the Bracelet of Trickery which makes you invisible while sneaking and causes sneak punches to send your target flying, and spell components such as Decoy and Heal.  When looking at the occulus, anything requiring the Fey faction will be marked with the following icon:",
+        "value": "派閥：「妖精の宮廷」は、策略といたずらに重点を置いています。 彼らのレリックには、マナを使用して飛行する、エンチャントされたエリトラである「スペクトラル・エリトラ」や、スニーキング中に自分を見えなくし、スニークパンチでターゲットを飛ばすトリックのブレスレット、呪文の部品としてデコイやヒールが追加される。 オキュラスを見ているとき、フェイの宮廷を必要とするものには以下のようなアイコンが表示される。",
         "json": [
           {
-            "text": "The "
+            "text": "派閥："
           },
           {
-            "text": "Faerie Courts",
+            "text": "「妖精の宮廷」",
             "color": "dark_green"
           },
           {
-            "text": " have a focus on subterfuge and trickery.\n\nThe fey trade in mana for a dual casting resource: "
+            "text": "は、策略といたずらに重点を置いています。\n\n彼らはマナの代わりにいずれか二種類のリソース："
           },
           {
-            "text": "Summer Fire",
+            "text": " 「夏火」",
             "color": "dark_green"
           },
           {
-            "text": " or "
+            "text": " もしくは"
           },
           {
-            "text": "Winter Ice",
+            "text": "「冬氷」",
             "color": "dark_green"
           },
           {
-            "text": ". Summer fire powers up spells during the day while making them weaker at night. Winter Ice powers up spells at night while making them weaker during the day.\n\nA fey wizard can switch between Summer Fire and Winter Ice by performing the "
+            "text": "を利用します。 夏火は、日中は呪文を強化しますが、夜に弱体化します。冬氷は夜は呪文を強化しますが、日中は弱体化します。\n\n妖精は、"
           },
           {
-            "text": "Ritual of Shifting Seasons",
+            "text": "「移ろう季節の儀式」",
             "color": "dark_green"
           },
           {
-            "text": ".\n\nFey relics include items such as the "
+            "text": "を行うことで夏火と冬氷を変更できます。\n\n 妖精のレリックは、マナを利用して空を飛ぶ"
           },
           {
-            "text": "Spectral Elytra",
+            "text": "「分光のエリトラ」",
             "color": "dark_green"
           },
           {
-            "text": ", which is an enchanted elytra that uses mana to fly, the "
+            "text": "や、着用者がスニークしてる場合に透明にし、スニークパンチにノックを追加する"
           },
           {
-            "text": "Bracelet of Trickery",
+            "text": "「いたずらのブレスレット」",
             "color": "dark_green"
           },
           {
-            "text": " which makes you invisible while sneaking and causes sneak punches to send your target flying, and spell components such as "
+            "text": "や、呪文の部品として"
           },
           {
-            "text": "Decoy",
+            "text": "「デコイ」",
             "color": "dark_green"
           },
           {
-            "text": " and "
+            "text": "と"
           },
           {
-            "text": "Heal",
+            "text": "「回復」",
             "color": "dark_green"
           },
           {
-            "text": ".\n\nThe Fey benefit from a "
+            "text": "が追加されます。\n\n妖精は、"
           },
           {
-            "text": "Thorns",
+            "text": "棘の鎧",
             "color": "dark_green"
           },
           {
-            "text": " enchantment on spell foci which causes targets hit in melee to gain the Writhing Brambles effect, causing damage when they move.\n\nWhen looking at the occulus, anything requiring the Fey faction will be marked with the following icon:"
+            "text": "から利益を得ます。呪文の焦点（杖など）にエンチャントをすることによって、物理攻撃をおこなった場合に相手に「波打つ茨」を付与し、相手が移動した場合にダメージを与えます。\n\nオキュラスでは、妖精の派閥限定のものには、以下のようなアイコンが表示されます："
           }
         ]
       },
@@ -1821,57 +1823,57 @@
       },
       {
         "type": "title",
-        "value": "The Ancient Council of Wizards",
+        "value": "古の魔術師の評議会",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "The Ancient Council of Wizards have a focus on defense and mana manipulation.  Their relics include items such as the Arcane Crown, which gives you bonus mana and can dispel harmful effects automatically, the Bracelet of Eldrin Power which causes you to absorb nearby eldrin energy to reduce mana costs while spell casting, and spell components such as Shield and Mana Transfer.  When looking at the occulus, anything requiring the Council faction will be marked with the following icon:",
+        "value": "古の魔術師の評議会は防衛とマナの制御に重点を置いています。彼らのレリックには、マナにボーナスを与え、有害な効果を自動的に払拭することができる「魔術の王冠」や、近くのエルドリンエネルギーを吸収して呪文を唱える際のマナコストを軽減する「エルドリンパワーのブレスレット」、呪文の部品として「マナシールド」や「マナ譲渡」が追加されます。 オキュラスでは、評議会に所属を必要とするものには、以下のようなアイコンが表示されます：",
         "json": [
           {
-            "text": "The "
+            "text": "派閥："
           },
           {
-            "text": "Ancient Council of Wizards",
+            "text": "「古の魔術師の評議会」",
             "color": "blue"
           },
           {
-            "text": " have a focus on defense and mana manipulation.\n\nTheir relics include items such as the "
+            "text": "は防衛とマナの制御に重点を置いています。\n\n彼らのレリックには、マナにボーナスを与え、有害な効果を自動的に払拭することができる"
           },
           {
-            "text": "Arcane Crown",
+            "text": "「魔術の王冠」",
             "color": "blue"
           },
           {
-            "text": ", which gives you bonus mana and can dispel harmful effects automatically, the "
+            "text": "、近くのエルドリンエネルギーを吸収して呪文を唱える際のマナコストを軽減する"
           },
           {
-            "text": "Bracelet of Eldrin Power",
+            "text": "「エルドリンパワーのブレスレット」",
             "color": "blue"
           },
           {
-            "text": " which causes you to absorb residual magic from the air to reduce mana costs while spell casting, and spell components such as "
+            "text": "、呪文の部品として"
           },
           {
-            "text": "Shield",
+            "text": "「マナシールド」",
             "color": "blue"
           },
           {
-            "text": " and "
+            "text": "や"
           },
           {
-            "text": "Mana Transfer",
+            "text": "「マナ譲渡」",
             "color": "blue"
           },
           {
-            "text": ".\n\nThe Council benefits from the "
+            "text": "が追加されます。\n\n評議会のメンバーは"
           },
           {
-            "text": "Power",
+            "text": "「射撃ダメージ増加」",
             "color": "blue"
           },
           {
-            "text": " enchant on spell foci, granting the following benefits, each one scaling by the strength of the Power enchantment applied:\n- Embers and Projectile spells gain homing capabilities\n- Sigil limit is increased\n- Smite bonus damage from falling is increased\n\nWhen looking at the occulus, anything requiring the Council faction will be marked with the following icon:"
+            "text": "のエンチャントを呪文の焦点（杖など）に付与することによって、エンチャントレベルに応じて次のメリットを与えます:\n- 余燼や、発射体はホーミングの能力を得る\n- 印の最大数を増加\n- 落下時のクリティカルダメージ増加\n\nオキュラスでは、評議会に所属を必要とするものには、以下のようなアイコンが表示されます："
           }
         ]
       },
@@ -1883,95 +1885,95 @@
       },
       {
         "type": "title",
-        "value": "The Undead",
+        "value": "不死者",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "The Undead have a focus on relentless endurance and spirit magic, with effects such as consuming souls for food, possessing other entities, and a shift in paradigm.\n\nThe Undead faction is a much more difficult faction to play.  Your casting resource becomes souls, something that does not naturally regenerate.  You must kill others to obtain their souls.  Other undead give the least, then animals, then monsters, then villagers, then players.\n\nYou can sleep in coffins as if they were beds, will burn in sunlight, but can breathe underwater.  Wearing a helmet can mitigate the burning but eventually the helmet will burn away and break.\n\nChoose this path at your own risk.",
+        "value": "アンデッドは絶え間ない耐久性と魂の魔術に重点を置いていて、魂を食料として消費したり、他の存在に憑依したり、あの世との狭間を利用する事ができます。\n\nアンデッドは他のより難しい派閥で、詠唱リソースが魂になり、自然には再生しなくなります。そして魂を得るには他人を殺す必要があります。他のアンデッドは最も少なく、次に動物、モンスター、村人、そしてプレイヤーの順に魂を得ます。\n\n棺桶の中でベッドのように眠ることができ、日光に当たると燃えますが、水中で呼吸ができるようになります。ヘルメットをかぶれば燃焼を軽減できますが、最終的にはヘルメットが焼けて壊れます。\n\n自己責任でこの道を選んでください。",
         "json": [
           {
-            "text": "The "
+            "text": "派閥： "
           },
           {
-            "text": "Undead",
+            "text": "「不死者」",
             "color": "dark_gray"
           },
           {
-            "text": " have a focus on relentless endurance and spirit magic, with effects such as consuming souls for food, possessing other entities, and a shift in paradigm.\n\nThe Undead faction is a much more difficult faction to play. Their casting resource becomes "
+            "text": "は途切れない持久力と魂の魔術に重点を置いていて、魂を食料として消費したり、他の存在に憑依したり、あの世との狭間を利用する事ができます。\n\nアンデッドは他のより難しい派閥で、詠唱リソースが"
           },
           {
-            "text": "souls",
+            "text": "「魂」",
             "color": "dark_gray"
           },
           {
-            "text": ", something that "
+            "text": "になり、"
           },
           {
-            "text": "does not naturally regenerate",
+            "text": "自然には再生しなくなります",
             "color": "dark_gray"
           },
           {
-            "text": ". They must kill others to obtain their souls, or perform rituals which cost resources to gain souls.  However, the undead have a "
+            "text": "。そして魂を得るには他人を殺すか、資源を利用した儀式で回復する必要があります。その代わり、アンデッドは"
           },
           {
-            "text": "significantly larger pool of souls than other wizards would have mana",
+            "text": "他の魔術師のマナに比べて、最大魂保持量がかなり多い",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nOther undead give the least, then animals, then monsters, then villagers, then players.\n\nThey can sleep in coffins as if they were beds and in doing so will regain up to 25% of souls "
+            "text": "です。\n\n他のアンデッドは最も少なく、次に動物、モンスター、村人、そしてプレイヤーの順に魂を得ます。\n\n棺桶の中でベッドのように眠ることで最大魂の２５％が回復でき"
           },
           {
-            "text": "(diminishing returns are at play, by default 15 minutes real time must pass for full gain)",
+            "text": "（ただし、最低でも１５分経たないと十分に回復できません）",
             "italic": true
           },
           {
-            "text": ", will "
+            "text": "、"
           },
           {
-            "text": "burn in sunlight",
+            "text": "日光に当たると燃えます",
             "color": "dark_purple"
           },
           {
-            "text": ", but can "
+            "text": "が、"
           },
           {
-            "text": "breathe and see clearly underwater",
+            "text": "水中で視界がクリアになり、水中で呼吸",
             "color": "dark_purple"
           },
           {
-            "text": ". Wearing a helmet can mitigate the burning but eventually the helmet will burn away and break.  When an undead wizard casts "
+            "text": "できるようになりますヘルメットをかぶれば燃焼を防ぐことができますが、ヘルメットの耐久が減り続けます。不死の魔術師が"
           },
           {
-            "text": "Night Vision",
+            "text": "「暗視」",
             "color": "blue"
           },
           {
-            "text": " on themselves, the "
+            "text": "を自身に詠唱したとき、修飾にかかわらず"
           },
           {
-            "text": "duration is effectively permanent",
+            "text": "持続時間が永続になります",
             "color": "dark_purple"
           },
           {
-            "text": " regardless of modifiers on the spell.  Casting Night Vision again can be used to toggle the effect off.\n\nUndead benefit from the "
+            "text": "。暗視の呪文は、切り替えとして働きます。\n\n不死者は、エンチャント"
           },
           {
-            "text": "Frost Walker",
+            "text": "「氷渡り」",
             "color": "dark_gray"
           },
           {
-            "text": " enchantment on spell foci, giving them a pulsing aura of damage and causing jumping while sneaking to turn them into mist, allowing flight for short bursts.  Undead also benefit from an "
+            "text": "を呪文の焦点（杖など）に付与することによって周囲にダメージを与えるオーラを発し、スニークしながらジャンプすることで一定時間霧になることができ、短距離を飛行できるようになります。アンデッドは、"
           },
           {
-            "text": " increased summon cap,",
+            "text": "召喚の上限が増加",
             "color": "blue"
           },
           {
-            "text": " gaining one additional summon per tier they attain above 2. "
+            "text": "し、２以上のティアで、一つのティアにつき召喚上限が一つ増加します。"
           },
           {
-          	"text": "\nChoose this path at your own risk.\n\nWhen looking at the occulus, anything requiring the Undead faction will be marked with the following icon:"
+          	"text": "\nこの道は自己責任で選んでください。\n\nオキュラスでは、不死者の派閥限定のものには、以下のようなアイコンが表示されます"
           }
         ]
       },
