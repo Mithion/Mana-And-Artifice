@@ -1973,7 +1973,7 @@
             "text": "し、２以上のティアで、一つのティアにつき召喚上限が一つ増加します。"
           },
           {
-          	"text": "\nこの道は自己責任で選んでください。\n\nオキュラスでは、不死者の派閥限定のものには、以下のようなアイコンが表示されます"
+          	"text": "\nこの道は自己責任で選んでください。\n\nオキュラスでは、不死者の派閥限定のものには、以下のようなアイコンが表示されます："
           }
         ]
       },
@@ -1992,11 +1992,11 @@
     "sections": [
       {
         "type": "title",
-        "value": "Commands"
+        "value": "コマンド"
       },
       {
         "type": "text",
-        "value": "This mod contains several commands that moderators can use to help those on servers, or to test in creative mode.  All commands are contained under the root '/mna' command."
+        "value": "このMODには、モデレーターがサーバにいる人を助けたり、クリエイティブモードでテストを行うために使用するいくつかのコマンドが含まれています。 すべてのコマンドはルート '/mna' コマンドの下に含まれています。"
       }
     ],
     "related_recipes": []
@@ -2321,55 +2321,55 @@
     "sections": [
       {
         "type": "title",
-        "value": "What is Manaweaving"
+        "value": "マナ織りとは何か"
       },
       {
         "type": "text",
-        "value": "Manaweaving is the process of infusing your own magic into your creations.  Spells, rituals, runes, and more can make use of it.",
+        "value": "マナ織りとは、自分の作品に自分の魔法を吹き込む作業です。 呪文、儀式、ルーンなど様々な行為にそれを利用します。",
         "json": [
           {
-            "text": "Manaweaving",
+            "text": "マナ織り",
             "color": "blue"
           },
           {
-            "text": " is the process of infusing my own magic into my creations. Spells, rituals, runes, and more can make use of it."
+            "text": "とは、自分の作品に自分の魔法を吹き込む作業です。 呪文、儀式、ルーンなど様々な行為にそれを利用します。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "To do it, first craft a Manaweaver's Wand.  The vinteum wands have limited uses and will eventually break, however later on you can make more powerful ones that will last forever.",
+        "value": "これを行うには、まずマナ織の杖を作ります。 即席とヴィンテウムの杖は、いずれは壊れてしまいますが、後でもっと強力な杖を作ることができ、それは壊れず永遠に使うことができます。",
         "json": [
           {
-            "text": "To do it, I must first craft a "
+            "text": "これを行うには、まず"
           },
           {
-            "text": "Manaweaver's Wand",
+            "text": "マナ織の杖",
             "color": "blue"
           },
           {
-            "text": ". \n\nThe "
+            "text": "を作ります。\n\n"
           },
           {
-            "text": "improvised and vinteum wands",
+            "text": "即席とヴィンテウムの杖",
             "color": "dark_purple"
           },
           {
-            "text": " have limited uses and "
+            "text": "は、使用に制限があり、 "
           },
           {
-            "text": "will eventually break",
+            "text": "いずれ壊れてしまいます",
             "color": "dark_purple"
           },
           {
-            "text": ", however I'm certain I can make more powerful ones that will "
+            "text": "が、後々もっと強力な杖を作ることができ、"
           },
           {
-            "text": "last forever if I can find the right materials to do so",
+            "text": "それは壊れず永遠に使うことができます",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       },
@@ -2380,10 +2380,10 @@
       },
       {
         "type": "text",
-        "value": "Next, hold the wand in your hand and begin using it (hold the right mouse button).  Then, draw the shape in the air.  Stop using the wand when you're done.",
+        "value": "次に、杖を手に持って使用します（マウスの右ボタンを押したまま）。そして、空中に図形を描きます。",
         "json": [
           {
-            "text": "Once I have my wand crafted, I need to hold the wand in my hand and begin channeling magic through the wand (hold the right mouse button). Then, I carefully draw the shape in the air.  \n\nOnce I stop channeling magic, if I've done it right, the pattern will appear in the air in front of me."
+            "text": "次に、杖を手に持って使用します（マウスの右ボタンを押したまま）。その後、空中に図形を描きます。\n\n右クリックを終了した後、成功した場合、パターンが目の前に投影されるはずです。"
           }
         ]
       },
@@ -2395,73 +2395,70 @@
       },
       {
         "type": "text",
-        "value": "The concentration required will consume your mana quickly.  Do not let this rush you, however, lest you make mistakes: an incorrectly pattern will do nothing.\n\nSome mages claim to have heard chimes while using a manaweaver wand.  While not confirmed, such an occurrence would be an indication that the wand is working.\n\nThere are also those that are either unable or unwilling to draw the shapes in the air.  To that end, the manaweave projector was developed.  Simply place it on the ground and it will draw in your mana (or that of others nearby) to power itself.  When activated, it will project the pattern it is set to after a few seconds.",
+        "value": "集中力が必要なので、マナを高速で消費してしまいます。しかし、焦らずに、間違ったパターンをしないようにしましょう。\n\nマナ織の杖を使用しているときにチャイムが聞こえたと言う魔道士がいます。 確認はされていませんが、このような現象は杖が機能していることを示すものでしょう。\n\nまた、空中に図形を描くことができない、または描きたくないという人もいるでしょう。 そこで開発されたのが「マナ織投影機」です。地面に置くだけで、あなた（または近くにいる人）のマナを取り込み、エネルギーを供給します。 起動すると、数秒後に設定されたパターンを投影します。",
         "json": [
           {
-            "text": "The concentration required will consume my mana quickly. "
+            "text": "集中力が必要なので、マナを高速で消費します。 "
           },
           {
-            "text": "I should not rush",
+            "text": "しかし、焦らずに",
             "color": "dark_purple"
           },
           {
-            "text": ", however, lest I make mistakes: "
+            "text": "、 "
           },
           {
-            "text": "an incorrectly pattern will do nothing",
+            "text": "間違っているパターンは何もしません。",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nSome mages claim to have heard "
+            "text": "。\n\nマナ織の杖を使用しているときに"
           },
           {
-            "text": "chimes while using",
+            "text": "チャイムが聞こえた",
             "color": "dark_purple"
           },
           {
-            "text": " a manaweaver wand. While not confirmed, such an occurrence would be an "
+            "text": "と言う魔道士がいます。確認はされていませんが、このような現象は"
           },
           {
-            "text": "indication that the wand is working",
+            "text": "杖が機能している",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThere are also those that are either "
+            "text": "のを示しているのでしょう。\n\nまた、"
           },
           {
-            "text": "unable or unwilling to draw the shapes in the air",
+            "text": "空中に図形を描くことができない、または描きたくない",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nTo that end, the "
+            "text": "という人もいるでしょう。\n\nそこで開発されたのが"
           },
           {
-            "text": "Manaweave Projector",
+            "text": "「マナ織投影機」",
             "color": "blue"
           },
           {
-            "text": " was developed. Simply place it on the ground and it will draw in my mana (or that of others nearby) to power itself. When activated, it will project the pattern it is set to after a few seconds.\n\nI can also "
+            "text": "です。地面に置くだけで、あなた（または近くにいる人）のマナを取り込み、エネルギーを供給します。 起動すると、数秒後に設定されたパターンを投影します。\n\nさらに、"
           },
           {
-            "text": "prepare manaweaves in advance",
+            "text": "ガラス瓶",
             "color": "dark_purple"
           },
           {
-            "text": " by "
+            "text": "に"
           },
           {
-            "text": "capturing a drawn manaweave",
+            "text": "あらかじめ",
             "color": "dark_purple"
           },
           {
-            "text": " in a "
-          },
-          {
-            "text": "simple glass bottle",
+            "text": "マナ織を捕らえておく",
             "color": "dark_purple"
           },
           {
-            "text": ".  It will remain there until I need it.  I can release the manaweave by throwing the bottle, which unfortunately breaks the glass but instantly recreates the manaweave at the point the bottle landed.  I'm sure I can automate bottling manaweaves too, if I'm clever."
+            "text": "事も出来ます。捕らえたマナ織は使用するまで消失しません。ボトルを投げる事で解放でき、ボトルは壊れてしまいますが、その場所に捕らえたマナ織を作成します。頑張れば、マナ織をボトルに詰める行為を自動化することもできるはずだ。"
           }
         ]
       },
@@ -2501,90 +2498,90 @@
     "sections": [
       {
         "type": "title",
-        "value": "Cantrips"
+        "value": "まじない"
       },
       {
         "type": "text",
-        "value": "Cantrips are spells that you can cast using nothing but manaweaving pattern combination.  You unlock new cantrips every time you tier up.",
+        "value": "まじないとは、マナ織りの組み合わせだけで唱えることができる呪文のことです。ティアが上昇するたびに新しいまじないがアンロックされます。",
         "json": [
           {
-            "text": "Cantrips",
+            "text": "まじない",
             "color": "blue"
           },
           {
-            "text": " are spells that I can cast using nothing but manaweaving. \n\nI learn new cantrips every time I tier up."
+            "text": "とは、マナ織りの組み合わせだけで唱えることができる呪文のことです。\n\nティアが上昇するたびに新しいまじないがアンロックされます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "The Cantrip GUI"
+        "value": "まじないのGUI"
       },
       {
         "type": "text",
-        "value": "To view the cantrips GUI, simply hold any manaweaver wand in your hand, press the gui key (default control), and right click.  The wand's tooltip will show this as well.\n\nOnce in the gui, hover over any of the cantrip icons to see a description of what the cantrip does.  You can also change the patterns required for that cantrip (minimum 2) by using the arrows next to the boxes below each cantrip's icon.\n\nSome cantrips allow inserting items as well that are related to that cantrip (such as spells).  For example the 'Freeform Spell' cantrips require that you place a spell into the inventory slot before they'll do anything.",
+        "value": "まじないのGUIを表示するには、任意のマナ織の杖を手に持って、集中(guiキーデフォルトはCtrを押し、右クリックするだけです。 杖の説明文にも書かれています。）\n\nまじないのアイコンの上にカーソルを置くと、そのまじないの効果が表示されます。 また、まじないのアイコンの下にある矢印をクリックすると、そのまじないに必要なパターン（最低2つ）を変更することができます。\n\nまじないの中には、そのまじないに関連するアイテム（呪文など）を挿入できるものがあります。 例えば、「自由形呪文」のまじないは、何かをする前にインベントリスロットに呪文を入れる必要があります。",
         "json": [
           {
-            "text": "Cantrips can be customized so that any combination of two or more manaweaving patterns will cast it.\n\nIf I want to customize cantrips, all I need to do is hold any manaweaver wand in my hand and "
+            "text": "まじないは、まじないを発動するために必要な組み合わせを編集することができます。\n\nカスタマイズするには、いずれかのマナ織の杖を手に持ち、"
           },
           {
-            "text": "focus",
+            "text": "集中します。",
             "color": "blue"
           },
           {
             "text": " "
           },
           {
-            "text": "(press the gui key, default control, and right click. The wand's tooltip will show this as well)",
+            "text": "(guiキー、デフォルトはCtrを押しながら、右クリックするだけです。 杖の説明文にも割り当てが書かれています。)",
             "italic": true
           },
           {
-            "text": ". \n\nOnce in the gui, I can look at "
+            "text": ". \n\n　GUIを開けたら、まじないを見る"
           },
           {
-            "text": "(hover over)",
+            "text": "(上にカーソルを置く)",
             "italic": true
           },
           {
-            "text": " any of the cantrip icons to recall what the cantrip does. I can also change the patterns required for that cantrip"
+            "text": "と、そのまじないの効果が分かります。また、まじないの必要なパターンを変更することができます"
           },
           {
-            "text": " (minimum 2, use the arrows next to the boxes below each cantrip's icon)",
+            "text": "（最低2つで、まじないのアイコンの下の矢印をクリックしてください）",
             "italic": true
           },
           {
-            "text": ". \n\n"
+            "text": "。 \n\n"
           },
           {
-            "text": "Some cantrips require items as well that are related to that cantrip. For example the 'Freeform Spell' cantrips require that I place a spell into the inventory slot before they'll do anything meaningful.",
+            "text": "まじないの中には、そのまじないに関連するアイテム（呪文など）を挿入できるものがあります。 例えば、「自由形呪文」のまじないは、何かをする前にインベントリスロットに呪文を入れる必要があります。",
             "italic": true
           }
         ]
       },
       {
         "type": "title",
-        "value": "Casting Cantrips"
+        "value": "まじないを詠唱する"
       },
       {
         "type": "text",
-        "value": "To cast a cantrip, first you'll need a manaweaver's wand.  Equip that, and draw the first pattern using normal manaweaving.  It will appear in the air once complete.  Next, draw the second pattern.  Once complete it will merge with the first.  Once a cantrip pattern is matched, you will hear a tone and see an icon with a countdown bar.  For cantrips that must be aimed such as spells, it will target and cast where you are looking when that timer reaches the end.",
+        "value": "まじないを詠唱するには、まずマナ織の杖が必要です。それを装備し、まず一つ目のパターンを、マナ織りで描きます。完了した後、空中に現れます。その後、二つ目のパターンを描きます。完了したのち、パターンは一つ目のと合体します。まじないのパターンと一致したとき、音が鳴り、カウントダウンバーが付いたアイコンが表示されます。標準を合わせる必要があるまじないの場合は、カウントダウンが終わった時に見ていた箇所に詠唱されます。",
         "json": [
           {
-            "text": "To cast a cantrip, first I'll need a "
+            "text": "まじないを詠唱するには、まず"
           },
           {
-            "text": "Manaweaving Wand",
+            "text": "マナ織の杖",
             "color": "blue"
           },
           {
-            "text": ". \n\nI must draw the patterns in order using standard manaweaving. "
+            "text": "が必要です。\n\n一般的なマナ織で、パターンを順番に描く必要があります。"
           },
           {
-            "text": "Patterns that are drawn close enough to each other will merge together",
+            "text": "近くに描かれた二つのパターンは合体して一つに",
             "color": "dark_purple"
           },
           {
-            "text": ".  It is these merged patterns that can cast cantrips.\n\nOnce a cantrip pattern is matched, I will hear a tone and will have a few seconds before the cantrip activates. For cantrips that must be aimed such as Ignite, or Freeform Spells, it will target and cast where I am looking after that delay."
+            "text": "なります。この合体したパターンが、まじないを詠唱します。\n\nまじないのパターンと一致したとき、音が鳴り、カウントダウンバーが付いたアイコンが表示されます。標準を合わせる必要があるまじない（発火や自由形呪文）の場合は、カウントダウンが終わった時に見ていた箇所に詠唱されます"
           }
         ]
       }
@@ -2610,11 +2607,11 @@
     "sections": [
       {
         "type": "title",
-        "value": "Improvised Manaweaving Wands"
+        "value": "即席マナ織の杖"
       },
       {
         "type": "text",
-        "value": "If I'm ever in a pinch, I'm pretty sure I can fashion a simple improvised manaweaver's wand using something as a rod and either a magical flower or chimerite.  This should allow me to do any emergency manaweaves, but likely will break after more than a few uses.  However, I can probably get a cantrip or two out of it before it breaks, and that might make all the difference.",
+        "value": "ピンチに陥った場合、そこら辺の魔法の花やキメライトと棒を組み合わせることで簡単な即席の杖が作れます。これを使えば緊急用のマナ織を行うことを可能にしますが、数回で壊れてしますでしょう。しかし、壊れる前に一つや二つまじないを行うことができれば、違いを生み出せるかもしれません。",
         "json": [
           {
             "text": "If I'm ever in a pinch, I'm pretty sure I can fashion a simple "
