@@ -1151,7 +1151,7 @@
         "value": "この世界では、あなたの派閥の選択に応じて、いくつかの新しい敵や味方になる存在がいます。それらについては、以下の項目を読んでください。あなたがTier 3に到達し、派閥を選択するまで、彼らはすべて中立です。派閥を選択した時点で、あなたの派閥と同盟しているものは敵対者からあなたを守り、それ以外のものは敵対するようになります。",
         "json": [
           {
-            "text": "４つの"
+            "text": "この世界には４つの"
           },
           {
             "text": "派閥",
@@ -2458,7 +2458,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "事も出来ます。捕らえたマナ織は使用するまで消失しません。ボトルを投げる事で解放でき、ボトルは壊れてしまいますが、その場所に捕らえたマナ織を作成します。頑張れば、マナ織をボトルに詰める行為を自動化することもできるはずだ。"
+            "text": "事も出来ます。回収したマナ織は使用するまで消失しません。ボトルを投げる事で解放でき、ボトルは壊れてしまいますが、その場所に回収したを作成します。頑張れば、マナ織をボトルに詰める行為を自動化することもできるはずだ。"
           }
         ]
       },
@@ -2611,38 +2611,38 @@
       },
       {
         "type": "text",
-        "value": "ピンチに陥った場合、そこら辺の魔法の花やキメライトと棒を組み合わせることで簡単な即席の杖が作れます。これを使えば緊急用のマナ織を行うことを可能にしますが、数回で壊れてしますでしょう。しかし、壊れる前に一つや二つまじないを行うことができれば、違いを生み出せるかもしれません。",
+        "value": "ピンチに陥った場合、そこら辺の魔法の花やキメライトと棒を組み合わせることで簡単な即席の杖が作れます。これを使えば緊急時のマナ織を行うことを可能にしますが、数回で壊れてしますでしょう。しかし、壊れる前に一つや二つまじないを行うことができれば、違いを生み出せるかもしれません。",
         "json": [
           {
-            "text": "If I'm ever in a pinch, I'm pretty sure I can fashion a simple "
+            "text": "ピンチに陥った場合、焦点となる物と棒を組み合わせることで"
           },
           {
-            "text": "Improvised Manaweaving Wand",
+            "text": "簡単な即席の杖",
             "color": "blue"
           },
           {
-            "text": " using something as a rod and something as a focus.  There are probably quite a few items that will suffice for either. \n\nThis should allow me to do emergency manaweaving, but likely will "
+            "text": "が作れます。これらの条件を満たす物はあたりを見渡せば見つかるでしょう。\n\nこれを使えば緊急用のマナ織を行うことを可能にしますが、"
           },
           {
-            "text": "break after more than a few uses",
+            "text": "数回の使用で壊れてしまう",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nHowever, I can probably get a "
+            "text": "でしょう。\n\nしかし、壊れる前に一つや二つ"
           },
           {
-            "text": "cantrip",
+            "text": "まじない",
             "color": "blue"
           },
           {
-            "text": " or a "
+            "text": "や、"
           },
           {
-            "text": "ritual",
+            "text": "儀式",
             "color": "blue"
           },
           {
-            "text": " out of it before it breaks, and that might make all the difference."
+            "text": "を行うことができれば、違いを生み出せるかもしれません。"
           }
         ]
       }
@@ -2660,35 +2660,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Manaweaving Altar"
+        "value": "マナ織の祭壇"
       },
       {
         "type": "text",
-        "value": "The manaweaving altar is a pool of enchanted water used to craft items with magical properties.\n\nUp to nine ingredients can be inserted into the altar. Right clicking with an empty hand removes an item, from the most recently inserted to the least recently inserted.\n\nUsing a manaweaving wand while near a manaweaving altar causes the drawn patterns to float on the small, hovering pedestals around the pool. Right clicking the altar with a manaweaving wand removes a pattern, from the most recently drawn to the least recently drawn. If multiple manaweaving altars are near each other, you can bind your wand to a specific manaweaving altar by shift right clicking it with the wand in your hand.\n\nOnce all of the correct ingredients are inserted and the correct manaweaving patterns are present, the magical crafting process will begin automatically. Only manaweaving patterns need to be drawn in a particular order; ingredients are shapeless.\n\nAfter crafting an item, the last recipe used will be saved by the altar. Right clicking the altar with all the ingredients in your inventory allows you to re-craft that same item with a single click.",
+        "value": "マナ織の祭壇は、魔法の性質を持ったアイテムを作成するために使用される、エンチャントされた水たまりです。\n\nアイテムを手に持った状態でクリックすることで、七つまでアイテムを祭壇に追加することができます。　空の手で右クリックすることで、一番最近に追加したアイテムから順番にアイテムを回収することができます。\n\nUsing a manaweaving wand while near a manaweaving altar causes the drawn patterns to float on the small, hovering pedestals around the pool. Right clicking the altar with a manaweaving wand removes a pattern, from the most recently drawn to the least recently drawn. If multiple manaweaving altars are near each other, you can bind your wand to a specific manaweaving altar by shift right clicking it with the wand in your hand.\n\nOnce all of the correct ingredients are inserted and the correct manaweaving patterns are present, the magical crafting process will begin automatically. Only manaweaving patterns need to be drawn in a particular order; ingredients are shapeless.\n\nAfter crafting an item, the last recipe used will be saved by the altar. Right clicking the altar with all the ingredients in your inventory allows you to re-craft that same item with a single click.",
         "json": [
           {
-            "text": "The Manaweaving Altar is a pool of enchanted water I can use to craft items with magical properties. \n\nUp to nine ingredients can be inserted into the altar by holding that item in my hand and activating the altar. "
+            "text": "マナ織の祭壇は、魔法の性質を持ったアイテムを作成するために使用される、エンチャントされた水たまりです。\n\nアイテムを手に持った状態でクリックすることで、七つまでアイテムを祭壇に追加することができます。"
           },
           {
-            "text": "Activating the altar with an empty hand removes an item",
+            "text": "空の手で右クリックすることで",
             "color": "dark_purple"
           },
           {
-            "text": ", from the most recently inserted to the least recently inserted. \n\nUsing a "
+            "text": "、一番最近に追加したアイテムから順番にアイテムを回収することができます。 \n\n祭壇の近くで"
           },
           {
-            "text": "Manaweaving Wand",
+            "text": "マナ織の杖",
             "color": "blue"
           },
           {
-            "text": " while near a Manaweaving Altar causes the drawn patterns to float on the small, hovering pedestals around the pool. "
+            "text": "を使用する事によって、描かれたパターンが小さくなり、祭壇のペデスタルの上で浮遊するようになります。 "
           },
           {
-            "text": "Activating the altar with a manaweaving wand removes a pattern",
+            "text": "祭壇をマナ織の杖で起動することで、",
             "color": "dark_purple"
           },
           {
-            "text": ", from the most recently drawn to the least recently drawn. \n\nIf multiple Manaweaving Altars are near each other, I can bind a wand to a Manaweaving Altar by crouching as I activate the altar with the wand in my hand.  This will cause all patterns drawn near that altar to go into it, ignoring others.  I can remove this binding by crouching and activating any block that isn't a Manaweaving Altar with the bound wand in my hand.\n\nOnce all of the correct ingredients are inserted and the correct manaweaving patterns are present, the magical crafting process will begin automatically.\n\nOnly manaweaving patterns need to be drawn in a particular order; ingredients are shapeless. \n\nAfter crafting an item, the last recipe used will be saved by the altar. Activating the altar with all the ingredients in my inventory allows me to re-craft that same item with ease."
+            "text": "一番最近描かれたパターンから順番に取り除くことができます。 \n\n　複数のマナ織の祭壇が隣同士で存在する場合、屈みながら祭壇を起動することで、杖と祭壇を紐づけすることができます。そうすると、他の祭壇を無視して紐づけした祭壇にパターンが送られるようになります。紐づけを解除したい場合、祭壇ではないアイテムを紐づけされている杖で屈みながら起動することで解除できます。\n\n全ての正しい素材が追加され、正しいマナ織のパターンがある場合、魔法のクラフトが自動で開始します。\n\nマナ織のパターンは順番通りに追加すいる必要がありますが、; 素材はどんな順番でも問題ないです。 \n\nアイテムを作成が完了した後、最後のレシピは祭壇に保存されます。インベントリ内にアイテムが存在する場合に空の手でクリックした場合、自動でもう一度クリックしてくれます。"
           }
         ]
       }
@@ -2718,76 +2718,76 @@
     "sections": [
       {
         "type": "title",
-        "value": "Manaweave Projectors"
+        "value": "マナ織の投影機"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "If I'm either unwilling or unable to draw manaweave patterns manually, I can craft a "
+            "text": "空中に図形を描くことができない、または描くのが面倒な場合、"
           },
           {
-            "text": "Manaweave Projector",
+            "text": "「マナ織の投影機」",
             "color": "blue"
           },
           {
-            "text": ". \n\nThese devices, when placed, will draw mana from wizards within 2 blocks. When full, it will have drawn in "
+            "text": "を利用することができます。 \n\nこのデバイスは、設置された場合に二ブロック以内にいる魔術師からマナを吸収します。満タンの場合、"
           },
           {
-            "text": "100 mana",
+            "text": "１００マナ",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nActivating the block when full will cause it to emit the current pattern. \n\nActivating the block with a "
+            "text": "になります。 \n\nマナが満タンの場合、現在のパターンを投影します。\n\nこのブロックを"
           },
           {
-            "text": "Manaweave Pattern Item",
+            "text": "マナ織のパターンのアイテム",
             "color": "blue"
           },
           {
-            "text": " will change the pattern that is emitted.  These can be obtained by "
+            "text": "でクリックすることで投影されるパターンを変更できます。  これは、"
           },
           {
-            "text": "exploring",
+            "text": "探索",
             "color": "blue"
           },
           {
-            "text": " or by trading with "
+            "text": "を行ったり、"
           },
           {
-            "text": "Manaweaver Villagers",
+            "text": "マナ織師の村人",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "と取引することで入手できます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Bottled Manaweaves"
+        "value": "瓶詰めのマナ織"
       },
       {
         "type": "text",
-        "value": "Manaweave automation is done by Manaweaves in a Bottle.  You can capture any drawn or projected manaweave pattern in a bottle by right clicking it.  You can then throw it like a potion or a snowball, and it will spawn the manaweave where it lands.  You can also draw/project manaweave patterns directly into a bottle sitting on a pedestal.\n\nAutomating something to place/remove the bottles and activating a projector charged by one or more mana crystals would be a good way to automate this.",
+        "value": "マナ織の自動化は瓶詰めのマナ織によって行えます。どんな描かれた、もしくは投影されたパターンでもガラス瓶で右クリックすることで回収することができます。 ポーションや雪玉のように投げることができ、着弾した地点にマナ織を置きます。  ペデスタルに置いてあるガラス瓶に対てマナ織を行うことで直接マナ織を入れることもできます。\n\nAutomating something to place/remove the bottles and activating a projector charged by one or more mana crystals would be a good way to automate this.",
         "json": [
           {
-            "text": "Once drawn and in the world, I can "
+            "text": "世界に描かれている"
           },
           {
-            "text": "bottle",
-            "color": "dark_purple"
-          },
-          {
-            "text": " a "
-          },
-          {
-            "text": "manaweave pattern",
+            "text": "マナ織",
             "color": "blue"
           },
           {
-            "text": " by activating it with a plain bottle in my hand. \n\nI can then "
+            "text": "は、ガラス瓶でクリックすることで"
+          },
+          {
+            "text": "瓶に詰める",
+            "color": "dark_purple"
+          },
+          {
+            "text": "事ができます。 \n\nそれは、"
           },
           {
             "text": "throw it like a potion",

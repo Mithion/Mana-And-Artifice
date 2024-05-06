@@ -709,7 +709,7 @@
 	"block.mna.refraction_lens_water": "Refraction Lens: Water",
 	"block.mna.refraction_lens_fire": "Refraction Lens: Fire",
 
-	"block.mna.manaweaving_altar": "マナ織りの祭壇",
+	"block.mna.manaweaving_altar": "マナ織の祭壇",
 	"block.mna.manaweaving_altar.repeat": "Right click with an empty hand to instantly re-craft:",
 	"block.mna.manaweaving_altar.repeat_mana_cost": "マナ %d 消費",
 	"block.mna.manaweave_projector": "マナ織投影機",
