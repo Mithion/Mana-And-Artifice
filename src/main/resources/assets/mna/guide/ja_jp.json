@@ -2787,42 +2787,42 @@
             "color": "dark_purple"
           },
           {
-            "text": "事ができます。 \n\nそれは、"
+            "text": "事ができます。 \n\nそれは"
           },
           {
-            "text": "throw it like a potion",
+            "text": "ポーションや雪玉のように投げる",
             "color": "dark_purple"
           },
           {
-            "text": " or a snowball, and it will release the manaweave where it lands. \n\nI can "
+            "text": "事ができ、あたった場所にマナ織を出します。 \n\n　他の方法として"
           },
           {
-            "text": "bottle manaweaves directly into a bottle",
-            "color": "dark_purple"
-          },
-          {
-            "text": " sitting on a "
-          },
-          {
-            "text": "pedestal",
+            "text": "ペデスタル",
             "color": "blue"
           },
           {
-            "text": " if they're drawn nearby. \n\n"
+            "text": "にガラス瓶を置くことで、近くで描かれたマナ織を"
           },
           {
-            "text": "Setting up a construct",
+            "text": "直接瓶詰めするこができます",
             "color": "dark_purple"
           },
           {
-            "text": " to place empty bottles, activate a projector charged by one or more mana crystals, then remove the captured manaweave in a bottle and place it in some kind of storage container sounds like a "
+            "text": "。 \n\n"
           },
           {
-            "text": "good way to automate",
+            "text": "コンストラクトを構築",
             "color": "dark_purple"
           },
           {
-            "text": " this process."
+            "text": "してガラス瓶を置かせ、マナクリスタルに充電されたマナ投影機を起動したのち、ボトルをどこかに収納させるのは、この処理を"
+          },
+          {
+            "text": "自動化する良い手段",
+            "color": "dark_purple"
+          },
+          {
+            "text": "でしょう。"
           }
         ]
       }
@@ -2860,21 +2860,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Magic Staves, Wands, and Bangles"
+        "value": "魔法の杖/大杖/腕輪"
       },
       {
         "type": "text",
         "value": "Magic staves and wands are aesthetic choices for mages who want to cast from them.  They can also be found as loot in dungeons, and may have a random spell on it with limited charges.  Staves and wands with charges do not consume mana to cast, but will eventually break.\n\nA spell can be combined with a staff or wand at a manaweaving table.",
         "json": [
           {
-            "text": "Magic staves, wands, and bangles are aesthetic choices for mages who want to cast from them.\n\nStaves and wands are perfect for their direct look, and bangles are perfect when I simply want to hold the spell in my hands.\n\n"
+            "text": "魔法の杖/大杖/腕輪は、見た目の好みのための選択肢です。\n\n杖と大杖はそのままの見た目として最高で、腕輪は呪文をそのまま手に持ちたい場合に最適です。\n\n　紙の呪文と違うのは"
           },
           {
-            "text": "All of them can be enchanted",
+            "text": "三つともエンチャントでき",
             "color": "dark_purple"
           },
           {
-            "text": ", with some even applying bonuses to spells!"
+            "text": "、いくつかのエンチャントは呪文にさらなるボーナスを追加できます！"
           }
         ]
       },
@@ -2883,160 +2883,161 @@
         "value": "",
         "json": [
           {
-            "text": " Staves, wands, and bangles can be "
+            "text": "魔法の杖/大杖/腕輪は、ダンジョンや構造物の"
           },
           {
-            "text": "found as loot",
+            "text": "ルートチェスト",
             "color": "dark_purple"
           },
           {
-            "text": " in dungeons and structures, and may have a random spell on them with limited charges. Staves and wands with charges do not take any mana to cast, but will eventually break.  "
+            "text": "からも発見でき、ランダムな呪文が回数制限付きで付与されていることがあります。回数制限つきの杖や腕輪マナを消費しませんが、いずれ壊れてしまいます。 "
           },
           {
-            "text": "I do not know of any way to replenish these charges",
+            "text": "この回数を回復させる方法は見つかっていません",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nA "
+            "text": "。\n\n"
           },
           {
-            "text": "simple spell",
+            "text": "簡単な呪文",
             "color": "blue"
           },
           {
-            "text": " can be "
+            "text": "は"
           },
           {
-            "text": "combined",
+            "text": "魔法の杖/大杖/腕輪",
+            "color": "blue"
+          },
+          {
+            "text": "と、"
+          },
+          {
+            "text": "マナ織の祭壇",
+            "color": "blue"
+          },
+          {
+            "text": "で"
+          },
+          {
+            "text": "組み合わせる",
+            "color": "dark_purple"
+          },
+
+          {
+            "text": "事ができます。\n\n"
+          },
+          {
+            "text": "暗記した呪文",
+            "color": "blue"
+          },
+          {
+            "text": "は"
+          },
+          {
+            "text": "転写台",
+            "color": "blue"
+          },
+          {
+            "text": "で"
+          },
+          {
+            "text": "魔法の杖/大杖/腕輪",
+            "color": "blue"
+          },
+          {
+            "text": "に"
+          },
+          {
+            "text": "転写",
             "color": "dark_purple"
           },
           {
-            "text": " with a "
-          },
-          {
-            "text": "staff, wand, or bangle",
-            "color": "blue"
-          },
-          {
-            "text": " at a "
-          },
-          {
-            "text": "Manaweaving Altar",
-            "color": "blue"
-          },
-          {
-            "text": ".\n\nA "
-          },
-          {
-            "text": "rote spell",
-            "color": "blue"
-          },
-          {
-            "text": " can be "
-          },
-          {
-            "text": "transcribed",
-            "color": "dark_purple"
-          },
-          {
-            "text": " onto a "
-          },
-          {
-            "text": "staff, wand, or bangle",
-            "color": "blue"
-          },
-          {
-            "text": " using a "
-          },
-          {
-            "text": "Transcription Table",
-            "color": "blue"
-          },
-          {
-            "text": "."
+            "text": "できます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Enchantment Effects"
+        "value": "エンチャントの効果"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "Certain enchantments are available to all factions on staves, and other enchants, while they can be applied, will only perform their effect if the wizard is a member of the correct faction.\n\n"
+            "text": "いくつかのエンチャントはすべての派閥が利用でき、Certain enchantments are available to all factions on staves, and other enchants, while they can be applied, will only perform their effect if the wizard is a member of the correct faction.\n\n"
           },
           {
-            "text": "Bludgeoning",
+            "text": "殴打",
             "color": "blue"
           },
           {
-            "text": " will cause the staff, wand, or bangle to deal more melee damage.\n\n"
+            "text": "は魔法の杖/大杖/腕輪がさらに大きな打撃ダメージを与えるようになります。 \n\n"
           },
           {
-            "text": "Ascended Duration, Ascended Range, or Ascended Speed",
+            "text": "持続時間上昇、 範囲上昇、　速度上昇",
             "color": "blue"
           },
           {
-            "text": " causes the spell's Duration, Range, or Speed values respectively to be increased by a number of steps equal to the enchantment level.\n\n"
+            "text": "は、エンチャントレベルに応じて持続時間、範囲、速度が上昇させます。\n\n"
           },
           {
-            "text": "Efficiency",
+            "text": "効率強化",
             "color": "blue"
           },
           {
-            "text": " reduces the mana cost of the contained spell.\n\n"
+            "text": "は保持している呪文のマナコストが低下させます。\n\n"
           },
           {
-            "text": "Quick Charge",
+            "text": "高速装填",
             "color": "blue"
           },
           {
-            "text": " reduces the cooldown of the contained spell.\n\n"
+            "text": "は、保持された呪文のクールダウンを低下させます。\n\n"
           },
           {
-            "text": "Lure",
+            "text": "入れ食い",
             "color": "blue"
           },
           {
-            "text": " causes the spell to have a chance to taunt the target when it is successfully applied.\n\n"
+            "text": "は、呪文が相手に適用された場合に確率で相手の注意の自分に向けます。\n\n"
           },
           {
-            "text": "Aqua Affinity",
+            "text": "水中採掘",
             "color": "blue"
           },
           {
-            "text": " allows fire spells to work underwater.\n\n"
+            "text": "炎の呪文を水中でも使用できるようになります。\n\n"
           },
           {
-            "text": "Channeling",
+            "text": "召雷",
             "color": "blue"
           },
           {
-            "text": " doubles the duration you can channel spells.\n\n"
+            "text": "連続した呪文を続けられる時間を増加します。\n\n"
           },
           {
-            "text": "Loyalty",
+            "text": "忠誠",
             "color": "blue"
           },
           {
-            "text": " increases the number of summons called with a single cast of a summon spell, and boosts the maximum number of summons you can have.\n\n"
+            "text": "一度の呪文で呼び出せる召喚獣の数を上昇し、最大召喚数を上昇します。\n\n"
           },
           {
-            "text": "Demons",
+            "text": "悪魔",
             "color": "dark_red"
           },
           {
-            "text": " benefit from the "
+            "text": "は、"
           },
           {
-            "text": "Flame",
+            "text": "火属性",
             "color": "dark_red"
           },
           {
-            "text": " enchantment on spell foci, which reduces spell cooldowns by 66.6% while the caster is on fire and makes brimstone overcasting from health twice as efficient.\n\n"
+            "text": "から有用な影響をうけます。 enchantment on spell foci, which reduces spell cooldowns by 66.6% while the caster is on fire and makes brimstone overcasting from health twice as efficient.\n\n"
           },
           {
             "text": "The Fey",
