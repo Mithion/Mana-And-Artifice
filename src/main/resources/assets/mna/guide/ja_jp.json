@@ -1963,7 +1963,7 @@
             "color": "dark_gray"
           },
           {
-            "text": "を呪文の焦点（杖など）に付与することによって周囲にダメージを与えるオーラを発し、スニークしながらジャンプすることで一定時間霧になることができ、短距離を飛行できるようになります。アンデッドは、"
+            "text": "を呪文の焦点（杖など）に付与することによって周囲に継続ダメージを与えるオーラを発し、スニークしながらジャンプすることで一定時間霧になることができ、短距離を飛行できるようになります。アンデッドは、"
           },
           {
             "text": "召喚の上限が増加",
@@ -2383,7 +2383,7 @@
         "value": "次に、杖を手に持って使用します（マウスの右ボタンを押したまま）。そして、空中に図形を描きます。",
         "json": [
           {
-            "text": "次に、杖を手に持って使用します（マウスの右ボタンを押したまま）。その後、空中に図形を描きます。\n\n右クリックを終了した後、成功した場合、パターンが目の前に投影されるはずです。"
+            "text": "次に、杖を手に持って使用します（マウスの右クリックを押したまま）。その後、空中に図形を描きます。\n\n右クリックを終了した後、成功した場合、パターンが目の前に投影されるはずです。"
           }
         ]
       },
@@ -2408,7 +2408,7 @@
             "text": "、 "
           },
           {
-            "text": "間違っているパターンは何もしません。",
+            "text": "パターンを間違ってしまえば、使用したマナは水の泡です",
             "color": "dark_purple"
           },
           {
@@ -2867,10 +2867,10 @@
         "value": "Magic staves and wands are aesthetic choices for mages who want to cast from them.  They can also be found as loot in dungeons, and may have a random spell on it with limited charges.  Staves and wands with charges do not consume mana to cast, but will eventually break.\n\nA spell can be combined with a staff or wand at a manaweaving table.",
         "json": [
           {
-            "text": "魔法の杖/大杖/腕輪は、見た目の好みのための選択肢です。\n\n杖と大杖はそのままの見た目として最高で、腕輪は呪文をそのまま手に持ちたい場合に最適です。\n\n　紙の呪文と違うのは"
+            "text": "魔法の杖/大杖/腕輪は、見た目の好みのための選択肢です。\n\n杖と大杖はそのままの見た目として最高で、腕輪は呪文をそのまま手に持ちたい場合に最適です。\n\n　紙の呪文と違う点として、"
           },
           {
-            "text": "三つともエンチャントでき",
+            "text": "エンチャントすることができ",
             "color": "dark_purple"
           },
           {
@@ -2967,7 +2967,7 @@
         "value": "",
         "json": [
           {
-            "text": "いくつかのエンチャントはすべての派閥が利用でき、Certain enchantments are available to all factions on staves, and other enchants, while they can be applied, will only perform their effect if the wizard is a member of the correct faction.\n\n"
+            "text": "いくつかのエンチャントはすべての派閥が利用でき、それ以外のエンチャントは特定の派閥の魔術師が保持している場合にのみ効果が適応されます。\n\n"
           },
           {
             "text": "殴打",
@@ -2988,7 +2988,7 @@
             "color": "blue"
           },
           {
-            "text": "は保持している呪文のマナコストが低下させます。\n\n"
+            "text": "は、保持している呪文のマナコストが低下させます。\n\n"
           },
           {
             "text": "高速装填",
@@ -3009,21 +3009,21 @@
             "color": "blue"
           },
           {
-            "text": "炎の呪文を水中でも使用できるようになります。\n\n"
+            "text": "は、炎の呪文を水中でも使用できるようになります。\n\n"
           },
           {
             "text": "召雷",
             "color": "blue"
           },
           {
-            "text": "連続した呪文を続けられる時間を増加します。\n\n"
+            "text": "は、連続した呪文を続けられる時間を増加します。\n\n"
           },
           {
             "text": "忠誠",
             "color": "blue"
           },
           {
-            "text": "一度の呪文で呼び出せる召喚獣の数を上昇し、最大召喚数を上昇します。\n\n"
+            "text": "は、一度の呪文で呼び出せる召喚獣の数を上昇し、最大召喚数を上昇します。\n\n"
           },
           {
             "text": "悪魔",
@@ -3037,49 +3037,49 @@
             "color": "dark_red"
           },
           {
-            "text": "から有用な影響をうけます。 enchantment on spell foci, which reduces spell cooldowns by 66.6% while the caster is on fire and makes brimstone overcasting from health twice as efficient.\n\n"
+            "text": "から有用な影響をうけます。 エンチャントを呪文の焦点に付けることで、使用者が燃えている場合に、呪文のクールダウンを66.6%低下し、獄炎の体力をマナに変換する効率が二倍になります。\n\n"
           },
           {
-            "text": "The Fey",
+            "text": "妖精",
             "color": "dark_green"
           },
           {
-            "text": " benefit from a "
+            "text": "は、"
           },
           {
-            "text": "Thorns",
+            "text": "棘の鎧",
             "color": "dark_green"
           },
           {
-            "text": " enchantment on spell foci which causes targets hit in melee to gain the Writhing Brambles effect, causing damage when they move.\n\n"
+            "text": "から有用な影響をうけます。  エンチャントを呪文の焦点に付けることで、物理攻撃をおこなった場合に相手に「波打つ茨」を付与し、相手が移動した場合にダメージを与えます。\n\n"
           },
           {
-            "text": "The Council",
+            "text": "評議会",
             "color": "blue"
           },
           {
-            "text": " benefits from the "
+            "text": "は、"
           },
           {
-            "text": "Power",
+            "text": "P射撃ダメージ増加",
             "color": "blue"
           },
           {
-            "text": " enchant on spell foci, granting the following benefits, each one scaling by the strength of the Power enchantment applied:\n- Embers and Projectile spells gain homing capabilities\n- Sigil limit is increased\n- Smite bonus damage from falling is increased\n\n"
+            "text": "から、エンチャントレベルに比例して有用な影響をうけます：\n- 余燼や、発射体はホーミングの能力を得る\n- 印の最大数を増加\n- 落下時のクリティカルダメージ増加\n\n"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": " benefit from the "
+            "text": "は、"
           },
           {
-            "text": "Frost Walker",
+            "text": "氷渡り‘",
             "color": "dark_gray"
           },
           {
-            "text": " enchantment on spell foci, giving them a pulsing aura of damage and causing jumping while sneaking to turn them into mist, allowing flight for short bursts."
+            "text": "から有用な影響をうけます。 エンチャントを呪文の焦点に付けることで、 周囲に継続ダメージを与えるオーラを発し、スニークしながらジャンプすることで一定時間霧になることができ、短距離を飛行できるようになります。"
           }
         ]
       }
@@ -3120,7 +3120,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Initial Setup"
+        "value": "儀式の下準備"
       },
       {
         "type": "text",
