@@ -3120,165 +3120,168 @@
     "sections": [
       {
         "type": "title",
-        "value": "儀式の下準備"
+        "value": "儀式の準備"
       },
       {
         "type": "text",
         "value": "Rituals are more in-depth magical castings that provide more powerful or long term effects than an instant cast spell typically will.  It involves additional preparation, reagents, and interactions to complete the effect, but there are some very powerful effects that can be achieved.\n\nTo start, draw the pattern on the ground using Wizard's Chalk.  The orientation doesn't matter.  Then, activate the centre of the ritual using Purified Vinteum Dust.  This will cause the ritual to begin displaying the needed reagents.  Reagent numbers in gold are mandatory, and numbers in white are optional.\n\nPlace the required reagents in the correct positions, then activate the centre of the ritual again using Purified Vinteum Dust.  This will cause the ritual to begin casting.",
         "json": [
           {
-            "text": "Rituals",
+            "text": "儀式",
             "color": "blue"
           },
           {
-            "text": " are more in-depth magical castings that provide more powerful or long term effects than an instant cast spell typically will. \n\nIt involves additional preparation, reagents, and interactions to complete the effect, but there are some very powerful effects that can be achieved. \n\nTo start, I need to draw the pattern on the ground using "
+            "text": "は、魔術の深淵により踏み込んだ詠唱法で、通常の即座に発動する呪文よりも強力、もしくは持続的な効果を及ぼします。\n\n追加の準備、触媒、そして手順が必要になりますが、それによって得られるかなり強力な効果は割に合います。 \n\n始めるにはまず、地面に"
           },
           {
-            "text": "Wizard's Chalk",
+            "text": "魔術師のチョーク",
             "color": "blue"
           },
           {
-            "text": ". "
+            "text": "を使用して魔法陣を描きます。 "
           },
           {
-            "text": "The orientation doesn't matter",
+            "text": "どの方向でも問題ありません",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThen, I need to "
+            "text": "。 \n\nその後、 "
           },
+          
           {
-            "text": "activate the center",
-            "color": "dark_purple"
-          },
-          {
-            "text": " of the ritual using "
-          },
-          {
-            "text": "Purified Vinteum Dust",
+            "text": "浄化ヴィンテウムの粉",
             "color": "blue"
           },
           {
-            "text": ". This will cause the ritual to begin displaying the needed reagents. "
+            "text": "で魔法陣の"
           },
           {
-            "text": "Reagent numbers, if present, in gold are mandatory, and numbers in white are optional.",
+            "text": "中心を起動してください",
+            "color": "dark_purple"
+          },
+          
+          {
+            "text": "。 儀式が起動し、必要な触媒が表示されます。 "
+          },
+          {
+            "text": "触媒数が存在する場合、金で表示されているものが必須で、白く数字が表示されているものが任意の触媒です。",
             "italic": true
           },
           {
-            "text": " \n\nLastly, I need to "
+            "text": " \n\n最後に、正しい場所に "
           },
           {
-            "text": "place the reagents",
+            "text": "触媒を設置",
             "color": "dark_purple"
           },
           {
-            "text": " in the correct positions, then "
+            "text": "し、"
           },
           {
-            "text": "activate the center of the ritual again",
-            "color": "dark_purple"
-          },
-          {
-            "text": " using "
-          },
-          {
-            "text": "Purified Vinteum Dust",
+            "text": "浄化ヴィンテウムの粉",
             "color": "blue"
           },
           {
-            "text": ". This will cause the ritual to begin casting."
+            "text": "で再び魔法陣の中心を起動",
+            "color": "dark_purple"
+          },
+          {
+            "text": "してください。"
+          },
+          
+          {
+            "text": "これにより、儀式の詠唱が開始されます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Collecting Reagents"
+        "value": "触媒の回収"
       },
       {
         "type": "text",
         "value": "The ritual will power up and then begin drawing in the reagents.  Take care to ensure that no reagents are removed and that the chalk runes remain intact, lest you encounter more...explosive results.\n\nNot all rituals require reagents.",
         "json": [
           {
-            "text": "The ritual will power up and then begin drawing in the reagents. I must take extra care to ensure that "
+            "text": "儀式が力を増し、触媒を取り込み始めます。 最新の注意を払い、 "
           },
           {
-            "text": "no reagents are removed and that the chalk runes remain intact",
+            "text": "触媒が取り除かれず、チョークで描かれたルーンをそのままに保持する必要",
             "color": "dark_purple"
           },
           {
-            "text": ", lest I encounter more..."
+            "text": "があり、最低でも"
           },
           {
-            "text": "explosive results",
+            "text": "爆発的な結果",
             "color": "dark_purple"
           },
           {
-            "text": ". Not all rituals require reagents."
+            "text": "になるでしょう。触媒が必要ない儀式もあります。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Manaweaving"
+        "value": "マナ織"
       },
       {
         "type": "text",
         "value": "After the reagents are consumed, the ritual will begin displaying manaweave patterns.  You need to draw the required pattern (or use a manaweave projector to create it), and the ritual will draw it in, then display the next pattern.\n\nNot all rituals require patterns.\n\nOnce all patterns are added, the ritual will complete over the next few seconds.",
         "json": [
           {
-            "text": "After the reagents are consumed, the ritual will begin displaying "
+            "text": "触媒が取り込まれたあと、儀式は"
           },
           {
-            "text": "manaweave patterns",
+            "text": "マナ織のパターン",
             "color": "blue"
           },
           {
-            "text": ". \n\nI need to "
+            "text": "を表示します。 \n\n その場合"
           },
           {
-            "text": "draw the required pattern",
+            "text": "要求されたマナ織を描くことで",
             "color": "dark_purple"
           },
           {
-            "text": " (or use a "
+            "text": " (もしくは "
           },
           {
-            "text": "Manaweave Projector",
+            "text": "マナ織投影機",
             "color": "blue"
           },
           {
-            "text": " or "
+            "text": " を使うか、 "
           },
           {
-            "text": "Bottled Manaweave",
+            "text": "マナ織の瓶詰",
             "color": "blue"
           },
           {
-            "text": " to create it), and the ritual will draw it in, then display the next pattern. Not all rituals require patterns. Once all patterns are added, the ritual will complete over the next few seconds."
+            "text": " で作成して)、 儀式がそれを取り込み、次のパターンを表示します。パターンを必要としない儀式もあります。全てのパターンが取り込まれたのち、数秒後に儀式が完了します。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Dynamic Reagents"
+        "value": "流動的な触媒"
       },
       {
         "type": "text",
-        "value": "Some rituals require an item to display reagents, such as the Ritual of Arcana requiring a spell recipe.  You will need to place the item in first, and then the remaining reagents will be displayed.  You do not need to reactivate the ritual using Purified Vinteum Dust for the dynamic reagents to be displayed.",
+        "value": "いくつかの儀式は触媒を表示するためにアイテムが必要で、例：アルカナの儀式は呪文のレシピが必要です。まずアイテムを置く必要があり、その後に必要な触媒が表示されます。  触媒を表示するのに儀式を浄化ヴィンテウムの粉で再度起動する必要はありません。",
         "json": [
           {
-            "text": "Some rituals require an item to display reagents, such as the "
+            "text": "いくつかの儀式は触媒を表示するためにアイテムが必要で、例："
           },
           {
-            "text": "Ritual of Arcana",
+            "text": "アルカナの儀式",
             "color": "blue"
           },
           {
-            "text": " requiring a spell recipe. I will need to place the item in first, and then the remaining reagents will be displayed. \n\n"
+            "text": "は呪文のレシピが必要です。まずアイテムを置く必要があり、その後に必要な触媒が表示されます。 \n\n"
           },
           {
-            "text": "I do not need to reactivate the ritual using Purified Vinteum Dust for the dynamic reagents to be displayed.",
+            "text": "触媒を表示するのに儀式を浄化ヴィンテウムの粉で再度起動する必要はありません。",
             "color": "dark_purple"
           }
         ]
