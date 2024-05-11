@@ -4482,7 +4482,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Arcana"
+        "value": "アルカナの儀式"
       },
       {
         "type": "text",
@@ -4684,7 +4684,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Homestead"
+        "value": "故郷の儀式"
       },
       {
         "type": "text",
@@ -4741,7 +4741,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Return"
+        "value": "帰還の儀式"
       },
       {
         "type": "text",
@@ -4766,7 +4766,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Gate"
+        "value": "ゲートの儀式"
       },
       {
         "type": "text",
@@ -4942,7 +4942,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Ancient Stone"
+        "value": "古代岩の儀式"
       },
       {
         "type": "text",
@@ -4971,7 +4971,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Deep Ocean"
+        "value": "深海の儀式"
       },
       {
         "type": "text",
@@ -5003,7 +5003,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Endless Void"
+        "value": "永遠の虚無の儀式"
       },
       {
         "type": "text",
@@ -5035,7 +5035,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Forgotten Lore"
+        "value": "忘れられし歴史の儀式"
       },
       {
         "type": "text",
@@ -5084,7 +5084,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Searing Inferno"
+        "value": "灼熱地獄の儀式"
       },
       {
         "type": "text",
@@ -5116,7 +5116,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Untamed Wind"
+        "value": "暴風の儀式"
       },
       {
         "type": "text",
@@ -5808,7 +5808,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Scribing Spells"
+        "value": "呪文の下書き"
       },
       {
         "type": "text",
@@ -5922,7 +5922,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Making Vellum"
+        "value": "皮紙の作成"
       },
       {
         "type": "text",
@@ -5993,7 +5993,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Making Leather"
+        "value": "革の作成"
       },
       {
         "type": "text",
@@ -6046,7 +6046,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Crafting Spells"
+        "value": "呪文の作成"
       },
       {
         "type": "text",
@@ -6147,7 +6147,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Casting Spells"
+        "value": "呪文の詠唱"
       },
       {
         "type": "text",
@@ -6209,7 +6209,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Affinities"
+        "value": "属性"
       },
       {
         "type": "text",
@@ -6334,7 +6334,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Spell Books"
+        "value": "呪文本"
       },
       {
         "type": "text",
@@ -6375,7 +6375,7 @@
       },
       {
         "type": "title",
-        "value": "Grimoires"
+        "value": "グリモア"
       },
       {
         "type": "text",
@@ -6476,7 +6476,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "The Rote Mechanic"
+        "value": "暗記の仕組み"
       },
       {
         "type": "text",
@@ -6558,7 +6558,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Torn Journal Pages"
+        "value": "破かれた論文"
       },
       {
         "type": "item",
@@ -6609,7 +6609,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "The Mastery Mechanic"
+        "value": "マスタリーの仕組み"
       },
       {
         "type": "text",
@@ -10364,7 +10364,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Making Blank Plates"
+        "value": "空の板の作成"
       },
       {
         "type": "text",
@@ -10400,7 +10400,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Runeforge"
+        "value": "ルーンかまど"
       },
       {
         "type": "text",
@@ -10446,7 +10446,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Runescribing"
+        "value": "ルーン刻"
       },
       {
         "type": "text",
@@ -10550,7 +10550,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Runesmithing"
+        "value": "ルーン鍛冶"
       },
       {
         "type": "text",
@@ -10633,7 +10633,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Charcoal Patterns"
+        "value": "黒鉛のパターン"
       },
       {
         "type": "text",
@@ -12402,7 +12402,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Warding Candles"
+        "value": "結界の蝋燭"
       },
       {
         "type": "text",
@@ -12702,7 +12702,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Disenchanter"
+        "value": "エンチャント除去機"
       },
       {
         "type": "text",
@@ -12741,7 +12741,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Transcription Table"
+        "value": "術式刻印テーブル"
       },
       {
         "type": "text",
@@ -12836,7 +12836,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Study Desk"
+        "value": "勉強台"
       },
       {
         "type": "text",
@@ -13032,7 +13032,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Affinity Tinker Table"
+        "value": "親和性調整台"
       },
       {
         "type": "text",
@@ -13085,7 +13085,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Fluid Urns"
+        "value": "液体壺"
       },
       {
         "type": "text",
@@ -13325,7 +13325,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mage Armor"
+        "value": "魔術の鎧"
       },
       {
         "type": "text",
@@ -13434,7 +13434,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Eldritch Orb"
+        "value": "エルドリッチオーブ"
       },
       {
         "type": "text",
@@ -14444,7 +14444,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mana Crystal Fragment"
+        "value": "マナクリスタルの欠片"
       },
       {
         "type": "text",
@@ -14484,7 +14484,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Crystal of Memories"
+        "value": "記憶の欠片"
       },
       {
         "type": "text",
@@ -14750,7 +14750,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ender Disc"
+        "value": "エンダーディスク"
       },
       {
         "type": "text",
@@ -15107,7 +15107,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Constructs"
+        "value": "コンストラクト"
       },
       {
         "type": "text",
@@ -15131,7 +15131,7 @@
       },
       {
         "type": "title",
-        "value": "Making the Parts"
+        "value": "パーツ作成"
       },
       {
         "type": "text",
@@ -15555,7 +15555,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Basic Summoning"
+        "value": "基本的な召喚"
       },
       {
         "type": "text",
@@ -15659,7 +15659,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Advanced Construct Summoning",
+        "value": "上位コンストラクト召喚",
         "newPage": true
       },
       {
@@ -19574,7 +19574,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Eldrin Power"
+        "value": "エルドリンパワー"
       },
       {
         "type": "text",
@@ -19714,7 +19714,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Eldrin Wellsprings"
+        "value": "エルドリンの源泉"
       },
       {
         "type": "text",
@@ -19818,7 +19818,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Finding Wellsprings"
+        "value": "源泉探し"
       },
       {
         "type": "text",
@@ -20072,7 +20072,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Capturing Eldrin Wellsprings"
+        "value": "エルドリン源泉の確保"
       },
       {
         "type": "text",
@@ -20151,7 +20151,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Supplying Eldrin Power"
+        "value": "エルドリンパワーの供給"
       },
       {
         "type": "text",
@@ -20222,7 +20222,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Eldrin Altar"
+        "value": "エルドリンの祭壇"
       },
       {
         "type": "text",
@@ -20287,7 +20287,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Infernal Armor"
+        "value": "獄炎の祭壇"
       },
       {
         "type": "text",
@@ -20635,7 +20635,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Greater Motes"
+        "value": "上位の雫"
       },
       {
         "type": "text",
@@ -20694,7 +20694,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Runic Enchanting"
+        "value": "ルーンエンチャント"
       },
       {
         "type": "text",
@@ -24914,7 +24914,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Automating Spell Creation"
+        "value": "呪文作成の自動化"
       },
       {
         "type": "text",
