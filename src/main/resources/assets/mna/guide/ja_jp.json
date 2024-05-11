@@ -800,7 +800,7 @@
       },
       {
         "type": "title",
-        "value": "タルマの根",
+        "value": "タルマ根",
         "newPage": true
       },
       {
@@ -2977,7 +2977,7 @@
             "text": "は魔法の杖/大杖/腕輪がさらに大きな打撃ダメージを与えるようになります。 \n\n"
           },
           {
-            "text": "持続時間上昇、 範囲上昇、　速度上昇",
+            "text": "持続時間上昇、 範囲上昇、速度上昇",
             "color": "blue"
           },
           {
@@ -3320,81 +3320,81 @@
     "sections": [
       {
         "type": "title",
-        "value": "Tagging Charms"
+        "value": "タグ付けされた御守り"
       },
       {
         "type": "text",
         "value": "Player charms and world charms, once crafted, can be attuned to by a player or world by right clicking on the charm.  Attuned player charms can then be given to trusted allies to allow them to use rituals involving you, such as Summoning or Visiting (once unlocked).  Attuned world charms can be used to use a Ritual of Return or a Ritual of the Gate to target a point in a different dimension.",
         "json": [
           {
-            "text": "Player Charms",
+            "text": "プレイヤーの御守り",
             "color": "blue"
           },
           {
-            "text": " and "
+            "text": "と、"
           },
           {
-            "text": "World Charms",
+            "text": "世界の御守り",
             "color": "blue"
           },
           {
-            "text": ", once crafted, can be attuned to by a wizard or dimension respectively by "
+            "text": "は、"
           },
           {
-            "text": "activating the charm while holding it",
+            "text": "御守りを手に持って起動することで、",
             "color": "dark_purple"
           },
           {
-            "text": ".  \n\nIn the case of "
+            "text": "それぞれプレイヤーとディメンションに調整できます。  \n\n "
           },
           {
-            "text": "Player Charms",
+            "text": "プレイヤーの御守り",
             "color": "blue"
           },
           {
-            "text": ", the charm will attune "
+            "text": "の場合、御守りは"
           },
           {
-            "text": "to the wizard that activated it",
+            "text": "起動した魔術師",
             "color": "dark_purple"
           },
           {
-            "text": ". The charm can then be given to trusted allies to allow them to use rituals involving the wizard the charm is attuned to, such as "
+            "text": "に調整されます。 御守りは、信用できる味方に渡すことでその魔術師に対する儀式をする時に使用できます。例として "
           },
           {
-            "text": "Summoning",
+            "text": "召喚",
             "color": "blue"
           },
           {
-            "text": " or "
+            "text": "か、"
           },
           {
-            "text": "Visiting",
+            "text": "来訪",
             "color": "blue"
           },
           {
-            "text": " (if they possess the skill to perform them). \n\nAttuned "
+            "text": " (儀式を行うための技術がある場合). \n\n調整した "
           },
           {
-            "text": "World Charms",
+            "text": "世界の御守り",
             "color": "blue"
           },
           {
-            "text": " can be used to use a "
+            "text": "は、 "
           },
           {
-            "text": "Ritual of Return",
+            "text": "帰還の儀式",
             "color": "blue"
           },
           {
-            "text": " or a "
+            "text": "と、"
           },
           {
-            "text": "Ritual of the Gate",
+            "text": "ゲートの儀式",
             "color": "blue"
           },
           {
-            "text": " to target a point in a different dimension."
+            "text": "で、別のディメンションにテレポートしたい場合に使用します。"
           }
         ]
       }
@@ -3416,45 +3416,45 @@
     "sections": [
       {
         "type": "title",
-        "value": "Motes"
+        "value": "属性の雫"
       },
       {
         "type": "text",
         "value": "There are rituals that exist to create various elemental motes.  There is one ritual/mote for each affinity.  Be sure to check the ritual entries in this codex as the mote rituals all have special conditions required in order to perform the ritual.\n\nThe rituals are:\n\nRitual of the Endless Void / Mote of Ender\n\nRitual of Forgotten Lore / Mote of Magic\n\nRitual of the Untamed Wind / Mote of Air\n\nRitual of the Searing Inferno / Mote of Fire\n\nRitual of the Deep Ocean / Mote of Water\n\nRitual of Ancient Stone / Mote of Earth.",
         "json": [
           {
-            "text": "There are rituals that exist to create various elemental motes.  These motes are used in a multitude of crafting recipes, so I should consider setting up places to perform them with means to get there easily.\n\nThere is one ritual/mote for each affinity. \n\nThe mote rituals all have special conditions required in order to perform the ritual.  I have documented them in this Codex under the ritual's specific entry. \n\nThe rituals are: \n"
+            "text": "様々な属性の雫を作成できる、さまざまな儀式が存在します。  この雫は様々な素材に利用されるので、この儀式を楽に沢山を行えるように用意するべきでしょう。\n\n一つの属性につき、一つの儀式/雫があります。 \n\n雫の儀式はすべて、儀式を行うための特殊な条件を満たす必要があります。 この条件はその儀式の項目に記されています。 \n\nこれらの儀式は、: \n"
           },
           {
-            "text": "Ritual of the Endless Void",
+            "text": "永遠の虚無の儀式",
             "color": "dark_purple"
           },
           {
             "text": " / "
           },
           {
-            "text": "Mote of Ender ",
+            "text": "エンダーの雫 ",
             "color": "blue"
           },
           {
             "text": "\n"
           },
           {
-            "text": "Ritual of Forgotten Lore",
+            "text": "忘れられし歴史の儀式",
             "color": "dark_purple"
           },
           {
             "text": " / "
           },
           {
-            "text": "Mote of Magic ",
+            "text": "魔術の雫 ",
             "color": "blue"
           },
           {
             "text": "\n"
           },
           {
-            "text": "Ritual of the Untamed Wind",
+            "text": "苛烈な暴風の儀式",
             "color": "dark_purple"
           },
           {
@@ -3468,7 +3468,7 @@
             "text": "\n"
           },
           {
-            "text": "Ritual of the Searing Inferno",
+            "text": "灼熱地獄の儀式",
             "color": "dark_purple"
           },
           {
@@ -3482,46 +3482,46 @@
             "text": " \n"
           },
           {
-            "text": "Ritual of the Deep Ocean",
+            "text": "深海の儀式",
             "color": "dark_purple"
           },
           {
             "text": " / "
           },
           {
-            "text": "Mote of Water ",
+            "text": "水の雫 ",
             "color": "blue"
           },
           {
             "text": "\n"
           },
           {
-            "text": "Ritual of Ancient Stone",
+            "text": "古代岩の儀式",
             "color": "dark_purple"
           },
           {
             "text": " / "
           },
           {
-            "text": "Mote of Earth",
+            "text": "大地の雫",
             "color": "blue"
           },
           {
-            "text": "\n\nThese rituals are ideal candidates for a "
+            "text": "\n\nこれらの儀式は、"
           },
           {
-            "text": "Practitioner's Pouch",
+            "text": "パッチ",
             "color": "blue"
           },
           {
-            "text": " upgraded with a few "
+            "text": "でアップグレードされた"
           },
           {
-            "text": "Patches",
+            "text": "施術者のポーチ",
             "color": "blue"
           },
           {
-            "text": ", which will allow them to be made with significantly more speed and ease."
+            "text": "で利用するのが最適で、楽に素早く儀式を行うことができます。"
           }
         ]
       }
@@ -3559,73 +3559,73 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch"
+        "value": "施術者のポーチ"
       },
       {
         "type": "text",
         "value": "Having to draw out a ritual each and every time can be time consuming.  Enter the practitioner's pouch.\n\nTo bind the pouch to a specific ritual pattern, sneak while activating the centre of a ritual.\n\nHold the GUI key (default left Ctrl) and right click the pouch to open it.  Place all items needed for the ritual inside the pouch.\n\nActivating the pouch on a sufficiently sized, empty flat space will instantly place and activate the ritual.  Items will be consumed from the pouch.\n\nPractitioner's Pouches can store multiple rituals.  Select a slot before binding or placing using the UI key (default 'z') and the radial menu.",
         "json": [
           {
-            "text": "Having to draw out a ritual each and every time can be time consuming. Enter the "
+            "text": "毎回、儀式のために魔法陣を描くのは時間がかかります。 そこで、 "
           },
           {
-            "text": "Practitioner's Pouch",
+            "text": "施術者のポーチ",
             "color": "blue"
           },
           {
-            "text": ". \n\nTo use it, I need to place all items needed for the ritual inside the pouch. Activating the pouch on a sufficiently sized, empty flat space will instantly place and activate the ritual. Items will be consumed from the pouch.\n\n"
+            "text": "です。 \n\n利用するには、儀式に必要な素材をポーチの中に入れる必要があります。ポーチを十分の広さの平らな場所で起動することで、即座に儀式を設置し発動します。\n\n"
           },
           {
-            "text": "To bind the pouch to a specific ritual pattern, sneak while activating the center of a ritual. Hold the GUI key (default left Ctrl) and right click the pouch to open it.  Practitioner's Pouches can store multiple rituals. Select a slot before binding or placing using the UI key (default 'z') and the radial menu.",
+            "text": "ポーチを特定の儀式のパターンに紐づけしたい場合、魔法陣の中心をスニークしながら起動してください。 GUIキー（デフォルト:'ctrl'）を押しながら右クリックでポーチを開けます。  施術者のポーチは、複数の儀式を保持できます。紐づけ、もしくは儀式を起動する前に、UIキー(デフォルト:'z')で円形メニューのスロットを選択してください。",
             "italic": true
           }
         ]
       },
       {
         "type": "title",
-        "value": "Patches"
+        "value": "パッチ"
       },
       {
         "type": "text",
         "value": "One of the most beneficial things about a practitioner's pouch is the ability to extend its functionality through patches.\n\nTo apply a patch to the practitioner's pouch, place the pouch down on a Runic Anvil.  Then, place the patch on top of the pouch.  Finally, activate the anvil with a Sorcerous Sewing Set to stitch the patch on to the pouch.\n\nGiven the relatively small size of the pouch, there's only about enough space for three different kinds of patches (excluing the speed pouch, that one can always be applied in combination with any others).  Rumor has it that there exist powerful variants of this pouch that have every single patch applied.  Some very smart wizard must have figured out how to do it long ago.",
         "json": [
           {
-            "text": "One of the most beneficial things about a practitioner's pouch is the ability to extend its functionality through "
+            "text": "施術者のポーチの中で一番便利な機能として、"
           },
           {
-            "text": "patches",
+            "text": "パッチ",
             "color": "blue"
           },
           {
-            "text": ". \n\nTo apply a patch to the practitioner's pouch, "
+            "text": "を利用して、機能を拡張できます。 \n\n施術者のポーチにパッチを適用するには、"
           },
           {
-            "text": "place the pouch down on a Runic Anvil",
+            "text": "ポーチを刻印の金床に設置",
             "color": "dark_purple"
           },
           {
-            "text": ". Then, place the "
+            "text": "してください。その後、追加したい"
           },
           {
-            "text": "patch on top of the pouch",
+            "text": "パッチをポーチの上に設置",
             "color": "dark_purple"
           },
           {
-            "text": ". Finally, "
+            "text": "してください。 最後に "
           },
           {
-            "text": "activate the anvil with a Sorcerous Sewing Set",
+            "text": "刻印金床を魔法の裁縫キットで起動",
             "color": "dark_purple"
           },
           {
-            "text": " to stitch the patch on to the pouch. \n\nGiven the relatively small size of the pouch, there's only about enough space for three different kinds of patches (excluding the "
+            "text": "することで、パッチをポーチに裁縫できます。 \n\nポーチを小さいサイズに鑑みるに、最大三つしかパッチを縫いつけることはできないでしょう。 ( "
           },
           {
-            "text": "speed pouch",
+            "text": "スピードパッチを除く",
             "color": "blue"
           },
           {
-            "text": ", that one can always be applied in combination with any others). \n\nRumor has it that there exist powerful variants of this pouch that have every single patch applied. Some very smart wizard must have figured out how to do it long ago."
+            "text": "、これは他のパッチと組み合わせて使用できます)。 \n\n風の噂で、すべてのパッチが適用された、特殊な種類のポーチがこの世界のどこかにあるといわれています。過去にいた天才の魔術師がやり方を見つけたのでしょう。"
           }
         ]
       }
