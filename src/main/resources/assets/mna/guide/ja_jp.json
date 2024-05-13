@@ -3433,7 +3433,7 @@
             "text": " / "
           },
           {
-            "text": "エンダーの雫 ",
+            "text": "エンダーの雫",
             "color": "blue"
           },
           {
@@ -3447,7 +3447,7 @@
             "text": " / "
           },
           {
-            "text": "魔術の雫 ",
+            "text": "魔術の雫",
             "color": "blue"
           },
           {
@@ -3461,7 +3461,7 @@
             "text": " / "
           },
           {
-            "text": "Mote of Air ",
+            "text": "空の雫",
             "color": "blue"
           },
           {
@@ -3475,7 +3475,7 @@
             "text": " / "
           },
           {
-            "text": "Mote of Fire",
+            "text": "炎の雫",
             "color": "blue"
           },
           {
@@ -3489,7 +3489,7 @@
             "text": " / "
           },
           {
-            "text": "水の雫 ",
+            "text": "水の雫",
             "color": "blue"
           },
           {
@@ -4407,31 +4407,31 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Wandering Wizard"
+        "value": "行商魔術師の儀式"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This ritual will open a portal and summon a walker of the planes, a "
+            "text": "この儀式はポータルで次元旅行者、"
           },
           {
-            "text": "Wandering Wizard",
+            "text": "行商魔術師",
             "color": "blue"
           },
           {
-            "text": " that will trade with you for various magical wares. \n\nAn experienced traveller, he has access to all of the patterns needed for manaweaving as well as the "
+            "text": "を呼び出し、様々な魔術の品を取引してくれます。 \n\n 経験を積んだ旅行者は、すべてのマナ織、そしてほとんどの"
           },
           {
-            "text": "Ritual of Locating",
+            "text": "探知の儀式",
             "color": "blue"
           },
           {
-            "text": ". Well, most of the locations.  There are locations that even this experienced traveler won't share, out of fear of retribution from the various magical factions.  However, rumors tell of a very powerful creature that harbors no such fear and will deal in these locations in exchange for theses of rote knowledge. "
+            "text": "のパターンを持っています。 派閥に関連する居場所は、派閥により報復を恐れてか、経験を積んだ行商魔術師でも教えてくれません。 しかし、噂では報復を恐れない強力な生物が、暗記の知識と引き換えにそのような場所を教えてくれるといわれています。"
           },
           {
-            "text": "The Wandering Wizard will only remain for a minute before continuing on his journey.",
+            "text": "行商魔術師は、旅に戻る前に一分しか留まってくれません。",
             "color": "dark_purple"
           }
         ]
@@ -4486,17 +4486,17 @@
       },
       {
         "type": "text",
-        "value": "This ritual is used to craft spells.  You will first need to craft an inscription table, and scribe a spell onto vellum.",
+        "value": "この儀式は呪文の作成に使用されます。まず、術式刻印テーブルにて、羊皮紙に呪文を書き込む必要があります。",
         "json": [
           {
-            "text": "This ritual is used to craft spells. You will first need to craft an "
+            "text": "この儀式は呪文の作成に使用されます。まず、"
           },
           {
-            "text": "inscription table",
+            "text": "術式刻印テーブル",
             "color": "blue"
           },
           {
-            "text": ", and scribe a spell onto paper."
+            "text": "て、羊皮紙に呪文を書き込む必要があります。"
           }
         ]
       }
@@ -4691,35 +4691,35 @@
         "value": "This ritual will create a waystone underneath it matching the rune combination used in the ritual, in the same order.\n\nCasting the Ritual of Return will allow you to use the matching rune combination to return to this location, provided you are on the same dimension.",
         "json": [
           {
-            "text": "This ritual will create a "
+            "text": "この儀式は、下に"
           },
           {
-            "text": "Waystone ",
+            "text": "ウェイストーン",
             "color": "blue"
           },
           {
-            "text": "underneath it "
+            "text": "を作成し、"
           },
           {
-            "text": "matching the rune combination used in the ritual, in the same order",
+            "text": "儀式に利用されたルーンの組み合わせ通りに設定されます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nPerforming the "
+            "text": "。 \n\n"
           },
           {
-            "text": "Ritual of Return",
+            "text": "帰還の儀式",
             "color": "blue"
           },
           {
-            "text": " will allow me to use the same rune combination in the same order to return to this location, provided I am in the same dimension, or have a "
+            "text": "を使用することで、そのルーンの組み合わせを使用することでその地点に戻ることができます。ただし、その地点が同じディメンションにあるか、そのディメンションに調整された"
           },
           {
-            "text": "World Charm",
+            "text": "ワールドチャーム",
             "color": "blue"
           },
           {
-            "text": " available to target the Waystone's dimension."
+            "text": "を利用する必要があります。"
           }
         ]
       }
@@ -4745,7 +4745,7 @@
       },
       {
         "type": "text",
-        "value": "This ritual will find a waystone with the matching rune combination and open a portal to it.  Stepping through the portal will teleport you instantly to that location.\n\nRemember, a portal will never teleport a sneaking target."
+        "value": "この儀式は、合っているルーンの組み合わせのウェイストーンへのポータルを短時間開きます。 そのポータルを通り抜けることでそのウェイストーンの位置にテレポートできます。\n\nポータルはスニークしている対象をテレポートしない事を覚えておくことでしょう。"
       }
     ],
     "related_recipes": [
@@ -4773,42 +4773,42 @@
         "value": "This ritual will find a waystone with the matching rune combination and open a portal to it.  Stepping through the portal will teleport you instantly to that location.  Unlike the Ritual of Return, this portal will remain open until a rune of marking is thrown into it.\n\nOptionally, Adding a dye to the center will change the color of the portal.\n\nRemember, a portal will never teleport a sneaking target.",
         "json": [
           {
-            "text": "This ritual will find a "
+            "text": "この儀式は、合っている組み合わせの "
           },
           {
-            "text": "Waystone",
+            "text": "ウェイストーン",
             "color": "blue"
           },
           {
-            "text": " with the matching rune combination and open a short-lived portal to it. \n\nStepping through the portal will teleport me instantly to that location. \n\nUnlike the "
+            "text": " ウェイストーンへのポータルを開きます。\n\nそのポータルを通り抜けることでそのウェイストーンの位置にテレポートできます。 \n\n この儀式は"
           },
           {
-            "text": "Ritual of Return",
+            "text": "帰還の儀式",
             "color": "blue"
           },
           {
-            "text": ", this portal will remain open until a "
+            "text": "とは違って、 "
           },
           {
-            "text": "Rune of Marking",
+            "text": "マーキングのルーン",
             "color": "blue"
           },
           {
-            "text": " is thrown into it. \n\nOptionally, adding a dye to the center will change the color of the portal. \n\nRemember, "
+            "text": "が放り込まれるまで開き続きます。 \n\nそして、任意で染料を追加することでポータルの色を変更できます。\n\n"
           },
           {
-            "text": "a portal will never teleport a sneaking target",
+            "text": "ポータルは、スニークしている対象をテレポートしない",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nIf I replace the dye with a "
+            "text": "ことを覚えておきましょう。\n\n染料の代わりに"
           },
           {
-            "text": "Greater Ender Mote ",
+            "text": "エンダーの上位雫",
             "color": "blue"
           },
           {
-            "text": ", the portal will open and will teleport those that walk through it to a random position."
+            "text": "を追加することで、 ポータルは潜り抜けた対象をランダムな位置にテレポーチします。"
           }
         ]
       }
@@ -4949,10 +4949,10 @@
         "value": "",
         "json": [
           {
-            "text": "This ritual coalesces the elements of earth and nature into an essence. \n"
+            "text": "この儀式は大地の属性と自然の力をエッセンスに閉じ込めます。\n"
           },
           {
-            "text": "It can only be performed while far underground, where the deepslate resides.",
+            "text": "この儀式は、深層岩が見られる地下深くの深層でしか行えません。",
             "color": "dark_purple"
           }
         ]
@@ -4978,14 +4978,14 @@
         "value": "This ritual coalesces the elements of water and the deep sea into an essence.\n\nThis ritual can only be performed while in an ocean biome.",
         "json": [
           {
-            "text": "This ritual coalesces the elements of water and the deep sea into an essence. \n"
+            "text": "この儀式は海の属性と深海の力をエッセンスに閉じ込めます。 \n"
           },
           {
-            "text": "It can only be performed while in an ocean biome",
+            "text": "海のバイオームにいる場合にのみ行うことができます。",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -5007,17 +5007,17 @@
       },
       {
         "type": "text",
-        "value": "This ritual coalesces the elements of entropy and the void into an essence.\n\nThis ritual can only be performed while all ritual runes are in complete darkness.",
+        "value": "この儀式はエントロピーと虚無の力をエッセンスに閉じ込めます。\n\nこの儀式は、すべての儀式のルーンが完全なる暗闇の中にいる場合のみ行えます。",
         "json": [
           {
-            "text": "This ritual coalesces the elements of entropy and the void into an essence. \n"
+            "text": "この儀式はエントロピーと虚無の力をエッセンスに閉じ込めます。 \n"
           },
           {
-            "text": "It can only be performed while all ritual runes are in complete darkness",
+            "text": "この儀式は、儀式のルーンがすべて完全なる暗闇の中にいる場合のみ行えます",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "の"
           }
         ]
       }
@@ -5042,24 +5042,24 @@
         "value": "This ritual coalesces the elements of knowledge and study into an essence.\n\nThis ritual must be done by placing enough blocks that improve enchantments (such as bookshelves) anywhere along the ritual's outer border.  I think ten should do the trick.",
         "json": [
           {
-            "text": "This ritual coalesces the elements of knowledge and study into an essence. \n"
+            "text": "この儀式は知識と勉学の力をエッセンスに閉じ込めます。 \n"
           },
           {
-            "text": "It must be done by placing enough blocks that improve enchantments",
+            "text": "儀式は、十分なエンチャントを強化するブロック",
             "color": "dark_purple"
           },
           {
-            "text": " (such as bookshelves)"
+            "text": " （本棚など）を"
           },
           {
-            "text": " anywhere along the ritual's outer border",
+            "text": "儀式の縁に置くことで",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\n"
+            "text": "起動できます。 \n\n"
           },
           {
-            "text": "The important part is the number of blocks, not the strength of their enchantment boost.  I think ten should do the trick.",
+            "text": "大事なのはブロックの数で、エンチャントの強度は関係ないです。  十個あれば十分でしょう。",
             "color": "dark_purple"
           }
         ]
@@ -5091,14 +5091,14 @@
         "value": "This ritual coalesces the elements of fire and brimstone into an essence.\n\nThis ritual can only be performed in the nether.",
         "json": [
           {
-            "text": "This ritual coalesces the elements of fire and brimstone into an essence. \n"
+            "text": "この儀式は火の属性と獄炎の力をエッセンスに閉じ込めます。 \n"
           },
           {
-            "text": "It can only be performed in the nether",
+            "text": "この儀式はネザーでのみ行えます。",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -5123,17 +5123,17 @@
         "value": "This ritual coalesces the elements of wind and air into an essence.\n\nThis ritual can only be performed while high above the clouds.",
         "json": [
           {
-            "text": "This ritual coalesces the elements of wind and air into an essence. \n"
+            "text": "この儀式は風の属性と空気の力をエッセンスに閉じ込めます。 \n"
           },
           {
-            "text": "This ritual can only be performed while high above the clouds",
+            "text": "この儀式は雲の上でのみ行えます。",
             "color": "dark_purple"
           },
           {
             "text": ".\n\n"
           },
           {
-            "text": "(Since graphics options can disable clouds, above Y=132 is considered high enough)",
+            "text": "(壁画設定のよっては雲を無効にするので、Y132以上が十分高いはずです。",
             "italic": true
           }
         ]
@@ -5815,84 +5815,84 @@
         "value": "I'll need to set up a proper workspace for me to get my spell ideas from my head onto paper.\n\nA table with all the proper places to store everything, paper that is designed to accept magical script, and the proper ink.  I'll need some arcane ash as well.\n\nOnce I've got all that together, I can get started.  I'll need to pick a way to shape the spell.  This will be the way it targets the world.  I'm sure there are several shapes that I can learn.\n\nAfter that, I will need to pick a component so that the spell actually does something.\n\nThat alone is enough to make a basic spell.  However, I can think of several aspects of spells that could be modified.  I'll need to add in modifiers to the equation of the spell so that I can change these values.\n\nWhen my spell is all written out the way I want it, I'll need to give the arcane ash time to imbue the ink into an actual spell recipe and allow the ritual that follows to create the actual spell.  Luckily the table I have in mind will have a spot to do just that.\n\n...I do wonder though if there are ways to make more complicated spells, such as ones that can do multiple things in a single cast?  There must be.",
         "json": [
           {
-            "text": "I'll need to set up a proper workspace for me to get my spell ideas from my head onto paper. \n\nA "
+            "text": "アイデアを頭の中から紙に移すには、しっかりとした作業机を準備する必要があります。 \n\n十分な広さがある"
           },
           {
-            "text": "table",
+            "text": "机",
             "color": "blue"
           },
           {
-            "text": " with all the proper places to store everything, "
+            "text": "に、魔法の記述を書き込める "
           },
           {
-            "text": "paper",
+            "text": "紙",
             "color": "blue"
           },
           {
-            "text": " that is designed to accept magical script, and the proper "
+            "text": " と、正しい"
           },
           {
-            "text": "ink",
+            "text": "インク",
             "color": "blue"
           },
           {
-            "text": ". I'll need some "
+            "text": "、そして"
           },
           {
-            "text": "Arcane Ash",
+            "text": "魔法の灰",
             "color": "blue"
           },
           {
-            "text": " as well. Once I've got all that together, I can get started!\n\nI'll need to pick a way to "
+            "text": "が必要です。 それがすべて集まったのち、開始することができます。\n\n呪文を形付ける"
           },
           {
-            "text": "shape",
+            "text": "形",
             "color": "dark_purple"
           },
           {
-            "text": " the spell. This will be "
+            "text": "を選ぶ必要があります。 これが"
           },
           {
-            "text": "the way it targets the world",
+            "text": "世界を対象にする方法になります",
             "color": "dark_purple"
           },
           {
-            "text": ". I'm sure there are several shapes that I can learn. \n\nAfter that, I will need to pick a "
+            "text": "。 学べる形が複数あるはずです。 \n\nその後、呪文の"
           },
           {
-            "text": "component",
+            "text": "部品",
             "color": "dark_purple"
           },
           {
-            "text": " so that the spell actually "
+            "text": "を選ぶことで、呪文が実際に"
           },
           {
-            "text": "does something",
+            "text": "何かするように",
             "color": "dark_purple"
           },
           {
-            "text": ". That alone is enough to make a basic spell. \n\nHowever, I can think of "
+            "text": "なります。 それだけで基本的な呪文は作成できます。 \n\nしかし、 "
           },
           {
-            "text": "several aspects of spells that could be modified",
+            "text": "呪文の一部の倍率などを変更することができます",
             "color": "dark_purple"
           },
           {
-            "text": ". I'll need to add in "
+            "text": "。 "
           },
           {
-            "text": "modifiers",
+            "text": "修飾子",
             "color": "dark_purple"
           },
           {
-            "text": " to the equation of the spell so that I can "
+            "text": "を呪文に追加することで、"
           },
           {
-            "text": "change these values",
+            "text": "これらの数値を",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nWhen my spell is all written out the way I want it, I'll need to give the arcane ash time to imbue the ink into an actual spell recipe and allow the ritual that follows to create the actual spell. \n\nLuckily the table I have in mind will have a spot to do just that. ...I do wonder though if there are ways to make more complicated spells, such as ones that can do multiple things in a single cast? \n\nThere must be."
+            "text": "変更できます。 \n\n 呪文を思うような形に書き込んだ後に魔法の灰をインクに浸み込ませ、最後に儀式を行うことで完成します。 \n\n 運がいいことに、それを行うちょうどいい場所に心当たりがあります。 ...気になるのは、一度に複数の事を行える、もっと複雑な呪文を作成する方法はあるのだろうか? \n\n いや、きっとあるはずだ。"
           }
         ]
       }
@@ -5929,28 +5929,28 @@
         "value": "Basic paper seems unable to take spells.  Vellum seems to be a better candidate.  I can make vellum by working leather in water (right click).",
         "json": [
           {
-            "text": "Basic paper",
+            "text": "一般的な紙",
             "color": "blue"
           },
           {
-            "text": " is fine for writing spell recipes, but is unable to take spells. "
+            "text": "はスペルのレシピを書くには十分ですが、呪文を作るには適しません。"
           },
           {
-            "text": "Vellum",
+            "text": "羊皮紙",
             "color": "blue"
           },
           {
-            "text": " will be a better candidate. I can make vellum by "
+            "text": "が適しているでしょう。 羊皮紙は、"
           },
           {
-            "text": "working leather in water",
+            "text": "皮を水に浸けることで、できます。",
             "color": "dark_purple"
           },
           {
             "text": " "
           },
           {
-            "text": "(right click)",
+            "text": "(右クリック)",
             "italic": true
           },
           {
@@ -5973,14 +5973,14 @@
         "value": "Any source of standing water will do, but I am able to get better results if the water is in a cauldron.",
         "json": [
           {
-            "text": "Any source of standing water will do, but I am able to get "
+            "text": "どんな水でもいいですが、"
           },
           {
-            "text": "better results if the water is in a cauldron",
+            "text": "水が大釜に入っている場合、一番効率的",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "に作成できます。（二枚）"
           }
         ]
       }
@@ -6000,35 +6000,35 @@
         "value": "Since I am unable to make vellum from paper, I'll need to find a reliable way to make leather.  I've seen the zombies that stalk the night, and though their flesh is rotten and rancid, I should be able to combine that with a little magic to return it to a usable form of leather.",
         "json": [
           {
-            "text": "Since I am unable to make "
+            "text": ""
           },
           {
-            "text": "Vellum",
+            "text": "皮紙",
             "color": "blue"
           },
           {
-            "text": " from paper, I'll need to find a reliable way to make "
+            "text": "を紙から作ることはできないため、"
           },
           {
-            "text": "leather",
+            "text": "革",
             "color": "blue"
           },
           {
-            "text": ". I've seen the "
+            "text": "を作る安定した方法が必要です。 ときどき"
           },
           {
-            "text": "zombies",
+            "text": "ゾンビ",
             "color": "blue"
           },
           {
-            "text": " that stalk the night, and though their "
+            "text": "が夜にうろついているのを見かけます。彼らの"
           },
           {
-            "text": "flesh",
+            "text": "肉",
             "color": "blue"
           },
           {
-            "text": " is rotten and rancid, I should be able to combine that with a little magic to return it to a usable form of leather."
+            "text": "は腐っていますが、魔法と組み合わせることで使用できる革に変化させることができます。"
           }
         ]
       }
@@ -6053,42 +6053,42 @@
         "value": "After scribing a spell at the inscription table, I'll need to perform a ritual to infuse magic into the recipe.  I call it the Ritual of Arcana.  I can use the spell recipe to check what I need for the ritual; I wrote it all down when I scribed the spell.\n\nThe ideology is that the raw magical essences from the ingredients are absorbed into the spell and allow me to channel my will through it in order to achieve an effect; similar to a very specifically crafted focus.  There are rumors of mages that don't need to use such foci to craft and cast spells, knowing them purely by memory.",
         "json": [
           {
-            "text": "After scribing a spell at the "
+            "text": "呪文を"
           },
           {
-            "text": "Inscription Table",
+            "text": "呪文刻印テーブル",
             "color": "blue"
           },
           {
-            "text": ", I'll need to perform a "
+            "text": "で書き込んだ後、"
           },
           {
-            "text": "ritual",
+            "text": "儀式",
             "color": "blue"
           },
           {
-            "text": " to infuse magic into the recipe. I call it the "
+            "text": "を行うことで魔法をレシピに注入する必要があります。それは"
           },
           {
-            "text": "Ritual of Arcana",
+            "text": "アルカナの儀式",
             "color": "blue"
           },
           {
-            "text": ". \n\n"
+            "text": "と呼びます。\n\n"
           },
           {
-            "text": "I can use the spell recipe to check what I need for the ritual;",
+            "text": "呪文のレシピを見ることで儀式に必要な材料が分かります。",
             "color": "dark_purple"
           },
           {
-            "text": " I wrote it all down when I scribed the spell. \n\nThe ideology is that the raw magical essences from the ingredients are absorbed into the spell and allow me to channel my will through it in order to achieve an effect; similar to a very specifically crafted focus. \n\nThere are rumors of mages that don't need to use such foci to craft and cast spells, knowing them "
+            "text": "自分がレシピを刻み込む際にメモしました。 \n\n この仕組みは、呪文に吸収された生の魔法のエッセンスが、自分の意思を通して作用をもたらしてくれます。特別に製作した焦点のようなものです。 \n\n このような焦点を使わずとも、 "
           },
           {
-            "text": "purely by memory",
+            "text": "記憶だけで",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "魔術を詠唱できる魔術師の噂があります。"
           }
         ]
       }
@@ -6154,49 +6154,49 @@
         "value": "After you have created a spell, simply hold it in your hand and activate the item.  The first time you do so, you'll be prompted to set the name and icon for the spell.\n\nType a name, pick an icon, and hit ESC to close the UI.\n\nAfter that, whenever you right click, you will attempt to cast the spell!\n\nThe spell will attempt to take effect, draining your mana in the process if successful.\n\nYou can hold a spell in each hand and activate them both at the same time.  You cannot choose which one to activate, though only one of them may succeed depending on targets.",
         "json": [
           {
-            "text": "Once I've made my "
+            "text": "一度"
           },
           {
-            "text": "spell",
+            "text": "呪文",
             "color": "blue"
           },
           {
-            "text": " using the "
+            "text": "を"
           },
           {
-            "text": "Ritual of Arcana",
+            "text": "アルカナの儀式",
             "color": "blue"
           },
           {
-            "text": ", it's time to cast it.\n\nTo do so, I need to focus my will through the spell while holding it in my hand "
+            "text": "で作成したら、ついに詠唱できます。\n\nそのためには、呪文を持ちながら意識を集中する必要があります"
           },
           {
-            "text": "(right click)",
+            "text": "(右クリック)",
             "italic": true
           },
           {
-            "text": ".  It will drain some of my "
+            "text": "。  その過程で、予想通り"
           },
           {
-            "text": "mana",
+            "text": "マナ",
             "color": "blue"
           },
           {
-            "text": " in the process, as is expected.  I can hold a spell in each hand, however "
+            "text": "を消費します。.  一度に二つの呪文を持てますが、 "
           },
           {
-            "text": "I can only focus on one spell at a time",
+            "text": "一度に一つの呪文にしか集中できません",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nOh, and I should remember to "
+            "text": "。\n\n そして、呪文を"
           },
           {
-            "text": "label the spell properly",
+            "text": "しっかりとラベル付け",
             "color": "dark_purple"
           },
           {
-            "text": " so I know what it is when I'm looking through my backpack.  I usually forget until I try to cast the spell for the first time."
+            "text": "しれおくことで、鞄のどこにあるか見つけやすくなります。  自分はその呪文を使おうとするまでいつも忘れてしまいます。"
           }
         ]
       }
@@ -6341,41 +6341,41 @@
         "value": "Once you start gaining several spells, you'll find that you need a place to carry them all.\n\nThe spell book spells can be switched between by holding Z and selecting a spell from the wheel.",
         "json": [
           {
-            "text": "Once I start gaining several spells, I'll need a place to carry them all. The spell book spells can be switched between simply by turning the pages, "
+            "text": "いくつもの呪文を作成し始めると、それを持ち運ぶものが必要です。 呪文本の呪文は、ページを切り替えるだけで簡単に変更できます。"
           },
           {
-            "text": "assuming I've placed the spells on Vellum",
+            "text": "皮紙に呪文が書き込まれている必要があります",
             "color": "dark_purple"
           },
           {
-            "text": ". "
+            "text": "。 "
           },
           {
-            "text": "(Hold Z and select from the wheel).",
+            "text": "(Zを長押しして円から選択する).",
             "italic": true
           },
           {
-            "text": "\n\nSpells placed on "
+            "text": "\n\n呪文が "
           },
           {
-            "text": "Staves, Wands, and Bangles",
+            "text": "小杖、大杖、そして腕輪",
             "color": "blue"
           },
           {
-            "text": " cannot be placed into spell books, but those items instead can be "
+            "text": "は呪文本に設置できませんが、その代わりに"
           },
           {
-            "text": "enchanted",
+            "text": "エンチャントすることができます",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "グリモア"
+        "value": "Grimoire"
       },
       {
         "type": "text",
@@ -6483,63 +6483,63 @@
         "value": "As you cast spells, you begin to learn more about their properties and how they work.  You can see rote progress for each individual spell part (shapes, components, and modifiers) in the Occulus, shown as a yellow line underneath each spell part (turning green when fully rote).\n\nThese parts gain experience at different rates.  Once they are rote, you can use them in a book of rote to make spells with single shapes and multiple components.\n\nModifiers that you learn by rote are always available in rote spells, allowing you to make spells with more components and modifiers than you would normally be able to using the Inscription Table.\n\nThere is no crafting process or material cost when making spells in the book of rote, as it represents your memorization of the spell.  You simply make the spell you need at the time.",
         "json": [
           {
-            "text": "As wizards cast spells, they begin to learn more about their properties and how they work. \n\nAs when one looks into an "
+            "text": "魔術師が呪文を詠唱するたび、その呪文の仕組みと性質を学べます。\n\nAs when one looks into an "
           },
           {
-            "text": "Occulus",
+            "text": "オキュラス",
             "color": "blue"
           },
           {
-            "text": ", it looks back into them, a wizard can see rote progress for each individual spell part in the Occulus "
+            "text": "をのぞき込むと、オキュラスは魔術師を見つめ返し、魔術師はそれぞれの呪文の部品の暗記の進捗を確認できます。"
           },
           {
-            "text": "(shown as a yellow line underneath each spell part that turns green when fully rote)",
+            "text": "(呪文の部品の下に黄色い線として表示され、完全に暗記した場合は緑になります)",
             "italic": true
           },
           {
-            "text": ". \n\n"
+            "text": "。 \n\n"
           },
           {
-            "text": "Spell parts gain rote experience at different rates.",
+            "text": "呪文の部品は、それぞれ違う速度で経験を得ます。",
             "color": "dark_purple"
           },
           {
-            "text": " \n\nOnce they are rote, I can use them in a "
+            "text": " \n\n呪文の部品を暗記したのち、"
           },
           {
-            "text": "Book of Rote",
+            "text": "暗記の書",
             "color": "blue"
           },
           {
-            "text": " to make spells with "
+            "text": "を利用して、"
           },
           {
-            "text": "single shapes",
+            "text": "一つの形",
             "color": "blue"
           },
           {
-            "text": " and "
+            "text": "と、"
           },
           {
-            "text": "multiple components",
+            "text": "複数の呪文部品",
             "color": "blue"
           },
           {
-            "text": ". "
+            "text": "で呪文を作成できます。"
           },
           {
-            "text": "Modifiers that I learn by rote are always available",
+            "text": "暗記で学んだ修飾子は常に",
             "color": "dark_purple"
           },
           {
-            "text": " in rote spells, I don't need to add them. Rote allows me to make spells with more components and modifiers than I would normally be able to using the Inscription Table. \n\nThere is no crafting process or material cost when making spells in the Book of Rote, as it represents my memorization of the spell. "
+            "text": "暗記の書で利用でき、追加する必要はないです。 暗記は、術式刻印テーブルで作成した呪文よりも多くの部品と修飾子を追加できます。 \n\n暗記の書で呪文を作成する際は、記憶した呪文を示しているだけなので、素材もクラフトも必要ありません。"
           },
           {
-            "text": "I can simply make the spell I need at the time.",
+            "text": "必要になってらいつでも呪文を作成できます。",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nBooks of Rote allow you to change the slot quickly using Chords.  Press the chord key (default V) with a Book of Rote equipped, then press a hotbar key.  It will quick swap to the slot matching what you pressed.  This is in addition to the radial menu.  Use whatever method you prefer.",
+            "text": "\n\n暗記の書は、付箋を利用してスロットを素早く変更できます。  暗記の書を装備した状態で付箋キー (デフォルト V) をクリックし、その後にホットバーキーをクリックしてください。 押したボタンに合致するスロットに素早く変更されます。 ラジアルメニューでも選択できます。  好みの方法を使用してください。",
             "italic": true
           }
         ]
@@ -6570,28 +6570,28 @@
         "value": "",
         "json": [
           {
-            "text": "These strange pages contain shreds of lost lore from mages long since past. If I study them carefully at a "
+            "text": "この不思議なページの欠片は、大昔の魔術師が記述した、失われた歴史が記されています。 慎重に"
           },
           {
-            "text": "Study Desk",
+            "text": "勉強机",
             "color": "blue"
           },
           {
-            "text": ", I can apply my own experiences to the writings and gain more proficiency with the spells these fragments mention.  These fragments may even allow me to learn spells I wouldn't otherwise be able to, for example "
+            "text": "で勉強することで、 このページに書かれている呪文を自分の経験にできます。  この欠片は、他では学べない呪文を学ばせてくれるはずだ。 例えば"
           },
           {
-            "text": "ones from other factions",
+            "text": "他の派閥の呪文",
             "color": "dark_purple"
           },
           {
-            "text": ".  I should be careful when casting them all the same though, lest I draw the ire of the factions down upon me.\n\nIn order to make such a Study Desk, I will need slightly more than a basic grasp of magical theory.\n\nI can probably also study the lost "
+            "text": "なども。  しかし、他の派閥の怒りを買う可能性があるので、詠唱には気を付けてください。\n\n 勉強机を作成するには、基本的な魔術の理解以外にも少しの物が必要です。\n\nさらに、古代の建造物にて見つかる、失われし"
           },
           {
-            "text": "Staves, Wands, and Bangles ",
+            "text": "大杖、 小杖、そして腕輪 ",
             "color": "blue"
           },
           {
-            "text": "That I've found in some of the ancient structures around the world in a similar manner as well, though probably to an overall lesser effect."
+            "text": "も同じように研究することができます。その場合、ページよりかは得られる経験が少ないはずです。"
           }
         ]
       }
@@ -10371,14 +10371,14 @@
         "value": "In order to runescribe, I'll need to first make a blank plate.  I should be able to make one out of clay with a few runes embedded in it.  After that, I can fire it in the runeforge to make it able to be scribed.",
         "json": [
           {
-            "text": "In order to runescribe, I'll need to first make a "
+            "text": "ルーンを刻むためには、まず"
           },
           {
-            "text": "Blank Plate",
+            "text": "空の板",
             "color": "blue"
           },
           {
-            "text": ". I should be able to make one out of clay with a few runes embedded in it. After that, I can fire it in the runeforge to make it able to be scribed."
+            "text": "を作成する必要があります。粘土にルーンを少し埋め込むことで作れるはずだ。 その後、ルーンかまどで焼くことでルーンを刻めるようになります。"
           }
         ]
       }
@@ -10404,30 +10404,30 @@
       },
       {
         "type": "text",
-        "value": "The runeforge is a magical furnace that runs on ambient magic in the air.  It requires no additional fuel source.  It has a few of its own recipes, but will also do campfire recipes in half the time, furnace recipes in twice the time, and blast furnace recipes in twice the time.\n\nIt will accept up to 16 items at a time, but the total cook time is multiplied by the number of items in it.",
+        "value": "ルーンかまどは、空中の環境マナを利用して働く魔法のかまどです。追加で燃料を必要としません。オリジナルのレシピもありますが、焚火のレシピを半分の時間、そしてかまどのレシピを通常の二倍の時間で焼くことができます。\n\n一度に16個までアイテムを入れられますが、その分クラフト時間は増加します。",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Runeforge",
+            "text": "ルーンかまど",
             "color": "blue"
           },
           {
-            "text": " is a magical furnace that runs on ambient magic in the air. As such, "
+            "text": "は、空中の環境マナを利用して働く魔法のかまどです。 ですので、"
           },
           {
-            "text": "it requires no additional fuel source",
+            "text": "追加で燃料を必要としません",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIt has a few of its own recipes, but will also do campfire recipes in half the time, furnace recipes in twice the time, and blast furnace recipes in twice the time. \n\nIt will accept up to 16 items at a time, but the total cook time is multiplied by the number of items in it."
+            "text": "。 \n\nオリジナルのレシピもありますが、焚火のレシピを半分の時間、そしてかまどのレシピを通常の二倍の時間で焼くことができます。 \n\n度に16個までアイテムを入れられますが、その分クラフト時間は増加します。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "Once you have advanced in tier, you will unlock upgrades to the Runeforge in the form of speed increases, ore doubling, and item repair."
+        "value": "上位のティアに到達したのち、鉱石倍化や、速度増加、アイテム修復など、さまざまなアップグレードを追加できるようになります。"
       }
     ],
     "related_recipes": [
