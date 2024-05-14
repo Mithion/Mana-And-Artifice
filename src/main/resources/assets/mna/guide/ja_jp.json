@@ -1609,7 +1609,7 @@
         "value": "派閥を選択すると、それ以外の派閥を敵に回すことになります。 派閥のモブは、条件を満たしたワールドの至る所に自然発生し、あなたに対して敵対的になります。\n\nしかし、あなたの派閥の一員は、あなたが攻撃されているのを見ると助けに来てくれるでしょう。",
         "json": [
           {
-            "text": "派閥を選択すると、それ以外の派閥を敵に回すことになります。 派閥のモブは、条件を満たしたワールドの至る所に自然発生し、あなたに対して敵対的になります。\n\nしかし、あなたの派閥の一員は、あなたが攻撃されているのを見ると助けに来てくれるでしょう。"
+            "text": "派閥を選択すると、それ以外の派閥を敵に回すことになります。 派閥のモブは、条件を満たしたワールドの至る所に自然発生し、あなたに対して敵対的になります。\n\nその代わりに、あなたの派閥の一員はあなたが攻撃されているのを見ると助けに来てくれるでしょう。"
           }
         ]
       },
@@ -1828,7 +1828,7 @@
       },
       {
         "type": "text",
-        "value": "古の魔術師の評議会は防衛とマナの制御に重点を置いています。彼らのレリックには、マナにボーナスを与え、有害な効果を自動的に払拭することができる「魔術の王冠」や、近くのエルドリンエネルギーを吸収して呪文を唱える際のマナコストを軽減する「エルドリンパワーのブレスレット」、呪文の部品として「マナシールド」や「マナ譲渡」が追加されます。 オキュラスでは、評議会に所属を必要とするものには、以下のようなアイコンが表示されます：",
+        "value": "古の魔術師の評議会は防衛とマナの制御に重点を置いています。彼らのレリックには、マナにボーナスを与え、有害な効果を自動的に払拭することができる「魔術の王冠」や、近くのエルドリンエネルギーを吸収して呪文を唱える際のマナコストを軽減する「エルドリン力のブレスレット」、呪文の部品として「マナシールド」や「マナ譲渡」が追加されます。 オキュラスでは、評議会に所属を必要とするものには、以下のようなアイコンが表示されます：",
         "json": [
           {
             "text": "派閥："
@@ -1848,7 +1848,7 @@
             "text": "、近くのエルドリンエネルギーを吸収して呪文を唱える際のマナコストを軽減する"
           },
           {
-            "text": "「エルドリンパワーのブレスレット」",
+            "text": "「エルドリン力のブレスレット」",
             "color": "blue"
           },
           {
@@ -3447,7 +3447,7 @@
             "text": " / "
           },
           {
-            "text": "魔術の雫",
+            "text": "魔法の雫",
             "color": "blue"
           },
           {
@@ -6209,84 +6209,84 @@
     "sections": [
       {
         "type": "title",
-        "value": "属性"
+        "value": "親和性"
       },
       {
         "type": "text",
         "value": "As you cast spells you will build up something called Affinities.  There are six affinities:  Air, Earth, Water, Fire, Ender, and Arcane.  Every affinity has an opposite.\n\nAir opposes Earth.\n\nWater opposes Fire.\n\nArcane opposes Ender.\n\nA higher affinity will give mana cost discounts on spells with the same affinity (up to 50% at max), and will also increase the mana cost of spells with an opposing affinity.\n\nLastly, you gain rote experience more quickly of components that share your affinity.",
         "json": [
           {
-            "text": "I've noticed that as wizards perform magic, they tend to align themselves with the elements of the spells they are casting.  There are six main ones, called "
+            "text": "魔術を行うたび、詠唱している呪文の属性に魔術師は適応します。  主に六つ存在しており、 "
           },
           {
-            "text": "Affinities",
+            "text": "親和性",
             "color": "blue"
           },
           {
-            "text": ".  They are:\n\n"
+            "text": "と呼ばれています。  それらは:\n\n"
           },
           {
-            "text": "Air",
+            "text": "空気",
             "color": "blue"
           },
           {
-            "text": ", which opposes "
+            "text": "と、それと反発する "
           },
           {
-            "text": "Earth",
-            "color": "blue"
-          },
-          {
-            "text": "\n"
-          },
-          {
-            "text": "Water",
-            "color": "blue"
-          },
-          {
-            "text": ", which opposes "
-          },
-          {
-            "text": "Fire",
+            "text": "大地",
             "color": "blue"
           },
           {
             "text": "\n"
           },
           {
-            "text": "Ender",
+            "text": "水",
             "color": "blue"
           },
           {
-            "text": ", which opposes "
+            "text": "と、それに反発する"
           },
           {
-            "text": "Arcane",
+            "text": "炎",
             "color": "blue"
           },
           {
-            "text": "\n\nEvery affinity seems to have an opposite, as I've noted above.  Wizards with higher affinities in a given element seems to be able to "
+            "text": "\n"
           },
           {
-            "text": "cast their spells of the same element with greater ease",
+            "text": "エンダー",
+            "color": "blue"
+          },
+          {
+            "text": "と、それに反発する"
+          },
+          {
+            "text": "魔法",
+            "color": "blue"
+          },
+          {
+            "text": "があります。\n\n 上記のように、すべての親和性には対になり反発する親和性があります。  特定の属性の親和性が高い魔術師は "
+          },
+          {
+            "text": "親和性と同じ属性の呪文を楽に詠唱でき",
             "color": "dark_purple"
           },
           {
-            "text": ", and seem to be able to "
+            "text": "、さらに"
           },
           {
-            "text": "memorize parts of the spell that share their affinity faster",
+            "text": "同じ親和性の呪文の部品を早く暗記できます",
             "color": "dark_purple"
           },
           {
-            "text": ".  However, they appear to have a "
+            "text": "。 その代わり、 "
           },
           {
-            "text": "similar level of difficulty with elements that oppose their affinity",
+            "text": "反発する属性ではその分詠唱と暗記が難しくなります",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nBalance in all things, I suppose."
+            "text": "。\n\nすべてはバランスなのでしょう。"
           }
         ]
       }
@@ -6362,7 +6362,7 @@
             "color": "blue"
           },
           {
-            "text": "は呪文本に設置できませんが、その代わりに"
+            "text": "に付与されている場合は呪文本に設置できませんが、その代わりに"
           },
           {
             "text": "エンチャントすることができます",
@@ -6483,7 +6483,7 @@
         "value": "As you cast spells, you begin to learn more about their properties and how they work.  You can see rote progress for each individual spell part (shapes, components, and modifiers) in the Occulus, shown as a yellow line underneath each spell part (turning green when fully rote).\n\nThese parts gain experience at different rates.  Once they are rote, you can use them in a book of rote to make spells with single shapes and multiple components.\n\nModifiers that you learn by rote are always available in rote spells, allowing you to make spells with more components and modifiers than you would normally be able to using the Inscription Table.\n\nThere is no crafting process or material cost when making spells in the book of rote, as it represents your memorization of the spell.  You simply make the spell you need at the time.",
         "json": [
           {
-            "text": "魔術師が呪文を詠唱するたび、その呪文の仕組みと性質を学べます。\n\nAs when one looks into an "
+            "text": "魔術師が呪文を詠唱するたび、その呪文の仕組みと性質を学べます。\n\n"
           },
           {
             "text": "オキュラス",
@@ -10557,17 +10557,17 @@
         "value": "Once you have your completed rune pattern, you will need to take it and some superheated vinteum to your runic anvil.\n\nPlace the pattern on the anvil, and the superheated vinteum on top.",
         "json": [
           {
-            "text": "Once I have my completed rune pattern, I will need to take it and some "
+            "text": "ルーンのパターンを作成したのち、 それと"
           },
           {
-            "text": "Superheated Vinteum",
+            "text": "過熱ヴィンテウムインゴット",
             "color": "blue"
           },
           {
-            "text": " to my runic anvil. \n\nI remember the process: "
+            "text": "をルーン金床に置きます。 \n\n 処理としては: "
           },
           {
-            "text": "place the pattern on the anvil, then the superheated vinteum on top",
+            "text": "パターンを金床に置き、そのあとに過熱ヴィンテウムインゴットを置きます。",
             "color": "dark_purple"
           },
           {
@@ -10586,21 +10586,21 @@
         "value": "Take your runesmith's hammer and begin to strike the items on the anvil.  Be careful to have everything set up correctly, or the items will not fit together properly, and they will pop off the anvil.\n\nOnce you hit the item enough times, your forging will be complete.",
         "json": [
           {
-            "text": "Next, I take the "
+            "text": "その後、"
           },
           {
-            "text": "Runesmith's Hammer",
+            "text": "ルーン鍛冶のハンマー",
             "color": "blue"
           },
           {
-            "text": " and begin to "
+            "text": "を手に持ち、"
           },
           {
-            "text": "strike the items on the anvil",
+            "text": "金床のアイテムを打ち付けます",
             "color": "dark_purple"
           },
           {
-            "text": ". I should be careful to have everything set up correctly, or the items will not fit together properly, and they will pop off the anvil.\n\nOnce I've hit the item enough times, the forging will be complete.\n\nRune patterns are somewhat brittle and will break after forging 4 times."
+            "text": "。正しく準備されていることを確認するべきで、そうでなければアイテムはしっかりとハマらず、金床から飛び出してしまいます。\n\n十分アイテムを打ち付けたのち、鍛冶は完了します。\n\nルーンパターンはそれなりに脆いので、四回使ったのち壊れてしまいます。"
           }
         ]
       }
@@ -10640,63 +10640,63 @@
         "value": "Occasionally you will need Runescribing Patterns to instruct constructs.  You can make these patterns at a runic anvil by placing a completed rune on the anvil, and placing paper on top of that.  Then, activate the anvil with either coal or charcoal.",
         "json": [
           {
-            "text": "When I'm "
+            "text": "魔術師が"
           },
           {
-            "text": "Runescribing",
+            "text": "ルーン刻み",
             "color": "blue"
           },
           {
-            "text": ", I like to have a pattern handy to follow along with.  In order to get one of these patterns, "
+            "text": "を本格的に行う際に、たくさんのパターンが必要です。  入手方法として、"
           },
           {
-            "text": "I can either trade with a Runesmith Villager, or make my own",
+            "text": "ルーン鍛冶の村人と取引するか、自分で作成できます",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nTo make one, I need to take a "
+            "text": "。\n\n作成するには、まず"
           },
           {
-            "text": "fully forged rune",
+            "text": "完成したルーン",
             "color": "blue"
           },
           {
-            "text": " and place it on a "
+            "text": "を、"
           },
           {
-            "text": "Runic Anvil",
+            "text": "ルーン金床",
             "color": "blue"
           },
           {
-            "text": ".  Atop that I need to place a piece of "
+            "text": "に設置します。その上に"
           },
           {
-            "text": "paper",
+            "text": "紙",
             "color": "blue"
           },
           {
-            "text": ".  Lastly, I need to rub the top of the paper with "
+            "text": "を置きます。最後に紙を"
           },
           {
-            "text": "coal ",
+            "text": "石炭",
             "color": "blue"
           },
           {
-            "text": "or "
+            "text": "か"
           },
           {
-            "text": "charcoal ",
+            "text": "木炭",
             "color": "blue"
           },
           {
-            "text": "in order to make the pattern.\n\nI can also use these patterns to help "
+            "text": "でこすることでパターンを作成できます。\n\nこのパターンを使うことで "
           },
           {
-            "text": "Constructs ",
+            "text": "コンストラクト",
             "color": "blue"
           },
           {
-            "text": "know what to scribe for me."
+            "text": "でどのルーンを刻むか支持できます。"
           }
         ]
       }
@@ -12409,25 +12409,25 @@
         "value": "Warding candles can be used to prevent hostile creatures from spawning in a 32 block radius in all directions around the candle.  They must be lit with flint and steel, a fire spell, or a flame cantrip to function.  They can be extinguished by right clicking.  When extinguished, they will not prevent monsters from spawning.",
         "json": [
           {
-            "text": "Warding Candles",
+            "text": "結界の蝋燭",
             "color": "blue"
           },
           {
-            "text": " can be used to "
+            "text": "は、直径32ブロックの範囲に"
           },
           {
-            "text": "prevent hostile creatures from spawning",
+            "text": "敵対モブがスポーンするのを防ぎます",
             "color": "dark_purple"
           },
           {
-            "text": " in a 32 block radius cube centered the candle. \n\n"
+            "text": "。\n\n火打ち、もしくは火の呪文で"
           },
           {
-            "text": "They must be lit",
+            "text": "火がついている",
             "color": "dark_purple"
           },
           {
-            "text": " with flint and steel, a fire spell, or a flame cantrip to function. They can be extinguished by activating them. When extinguished, they will not prevent monsters from spawning."
+            "text": "必要がありま。クリックすることで消火できます。火がついてない場合、スポーンを防ぎません。"
           }
         ]
       }
@@ -12709,21 +12709,21 @@
         "value": "This powerful workbench allows you to spend some experience and some Fire and Wind eldrin power to remove an enchantment from the source item and transfer it to the projection rune where it can be re-applied to another item or discarded.  The enchantment chosen is random.",
         "json": [
           {
-            "text": "This powerful workbench allows you to spend some experience and some "
+            "text": "この強力な作業台は、すこしの経験値と"
           },
           {
-            "text": "Fire",
+            "text": "炎",
             "color": "blue"
           },
           {
-            "text": " and "
+            "text": "と"
           },
           {
-            "text": "Wind Eldrin Power",
+            "text": "風のエルドリンの力",
             "color": "blue"
           },
           {
-            "text": " to remove an enchantment from the source item and transfer it to the projection rune where it can be re-applied to another item or discarded. \n\nIf there are multiple enchantments on the source item, then the enchantment chosen is random among them."
+            "text": "でエンチャントを除去して、投影のルーンに移します。その後、他のアイテムに再び付与するか、エンチャントを捨てれます。 \n\n 複数のエンチャントが付与されている場合、除去されるエンチャントはランダムです。"
           }
         ]
       }
@@ -12748,77 +12748,77 @@
         "value": "The transcription table allows me to write rote spells to items such as Glyphs or Staves.  Glyphs become single use items that cost no mana and cast the spell, staves can be cast as normal using mana.  The spell selected is the active spell within the Book of Rote I place in the table, and it needs eldrin power corresponding to the highest affinity of the spell being transferred.",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Transcription Table",
+            "text": "転写テーブル",
             "color": "blue"
           },
           {
-            "text": " allows me to write rote spells to items such as "
+            "text": "は、暗記の呪文を、"
           },
           {
-            "text": "Glyphs, Staves, Wands, Vellum, and Bangles.",
+            "text": "グリフ、大杖、小杖、腕輪、皮紙",
             "color": "blue"
           },
           {
-            "text": " \n\n"
+            "text": "に書き込めます。 \n\n"
           },
           {
-            "text": "Glyphs",
+            "text": "グリフ",
             "color": "blue"
           },
           {
-            "text": " become single use items that "
+            "text": "は、使い捨ての"
           },
           {
-            "text": "cost no mana",
+            "text": "マナを消費しない",
             "color": "dark_purple"
           },
           {
-            "text": " and cast the spell.\n \n"
+            "text": "呪文になります。\n \n"
           },
           {
-            "text": "Staves, wands, and bangles",
+            "text": "大杖、小杖、そして腕輪",
             "color": "blue"
           },
           {
-            "text": " can be cast as normal using mana. \n\n"
+            "text": "は、マナを消費して普通に詠唱できます。 \n\n"
           },
           {
-            "text": "Vellum",
+            "text": "皮紙",
             "color": "blue"
           },
           {
-            "text": " can be placed into a "
+            "text": " で作った呪文は、"
           },
           {
-            "text": "Spell Book",
+            "text": "呪文本",
             "color": "blue"
           },
           {
-            "text": " or "
+            "text": "や、"
           },
           {
-            "text": "Grimoire",
+            "text": "グリモア",
             "color": "blue"
           },
           {
-            "text": ".\n\nThe spell selected is the active spell within the "
+            "text": "でまとめて使用できます。\n\nこの際に選択される呪文は、机に置いた"
           },
           {
-            "text": "Book of Rote",
+            "text": "暗記の書",
             "color": "blue"
           },
           {
-            "text": " I place in the table, and it needs "
+            "text": "のアクティブな呪文が利用され、呪文に使用されている一番大きい親和性の"
           },
           {
-            "text": "Eldrin Power",
+            "text": "エルドリンの力",
             "color": "blue"
           },
           {
-            "text": " corresponding to the highest affinity of the spell being transferred."
+            "text": "が要求されます。"
           }
         ]
       }
@@ -12843,49 +12843,55 @@
         "value": "The study desk allows me to spend some experience along with a Torn Journal Fragment found in structures and caches, or a Thesis written by another player at a Thesis Desk to increase my rote knowledge of the given spell part.\n\nFragments are worth 25% rote, and a Thesis instantly conveys full rote.",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Study Desk",
+            "text": "勉強机",
             "color": "blue"
           },
           {
-            "text": " allows me to spend some experience along with a "
+            "text": "は、経験値を利用することで、"
           },
           {
-            "text": "Torn Journal Fragment",
+            "text": "構造物で見つかる"
+          },
+          {
+            "text": "破かれた論文のページ",
             "color": "blue"
           },
           {
-            "text": " found in structures or "
+            "text": "や、"
           },
           {
-            "text": "Manaweave Caches",
+            "text": "マナ織のキャッシュ",
             "color": "blue"
           },
           {
-            "text": ", or a "
+            "text": "や、"
           },
           {
-            "text": "Thesis",
+            "text": "他の魔術師によって"
+          },
+          {
+            "text": "論文台",
             "color": "blue"
           },
           {
-            "text": " written by another wizard at a "
+            "text": "で書かれた"
           },
           {
-            "text": "Thesis Desk",
+            "text": "論文",
             "color": "blue"
           },
           {
-            "text": " to "
+            "text": "を使用して書かれている呪文の部品の"
           },
           {
-            "text": "increase my rote knowledge",
+            "text": "暗記の知識を上昇",
             "color": "dark_purple"
           },
           {
-            "text": " of the given spell part. \n\nFragments are worth 25% rote, and a Thesis instantly conveys full rote."
+            "text": "します。 \n\n論文の欠片は暗記の25%上昇し、論文は１００％まで上昇させます。"
           }
         ]
       }
@@ -12949,39 +12955,39 @@
     "sections": [
       {
         "type": "title",
-        "value": "Eldrin Fume Filters"
+        "value": "エルドリン煙フィルター"
       },
       {
         "type": "text",
         "value": "Eldrin Fume Filters allow me to burn standard furnace burnables through a mote to generate a small trickle of Eldrin Power.  The Eldrin Power will feed directly into my reserves and does not need to be captured by external apparatus.\n\nThe mote, once any smoke has gone through it, binds to the fume screen and renders it unusable in any other circumstance.  The trade-off is that a mote will burn for a very long time before needing to be replaced.\n\nInterestingly, breaking the fume or using a different kind of mote will disperse any residual traces of a mote used prior, resulting in its loss.",
         "json": [
           {
-            "text": "Eldrin Fume Filters",
+            "text": "エルドリン煙フィルター",
             "color": "blue"
           },
           {
-            "text": " allow me to "
+            "text": "は、"
           },
           {
-            "text": "burn motes or sachets to generate a small trickle of Eldrin Power",
+            "text": "雫や属性の小袋を燃やして、少量のエルドリンパワーを生成できます",
             "color": "dark_purple"
           },
           {
-            "text": ". Anything that burns in a furnace should be usable as fuel.\n\nThe Eldrin Power will feed directly into my reserves and does not need to be captured by external apparatus. However, "
+            "text": "。 かまどで燃料として使用できる物は燃料に使えるはずです。\n\n生成したエルドリン力は、直に自分に吸収されます。しかし、 "
           },
           {
-            "text": "this fume filter does not supply Eldrin Power to things that require it",
+            "text": "この煙フィルターは直接他の装置にエルドリン力を供給しません",
             "color": "dark_purple"
           },
           {
-            "text": ", I still must use "
+            "text": "。 それには、"
           },
           {
-            "text": "Conduits",
+            "text": "導管",
             "color": "blue"
           },
           {
-            "text": " for that purpose.\n\nThe mote, once any smoke has gone through it, binds to the fume screen and renders it unusable in any other circumstance.\n\nThe trade-off is that a mote will burn for a very long time before needing to be replaced. Interestingly, breaking the fume or using a different kind of mote will disperse any residual traces of a mote used prior, resulting in its loss."
+            "text": "が必要です。\n\n雫は、使用されたら他の用途に使用できません。\n\n その代わり、雫は長い間燃えるので頻繁に置き換える必要がないです。 興味深いことに、装置を破壊したり別の種類の雫を利用すると、残っている雫は消失します。"
           }
         ]
       }
@@ -13039,35 +13045,35 @@
         "value": "The Affinity Tinker Table allows me to use a moderate amount of Eldrin Power (supplied by a conduit placed within range, about 6 blocks) to switch a spell placed within the table to a new affinity.  The Eldrin Power required matches the affinity I am attempting to change the spell to.  In the case of Lightning and Ice, it seems that Fire and Water Eldrin Power are required, respectively.\n\nThe benefit is that I may specialize my magic, using my own affinity to maximum benefit.\n\nOnce the process has started, I may remove the spell at any time, but I should do so with care, as any progress made towards shifting the affinity of the spell will be lost.  For best results, I should leave the spell in the table until the process has completed.",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Affinity Tinker Table",
+            "text": "親和性調整台",
             "color": "blue"
           },
           {
-            "text": " allows me to use a moderate amount of "
+            "text": "は、ある程度の"
           },
           {
-            "text": "Eldrin Power",
+            "text": "エルドリンの力",
             "color": "blue"
           },
           {
-            "text": " (supplied by a "
+            "text": " (近くに設置された"
           },
           {
-            "text": "Conduit",
+            "text": "導管",
             "color": "blue"
           },
           {
-            "text": " placed within range, about 6 blocks) to "
+            "text": "からエネルギーを回収、およそ六ブロック以内) を使用し、台に置かれた"
           },
           {
-            "text": "change the affinity of a spell",
+            "text": "呪文の親和性を任意の属性に変更",
             "color": "dark_purple"
           },
           {
-            "text": " placed within the table to a new affinity of my choosing. \n\nThe Eldrin Power required matches the affinity I am attempting to change the spell to. In the case of Lightning and Ice, it seems that Fire and Water Eldrin Power are required, respectively. \n\nThe benefit is that I may specialize my magic, using my own affinity to maximum benefit. Once the process has started, I may remove the spell at any time, but I should do so with care, as any progress made towards shifting the affinity of the spell will be lost. \n\nFor best results, I should leave the spell in the table until the process has completed."
+            "text": "します。 \n\n  使用するエルドリンの力は、変更しようとしている属性のものになります。雷の場合は火、氷の場合水を要求します。 \n\n これをすることで、自分の親和性によるメリットを最大限に利用することができます。 一度処理が始まったのちでもいつでも呪文を取り除けますが、進捗がリセットされるため注意が必要です。 \n\n 処理が完了するまで呪文を台から取り除かないのが最善です。"
           }
         ]
       }
@@ -13085,7 +13091,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "液体壺"
+        "value": "Fluid urns"
       },
       {
         "type": "text",
@@ -13332,63 +13338,64 @@
         "value": "I'm able to create some mage armor out of some infused silk.  When I make and wear a full set it will increase my maximum mana and mana regen due to the runes I put in it.\n\nI can also dye it any color I want, including combinations of dyes to make new colors!",
         "json": [
           {
-            "text": "I've figured out a way to create "
+            "text": ""
           },
+          
           {
-            "text": "Mage Armor",
+            "text": "魔絹",
             "color": "blue"
           },
           {
-            "text": " out of "
+            "text": "から"
           },
           {
-            "text": "Infused Silk",
+            "text": "魔術師の鎧",
             "color": "blue"
           },
           {
-            "text": ". When I make and wear a full set it will increase my maximum mana and mana regen due to the runes I put in it, akin to a "
+            "text": "を作成する方法を発見した。 一式すべて装備した場合、埋め込まれたルーンによって最大マナとマナの再生を上昇させます。わかりやすく言うと"
           },
           {
-            "text": "Set Bonus",
+            "text": "セットボーナス",
             "color": "blue"
           },
           {
-            "text": ". I can also dye it any color I want, including combinations of dyes to make new colors!\n\nIt will also drain the mana from a "
+            "text": "です。どの染料でも染めることができ、組み合わせを利用して新しい色を作ることもできます。\n\n さらに、インベントリの"
           },
           {
-            "text": "Mana Crystal Fragment",
+            "text": "マナクリスタルの欠片",
             "color": "blue"
           },
           {
-            "text": " in my inventory, and my own mana after that to "
+            "text": "や、プレイヤーのマナを利用して"
           },
           {
-            "text": "repair itself",
+            "text": "装備を修復します",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nIf it does fully break (it is rather brittle), it will become tattered and no longer effective. However, I can take it to a "
+            "text": "。\n\n 最終的に壊れた場合(意外と脆いです)、ボロボロになり効果を失います。 しかし、"
           },
           {
-            "text": "Runic Anvil",
+            "text": "ルーンの金床l",
             "color": "blue"
           },
           {
-            "text": " and repair it with some "
+            "text": "で、"
           },
           {
-            "text": "Infused Silk",
+            "text": "魔入絹",
             "color": "blue"
           },
           {
-            "text": " and a "
+            "text": "と"
           },
           {
-            "text": "Sorcerous Sewing Kit",
+            "text": "魔法の裁縫キット",
             "color": "blue"
           },
           {
-            "text": ". Put the armor on the anvil, the silk on top of that, and activate the anvil with the sewing kit."
+            "text": "を利用することで修復できます。 金床の上に鎧を置き、その上に絹を置いた後、裁縫キットで起動してください。"
           }
         ]
       }
@@ -13441,61 +13448,61 @@
         "value": "This small enchanted orb can be infused with my mana if I use it, similar to the mana crystal fragment.  Once it has some mana in it, if I try to throw it on the ground it will instead rise up and levitate near my head.  It seems to dislike the monsters of this world and will lash out with small arcane bolts.  It's not much damage, but it can help keep me from being overwhelmed.\n\nThe orb can be enchanted to enchance its functionality.",
         "json": [
           {
-            "text": "This small enchanted orb can be infused with my mana if I use it, similar to the mana crystal fragment. Once it has some mana in it, I can equip it and it will levitate near my head. \n\nIt seems to dislike the monsters of this world and will lash out with small arcane bolts. It's not much damage, but it can help keep me from being overwhelmed. \n\n"
+            "text": "このエンチャントされたオーブは、マナクリスタルの欠片のように、手に持って使用することで充電できます。マナが充電された場合、装備することで頭の周りに浮遊します。 \n\n この世界のモンスターを嫌っていて、それらに対して魔法のボルトを放ちます。 そこまでダメージは出ませんが、モンスターによって圧倒されるのを防いでくれます。 \n\n"
           },
           {
-            "text": "The orb can be enchanted to enhance its functionality.",
+            "text": "オーブはエンチャントすることでその能力を強化できます。",
             "color": "dark_purple"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Bane of Arthropods"
+        "value": "虫特攻"
       },
       {
         "type": "text",
-        "value": "Applies slow to spiders, endermites, and silverfish hit equivalent to the enchantment level."
+        "value": "虫系のモブに対して、エンチャントレベルに応じて鈍足を付与します。"
       },
       {
         "type": "title",
-        "value": "Flame"
+        "value": "フレイム"
       },
       {
         "type": "text",
-        "value": "Lights targets on fire for a duration in seconds equal to the enchantment level."
+        "value": "エンチャントレベルに応じて対象を火につけます。"
       },
       {
         "type": "title",
-        "value": "Knockback"
+        "value": "ノックバック"
       },
       {
         "type": "text",
-        "value": "Increases knockback strength of each bolt."
+        "value": "攻撃のノックバックを上昇します。"
       },
       {
         "type": "title",
-        "value": "Multishot"
+        "value": "拡散"
       },
       {
         "type": "text",
-        "value": "Allows attacking multiple targets per shot."
+        "value": "一度に複数の敵を攻撃します。"
       },
       {
         "type": "title",
-        "value": "Quick Charge"
+        "value": "高速装填"
       },
       {
         "type": "text",
-        "value": "Fires more often."
+        "value": "より頻繁に発射します。"
       },
       {
         "type": "title",
-        "value": "Smite"
+        "value": "アンデッド特攻"
       },
       {
         "type": "text",
-        "value": "Applies weakness and slow to undead targets equal to the enchantment level."
+        "value": "エンチャントレベルに応じてアンデッドに鈍足と弱体化を付与します。"
       }
     ],
     "related_recipes": [
@@ -14451,14 +14458,14 @@
         "value": "This enchanted crystal can act as a small reserve of mana.  By changing the mode (sneak + use) between input and output, I can either store mana at times where I have plenty, or retrieve mana in a pinch when I need it.",
         "json": [
           {
-            "text": "This enchanted crystal can act as a small reserve of mana. By changing the mode "
+            "text": "このエンチャントされたクリスタルは小さなマナタンクとして機能します。 モードを、入力と出力で変更することで、 "
           },
           {
-            "text": "(sneak + use)",
+            "text": "(スニーク＋右クリック)",
             "italic": true
           },
           {
-            "text": " between input and output, I can either store mana at times where I have plenty, or retrieve mana in a pinch when I need it.\n\nMost if not all items that require charge will draw from a Mana Crystal Fragment or their upgrades within my pack first before consuming their own internal charge.\n\nAs I grow in power I will be able to make larger gems for this purpose.  I should check back later."
+            "text": "マナに余裕があるときに充電し、ピンチの時にマナを回収できます。\n\n マナの充電を要求するほぼすべてのアイテムは、自身のマナを消費する前にマナクリスタルのエネルギーを消費します。\n\n ティアが上昇するたび、より大きなクリスタルを作れるはずです。力を付けたらここに戻ってきましょう。"
           }
         ]
       }
@@ -14491,21 +14498,21 @@
         "value": "This enchanted crystal can act as a reserve of experience.  By changing the mode (sneak + use) between input and output, I can either store experience at times where I have plenty, or retrieve experience in a pinch when I need it.",
         "json": [
           {
-            "text": "This enchanted crystal can act as a "
+            "text": "このエンチャントされたクリスタルは、 "
           },
           {
-            "text": "reserve of experience",
+            "text": "経験値の貯蔵タンク",
             "color": "dark_purple"
           },
           {
-            "text": ". By changing the mode "
+            "text": "として働きます。入力と出力のモードを変更すうことで"
           },
           {
-            "text": "(sneak + use)",
+            "text": "(スニーク + 右クリック)",
             "italic": true
           },
           {
-            "text": " between input and output, I can either store experience at times where I have plenty, or retrieve experience in a pinch when I need it."
+            "text": " 、使用しない際は貯蓄しておくことで予期せぬ死で経験値を失うのを防ぎ、必要な時に取り出せます。"
           }
         ]
       }
@@ -14523,7 +14530,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mana Crystal"
+        "value": "マナクリスタル"
       },
       {
         "type": "text",
@@ -14750,7 +14757,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "エンダーディスク"
+        "value": "Ender disc"
       },
       {
         "type": "text",
@@ -15562,32 +15569,32 @@
         "value": "Constructs can be summoned in a basic way by using an armor stand, then placing the five required construct parts on it.  Once done, simply right click with Animus Dust to summon your friend.  Constructs can be modified once you reach tier 2, allowing you to change parts out and re-summon them.",
         "json": [
           {
-            "text": "Constructs ",
+            "text": "コンストラクト",
             "color": "blue"
           },
           {
-            "text": "can be summoned in a basic way by using an Armor Stand, then placing the five required construct parts on it. \n\nOnce done, activate the "
+            "text": "防具立てに五つのパーツを設置することで基本的な召喚をできます。 \n\n設置したのち、"
           },
           {
-            "text": "Armor Stand",
+            "text": "防具立て",
             "color": "blue"
           },
           {
-            "text": " with "
+            "text": "を、"
           },
           {
-            "text": "Animus Dust",
+            "text": "生命の粉",
             "color": "blue"
           },
           {
-            "text": " to summon your friend. \n\nConstructs can be modified once you reach tier 2, allowing you to change parts out and re-summon them.  To do so, command them to return to an empty "
+            "text": "で起動することで召喚できます。 \n\n ティア２になった後、コンストラクトは編集して再召喚することができるようになります。 そのためには、空の"
           },
           {
-            "text": "Construct Gantry",
+            "text": "コンストラクトの構台",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "にそれを移動してください。"
           }
         ]
       }
@@ -15667,41 +15674,41 @@
         "value": "You will need to set up a Construct Gantry and some Chimerite Crystals in order to modify and summon advanced/more powerful constructs.  This setup allows you to infuse affinities into the construct, giving it additional stat boosts.",
         "json": [
           {
-            "text": "I will need to set up a"
+            "text": "より高度で強力なコンストラクトを作成/編集するには、"
           },
           {
-            "text": " Construct Gantry",
+            "text": "コンストラクト構台",
             "color": "blue"
           },
           {
-            "text": " and some"
+            "text": "と、いくつかの"
           },
           {
-            "text": " Chimerite Crystals",
+            "text": "キメライトクリスタル",
             "color": "blue"
           },
           {
-            "text": " in order to modify and summon advanced/more powerful constructs. This setup will allow me to infuse "
+            "text": "をセットアップする必要があります。このセットアップはコンストラクトに "
           },
           {
-            "text": "affinities",
+            "text": "属性",
             "color": "blue"
           },
           {
-            "text": " into the construct, giving it "
+            "text": "を注入でき、"
           },
           {
-            "text": "additional stat boosts",
+            "text": "ステータスをブースト",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "します。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Setting up the Construct Gantry",
+        "value": "コンストラクト構台のセットアップ",
         "newPage": true
       },
       {
@@ -15709,21 +15716,21 @@
         "value": "The requirements for the Construct Gantry are pretty flexible.  You need the workbench itself, and a total of 8 Chimerite Crystals within 5 blocks of the workbench in any direction.  They can be on walls, ceilings, floors, without line of sight; it doesn't matter.",
         "json": [
           {
-            "text": "The requirements for the "
+            "text": ""
           },
           {
-            "text": "Construct Gantry",
+            "text": "コンストラクト構台",
             "color": "blue"
           },
           {
-            "text": " are rather flexible. I'll need the gantry itself, and a total of "
+            "text": "の条件は結構柔軟です。 構台と、合計で"
           },
           {
-            "text": "8 Chimerite Crystals within 5 blocks",
+            "text": "８個のキメライトが構台の５ブロック以内",
             "color": "dark_purple"
           },
           {
-            "text": " of the workbench in any direction. They can be on walls, ceilings, floors, without line of sight; it doesn't matter."
+            "text": "に、方向関係なく必要です。間に壁がっても、壁/天井/床/地中に置いても問題なく作用します。"
           }
         ]
       },
@@ -15735,7 +15742,7 @@
       },
       {
         "type": "title",
-        "value": "Summoning the Construct",
+        "value": "コンストラクトを召喚",
         "newPage": true
       },
       {
@@ -15743,21 +15750,21 @@
         "value": "Once you have your workbench set up and your parts made, you'll need to choose what affinities you want to imbue into the construct.  Each affinity changes attributes of the construct.  You set the affinity by casting spells of the given affinity at each of the 8 nearby chimerite crystals.  The spells must directly target the crystals, so channeled spells, AoE spells and self spells, for example, will not work.  When you do, a sigil will appear above the crystal indicating the affinity.  Place all five parts of the construct on the workbench and activate the workbench itself with an empty hand to begin the crafting process.  Once the imbuing is complete. you can start to command your construct.",
         "json": [
           {
-            "text": "Once I have my workbench set up and my parts made, I'll need to choose what "
+            "text": "構台をセットアップしてパーツを作成した後、どの"
           },
           {
-            "text": "affinities ",
+            "text": "属性",
             "color": "blue"
           },
           {
-            "text": "I want to imbue into the construct. \n\nEach "
+            "text": "を付与するか決めてください。 \n\n それぞれ"
           },
           {
-            "text": "affinity changes attributes of the construct",
+            "text": "属性がコンストラクトの性質に変化を与えます",
             "color": "dark_purple"
           },
           {
-            "text": ". I can set the affinity by casting spells of the given affinity at each of the 8 nearby chimerite crystals. The spells must directly target the crystals, so channeled spells, AoE spells and self spells, for example, will not work. \n\nWhen it works, a sigil will appear above the crystal indicating the affinity. \n\nWhen all five parts of the construct are on the workbench and the 8 affinities are set, I need to activate the workbench itself with an empty hand to begin the crafting process. \n\nOnce the imbuing is complete, I can start to command my construct."
+            "text": "。属性は、付近の七つのキメライトクリスタルに直接呪文をぶつけることで設定できます。呪文は、範囲、自分へ呪文、そして継続する呪文は使用できません。\n\n 成功した場合、クリスタルの上に属性を示す印が現れます。 \n\n 構台に五つの部品と、８つの属性が設定された後、空の手で構台をクリックすることで作成処理を開始できます。 \n\n 注入が完了したのち、コンストラクトに命令をできるようになります。"
           }
         ]
       },
@@ -15771,28 +15778,28 @@
         "value": "As mentioned earlier, constructs are summoned with an affinity.  This affects what they do.  A construct can have a total of 8 affinity points.  The list below shows the effects per point of affinity.  You can mix and match freely, so find something that perhaps shores up weaknesses within the material used, or enhances the strong points.  Conflicting affinities within the construct do not matter.",
         "json": [
           {
-            "text": "A construct can have a total of "
+            "text": "コンストラクトは合計で "
           },
           {
-            "text": "8 affinity points",
+            "text": "8属性ポイントを利用できます",
             "color": "dark_purple"
           },
           {
-            "text": ". I've listed below the"
+            "text": "。以下に属性"
           },
           {
-            "text": " effects per point",
+            "text": "ポイント１つあたりの影響",
             "color": "dark_purple"
           },
           {
-            "text": " of affinity. "
+            "text": "をリストアップしました。"
           },
           {
-            "text": "I can mix and match",
+            "text": "自由に組み合わせられ",
             "color": "dark_purple"
           },
           {
-            "text": " freely, so I should find something that shores up weaknesses within the material used, or enhances the strong points. \n\nConflicting affinities within the construct do not matter.\n\nEach point of affinity also grants the construct limited immunity to damage types related to that affinity, causing it to absorb 1/2 heart of damage per point when attacked."
+            "text": "るので、長所を伸ばしたり、短所を減らすようにするべきです。\n\n コンストラクトでは、反発する属性は影響しません。\n\n さらに、属性のポイントにつき、コンストラクトにその属性への耐性を付与し、ポイントにつき1/2ハートのダメージを防ぎます。"
           }
         ]
       },
@@ -15801,59 +15808,59 @@
         "value": "",
         "json": [
           {
-            "text": "Air",
+            "text": "空気",
             "color": "blue"
           },
           {
-            "text": ": Faster move speed, +0.25 knockback/point, +1 ranged damage/2 points, kinetic damage resist \n"
+            "text": ": 移動速度増加、 +0.25 ノックバック/ポイント, +1 範囲ダメージ/2ポイント, 移動ダメージ耐性 \n"
           },
           {
-            "text": "Arcane",
+            "text": "魔法",
             "color": "blue"
           },
           {
-            "text": ": 25% increase in mana capacity per point, magic damage resist \n"
+            "text": ": 25% マナ容量増加/ポイント, 魔法ダメージ耐性 \n"
           },
           {
-            "text": "Earth",
+            "text": "大地",
             "color": "blue"
           },
           {
-            "text": ": +1 physical damage increase/2 points, +1 armor/point, +1 toughness/2 points, physical damage resist \n"
+            "text": ": +1 物理ダメージ上昇/2ポイント, +1 防具/ポイント, +1 防具強度/2ポイント, 物理ダメージ耐性 \n"
           },
           {
-            "text": "Ender",
+            "text": "エンダー",
             "color": "blue"
           },
           {
-            "text": ": +1 carry capacity/point for each hand, void/dragon breath damage resist \n"
+            "text": ": 両手に +1 携帯容量/ポイント, 虚無/ドラゴンブレスダメージ耐性 \n"
           },
           {
-            "text": "Fire",
+            "text": "炎",
             "color": "blue"
           },
           {
-            "text": ": 1s/point of ignition when attacking, fire/lava/explosion/lightning damage resist \n"
+            "text": ": 攻撃時、一秒/ポイントの発火, 火/溶岩/爆破/雷ダメージ耐性 \n"
           },
           {
-            "text": "Water",
+            "text": "水",
             "color": "blue"
           },
           {
-            "text": ": +5 buoyancy/point, +4 perception/point, +10% fluid capacity/point, attacks slow targets, frost/drown damage resist"
+            "text": ": +5 浮力/ポイント, +4 察知/ポイント, +10% 液体容量/ポイント, 遅い対象を攻撃, 氷、窒息ダメージ軽減"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Swimming"
+        "value": "泳ぐ"
       },
       {
         "type": "text",
         "value": "Constructs can swim if they have a positive buoyancy.  This is determined by their materials and their affinity.  You can see their buoyancy by using the Diagnostics command on a Bell of Bidding.",
         "json": [
           {
-            "text": "Constructs can swim if they have a positive buoyancy",
+            "text": "コンストラクトは、＋の浮力をもっている場合泳げます。",
             "color": "dark_purple"
           },
           {
@@ -15910,24 +15917,24 @@
     "sections": [
       {
         "type": "title",
-        "value": "Commanding Constructs"
+        "value": "コンストラクトの命令"
       },
       {
         "type": "text",
         "value": "Incidental commands are given using a Bell of Bidding.  Use the radial menu on the bell to select your command, then right click on something.  The commands are contextual.  The following commands are available:",
         "json": [
           {
-            "text": "Incidental, one-off commands are given using a "
+            "text": "一度きりのコマンドは、"
           },
           {
-            "text": "Bell of Bidding",
+            "text": "命令のベル",
             "color": "blue"
           },
           {
-            "text": ".\n\n"
+            "text": "でできます。\n\n"
           },
           {
-            "text": "Use the radial menu on the bell to select a command, then right click on something. The commands are contextual. The following commands are available:",
+            "text": "円メニューを開いて命令を選択し、何かに右クリックしてください。命令は、状況に応じて行われます。 The following commands are available:",
             "italic": true
           }
         ]
@@ -16073,120 +16080,120 @@
       },
       {
         "type": "title",
-        "value": "The Delegation Station"
+        "value": "命令台"
       },
       {
         "type": "text",
         "value": "The Delegation Station is a block you can use to create complex logic for your constructs.  To start, simply drag a task from the menu on the left to the stage.  Then, drag the blue start node at the top left of the stage to the yellow input node at the top left of the task.  This will set the start of the flow.\n\nYour construct will loop this task once assigned to the Delegation Station.\n\nEvery task has two output nodes, a green at the top right and a red just below it.  They represent the outputs of the tasks, green being success or red being failure.  Drag these nodes to the start nodes of other tasks to chain logic.\n\nYou can loop a task's output node back in to its input node to cause it to tight loop.  This is useful for performing a task repeatedly until failure, or until construct confusion (see Construct Intelligence).",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Delegation Station",
+            "text": "命令台",
             "color": "blue"
           },
           {
-            "text": " is a block I can use to "
+            "text": "は、コンストラクトの"
           },
           {
-            "text": "create complex logic",
+            "text": "複雑な論理処理",
             "color": "dark_purple"
           },
           {
-            "text": " for my constructs. \n\n"
+            "text": " を可能にするブロックです。 \n\n"
           },
           {
-            "text": "To start, drag a task from the menu on the left to the stage. ",
+            "text": "始めるには、まず左のメニューから右側にタスクをドラッグして移動します。 ",
             "italic": true
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "Then, drag the blue start node at the top left of the stage to the yellow input node at the top left of the task. ",
+            "text": "その後、左上の青い開始ノードを、タスクの左上の黄色い入力ノードにドラッグして繋ぎます。",
             "italic": true
           },
           {
-            "text": "This will set the start of the flow",
+            "text": "これが、処理の開始を設定します",
             "italic": true,
             "color": "dark_purple"
           },
           {
-            "text": ". ",
+            "text": "。 ",
             "italic": true
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "My construct will loop this task once assigned to the Delegation Station. ",
+            "text": "コンストラクトは、命令台に設定されたのち、この命令を繰り返します。",
             "italic": true
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "Every task has two output nodes, a",
+            "text": "すべてのタスクは二つの出力ノードがあり、",
             "italic": true
           },
           {
-            "text": " green at the top right",
+            "text": "右上の緑のノード",
             "italic": true,
             "color": "dark_green"
           },
           {
-            "text": " and a",
+            "text": "と、",
             "italic": true
           },
           {
-            "text": " red just below it",
+            "text": "その下の赤いノード",
             "italic": true,
             "color": "dark_red"
           },
           {
-            "text": ". They represent the outputs of the tasks, green being ",
+            "text": "があります。これはタスクの結果を表しており、緑が",
             "italic": true
           },
           {
-            "text": "success ",
+            "text": "成功",
             "italic": true,
             "color": "dark_green"
           },
           {
-            "text": "or red being ",
+            "text": "か、赤が",
             "italic": true
           },
           {
-            "text": "failure",
+            "text": "失敗",
             "italic": true,
             "color": "dark_red"
           },
           {
-            "text": ". ",
+            "text": "を表しています。",
             "italic": true
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "Drag these nodes to the start nodes of other tasks to chain logic. I can loop a task's output node back in to its input node to cause it to tight loop. This is useful for performing a task repeatedly until failure, or until construct confusion (see ",
+            "text": "このノードを、他のタスクの開始ノードに繋ぐことで、論理を繋げます。出力をそのタスクの開始ノードにつなぐことで、強いループを作成できます。これは、失敗するまでタスクを実行したい場合や、困惑 (",
             "italic": true
           },
           {
-            "text": "Construct Intelligence",
+            "text": "コンストラクトの知能",
             "italic": true,
             "color": "blue"
           },
           {
-            "text": ").  ",
+            "text": "を参照)するまで実行したい場合に有用です。",
             "italic": true
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "If a task's selected output node isn't connected to anything else after ending, the construct will start the whole flow over.",
+            "text": "タスクの出力スロットに何も接続されていない場合、論理を再び最初から開始します。",
             "italic": true,
             "color": "dark_purple"
           }
@@ -16228,41 +16235,41 @@
       },
       {
         "type": "title",
-        "value": "Lodestar"
+        "value": "ロードスター"
       },
       {
         "type": "text",
         "value": "The Lodestar is a much more advanced method of commanding constructs and has a greatly expanded list of available commands, as well as several conditions that you can have your constructs evaluate.",
         "json": [
           {
-            "text": "The ",
+            "text": "",
             "italic": true
           },
           {
-            "text": "Lodestar ",
+            "text": "ロードスター",
             "italic": true,
             "color": "blue"
           },
           {
-            "text": "is a much more advanced method of commanding constructs and has a ",
+            "text": "は、コンストラクトへより高度な命令を送るための手段で、",
             "italic": true
           },
           {
-            "text": "greatly expanded list of available tasks",
+            "text": "命令で可能なタスクの種類が大幅に上昇",
             "italic": true,
             "color": "dark_purple"
           },
           {
-            "text": ", as well as ",
+            "text": "し、さらには",
             "italic": true
           },
           {
-            "text": "several conditions",
+            "text": "条件付け",
             "italic": true,
             "color": "dark_purple"
           },
           {
-            "text": " that you can have your constructs evaluate to create branching logic.",
+            "text": "して、特定の場合に特定の行動を行うように設定できるようになります。",
             "italic": true
           }
         ]
@@ -19574,105 +19581,105 @@
     "sections": [
       {
         "type": "title",
-        "value": "エルドリンパワー"
+        "value": "エルドリン力"
       },
       {
         "type": "text",
         "value": "Much like the six affinities that you gain as you cast spells throughought your journey as a wizard, there are six primal forms of power cascading throughout the world:  Arcane, Ender, Earth, Wind, Fire, and Water.  These six powers are collectively known as Eldrin Power.",
         "json": [
           {
-            "text": "Much like the six "
+            "text": "魔術師が呪文を詠唱した際に得る六つの"
           },
           {
-            "text": "Affinities",
+            "text": "属性",
             "color": "blue"
           },
           {
-            "text": " that a wizard gains as they cast spells throughout their journey, there are six primal forms of power cascading throughout the world: "
+            "text": "のように、６つの原始的な力が世界に流れています: "
           },
           {
-            "text": "Arcane, Ender, Earth, Wind, Fire, and Water",
+            "text": "魔法、エンダー、大地、風、そして水",
             "color": "blue"
           },
           {
-            "text": ". These six powers are collectively known as "
+            "text": "。この六つの力は"
           },
           {
-            "text": "Eldrin Power",
+            "text": "エルドリンの力",
             "color": "blue"
           },
           {
-            "text": ".\n\n"
+            "text": "と呼ばれています。\n\n"
           },
           {
-            "text": "Eldrin Power",
+            "text": "エルドリンの力",
             "color": "blue"
           },
           {
-            "text": " is used for several tasks, such as powering several Wizard Lab apparatus like the "
+            "text": "はいろんなことに利用できます、例えば"
           },
           {
-            "text": "Thesis Desk",
+            "text": "論文台",
             "color": "blue"
           },
           {
-            "text": ", "
+            "text": "や、"
           },
           {
-            "text": "Disenchanter",
+            "text": "エンチャント除去機",
             "color": "blue"
           },
           {
-            "text": ", or "
+            "text": "や、"
           },
           {
-            "text": "Affinity Tinker",
+            "text": "親和性調整台",
             "color": "blue"
           },
           {
-            "text": ". Once obtained, "
+            "text": "のような魔法のラボの道具に使用できます。一度入手した"
           },
           {
-            "text": "Eldrin Power",
+            "text": "エルドリン力",
             "color": "blue"
           },
           {
-            "text": " can be checked within the "
+            "text": "は、"
           },
           {
-            "text": "Occulus",
+            "text": "オキュラス",
             "color": "blue"
           },
           {
-            "text": ".\n\nInitially, you can only obtain trace amounts of "
+            "text": "で確認できます。\n\n序盤は、ほんの少しの"
           },
           {
-            "text": "Eldrin Power",
+            "text": "エルドリン力",
             "color": "blue"
           },
           {
-            "text": " by burning "
+            "text": "を"
           },
           {
-            "text": "motes or sachets",
+            "text": "エルドリン煙フィルター",
+            "color": "blue"
+          },
+          {
+            "text": "で"
+          },
+          {
+            "text": "雫や小袋",
             "color": "dark_purple"
           },
           {
-            "text": " in an "
+            "text": "を燃やすことでしか入手できません。生成は遅いが安定していて、消費するアイテムを必要とします。\n\nティアが高くなると、特定の属性の魔法のエネルギーがかなり高い"
           },
           {
-            "text": "Eldrin Fume Filter",
+            "text": "エルドリンの源泉",
             "color": "blue"
           },
           {
-            "text": ". The generation rate is slow but steady, and requires consumables.\n\nLater, you will be able to find "
-          },
-          {
-            "text": "Eldrin Wellsprings",
-            "color": "blue"
-          },
-          {
-            "text": ", fonts of magic where a particular affinity is extremely strong. Capturing these wellsprings will provide you with a steady income of passive Eldrin Power."
+            "text": "を見ることができるようになります。これらの源泉を確保することで、受動的に安定してエルドリンの力を得られます。"
           }
         ]
       }
