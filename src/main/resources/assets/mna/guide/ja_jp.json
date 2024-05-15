@@ -564,7 +564,7 @@
       },
       {
         "type": "text",
-        "value": "マナ織り師は、便利なマナウィーバーポーチやフォーチ、シルク、お茶などを売っています。 マナウィーバーのジョブブロックは、マナウィービング祭壇です。",
+        "value": "マナ織り師は、便利なマナウィーバーポーチやフォーチ、シルク、お茶などを売っています。 マナウィーバーの職業ブロックは、マナ織の祭壇です。",
         "json": [
           {
             "text": "マナ織り師は",
@@ -622,7 +622,7 @@
       },
       {
         "type": "text",
-        "value": "ルーン鍛冶は、ルーンスクリプションやコンストラクトのクラフトに便利なインスクリプションポーチやマーキングのルーンなどを販売しています。 ルーン師の職業ブロックはルーンスクリプティングテーブルです。",
+        "value": "ルーン鍛冶は、ルーン刻印やコンストラクトのクラフトに便利な刻印師のポーチやマーキングのルーンなどを販売しています。 ルーン師の職業ブロックはルーン刻印台です。",
         "json": [
           {
             "text": "ルーン鍛冶",
@@ -1618,7 +1618,7 @@
         "value": "自分の派閥には固有なレリックや呪文の部品があり、さらには杖などに派閥に対応したエンチャントを付けることで、特殊な能力を得ることができます。\n\nオキュラスではこれらのアイテムは、あなたの派閥を表すバッジがついて表示されます。\n\n他の派閥の呪文やアーティファクトをクラフトすることはできませんが、Tier 3に到達したら「鉄の鐘の儀式」を行うか、単にマルチプレイで他の魔術師と取引することでそれらを手に入れることが可能です。",
         "json": [
           {
-            "text": "自分の派閥に固有なレリックや呪文の部品があり、さらには杖などに派閥に対応したエンチャントを付けることで、特殊な能力を得ることができます。\n\nオキュラスではこれらのアイテムは、あなたの派閥を表すバッジがついて表示されます。\n\n他の派閥の呪文やアーティファクトをクラフトすることはできませんが、Tier 3に到達したら「鉄の鐘の儀式」を行うか、単にマルチプレイで他の魔術師と取引することでそれらを手に入れることが可能です。"
+            "text": "自分の派閥に固有なレリックや呪文の部品があり、さらには杖などに派閥に対応したエンチャントを付けることで、特殊な能力を得ることができます。\n\nオキュラスではこれらのアイテムは、あなたの派閥を表すバッジがついて表示されます。\n\n他の派閥の呪文や魔道具をクラフトすることはできませんが、Tier 3に到達したら「鉄の鐘の儀式」を行うか、単にマルチプレイで他の魔術師と取引することでそれらを手に入れることが可能です。"
           }
         ]
       },
@@ -4486,13 +4486,13 @@
       },
       {
         "type": "text",
-        "value": "この儀式は呪文の作成に使用されます。まず、術式刻印テーブルにて、羊皮紙に呪文を書き込む必要があります。",
+        "value": "この儀式は呪文の作成に使用されます。まず、術式刻印台にて、羊皮紙に呪文を書き込む必要があります。",
         "json": [
           {
             "text": "この儀式は呪文の作成に使用されます。まず、"
           },
           {
-            "text": "術式刻印テーブル",
+            "text": "術式刻印台",
             "color": "blue"
           },
           {
@@ -6056,7 +6056,7 @@
             "text": "呪文を"
           },
           {
-            "text": "呪文刻印テーブル",
+            "text": "呪文刻印台",
             "color": "blue"
           },
           {
@@ -6532,7 +6532,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "暗記の書で利用でき、追加する必要はないです。 暗記は、術式刻印テーブルで作成した呪文よりも多くの部品と修飾子を追加できます。 \n\n暗記の書で呪文を作成する際は、記憶した呪文を示しているだけなので、素材もクラフトも必要ありません。"
+            "text": "暗記の書で利用でき、追加する必要はないです。 暗記は、術式刻印台で作成した呪文よりも多くの部品と修飾子を追加できます。 \n\n暗記の書で呪文を作成する際は、記憶した呪文を示しているだけなので、素材もクラフトも必要ありません。"
           },
           {
             "text": "必要になってらいつでも呪文を作成できます。",
@@ -12741,7 +12741,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "術式刻印テーブル"
+        "value": "術式刻印台"
       },
       {
         "type": "text",
@@ -12751,7 +12751,7 @@
             "text": ""
           },
           {
-            "text": "転写テーブル",
+            "text": "転写台",
             "color": "blue"
           },
           {
@@ -15121,18 +15121,18 @@
         "value": "Animated constructs are humanoid shaped constructs that have been imbued with magic in order to animate them to a semblance of life.  Early on, simple constructs can be made from light materials, with runes being purchased from Runesmith villagers.  Later you can make much more powerful versions yourself.",
         "json": [
           {
-            "text": "Constructs",
+            "text": "コンストラクト",
             "color": "blue"
           },
           {
-            "text": " are humanoid shaped creations that have been imbued with magic in order to give them a semblance of life. Simple constructs can be made from light materials, with the necessary runes being purchased from "
+            "text": "は、魔法が注入され生命を得た人型の創造物です。単純なコンストラクトは軽量の素材から作成でき、 必要なルーンは"
           },
           {
-            "text": "Runesmith Villagers",
+            "text": "ルーン師の村人",
             "color": "blue"
           },
           {
-            "text": ", though much stronger and more versatile ones can likely be crafted. "
+            "text": "から取引できますが、より強力で多用途のものはクラフトでしか入手できません。"
           }
         ]
       },
@@ -15145,59 +15145,59 @@
         "value": "Constructs are created from 5 parts:  Head, Torso, Legs, and 2 arms.  These parts dictate what the construct is capable of.  Take some time to look through the various parts in the Constructs section of the Codex and decide which ones you want to make.  You can modify a construct at any time by commanding it to return to an empty Construct Gantry.  The way to do so is described a little further on.\n\nOnce you know which parts you want to make, you need to decide on a material.  There are six materials that a Construct can be made from, and each changes the properties of the construct.  You can mix and match materials, and this will balance the benefits and disadvantages of the construct.  It's worthwhile to experiment with different combinations to find one that suits your needs.",
         "json": [
           {
-            "text": "Constructs ",
+            "text": "コンストラクト",
             "color": "blue"
           },
           {
-            "text": "are created from 5 parts: "
+            "text": "は五つの部品から作成されます: "
           },
           {
-            "text": "Head, Torso, Legs, and 2 arms",
+            "text": "頭、胴体、足、そして二本の腕",
             "color": "blue"
           },
           {
-            "text": ". "
+            "text": "です。"
           },
           {
-            "text": "These parts dictate what the construct is capable of.",
+            "text": "この部品は、コンストラクトの能力を決定します。",
             "color": "dark_purple"
           },
           {
-            "text": "\n\n\nI should take some time to look through the various parts in the Constructs section of the Codex and decide which ones I want to make.\n\nOnce I have decided which parts you want to make, I'll need to decide on a material.\n\nThere are seven materials that a Construct can be made from, and "
+            "text": "\n\n\nコーデックスでいろんな部品を比べてみて、どの部品が適しているか考えてみるべきでしょう。\n\n 部品が決まったら、素材を決めてください。\n\n七つの種類の素材があり、"
           },
           {
-            "text": "each changes the properties of the construct",
+            "text": "それぞれコンストラクトの性質を変更",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\n"
+            "text": "します。\n\n"
           },
           {
-            "text": "I can mix and match materials in a single Construct",
+            "text": "別の素材を含めて組み合わせることができ、",
             "color": "dark_purple"
           },
           {
-            "text": ", and this will balance the benefits and disadvantages of the construct. It will be worthwhile to experiment with different combinations to find one that suits my needs.  "
+            "text": "メリットとデメリットのバランスを変化させます。いろんな組み合わせを実験して、自分に合った組み合わせを見つけてもいいかもしれません。"
           },
           {
-            "text": "In general, higher tier materials perform tasks faster than lower tier materials, however there are a few exceptions.  I've outlined those where they exist.",
+            "text": "基本的には、より上位のティアの素材のほうがタスクを早くこなせますが、例外もあります。例外が存在するものはアウトラインされています。",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nI can modify a construct at any time by commanding it to return to an empty "
+            "text": "\n\nコンストラクトは、空の"
           },
           {
-            "text": "Construct Gantry",
+            "text": "コンストラクト構台",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "に戻すことでいつでも編集できます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Wickerwood",
+        "value": "柳製",
         "newPage": true
       },
       {
@@ -15205,45 +15205,45 @@
         "value": "Wickerwood construct parts are made from sticks and wheat.  They are buoyant and light, meaning they help constructs to float and move more quickly.  However they cause the construct to take more damage from fire, and they don't have much in terms of health.  Wickerwood constructs are also extremely primitive and as such are not capabile of more complex tasks or displaying emotion.",
         "json": [
           {
-            "text": "Wickerwood ",
+            "text": "柳製",
             "color": "blue"
           },
           {
-            "text": "construct parts are made from sticks and wheat. They are "
+            "text": "の部品は、棒と藁でできています。それは"
           },
           {
-            "text": "buoyant ",
+            "text": "水に浮き",
             "color": "dark_purple"
           },
           {
-            "text": "and "
+            "text": "、そして"
           },
           {
-            "text": "light",
+            "text": "軽量",
             "color": "dark_purple"
           },
           {
-            "text": ", meaning they help constructs to float and move more quickly. However they cause the construct to "
+            "text": "であり、素早く移動できます。しかし、"
           },
           {
-            "text": "take more damage from fire",
+            "text": "火から大ダメージを受け",
             "color": "dark_purple"
           },
           {
-            "text": ", and they "
+            "text": "、"
           },
           {
-            "text": "don't offer much in terms of health",
+            "text": "耐久性があまりありません",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nWickerwood constructs are also extremely primitive and as such are not capable of more complex tasks or displaying emotion.  The available parts for Wickerwood constructs are limited."
+            "text": "。 \n\nそして、これらのパーツは原始的で、知能が少なく単純なタスクしか行えません。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Wood",
+        "value": "木製",
         "newPage": true
       },
       {
@@ -15251,59 +15251,59 @@
         "value": "Wooden construct parts are made from any kind of wood.  They are buoyant and light, meaning they help constructs to float and move more quickly.  However they cause the construct to take more damage from fire, and they don't have much in terms of health.  Wooden constructs regenerate health more quickly than other constructs.",
         "json": [
           {
-            "text": "Wooden ",
+            "text": "木製",
             "color": "blue"
           },
           {
-            "text": "construct parts are made from any kind of wood. They are "
+            "text": "の部品は何の木材からでも作れます。それは"
           },
           {
-            "text": "buoyant ",
+            "text": "水に浮き",
             "color": "dark_purple"
           },
           {
-            "text": "and "
+            "text": "、そして"
           },
           {
-            "text": "light",
+            "text": "軽量",
             "color": "dark_purple"
           },
           {
-            "text": ", meaning they help constructs to float and move more quickly. However they cause the construct to take "
+            "text": "であり、素早く移動できます。しかし、"
           },
           {
-            "text": "more damage from fire",
+            "text": "火から大ダメージを受け",
             "color": "dark_purple"
           },
           {
-            "text": ", and they "
+            "text": "、そして"
           },
           {
-            "text": "don't offer much in terms of health",
+            "text": "耐久性があまりありません",
             "color": "dark_purple"
           },
           {
-            "text": ".  They are essentially "
+            "text": "。 要は "
           },
           {
-            "text": "a more sturdy version of Wickerwood",
+            "text": "柳製の少しマシなバージョンです",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nWooden constructs "
+            "text": "。\n\n木製の部品は、他に比べて"
           },
           {
-            "text": "regenerate health more quickly",
+            "text": "体力が早く再生",
             "color": "dark_purple"
           },
           {
-            "text": " than other constructs."
+            "text": "します。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Stone",
+        "value": "石製",
         "newPage": true
       },
       {
@@ -15311,38 +15311,38 @@
         "value": "Stone constructs are more sturdy than wood, though they will sink in water.  They are more sturdy than wood, but not as much so as the other materials.  As it is a heavier material, constructs with more stone parts are more resistant to being knocked back by attacks.  Stone constructs are sturdy workers and are mostly generalized.",
         "json": [
           {
-            "text": "Stone ",
+            "text": "石製",
             "color": "blue"
           },
           {
-            "text": "constructs are more sturdy than wood, though they "
+            "text": "のパーツは木製に比べて強度が高いが、"
           },
           {
-            "text": "will sink in water",
+            "text": "水に沈みます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nAs it is a heavier material, constructs with more stone parts are "
+            "text": "。\n\n重い材料なので、攻撃の"
           },
           {
-            "text": "more resistant to being knocked back",
+            "text": "ノックバックに耐性を持ちます",
             "color": "dark_purple"
           },
           {
-            "text": " by attacks. \n\nStone constructs are "
+            "text": "。\n\n石のコンストラクトは"
           },
           {
-            "text": "sturdy workers and are mostly generalized",
+            "text": "安定している労働者で、より一般的です",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Iron",
+        "value": "鉄製",
         "newPage": true
       },
       {
@@ -15360,21 +15360,21 @@
             "text": " constructs have seen a significant amount of use. It "
           },
           {
-            "text": "sinks quickly and moves slowly, ",
+            "text": "すぐに沈んで遅く移動する ",
             "color": "dark_purple"
           },
           {
             "text": "but "
           },
           {
-            "text": "resists being knocked back ",
+            "text": "ノックバックに耐性を持ち",
             "color": "dark_purple"
           },
           {
             "text": "and "
           },
           {
-            "text": "has significantly more health/armor",
+            "text": "体力と鎧が多いです",
             "color": "dark_purple"
           },
           {
@@ -15391,7 +15391,7 @@
       },
       {
         "type": "title",
-        "value": "Gold",
+        "value": "金製",
         "newPage": true
       },
       {
@@ -15403,24 +15403,24 @@
             "color": "blue"
           },
           {
-            "text": "constructs, similar to iron sink quickly.  They "
+            "text": "constructs, similar to iron 早く沈みます.  They "
           },
           {
-            "text": "move faster",
+            "text": "移動速度が速く",
             "color": "dark_purple"
           },
           {
             "text": " than their iron counterparts, and their "
           },
           {
-            "text": "mana torso has a much higher capacity",
+            "text": "マナ胴体は容量が多く",
             "color": "dark_purple"
           },
           {
             "text": ", however they have "
           },
           {
-            "text": "much lower health and armor",
+            "text": "低い体力と鎧",
             "color": "dark_purple"
           },
           {
@@ -15437,7 +15437,7 @@
       },
       {
         "type": "title",
-        "value": "Obsidian",
+        "value": "黒曜石製",
         "newPage": true
       },
       {
@@ -15452,39 +15452,39 @@
             "text": "constructs are somewhat "
           },
           {
-            "text": "brittle with only moderate health",
+            "text": "脆く、普通の体力",
             "color": "dark_purple"
           },
           {
             "text": " but deal "
           },
           {
-            "text": "extreme amounts of damage",
+            "text": "高い攻撃力",
             "color": "dark_purple"
           },
           {
             "text": ", higher than any other material.  Their material uniquely does make them "
           },
           {
-            "text": "immune to fire and lava",
+            "text": "火と溶岩を無効にします",
             "color": "dark_purple"
           },
           {
             "text": ".\n\nThey have "
           },
           {
-            "text": "low buoyancy",
+            "text": "水に浮きにくい",
             "color": "dark_purple"
           },
           {
             "text": ", but can "
           },
           {
-            "text": "move fairly quickly",
+            "text": "結構早く動けます",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nObsidian constructs "
+            "text": "。\n\nObsidian constructs "
           },
           {
             "text": "tend to act in a striker role",
@@ -15497,7 +15497,7 @@
       },
       {
         "type": "title",
-        "value": "Diamond",
+        "value": "ダイアモンド製",
         "newPage": true
       },
       {
@@ -15512,35 +15512,35 @@
             "text": "constructs are"
           },
           {
-            "text": " very resilient",
+            "text": "耐久性が高く、",
             "color": "dark_purple"
           },
           {
             "text": " and "
           },
           {
-            "text": "not overly heavy",
+            "text": "そこまで重くない",
             "color": "dark_purple"
           },
           {
             "text": " in terms of buoyancy. They're "
           },
           {
-            "text": "quicker ",
+            "text": "素早い",
             "color": "dark_purple"
           },
           {
             "text": "too, but offer "
           },
           {
-            "text": "no knockback resistance",
+            "text": "ノックバック耐性を持ちません。",
             "color": "dark_purple"
           },
           {
             "text": ". \n\nDiamond constructs are a "
           },
           {
-            "text": "jack-of-all-trades",
+            "text": "万能",
             "color": "dark_purple"
           },
           {
@@ -15927,7 +15927,7 @@
             "text": "一度きりのコマンドは、"
           },
           {
-            "text": "命令のベル",
+            "text": "命令の鐘",
             "color": "blue"
           },
           {
@@ -19591,18 +19591,18 @@
             "text": "魔術師が呪文を詠唱した際に得る六つの"
           },
           {
-            "text": "属性",
+            "text": "親和性",
             "color": "blue"
           },
           {
-            "text": "のように、６つの原始的な力が世界に流れています: "
+            "text": "のように、六つの原始的な力が世界に流れています: "
           },
           {
             "text": "魔法、エンダー、大地、風、そして水",
             "color": "blue"
           },
           {
-            "text": "。この六つの力は"
+            "text": "です。この六つの力は"
           },
           {
             "text": "エルドリンの力",
@@ -19728,70 +19728,70 @@
         "value": "There is a network of points of power scattered through the world.  These points are called Eldrin Wellsprings.  Wellsprings are associated with one of the affinities, and vary in power as well.",
         "json": [
           {
-            "text": "There is a network of points of power scattered through the world. These points are called "
+            "text": "この世界には、エネルギーが一点に集中したネットワークが、散らばって存在しています。これらの地点は"
           },
           {
-            "text": "Eldrin Wellsprings",
+            "text": "エルドリンの源泉",
             "color": "blue"
           },
           {
-            "text": ". Wellsprings are commonly associated with one of the affinities, and vary in power as well. \n\nThere is a rare form of wellspring that is "
+            "text": "と呼ばれています。ほとんどの源泉は属性を持っており、力の強さも様々です。\n\n かなりレアな種類の源泉として、白いビームと青い螺旋がある、"
           },
           {
-            "text": "typeless, ",
+            "text": "無属性",
             "color": "dark_purple"
           },
           {
-            "text": "as indicated by its white beam and its blue swirls.  These rare wellsprings will "
+            "text": "があります。このレアな源泉は、"
           },
           {
-            "text": "permanently convert to the structure lens type used when captured for the first time",
+            "text": "捕獲に最初に利用された種類のレンズの属性に永続的に変化します",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nWellsprings are invisible unless captured or unless the "
+            "text": "。\n\n 源泉は、"
           },
           {
-            "text": "Wellspring Sight Unguent",
+            "text": "源泉視力上昇剤",
             "color": "blue"
           },
           {
-            "text": " (or the more powerful "
+            "text": " (もしくは、より強力な、 "
           },
           {
-            "text": "Eldrin Sight Unguent",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": " made by the "
+            "text": "が作成できる"
           },
           {
-            "text": "Council of Wizards",
+            "text": "エルドリン視力上昇剤",
             "color": "blue"
           },
           {
-            "text": ") is active.  I don't need to be able to see a wellspring to capture it, if I know where it is. \n\nThose aligned with the "
+            "text": ") を使用しているか、捕獲されていない限り目に見えません。 場所が分かれば、源泉が目に見えなくても捕獲することができます。 \n\n"
           },
           {
-            "text": "Council of Wizards",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": " can use the "
+            "text": "と同盟を組んだ人は、"
           },
           {
-            "text": "Eldrin Flight",
+            "text": "エルドリン飛行",
             "color": "blue"
           },
           {
-            "text": " spell to travel quickly to nearby wellsprings, and the "
+            "text": "で近くの源泉に素早く移動でき、 そして"
           },
           {
-            "text": "Eldrin Bracelet",
+            "text": "エルドリンのブレスレット",
             "color": "blue"
           },
           {
-            "text": " to draw power from these wellsprings when in close proximity to reduce the mana cost of their spells.  All factions can make use of Eldrin Power for crafting purposes equally, however."
+            "text": " を利用することで、源泉の近くにいる場合に力を吸収することで、呪文のマナコストを軽減できます。 しかし、すべての派閥は、エルドリンの力をクラフトに利用できます。"
           }
         ]
       }
@@ -19829,23 +19829,23 @@
       },
       {
         "type": "text",
-        "value": "Depending on your faction, there are different ways to find Eldrin Wellsprings.",
+        "value": "派閥によって、源泉を探す異なる手段があります。",
         "json": [
           {
-            "text": "Depending on "
+            "text": ""
           },
           {
-            "text": "faction",
+            "text": "派閥",
             "color": "blue"
           },
           {
-            "text": ", there are different ways to find Eldrin Wellsprings."
+            "text": "によって、源泉を探す異なる手段があります。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Eldrin Sight Unguent",
+        "value": "エルドリン視力上昇剤",
         "newPage": true
       },
       {
@@ -19858,34 +19858,34 @@
         "value": "The eldrin sight unguent is a concoction that, when applied to the eyes, allows the recipient to see more of the magical aura around them for a short time.  \n\nIt also helps to pierce veils and illusions created by other mages.\n\nCreating the Eldrin Sight Unguent requires the creator to be aligned with the Council of Wizards.",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Eldrin Sight Unguent",
+            "text": "エルドリン視力上昇剤",
             "color": "blue"
           },
           {
-            "text": " is a concoction that, when applied just below the eyes, allows me to see more of the magical aura around me for a short time, including "
+            "text": "の薬は目の上に加えることで、短い時間の間自分の近くの魔法のオーラが見えるようになります。例："
           },
           {
-            "text": "allowing me to see nearby Wellsprings",
+            "text": "近くの源泉が見えるようになります",
             "color": "dark_purple"
           },
           {
-            "text": ". It also helps to pierce veils and illusions created by other mages. \n\nCreating the Eldrin Sight Unguent requires the creator to be aligned with the "
+            "text": "。さらに、他の魔術が設置した幻を見破るのを助けます。\n\nエルドリン視力上昇剤を作成するには、"
           },
           {
-            "text": "Council of Wizards",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "と同盟を組んでいる必要があります。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Unguent of Wellspring Seeing",
+        "value": "源泉視の薬剤",
         "newPage": true
       },
       {
@@ -19898,34 +19898,34 @@
         "value": "The unguent of Wellspring Seeing is a less powerful version of the Sight Unguent, which allows those not aligned with the Council to see eldrin wellsprings, though without any of the other benefits the Sight Unguent provides.",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Wellspring Sight Unguent",
+            "text": "源泉視力上昇剤",
             "color": "blue"
           },
           {
-            "text": " is a less powerful version of the "
+            "text": "は、"
           },
           {
-            "text": "Eldrin Sight Unguent",
+            "text": "エルドリン視力上昇剤",
             "color": "blue"
           },
           {
-            "text": ", which when applied in a similar way "
+            "text": "の下位互換で、同じように使用された場合に"
           },
           {
-            "text": "allows me to see Wellsprings",
+            "text": "源泉が見えるようになります",
             "color": "dark_purple"
           },
           {
-            "text": ", though without any of the other benefits the Sight Unguent provides.  It does have a longer duration, and so is objectively better for this singular task."
+            "text": "が、他の利益はありません。その代わり、持続時間が長いので源泉を探すという点に関しては優れています。"
           }
         ]
       },
      {
         "type": "title",
-        "value": "Dowsing Rod",
+        "value": "ダウジングロッド",
         "newPage": true
       },
       {
@@ -19937,48 +19937,49 @@
         "type": "text",
         "json": [
           {
-            "text": "Unless allied with the "
+            "text": ""
           },
           {
-            "text": "council",
+            "text": "評議会",
             "color": "blue"
           },
           {
-            "text": " (and therefore given access to use "
+            "text": " と同盟を組んでいない限り(そして"
           },
           {
-            "text": "Eldrin Flight",
+            "text": "エルドリン飛行",
             "color": "blue"
           },
           {
-            "text": "), other wizards must use more mundane methods to locate wellsprings.\n\nEnter the "
+            "text": "を利用する許可を得ていない限り)、他の魔術師はもっとありふれた方法で源泉を見つける必要があります。\n\n そこで"
           },
           {
-            "text": "Dowsing Rod",
+            "text": "ダウジングロッド",
             "color": "blue"
           },
           {
-            "text": ". This rod, when used continually "
+            "text": "です。 この杖は、継続的に利用した場合"
           },
           {
-            "text": "(hold right mouse button)",
+            "text": "(右クリック長押し)",
             "italic": true
           },
           {
-            "text": " will gradually point me towards the nearest wellspring, "
-          },
-          {
-            "text": "provided I have a Chimerite Gem in my other hand",
+            "text": "左手にキメライトクリスタルを持っている時に",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nA trickle of mana is required to make the rod work, but it shouldn't prove too taxing."
+            "text": "すこしずつ視点を源泉に向かせます"
+          },
+          
+          {
+            "text": "。\n\n 杖を機能させるのに少量のマナが必要ですが、そこまで多く感じないはずです。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Locating Specific Wellsprings",
+        "value": "特定の源泉探し",
         "newPage": true
       },
       {
@@ -19986,72 +19987,72 @@
         "value": "As stated before, wellsprings have affinities, and these affinities are obtained from the biome that the wellspring is in.  It's technically possible to find any wellspring anywhere, however I'm most likely to find wellsprings for each affinity in the following types of places:",
         "json": [
           {
-            "text": "Wellsprings have affinities",
+            "text": "源泉は属性があり",
             "color": "blue"
           },
           {
-            "text": ", and these affinities are often a result of the surroundings of the wellspring. \n\n"
+            "text": "、これはほとんどの場合源泉の周囲の環境によりものです。 \n\n"
           },
           {
-            "text": "It is possible to find any wellspring anywhere",
+            "text": "どの属性の源泉もどこでも見つけることは可能ですが",
             "color": "dark_purple"
           },
           {
-            "text": ", however I'm most likely to find wellsprings for each affinity in the following types of places:\n\n"
+            "text": "が、以下のバイオームで、特定の源泉が見つかりやすいです:\n\n"
           },
           {
-            "text": "Arcane",
+            "text": "魔法",
             "color": "blue"
           },
           {
-            "text": ": Found in the high places, forests, and jungles.\n\n"
+            "text": ": 高い場所、森、そしてジャングルで見つかります。\n\n"
           },
           {
-            "text": "Earth",
+            "text": "地",
             "color": "blue"
           },
           {
-            "text": ": Found in forests, swamps, mesas, plateaus, and jungles.\n\n"
+            "text": ": 森、沼地、メサ、高原、そしてジャングルで見つかります。\n\n"
           },
           {
-            "text": "Water",
+            "text": "水",
             "color": "blue"
           },
           {
-            "text": ": Found in rivers, oceans, and swamps.\n\n"
+            "text": ": 川、海、そして沼地で見つかります。\n\n"
           },
           {
-            "text": "Wind",
+            "text": "風",
             "color": "blue"
           },
           {
-            "text": ": Found in plains, plateaus, and savannas, as well as the highest of places.\n\n"
+            "text": ": 平地、高原、サバンナ、そして高度がとても高い場所で見つかります。\n\n"
           },
           {
-            "text": "Fire",
+            "text": "火",
             "color": "blue"
           },
           {
-            "text": ": Found in deserts and hellish places.\n\n"
+            "text": ": 砂漠や、地獄のような場所で見つかります。\n\n"
           },
           {
-            "text": "Ender",
+            "text": "エンダー",
             "color": "blue"
           },
           {
-            "text": ": Found in swamps, mushroom infested lands, and places where the void is strongest.\n\n"
+            "text": ": 沼地、キノコ島、そして虚無が強い場所で見つかります。\n\n"
           },
           {
-            "text": "(These settings are ignored if the config for generic wellsprings is enabled, in which all wellsprings will be ",
+            "text": "( もし設定でgeneric wellspring が有効になっている場合は関係なく、すべての源泉が",
             "italic": true
           },
           {
-            "text": "generic",
+            "text": "無属性",
             "italic": true,
             "color": "dark_purple"
           },
           {
-            "text": ")",
+            "text": "になります)",
             "italic": true
           }
         ]
@@ -20086,42 +20087,42 @@
         "value": "I've figured out a way that I can harness some of the power of the eldrin wellsprings.  I need to be careful to only take small amounts, as the raw power would simply melt any kind of apparatus that would take more.  The secret is to use a lens that only refracts small amounts of power into a void dimension, which is needed to contain the raw power.  This lens requires a very specific resonant structure to be built around it in order to support the magic.  I could then use some other kind of apparatus to draw energy in from this void when it's needed.",
         "json": [
           {
-            "text": "I've figured out a way that I can harness some of the power of the "
+            "text": ""
           },
           {
-            "text": "Eldrin Wellsprings",
+            "text": "エルドリン源泉",
             "color": "blue"
           },
           {
-            "text": ". I need to be careful to only take small amounts, as the raw power would simply melt any kind of apparatus that would take more. \n\nThe secret is to use a lens that only refracts small amounts of power into a void dimension, which is needed to contain the raw power. This lens requires a very specific resonant structure to be built around it in order to support the magic.\n\n"
+            "text": "の力の一部を利用する方法が見つかりました。少量のみ抽出するように気を付けないと、生のエネルギーは装置を簡単に溶かしてしますでしょう。\n\n これを避ける秘密は力の一部を、生の力を保持するのに必要な、虚無の次元に屈折させるレンズを利用することです。 このレンズは、その周りに共鳴する特殊な構造物がが魔術を補助するのに必要です。\n\n"
           },
           {
-            "text": "I can check both my generation rate and available power in the Occulus.",
+            "text": "生成速度と、採取したエネルギーはオキュラスで確認できます。",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nI can build a structure I call the "
+            "text": "\n\nキメライトの砂岩もしくはキメライトの石で"
           },
           {
-            "text": "Wellspring Prism",
+            "text": "源泉プリズム",
             "color": "blue"
           },
           {
-            "text": " using chimerite sandstone, or chimerite stone. Either one will work.  The important parts are to "
+            "text": "が作成できます。"
           },
           {
-            "text": "center it over top of the wellspring perfectly",
+            "text": "中心が源泉になるように設置する",
             "color": "dark_purple"
           },
           {
-            "text": ", and to "
+            "text": "事が重要で、そして"
           },
           {
-            "text": "use a lens that matches the wellspring type",
+            "text": "源泉の種類にあったレンズ",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "が必要です。"
           }
         ]
       }
@@ -20165,34 +20166,34 @@
         "value": "",
         "json": [
           {
-            "text": "Once I've obtained "
+            "text": "一度"
           },
           {
-            "text": "Eldrin Power",
+            "text": "エルドリンの力",
             "color": "blue"
           },
           {
-            "text": " by either capturing wellsprings or using Eldrin Fume Filters to burn motes or sachets, I can "
+            "text": "を源泉を捕獲するか、エルドリン煙フィルターで得たのち、"
           },
           {
-            "text": "use Eldrin Conduits to supply that eldrin power to things that need",
+            "text": "エルドリン導管を利用することで装置にエネルギーを供給",
             "color": "dark_purple"
           },
           {
-            "text": " it by bringing that energy back into the material plane. Each conduit can bring forth a different energy.\n\nLesser conduits do not transfer power nearly as quickly, and have a smaller internal storage buffer.  I'll either need to upgrade them to greater conduits, or place multiple conduits down to meet demand."
+            "text": "できます。導管が、エネルギーを現実世界に転送します。導管は、種類によって別の属性のエネルギーを供給します。\n\n 下位導管はエネルギーを転送する速度が遅く、内部ストレージバッファが小さいです。 需要を満たすためには複数設置するか、上位の導管にアップグレードする必要があります。"
           },
           {
-          	"text": "\n\nConduits also have a "
+          	"text": "\n\n導管はさらに "
           },
           {
-            "text": "range and charge rate",
+            "text": "範囲と充電速度があり",
             "color": "dark_purple"
           },
           {
-          	"text": " which determines how far they can supply eldrin power and how fast they pull eldrin power into their internal buffer.  Conduits may become over-taxed, meaning they cannot meet demand.  This will not damage the conduit, however, just slow down whatever they are powering.  They can also be shut down by a redstone signal of any strength, which will prevent them from supplying power entirely."
+          	"text": "、どれだけ遠くに共有できるか、そしてどれだけ早く内部容量にエルドリンの力を転送するかを決めます。需要を満たせない場合、導管はオーバーヒートすることがあります。これは導管を破壊しませんが、供給しているのを遅くします。導管はレッドストーンシグナルを与えることで、オフにすることもできます。"
           },
           {
-          	"text": "\n\nI can see all of this as well as change who can use a conduit by activating it."
+          	"text": "\n\n オーバーヒートは視覚的に判断でき、さらに、起動することで誰が導管を使用するか変更できます。"
           }
         ]
       }
@@ -20236,35 +20237,35 @@
         "value": "The Eldrin Altar will allow me to create some of the most powerful magical artifacts, those hinted at only by legend in ages to come.  First, I will need to make the altar itself, and surround it just so with pedestals.",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Eldrin Altar",
+            "text": "エルドリンの祭壇",
             "color": "blue"
           },
           {
-            "text": " will allow me to create some of the most powerful magical artifacts, those hinted at only by legend in ages to come. First, I will need to make the altar itself, and surround it just so with pedestals.\n\nNext, I will need to create "
+            "text": "は、過去の伝説に記されている、最上位の魔道具を作成できます。 まず、祭壇を作成し、それをペデスタルで囲みます。\n\nその後、"
           },
           {
-            "text": " Eldrin Conduits",
+            "text": "エルドリン導管",
             "color": "blue"
           },
           {
-            "text": " and place them somewhere within 7 blocks of the altar, and somewhere their top crystal will have a clear line of sight to the altar. Not all recipes need all types of power, so I only need to place the ones that the recipe actually requires.  "
+            "text": "を作成して、七ブロック以内の、導管の上のクリスタルが祭壇を直接見える位置に設置します。そのレシピが必要な属性の導管を設置するだけで問題ありません。"
           },
           {
-            "text": "The lesser conduits do not supply power well enough to work with the Eldrin Altar",
+            "text": "下位の導管は、祭壇に影響を与えるための十分なエネルギーを供給できません",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nWhen I have everything ready, I must place the required items on the altar and surrounding pedestals (I'm pretty sure order or position doesn't matter as long as "
+            "text": "。\n\n準備が完了したのち、祭壇とその周囲のペデスタルに必要なアイテムを設置し("
           },
           {
-            "text": "at least one item is on the Altar itself",
+            "text": "中心の祭壇にアイテムが置いてある限り",
             "color": "dark_purple"
           },
           {
-            "text": "), and activate the altar with an empty hand. Then all that's left is to enjoy the show."
+            "text": "、順番や場所は関係ありません)、 空の手で中心の祭壇を起動します。その後は、ショーを楽しむだけです！"
           }
         ]
       }
@@ -20294,7 +20295,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "獄炎の祭壇"
+        "value": "Infernal Armor"
       },
       {
         "type": "text",
@@ -20649,21 +20650,21 @@
         "value": "Now that I've harnessed some of the power of the eldrin wellsprings, I can use their power to create more powerful versions of the elemental motes.  These motes contain far more potent concentrates of the affineal elements, and will allow me to create far more powerful artifacts than I could before.",
         "json": [
           {
-            "text": "Now that I've harnessed some of the power of the "
+            "text": "ようやく"
           },
           {
-            "text": "Eldrin Wellsprings",
+            "text": "エルドリン源泉",
             "color": "blue"
           },
           {
-            "text": ", I can use their power to create "
+            "text": "の力を利用できるようになったので、それを利用して"
           },
           {
-            "text": "more powerful versions of the elemental motes",
+            "text": "さらに強力な雫を作成できます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThese motes contain far more potent concentrates of the elements, and will allow me to create far more powerful artifacts than I could before."
+            "text": "。 \n\n これらの雫はより高い濃度のエレメントが含まれており、以前は作成できなかった、よち強力な魔道具を作成できるようになります。"
           }
         ]
       }
@@ -20708,161 +20709,162 @@
         "value": "The first step in runic enchanting is to scribe and forge a rune according to the Runescribing and Runeforging mechanics.  The enchantment's recipe will let you know which one(s) you need to make.  See the Runescribing/Runeforging section of the codex for more information.",
         "json": [
           {
-            "text": "The first step in runic enchanting is to "
+            "text": "ルーンでエンチャントをするにはまず、"
           },
           {
-            "text": "scribe and forge a rune",
+            "text": "ルーン刻印",
+            "color": "blue"
+          },
+          {
+            "text": "と"
+          },
+          {
+            "text": "ルーン鍛冶の",
+            "color": "blue"
+          },
+          {
+            "text": "の仕組みに基づき"
+          },
+          {
+            "text": "ルーンを刻んだあとに、鍛造します",
             "color": "dark_purple"
           },
           {
-            "text": " according to the "
+            "text": "。エンチャントのレシピが、どのルーン必要か教えてくれます。\n\nこの本のどこかに"
           },
           {
-            "text": "Runescribing",
+            "text": "ルーン刻印、ルーン鍛冶",
             "color": "blue"
           },
           {
-            "text": " and "
+            "text": "の説明があったはです。\n\nルーンが完成したのち、マナを注入して、ルーンにエンチャントを施します。\n\n"
           },
           {
-            "text": "Runeforging",
-            "color": "blue"
-          },
-          {
-            "text": " mechanics. The enchantment's recipe will let me know which one(s) I need to make.\n\nI remember seeing information elsewhere in this book about "
-          },
-          {
-            "text": "Runescribing, Runeforging",
-            "color": "blue"
-          },
-          {
-            "text": ", and how to do them both.\n\nOnce I have my rune made, I will need to infuse mana into it to apply the initial stage of the enchantment to the rune.\n\n"
-          },
-          {
-            "text": "Place the rune along with any other required reagents from the recipe into a",
+            "text": "必要なルーンと、それ以外の素材を",
             "color": "dark_purple"
           },
           {
             "text": " "
           },
           {
-            "text": "Manaweaving Altar",
+            "text": "マナ織の祭壇",
             "color": "blue"
           },
           {
-            "text": ". Then, using a "
+            "text": "に設置します。 その後、"
           },
           {
-            "text": "Manaweaver's Wand",
+            "text": "マナ織の杖",
             "color": "blue"
           },
           {
-            "text": ", "
+            "text": "で、"
           },
           {
-            "text": "I'll draw or project the required patterns from the recipe on top of the altar",
+            "text": "祭壇の上に必要なパターンを描くか、投影します",
             "color": "dark_purple"
           },
           {
-            "text": ". If I've done it correctly, the altar should draw in the manaweaves and items to create an "
+            "text": "。 正しくできたら、祭壇がマナ織を取り込み"
           },
           {
-            "text": "enchanted rune",
+            "text": "エンチャントされたルーン",
             "color": "blue"
           },
           {
-            "text": ".\n\nAll that's left now is to "
+            "text": "を作成するはずです。\n\n"
           },
           {
-            "text": "combine the rune with an item back at the runic anvil",
+            "text": "ルーン金床でアイテムとルーンを合成します",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nI'll need to place the "
+            "text": "。\n\n"
           },
           {
-            "text": "item I want to enchant",
+            "text": "エンチャントしたいアイテム",
             "color": "blue"
           },
           {
-            "text": " on the "
+            "text": "を、"
           },
           {
-            "text": "Runic Anvil",
+            "text": "ルーン金床",
             "color": "blue"
           },
           {
-            "text": " and the "
+            "text": "に設置した後、上に"
           },
           {
-            "text": "enchanted rune",
+            "text": "エンチャントしたルーン",
             "color": "blue"
           },
           {
-            "text": " on top. \n\nIf the enchantment can be applied to the item "
+            "text": " を乗せます。 \n\nエンチャントをアイテムに適用できる場合"
           },
           {
-            "text": "(standard combination and compatibility rules apply)",
+            "text": "(一般的な組み合わせと適合性は同じです)",
             "italic": true
           },
           {
-            "text": ", "
+            "text": "、"
           },
           {
-            "text": "I will see the magic of the anvil activate",
+            "text": "金床の魔法が起動します",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThen, to finish the enchant, I need to "
+            "text": "。 \n\nその後、エンチャントを完了するには"
           },
           {
-            "text": "strike the rune with a Runesmith's Hammer repeatedly until the enchantment is applied",
+            "text": "エンチャントが完了するまで、ルーンをルーン鍛冶師のハンマーで何度も叩きつけます",
             "color": "dark_purple"
           },
           {
-            "text": ".  If the anvil's magic is not active when I hit it with the hammer, the items will be ejected.\n\n"
+            "text": "。ハンマーを打ち付けた場合に金床の魔法が起動していない場合、アイテムは排出されます。\n\n"
           },
           {
-            "text": "The enchantments you can make are determined by your tier. Should you obtain an enchantment on a rune that doesn't have a matching recipe (for example on a ",
+            "text": "作成できるエンチャントはティアによって決まります。レシピが存在しないエンチャントのルーンを手に入れた場合 (例えば ",
             "italic": true
           },
           {
-            "text": "Projection Rune",
+            "text": "エンチャント除去機",
             "italic": true,
             "color": "blue"
           },
           {
-            "text": " using the ",
+            "text": "を利用した",
             "italic": true
           },
           {
-            "text": "Disenchanter",
+            "text": "投影のルーン",
             "italic": true,
             "color": "blue"
           },
+
           {
-            "text": "), the freeform enchanting rules are used:",
+            "text": ")、以下のルールが適応されます:",
             "italic": true
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "- Enchantment levels 1-2 require you to be Tier 3",
+            "text": "- エンチャントレベル 1-2は、ティア 3を要求",
             "italic": true
           },
           {
             "text": "\n"
           },
           {
-            "text": "- Enchantment levels 3-4 require you to be Tier 4",
+            "text": "- エンチャントレベル 3-4は、ティア 4を要求",
             "italic": true
           },
           {
             "text": "\n"
           },
           {
-            "text": "- Enchantment levels 5+ require you to be Tier 5",
+            "text": "- エンチャントレベル 5+は、ティア 5を要求",
             "italic": true
           }
         ]
@@ -21020,7 +21022,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mana Repair"
+        "value": "マナ修繕"
       },
       {
         "type": "text",
@@ -21051,7 +21053,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Cloudstep"
+        "value": "雲の一歩"
       },
       {
         "type": "text",
