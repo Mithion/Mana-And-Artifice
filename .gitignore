@@ -21,5 +21,3 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-src/main/resources/assets/mna/guide/ja_jp_old.json
-src/main/resources/assets/mna/lang/ja_jp_old.json
