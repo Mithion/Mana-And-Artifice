@@ -1828,7 +1828,7 @@
       },
       {
         "type": "text",
-        "value": "古の魔術師の評議会は防衛とマナの制御に重点を置いています。彼らのレリックには、マナにボーナスを与え、有害な効果を自動的に払拭することができる「魔術の王冠」や、近くのエルドリンエネルギーを吸収して呪文を唱える際のマナコストを軽減する「エルドリン力のブレスレット」、呪文の部品として「マナシールド」や「マナ譲渡」が追加されます。 オキュラスでは、評議会に所属を必要とするものには、以下のようなアイコンが表示されます：",
+        "value": "古の魔術師の評議会は防衛とマナの制御に重点を置いています。彼らのレリックには、マナにボーナスを与え、有害な効果を自動的に払拭することができる「魔術の王冠」や、近くの龍脈エネルギーを吸収して呪文を唱える際のマナコストを軽減する「龍脈力のブレスレット」、呪文の部品として「マナシールド」や「マナ譲渡」が追加されます。 オキュラスでは、評議会に所属を必要とするものには、以下のようなアイコンが表示されます：",
         "json": [
           {
             "text": "派閥："
@@ -1845,10 +1845,10 @@
             "color": "blue"
           },
           {
-            "text": "、近くのエルドリンエネルギーを吸収して呪文を唱える際のマナコストを軽減する"
+            "text": "、近くの龍脈エネルギーを吸収して呪文を唱える際のマナコストを軽減する"
           },
           {
-            "text": "「エルドリン力のブレスレット」",
+            "text": "「龍脈力のブレスレット」",
             "color": "blue"
           },
           {
@@ -4050,7 +4050,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Weave"
+        "value": "Practitioner's Pouch Patch: マナ織"
       },
       {
         "type": "text",
@@ -4252,17 +4252,17 @@
     "sections": [
       {
         "type": "title",
-        "value": "Metal Ritual Runes"
+        "value": "金属製の儀式ルーン"
       },
       {
         "type": "text",
         "value": "It may be desirable to have certain rituals not remove their ritual runes when completing.  Creating the ritual pattern out of metal ritual runes will achieve this goal.\n\nYou can mix and match metal and non-metal ritual runes together in the same ritual.",
         "json": [
           {
-            "text": "It may be desirable to have certain rituals not remove their ritual runes when completing.\nCreating the ritual pattern out of metal ritual runes will achieve this goal. \n\n"
+            "text": "儀式が完了したとき、儀式のルーンが消失しないほうが便利な場合があります。\n 儀式のパターンを金属のルーンで作成することでこれを達成できます。 \n\n"
           },
           {
-            "text": "I can mix and match metal and non-metal ritual runes together in the same ritual.",
+            "text": "普通のチョークのルーンと金属製のルーンを組み合わせることもできます。",
             "color": "dark_purple"
           }
         ]
@@ -4289,21 +4289,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Aurora"
+        "value": "オーロラの儀式"
       },
       {
         "type": "text",
         "value": "This ritual will turn night into day.  It can only be performed at night or during thunderstorms.",
         "json": [
           {
-            "text": "This ritual will turn "
+            "text": "この儀式は"
           },
           {
-            "text": "night into day",
+            "text": "夜を朝にします",
             "color": "dark_purple"
           },
           {
-            "text": ". It can only be performed at night or during thunderstorms."
+            "text": "。 It can only be performed at night or during thunderstorms."
           }
         ]
       }
@@ -4321,21 +4321,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Odin's Call"
+        "value": "オーディンの呼び声の儀式"
       },
       {
         "type": "text",
         "value": "This ritual challenges a diety of magic, Odin himself.  Be on your guard, this fight is extremely deadly.  The ritual must be performed at a place that can see the sky while a thunderstorm is happening.",
         "json": [
           {
-            "text": "This ritual challenges a diety of magic, "
+            "text": "この儀式は、 "
           },
           {
-            "text": "Odin ",
+            "text": "オーディン",
             "color": "blue"
           },
           {
-            "text": "himself. Be on your guard, this fight is extremely deadly. The ritual must be performed at a place that can see the sky while a thunderstorm is happening."
+            "text": "を決闘に挑戦します。 Be on your guard, this fight is extremely deadly. The ritual must be performed at a place that can see the sky while a thunderstorm is happening."
           }
         ]
       }
@@ -4353,7 +4353,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Locating"
+        "value": "探知の儀式"
       },
       {
         "type": "text",
@@ -4450,7 +4450,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Iron Bell"
+        "value": "鉄の鐘の儀式"
       },
       {
         "type": "text",
@@ -4530,7 +4530,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Alteration"
+        "value": "変更の儀式"
       },
       {
         "type": "text",
@@ -4580,7 +4580,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Eventide"
+        "value": "日没の儀式"
       },
       {
         "type": "text",
@@ -4648,7 +4648,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Earthen Steppes"
+        "value": "大地の足跡の儀式"
       },
       {
         "type": "text",
@@ -4830,7 +4830,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Summoning"
+        "value": "召喚の儀式"
       },
       {
         "type": "text",
@@ -4877,7 +4877,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Visiting"
+        "value": "来訪の儀式"
       },
       {
         "type": "text",
@@ -5152,7 +5152,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Burning Hells"
+        "value": "燃え盛る地獄の儀式"
       },
       {
         "type": "text",
@@ -5237,7 +5237,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Faerie Courts"
+        "value": "妖精の宮廷の儀式"
       },
       {
         "type": "text",
@@ -5308,7 +5308,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Shifting Seasons"
+        "value": "移り変わる季節の儀式"
       },
       {
         "type": "text",
@@ -5364,7 +5364,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Wizard's Council"
+        "value": "魔術師評議会の儀式"
       },
       {
         "type": "text",
@@ -5424,7 +5424,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Cold Dark"
+        "value": "冷暗の儀式"
       },
       {
         "type": "text",
@@ -5540,7 +5540,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Sanctum Invocation"
+        "value": "聖域召喚の儀式"
       },
       {
         "type": "text",
@@ -5619,7 +5619,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Flat Lands"
+        "value": "整地の儀式"
       },
       {
         "type": "text",
@@ -5684,14 +5684,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of Clear Skies"
+        "value": "青天の儀式"
       },
       {
         "type": "text",
         "value": "This ritual allows me to change the weather to be clear blue skies.  Reciting the magic words 'rain, rain, go away, come again another day' does not seem to have any extra effect.",
         "json": [
           {
-            "text": "This ritual allows me to change the weather to be clear blue skies. \n\nReciting the magic words "
+            "text": "この儀式は天候を腫れにします。 \n\nReciting the magic words "
           },
           {
             "text": "rain, rain, go away, come again another day",
@@ -5718,14 +5718,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Monsoon"
+        "value": "モンスーンの儀式"
       },
       {
         "type": "text",
         "value": "I can use this ritual to summon a torrent of rain.  If I add some gray wool to the top of the ritual, it will cause a thunderstorm.  If I leave it out, it will just rain.",
         "json": [
           {
-            "text": "I can use this ritual to summon a torrent of rain. \nIf I add some gray wool to the top of the ritual, it will cause a thunderstorm."
+            "text": "この儀式をすることで雨を降らせることができます。 \n灰色の羊毛を儀式に追加すると、雷雨になります。"
           }
         ]
       }
@@ -5747,7 +5747,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Shadow Soul"
+        "value": "影の魂の儀式"
       },
       {
         "type": "text",
@@ -5881,7 +5881,7 @@
             "text": "。 "
           },
           {
-            "text": "修飾子",
+            "text": "モディファイヤ",
             "color": "dark_purple"
           },
           {
@@ -6298,21 +6298,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Modifying Crafted Spells"
+        "value": "呪文の修正"
       },
       {
         "type": "text",
         "value": "Once a spell is crafted, follow the prompt on the item to open a UI where you can change any modified values that are present on the spell.  You can also perform the Ritual of Alteration once unlocked which can add modifiers to a spell, up to a maximum of 3.  Later on, the Book of Rote can be used to make spells on the fly as you go.",
         "json": [
           {
-            "text": "After I've made a spell, if I have any modifiers on it, I can tinker with the focus a little bit to change those values "
+            "text": "呪文を作成した後、モディファイヤが付いている場合は、すこし集中するだけでこれらの数値を変更できます"
           },
           {
-            "text": "(Hold the GUI modifier key and activate the spell)",
+            "text": "(GUIモディファイヤキーを長押しし、呪文を起動する)",
             "italic": true
           },
           {
-            "text": ".\n\nI can use the Ritual of Alteration to add modifiers to an existing spell.\n\nI should pay attention to how complex I make the spell with these modifiers though, I can only manage so much.  At least, for now."
+            "text": "。\n\n変更の儀式を行うことで、既存の呪文にモディファイヤを追加することもできます。\n\n 自分に合った複雑さの呪文しか作成できないので、注意してください。"
           }
         ]
       }
@@ -6528,11 +6528,11 @@
             "text": "で呪文を作成できます。"
           },
           {
-            "text": "暗記で学んだ修飾子は常に",
+            "text": "暗記で学んだモディファイヤは常に",
             "color": "dark_purple"
           },
           {
-            "text": "暗記の書で利用でき、追加する必要はないです。 暗記は、術式刻印台で作成した呪文よりも多くの部品と修飾子を追加できます。 \n\n暗記の書で呪文を作成する際は、記憶した呪文を示しているだけなので、素材もクラフトも必要ありません。"
+            "text": "暗記の書で利用でき、追加する必要はないです。 暗記は、術式刻印台で作成した呪文よりも多くの部品とモディファイヤを追加できます。 \n\n暗記の書で呪文を作成する際は、記憶した呪文を示しているだけなので、素材もクラフトも必要ありません。"
           },
           {
             "text": "必要になってらいつでも呪文を作成できます。",
@@ -6733,7 +6733,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Wrath"
+        "value": "形: 隕石"
       },
       {
         "type": "text",
@@ -8871,28 +8871,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Crystallize"
+        "value": "結晶化"
       },
       {
         "type": "text",
         "value": "I can use arcane magic and the crystalline matrix of a diamond to bind a creature within.  The more magnitude I put into the spell, the more powerful the creature I can bind.  I imagine I can't bind other wizards or certain exceptionally powerful beings no matter how hard I try.",
         "json": [
           {
-            "text": "I can use arcane magic of to "
+            "text": "魔術を利用することで"
           },
           {
-            "text": "bind a creature within a diamond",
+            "text": "生き物をダイアモンドの結晶の中に閉じ込めます",
             "color": "dark_purple"
           },
           {
-            "text": "'s crystalline matrix. The more magnitude I put into the spell, the more powerful the creature I can bind. \n\nI imagine I can't bind other wizards or certain exceptionally powerful beings no matter how hard I try.\n\nWhen I "
+            "text": "。 呪文の威力が高いほど、より強力な生き物を捕獲できます。 \n\n 他の魔術師や、かなり強力な生物はどう頑張っても捕獲できなさそうだ。\n\n"
           },
           {
-            "text": "release the creature, the diamond is returned",
+            "text": "生き物を解放した場合、ダイアモンドはそのまま帰ってきまて",
             "color": "dark_purple"
           },
           {
-            "text": " to me intact and usable as any other diamond."
+            "text": "他の用途にも利用できます。"
           }
         ]
       }
@@ -8942,7 +8942,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Collapse"
+        "value": "崩壊"
       },
       {
         "type": "text",
@@ -8974,7 +8974,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Drown"
+        "value": "窒息"
       },
       {
         "type": "text",
@@ -9006,7 +9006,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Poison"
+        "value": "毒"
       },
       {
         "type": "text",
@@ -9038,7 +9038,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Cauterize"
+        "value": "焼灼"
       },
       {
         "type": "text",
@@ -9105,7 +9105,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Activate"
+        "value": "起動"
       },
       {
         "type": "text",
@@ -9137,7 +9137,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Bloom"
+        "value": "開花"
       },
       {
         "type": "text",
@@ -9176,7 +9176,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Explosion"
+        "value": "爆破"
       },
       {
         "type": "text",
@@ -9222,7 +9222,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Life Tap"
+        "value": "ライフタップ"
       },
       {
         "type": "text",
@@ -9261,7 +9261,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mana Shield"
+        "value": "マナシールド"
       },
       {
         "type": "text",
@@ -9300,7 +9300,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Flame Cloak"
+        "value": "炎の外套"
       },
       {
         "type": "text",
@@ -9346,7 +9346,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Absorption"
+        "value": "吸収"
       },
       {
         "type": "text",
@@ -9385,7 +9385,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Briarthorn Barrier"
+        "value": "Briarthornのバリア"
       },
       {
         "type": "text",
@@ -9438,7 +9438,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Decoy"
+        "value": "デコイ"
       },
       {
         "type": "text",
@@ -9484,7 +9484,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mana Transfer"
+        "value": "マナ転送"
       },
       {
         "type": "text",
@@ -9523,7 +9523,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Gust"
+        "value": "つむじ風"
       },
       {
         "type": "text",
@@ -9569,7 +9569,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Silence"
+        "value": "沈黙"
       },
       {
         "type": "text",
@@ -9665,7 +9665,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Chrono Anchor"
+        "value": "時の錨"
       },
       {
         "type": "text",
@@ -9704,7 +9704,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Haste"
+        "value": "速度上昇"
       },
       {
         "type": "text",
@@ -9736,7 +9736,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Slow"
+        "value": "鈍足"
       },
       {
         "type": "text",
@@ -9768,7 +9768,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Strength"
+        "value": "攻撃力増加"
       },
       {
         "type": "text",
@@ -9800,7 +9800,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Weakness"
+        "value": "弱体化"
       },
       {
         "type": "text",
@@ -9832,7 +9832,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Swift Swim"
+        "value": "水泳速度上昇"
       },
       {
         "type": "text",
@@ -9896,7 +9896,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Blind"
+        "value": "盲目"
       },
       {
         "type": "text",
@@ -9928,7 +9928,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Night Vision"
+        "value": "夜眼"
       },
       {
         "type": "text",
@@ -9974,7 +9974,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Light"
+        "value": "ライト"
       },
       {
         "type": "text",
@@ -10006,7 +10006,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Invisibility"
+        "value": "透明化"
       },
       {
         "type": "text",
@@ -10038,7 +10038,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shield"
+        "value": "シールド"
       },
       {
         "type": "text",
@@ -10077,7 +10077,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Heal"
+        "value": "回復"
       },
       {
         "type": "text",
@@ -10123,7 +10123,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Blink"
+        "value": "短距離転移"
       },
       {
         "type": "text",
@@ -10155,7 +10155,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Transplace"
+        "value": "位置交換"
       },
       {
         "type": "text",
@@ -10175,7 +10175,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Transmute"
+        "value": "変異"
       },
       {
         "type": "text",
@@ -10195,7 +10195,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Damage"
+        "value": "ダメージ"
       },
       {
         "type": "text",
@@ -10215,7 +10215,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Radius"
+        "value": "半径"
       },
       {
         "type": "text",
@@ -10235,7 +10235,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Speed"
+        "value": "速度"
       },
       {
         "type": "text",
@@ -10255,7 +10255,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Magnitude"
+        "value": "規模"
       },
       {
         "type": "text",
@@ -10284,7 +10284,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Lesser Magnitude"
+        "value": "低規模"
       },
       {
         "type": "text",
@@ -10304,7 +10304,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Duration"
+        "value": "持続時間"
       },
       {
         "type": "text",
@@ -10324,7 +10324,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Delay"
+        "value": "遅延"
       },
       {
         "type": "text",
@@ -10344,7 +10344,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Range"
+        "value": "接触距離"
       },
       {
         "type": "text",
@@ -11559,73 +11559,76 @@
     "sections": [
       {
         "type": "title",
-        "value": "Recharging Items"
+        "value": "アイテムのマナを充填する"
       },
       {
         "type": "text",
         "value": "Some of the items that I make have an internal charge, such as the Amulet of Warding or the Ring of Silk.  These items will lose charge whenever they perform their effect.  They will automatically pull mana from Mana Crystal Fragments in your inventory to help them last longer.  When their charge finally runs out, some of them can be recharged by holding them in your hand and holding right click to channel mana into them.  Not all items can be recharged in this manner though.  Their tooltip will indicate which methods they allow.\n\nAll chargeable items can also be recharged by a mechanic called Pedestal Charging.  To do this, simply craft a Mana Crystal and a Pedestal, and place them within 8 blocks of each other.  Place the item on the pedestal and the crystal will charge it up over time.  A single crystal can charge multiple items.",
         "json": [
+          
           {
-            "text": "Some of the items that I make have an "
+            "text": "結界のアミュレット",
+            "color": "blue"
           },
           {
-            "text": "internal charge",
+            "text": "や"
+          },
+          {
+            "text": "シルクの指輪",
+            "color": "blue"
+          },
+          {
+            "text": "のように、"
+          },
+          {
+            "text": "作成するアイテムのいくつかは、"
+          },
+          
+          {
+            "text": "マナを貯蔵",
             "color": "dark_purple"
           },
+          
           {
-            "text": ", such as the "
+            "text": "しています。 これらのアイテムは、使用されるたびに貯蔵マナを消費します。\n\n これらは、長持ちさせるために自動で"
           },
           {
-            "text": "Amulet of Warding",
+            "text": "マナクリスタルの欠片",
             "color": "blue"
           },
           {
-            "text": " or the "
+            "text": "からマナを吸収します。 \n\n 貯蔵マナが切れた場合、いくつかのは手に持って右クリックを長押しすることでマナを充填できます。 全てのアイテムがこの方法で充填できるわけではありません。"
           },
           {
-            "text": "Ring of Silk",
-            "color": "blue"
-          },
-          {
-            "text": ". These items will lose charge whenever they perform their effect. \n\nThey will automatically pull mana from "
-          },
-          {
-            "text": "Mana Crystal Fragments",
-            "color": "blue"
-          },
-          {
-            "text": " in your inventory to help them last longer. \n\nWhen their charge finally runs out, some of them can be recharged by holding them in your hand and holding right click to channel mana into them. Not all items can be recharged in this manner though. "
-          },
-          {
-            "text": "Their tooltip will indicate which methods they allow.",
+            "text": "そのアイテムのツールチップが、対応している方法を表します。",
             "italic": true
           },
           {
-            "text": " \n\nAll chargeable items can also be recharged by a mechanic called "
+            "text": " \n\n充填できるアイテムは、すべて"
           },
           {
-            "text": "Pedestal Charging",
+            "text": "ペデスタルチャージング",
             "color": "blue"
           },
           {
-            "text": ". To do this, simply craft a "
+            "text": "という方法で充填できます。これをするには、 まず "
           },
           {
-            "text": "Mana Crystal",
+            "text": "マナクリスタル",
             "color": "blue"
           },
           {
-            "text": " and a "
+            "text": "と"
           },
           {
-            "text": "Pedestal",
+            "text": "ペデスタル",
             "color": "blue"
           },
           {
-            "text": ", and place them within 8 blocks of each other. Place the item on the pedestal and the crystal will charge it up over time. \n\n"
+            "text": "を作成し、互いに８ブロック以内に設置してください。 ペデスタルにアイテムを置くことで、時間経過でマナを装填します。 \n\n"
           },
           {
-            "text": "A single crystal can charge multiple items on different pedestals within range at once.",
+            "text": "クリスタル一つで、別々のペデスタルに置いてあるアイテムを複数装填できます。",
             "color": "dark_purple"
           }
         ]
@@ -11770,31 +11773,31 @@
     "sections": [
       {
         "type": "title",
-        "value": "Feather Charms"
+        "value": "羽根の御守り"
       },
       {
         "type": "text",
         "value": "Feather charms are simple single-use items that perform powerful, often protective effects.  They are all about preparation in advance.  Many a wizard has been saved by their use.  Most feather charms activate automatically under certain conditions (though some must be manually activated such as the Enderfeather Charm).  They can be equipped into the charm slot in the curio inventory, or be in your inventory / hotbar.  Any of these slots are valid.",
         "json": [
           {
-            "text": "Feather charms are simple single-use items that perform powerful, often protective effects. They are all about preparation in advance. Many a wizard has been saved by their use. Most feather charms activate automatically under certain conditions (though some must be manually activated such as the "
+            "text": "羽根の御守りは、単純で使い捨ての、防御の効果をもつ強力なアイテムです。すべてはあらかじめの準備です。数々の魔術師がこれによって命を救われました。ほとんどの羽根の御守りは、特定の条件で起動します("
           },
           {
-            "text": "Enderfeather Charm",
+            "text": "エンダー羽根の御守り",
             "color": "blue"
           },
           {
-            "text": "). "
+            "text": "のように手動で起動するものもあります)。 "
           },
           {
-            "text": "They can be equipped into the charm slot in the curio inventory, or be in your inventory / hotbar. Any of these slots are valid.",
+            "text": "curioのスロットに装備するか、インベントリかホットバーに入っていれば機能します。",
             "italic": true
           }
         ]
       },
       {
         "type": "title",
-        "value": "Enderfeather Charm",
+        "value": "エンダー羽根の御守り",
         "newPage": true
       },
       {
@@ -11807,27 +11810,27 @@
         "value": "The Enderfeather Charm is a single use item that, while expensive, will return me to my bed (or equivalent) regardless of distance as long as I'm in the same dimension.  I'm sure there are less expensive means of achieving a similar effect as I grow my abilities.",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Enderfeather Charm",
+            "text": "エンダー羽根の御守り",
             "color": "blue"
           },
           {
-            "text": " is a single use item that, while expensive, will "
+            "text": "は、同じディディメンションにいる限り距離に関係なく"
           },
           {
-            "text": "return me to my bed",
+            "text": "ベッドにテレポート",
             "color": "dark_purple"
           },
           {
-            "text": " (or equivalent) regardless of distance as long as I'm in the same dimension. \n\nI'm sure there are less expensive means of achieving a similar effect as I grow my abilities."
+            "text": " (or equivalent) してくれる使い捨てのアイテムです。 \n\n 探求を進めることで、より少ないコストで同じような効果を持つアイテムを作成できるはずです。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Coalfeather Charm",
+        "value": "石炭羽根の御守り",
         "newPage": true
       },
       {
@@ -11840,34 +11843,34 @@
         "value": "The Coalfeather Charm is a single use item that will extinguish me if I am on fire and solidify lava around me.",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Coalfeather Charm",
+            "text": "石炭羽根の御守り",
             "color": "blue"
           },
           {
-            "text": " is a single use item that will "
+            "text": "は、"
           },
           {
-            "text": "extinguish me if I am on fire",
+            "text": "所有者が燃えている場合に鎮火",
             "color": "dark_purple"
           },
           {
-            "text": " and "
+            "text": "し、"
           },
           {
-            "text": "solidify lava around me",
+            "text": "周囲の溶岩を固めてくれる",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "、使い捨てのアイテムです。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Reedfeather Charm",
+        "value": "葦羽根の御守り",
         "newPage": true
       },
       {
@@ -11880,27 +11883,27 @@
         "value": "The Reedfeather Charm is a single use item that will refill my breath if I start to drown.",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Reedfeather Charm",
+            "text": "葦羽根の御守り",
             "color": "blue"
           },
           {
-            "text": " is a single use item that will "
+            "text": "は、窒息し始めた時に"
           },
           {
-            "text": "refill my breath",
+            "text": "空気を補充してくれる",
             "color": "dark_purple"
           },
           {
-            "text": " if I start to drown."
+            "text": "使い捨てのアイテムです。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Bonefeather Charm",
+        "value": "骨羽根のお守り",
         "newPage": true
       },
       {
@@ -11913,21 +11916,21 @@
         "value": "The Bonefeather Charm is a single use item that will automatically protect me from lethal fall damage.  If a fall would not be lethal, the charm will do nothing.  I'm sure there are less expensive means of achieving a similar effect as I grow my abilities.",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Bonefeather Charm",
+            "text": "骨羽根のお守り",
             "color": "dark_purple"
           },
           {
-            "text": " is a single use item that will automatically "
+            "text": "は、自動で一度だけ"
           },
           {
-            "text": "protect me from lethal fall damage",
+            "text": "即死する落下ダメージから守ってくれます",
             "color": "dark_purple"
           },
           {
-            "text": ". If a fall would not be lethal, the charm will do nothing. \n\nI'm sure there are less expensive means of achieving a similar effect as I grow my abilities."
+            "text": "。落下で死亡しない場合、この御守りは発動しません。\n\n探求を進めることで、より少ないコストで同じような効果を持つアイテムを作成できるはずです。"
           }
         ]
       }
@@ -12702,7 +12705,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "エンチャント除去機"
+        "value": "エンチャント除去台"
       },
       {
         "type": "text",
@@ -12719,7 +12722,7 @@
             "text": "と"
           },
           {
-            "text": "風のエルドリンの力",
+            "text": "風の龍脈の力",
             "color": "blue"
           },
           {
@@ -12814,7 +12817,7 @@
             "text": "のアクティブな呪文が利用され、呪文に使用されている一番大きい親和性の"
           },
           {
-            "text": "エルドリンの力",
+            "text": "龍脈の力",
             "color": "blue"
           },
           {
@@ -12955,28 +12958,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "エルドリン煙フィルター"
+        "value": "龍脈煙フィルター"
       },
       {
         "type": "text",
         "value": "Eldrin Fume Filters allow me to burn standard furnace burnables through a mote to generate a small trickle of Eldrin Power.  The Eldrin Power will feed directly into my reserves and does not need to be captured by external apparatus.\n\nThe mote, once any smoke has gone through it, binds to the fume screen and renders it unusable in any other circumstance.  The trade-off is that a mote will burn for a very long time before needing to be replaced.\n\nInterestingly, breaking the fume or using a different kind of mote will disperse any residual traces of a mote used prior, resulting in its loss.",
         "json": [
           {
-            "text": "エルドリン煙フィルター",
+            "text": "龍脈煙フィルター",
             "color": "blue"
           },
           {
             "text": "は、"
           },
           {
-            "text": "雫や属性の小袋を燃やして、少量のエルドリンパワーを生成できます",
+            "text": "雫や属性の小袋を燃やして、少量の龍脈パワーを生成できます",
             "color": "dark_purple"
           },
           {
-            "text": "。 かまどで燃料として使用できる物は燃料に使えるはずです。\n\n生成したエルドリン力は、直に自分に吸収されます。しかし、 "
+            "text": "。 かまどで燃料として使用できる物は燃料に使えるはずです。\n\n生成した龍脈力は、直に自分に吸収されます。しかし、 "
           },
           {
-            "text": "この煙フィルターは直接他の装置にエルドリン力を供給しません",
+            "text": "この煙フィルターは直接他の装置に龍脈力を供給しません",
             "color": "dark_purple"
           },
           {
@@ -13055,7 +13058,7 @@
             "text": "は、ある程度の"
           },
           {
-            "text": "エルドリンの力",
+            "text": "龍脈の力",
             "color": "blue"
           },
           {
@@ -13073,7 +13076,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "します。 \n\n  使用するエルドリンの力は、変更しようとしている属性のものになります。雷の場合は火、氷の場合水を要求します。 \n\n これをすることで、自分の親和性によるメリットを最大限に利用することができます。 一度処理が始まったのちでもいつでも呪文を取り除けますが、進捗がリセットされるため注意が必要です。 \n\n 処理が完了するまで呪文を台から取り除かないのが最善です。"
+            "text": "します。 \n\n  使用する龍脈の力は、変更しようとしている属性のものになります。雷の場合は火、氷の場合水を要求します。 \n\n これをすることで、自分の親和性によるメリットを最大限に利用することができます。 一度処理が始まったのちでもいつでも呪文を取り除けますが、進捗がリセットされるため注意が必要です。 \n\n 処理が完了するまで呪文を台から取り除かないのが最善です。"
           }
         ]
       }
@@ -14039,24 +14042,24 @@
     "sections": [
       {
         "type": "title",
-        "value": "Warding Amulet"
+        "value": "結界のアミュレット"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This amulet, when worn, will "
+            "text": "このアミュレットは、"
           },
           {
-            "text": "reduce magic damage I take by 20%.",
+            "text": "受ける魔法ダメージを20%低下します。",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nIt also makes "
+            "text": "\n\nさらに "
           },
           {
-            "text": "bound shield cost no mana to maintain.",
+            "text": "魔法の盾の維持コストがなくなります。",
             "color": "dark_purple"
           }
         ]
@@ -14075,28 +14078,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Tome of Recipes"
+        "value": "レシピの書"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This tome will allow me to copy any re-craft recipe from a "
+            "text": "この本は、"
           },
           {
-            "text": "Manaweaving Altar",
+            "text": "マナ織の祭壇",
             "color": "blue"
           },
           {
-            "text": " or an "
+            "text": "か、"
           },
           {
-            "text": "Eldrin Altar",
+            "text": "龍脈の祭壇",
             "color": "blue"
           },
           {
-            "text": ".  Using the book again on the correct altar will restore the recipe and attempt to immediately craft the item."
+            "text": "のレシピを保存して再度クラフトすることができます。  Using the book again on the correct altar will restore the recipe and attempt to immediately craft the item."
           },
           {
             "text": "Sneak and right click to change modes from copy to paste.  Changing the slot via the UI will change the mode automatically; copy if you select an empty slot, paste if you select a recipe.",
@@ -14288,24 +14291,24 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ring of Silk"
+        "value": "シルクの指輪"
       },
       {
         "type": "text",
         "value": "This ring, when worn, will enhance my break spells to be more delicate, allowing me to harvest things I wouldn't normally be able to otherwise.",
         "json": [
           {
-            "text": "This ring, when worn, will enhance my "
+            "text": "この指輪は、装備しているときに"
           },
           {
-            "text": "break",
+            "text": "破壊",
             "color": "blue"
           },
           {
-            "text": " spells to be more delicate, "
+            "text": "呪文をもっと繊細にし、"
           },
           {
-            "text": "allowing me to harvest things I wouldn't normally be able to otherwise.",
+            "text": "いままで入手できなかったアイテムも入手できるようになります。",
             "color": "dark_purple"
           }
         ]
@@ -14324,21 +14327,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rings of Fortune"
+        "value": "幸運の指輪"
       },
       {
         "type": "text",
         "value": "These rings will enhance my luck at finding treasure when mining.  My break spell will result in more treasures than it would otherwise.\n\nI'm sure as I grow in skill and power that I will be able to make more powerful versions of these rings.  I should check back later.",
         "json": [
           {
-            "text": "These rings will enhance my luck at finding treasure when mining. My "
+            "text": "この指輪は、採掘時の運を上昇させます。自分の"
           },
           {
-            "text": "break",
+            "text": "破壊",
             "color": "blue"
           },
           {
-            "text": " spell will result in more treasures than it would otherwise. I'm sure as I grow in skill and power that I will be able to make more powerful versions of these rings and possibly even enchant them for a more powerful overall fortune effect. \n\nI should check back when I've grown in power."
+            "text": "呪文は、さらに多くの素材を手に入れるようになります。 I'm sure as I grow in skill and power that I will be able to make more powerful versions of these rings and possibly even enchant them for a more powerful overall fortune effect. \n\nI should check back when I've grown in power."
           }
         ]
       }
@@ -14364,31 +14367,31 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rings of Breaking"
+        "value": "破壊の指輪"
       },
       {
         "type": "text",
         "value": "These rings will enhance the power of my break spell in lieu of magnitude.  My break spell will be able to break harder blocks than it would otherwise.",
         "json": [
           {
-            "text": "These rings will enhance the power of my "
+            "text": "この指輪は、"
           },
           {
-            "text": "break",
+            "text": "破壊",
             "color": "blue"
           },
           {
-            "text": " spell in lieu of "
+            "text": "呪文の"
           },
           {
-            "text": "magnitude",
+            "text": "規模",
             "color": "blue"
           },
           {
-            "text": ". My break spell will be able to"
+            "text": "を上昇します。自分の破壊呪文は"
           },
           {
-            "text": " break harder blocks than it would otherwise.",
+            "text": "より硬いものでも壊せるようになります。",
             "color": "dark_purple"
           }
         ]
@@ -14692,7 +14695,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ledger"
+        "value": "アイテムフィルター"
       },
       {
         "type": "text",
@@ -15352,7 +15355,7 @@
             "text": "The primary choice for village golem material, "
           },
           {
-            "text": "iron",
+            "text": "鉄製",
             "color": "blue"
           },
           {
@@ -15398,7 +15401,7 @@
         "value": "Gold constructs are very similar to iron constructs, with a little more knockback resistance at the expense of health. Gold constructs unlock at Tier 3.  Gold Constructs tend to specialize in spell casting tasks.",
         "json": [
           {
-            "text": "Gold ",
+            "text": "金製 ",
             "color": "blue"
           },
           {
@@ -15444,7 +15447,7 @@
         "value": "Obsidian constructs are fragile but deal extreme amounts of damage, higher than any other material.  However they sink extremely quickly.  Obsidian constructs unlock at Tier 4.  Obsidian constructs tend to act in a striker role.",
         "json": [
           {
-            "text": "Obsidian ",
+            "text": "黒曜石製 ",
             "color": "blue"
           },
           {
@@ -15504,7 +15507,7 @@
         "value": "Diamond constructs are very resilient and not overly heavy in terms of buoyancy.  They're quicker too, but offer no knockback resistance. Diamond constructs unlock at Tier 5.  Diamond constructs are a jack-of-all-trades, excelling at almost any task though not necessarily the best at every task.",
         "json": [
           {
-            "text": "Diamond ",
+            "text": "ダイアモンド製 ",
             "color": "blue"
           },
           {
@@ -15615,28 +15618,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Magic Brooms"
+        "value": "魔法の箒"
       },
       {
         "type": "text",
         "value": "The magic broom has been enchanted to collect all dropped items within a radius of the container it is placed on and return them to said container.  It's such a helpful construct.  I wonder if there are others I can build?  I'm sure I can make a more powerful version of this broom once I've gained some more knowledge.  I should check back later.\n\nI can collect the broom again if I sneak up on it and grab it (right click).",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Magic Broom",
+            "text": "魔法の箒は、範囲内にある場合",
             "color": "blue"
           },
           {
-            "text": " has been enchanted to "
-          },
-          {
-            "text": "collect dropped items",
+            "text": "落としたアイテムを拾う",
             "color": "dark_purple"
           },
           {
-            "text": " within a radius of the container it is placed on and return them to said container. It's such a helpful construct. \n\nI wonder if there are others I can build? I'm sure I can make a more powerful version of this broom once I've gained some more knowledge. I should check back later. \n\nI can collect the broom again if I sneak up on it and grab it "
+            "text": " ようにエンチャントされており、"
+          },
+          {
+            "text": "設置された容器に戻します。便利なコンストラクトです。 \n\nI wonder if there are others I can build? I'm sure I can make a more powerful version of this broom once I've gained some more knowledge. I should check back later. \n\nI can collect the broom again if I sneak up on it and grab it "
           },
           {
             "text": "(right click)",
@@ -19782,7 +19785,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "エルドリン力"
+        "value": "龍脈力"
       },
       {
         "type": "text",
@@ -19806,14 +19809,14 @@
             "text": "です。この六つの力は"
           },
           {
-            "text": "エルドリンの力",
+            "text": "龍脈の力",
             "color": "blue"
           },
           {
             "text": "と呼ばれています。\n\n"
           },
           {
-            "text": "エルドリンの力",
+            "text": "龍脈の力",
             "color": "blue"
           },
           {
@@ -19841,7 +19844,7 @@
             "text": "のような魔法のラボの道具に使用できます。一度入手した"
           },
           {
-            "text": "エルドリン力",
+            "text": "龍脈の力",
             "color": "blue"
           },
           {
@@ -19855,14 +19858,14 @@
             "text": "で確認できます。\n\n序盤は、ほんの少しの"
           },
           {
-            "text": "エルドリン力",
+            "text": "龍脈の力",
             "color": "blue"
           },
           {
             "text": "を"
           },
           {
-            "text": "エルドリン煙フィルター",
+            "text": "龍脈煙フィルター",
             "color": "blue"
           },
           {
@@ -19876,11 +19879,11 @@
             "text": "を燃やすことでしか入手できません。生成は遅いが安定していて、消費するアイテムを必要とします。\n\nティアが高くなると、特定の属性の魔法のエネルギーがかなり高い"
           },
           {
-            "text": "エルドリンの源泉",
+            "text": "龍穴",
             "color": "blue"
           },
           {
-            "text": "を見ることができるようになります。これらの源泉を確保することで、受動的に安定してエルドリンの力を得られます。"
+            "text": "を見ることができるようになります。これらの龍穴を確保することで、受動的に安定して龍脈の力を得られます。"
           }
         ]
       }
@@ -19922,7 +19925,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "エルドリンの源泉"
+        "value": "龍脈の龍穴"
       },
       {
         "type": "text",
@@ -19932,28 +19935,28 @@
             "text": "この世界には、エネルギーが一点に集中したネットワークが、散らばって存在しています。これらの地点は"
           },
           {
-            "text": "エルドリンの源泉",
+            "text": "龍穴",
             "color": "blue"
           },
           {
-            "text": "と呼ばれています。ほとんどの源泉は属性を持っており、力の強さも様々です。\n\n かなりレアな種類の源泉として、白いビームと青い螺旋がある、"
+            "text": "と呼ばれています。ほとんどの龍穴は属性を持っており、力の強さも様々です。\n\n かなりレアな種類の龍穴として、白いビームと青い螺旋がある、"
           },
           {
             "text": "無属性",
             "color": "dark_purple"
           },
           {
-            "text": "があります。このレアな源泉は、"
+            "text": "があります。このレアな龍穴は、"
           },
           {
             "text": "捕獲に最初に利用された種類のレンズの属性に永続的に変化します",
             "color": "dark_purple"
           },
           {
-            "text": "。\n\n 源泉は、"
+            "text": "。\n\n 龍穴は、"
           },
           {
-            "text": "源泉視力上昇剤",
+            "text": "龍穴視力上昇剤",
             "color": "blue"
           },
           {
@@ -19967,11 +19970,11 @@
             "text": "が作成できる"
           },
           {
-            "text": "エルドリン視力上昇剤",
+            "text": "龍脈視力上昇剤",
             "color": "blue"
           },
           {
-            "text": ") を使用しているか、捕獲されていない限り目に見えません。 場所が分かれば、源泉が目に見えなくても捕獲することができます。 \n\n"
+            "text": ") を使用しているか、捕獲されていない限り目に見えません。 場所が分かれば、龍穴が目に見えなくても捕獲することができます。 \n\n"
           },
           {
             "text": "魔術師評議会",
@@ -19981,18 +19984,18 @@
             "text": "と同盟を組んだ人は、"
           },
           {
-            "text": "エルドリン飛行",
+            "text": "龍脈飛行",
             "color": "blue"
           },
           {
-            "text": "で近くの源泉に素早く移動でき、 そして"
+            "text": "で近くの龍穴に素早く移動でき、 そして"
           },
           {
-            "text": "エルドリンのブレスレット",
+            "text": "龍脈のブレスレット",
             "color": "blue"
           },
           {
-            "text": " を利用することで、源泉の近くにいる場合に力を吸収することで、呪文のマナコストを軽減できます。 しかし、すべての派閥は、エルドリンの力をクラフトに利用できます。"
+            "text": " を利用することで、龍穴の近くにいる場合に力を吸収することで、呪文のマナコストを軽減できます。 しかし、すべての派閥は、龍脈の力をクラフトに利用できます。"
           }
         ]
       }
@@ -20026,11 +20029,11 @@
     "sections": [
       {
         "type": "title",
-        "value": "源泉探し"
+        "value": "龍穴探し"
       },
       {
         "type": "text",
-        "value": "派閥によって、源泉を探す異なる手段があります。",
+        "value": "派閥によって、龍穴を探す異なる手段があります。",
         "json": [
           {
             "text": ""
@@ -20040,13 +20043,13 @@
             "color": "blue"
           },
           {
-            "text": "によって、源泉を探す異なる手段があります。"
+            "text": "によって、龍穴を探す異なる手段があります。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "エルドリン視力上昇剤",
+        "value": "龍脈視力上昇剤",
         "newPage": true
       },
       {
@@ -20062,18 +20065,18 @@
             "text": ""
           },
           {
-            "text": "エルドリン視力上昇剤",
+            "text": "龍脈視力上昇剤",
             "color": "blue"
           },
           {
             "text": "の薬は目の上に加えることで、短い時間の間自分の近くの魔法のオーラが見えるようになります。例："
           },
           {
-            "text": "近くの源泉が見えるようになります",
+            "text": "近くの龍穴が見えるようになります",
             "color": "dark_purple"
           },
           {
-            "text": "。さらに、他の魔術が設置した幻を見破るのを助けます。\n\nエルドリン視力上昇剤を作成するには、"
+            "text": "。さらに、他の魔術が設置した幻を見破るのを助けます。\n\n龍脈視力上昇剤を作成するには、"
           },
           {
             "text": "魔術師評議会",
@@ -20086,7 +20089,7 @@
       },
       {
         "type": "title",
-        "value": "源泉視の薬剤",
+        "value": "龍穴視の薬剤",
         "newPage": true
       },
       {
@@ -20102,25 +20105,25 @@
             "text": ""
           },
           {
-            "text": "源泉視力上昇剤",
+            "text": "龍穴視力上昇剤",
             "color": "blue"
           },
           {
             "text": "は、"
           },
           {
-            "text": "エルドリン視力上昇剤",
+            "text": "龍脈視力上昇剤",
             "color": "blue"
           },
           {
             "text": "の下位互換で、同じように使用された場合に"
           },
           {
-            "text": "源泉が見えるようになります",
+            "text": "龍穴が見えるようになります",
             "color": "dark_purple"
           },
           {
-            "text": "が、他の利益はありません。その代わり、持続時間が長いので源泉を探すという点に関しては優れています。"
+            "text": "が、他の利益はありません。その代わり、持続時間が長いので龍穴を探すという点に関しては優れています。"
           }
         ]
       },
@@ -20148,11 +20151,11 @@
             "text": " と同盟を組んでいない限り(そして"
           },
           {
-            "text": "エルドリン飛行",
+            "text": "龍脈飛行",
             "color": "blue"
           },
           {
-            "text": "を利用する許可を得ていない限り)、他の魔術師はもっとありふれた方法で源泉を見つける必要があります。\n\n そこで"
+            "text": "を利用する許可を得ていない限り)、他の魔術師はもっとありふれた方法で龍穴を見つける必要があります。\n\n そこで"
           },
           {
             "text": "ダウジングロッド",
@@ -20170,7 +20173,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "すこしずつ視点を源泉に向かせます"
+            "text": "すこしずつ視点を龍穴に向かせます"
           },
           {
             "text": "。\n\n 杖を機能させるのに少量のマナが必要ですが、そこまで多く感じないはずです。"
@@ -20179,7 +20182,7 @@
       },
       {
         "type": "title",
-        "value": "特定の源泉探し",
+        "value": "特定の龍穴探し",
         "newPage": true
       },
       {
@@ -20187,18 +20190,18 @@
         "value": "As stated before, wellsprings have affinities, and these affinities are obtained from the biome that the wellspring is in.  It's technically possible to find any wellspring anywhere, however I'm most likely to find wellsprings for each affinity in the following types of places:",
         "json": [
           {
-            "text": "源泉は属性があり",
+            "text": "龍穴は属性があり",
             "color": "blue"
           },
           {
-            "text": "、これはほとんどの場合源泉の周囲の環境によりものです。 \n\n"
+            "text": "、これはほとんどの場合龍穴の周囲の環境によりものです。 \n\n"
           },
           {
-            "text": "どの属性の源泉もどこでも見つけることは可能ですが",
+            "text": "どの属性の龍穴もどこでも見つけることは可能ですが",
             "color": "dark_purple"
           },
           {
-            "text": "が、以下のバイオームで、特定の源泉が見つかりやすいです:\n\n"
+            "text": "が、以下のバイオームで、特定の龍穴が見つかりやすいです:\n\n"
           },
           {
             "text": "魔法",
@@ -20243,7 +20246,7 @@
             "text": ": 沼地、キノコ島、そして虚無が強い場所で見つかります。\n\n"
           },
           {
-            "text": "( もし設定でgeneric wellspring が有効になっている場合は関係なく、すべての源泉が",
+            "text": "( もし設定でgeneric wellspring が有効になっている場合は関係なく、すべての龍穴が",
             "italic": true
           },
           {
@@ -20280,7 +20283,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "エルドリン源泉の確保"
+        "value": "龍穴の確保"
       },
       {
         "type": "text",
@@ -20290,7 +20293,7 @@
             "text": ""
           },
           {
-            "text": "エルドリン源泉",
+            "text": "龍穴",
             "color": "blue"
           },
           {
@@ -20304,21 +20307,21 @@
             "text": "\n\nキメライトの砂岩もしくはキメライトの石で"
           },
           {
-            "text": "源泉プリズム",
+            "text": "龍穴プリズム",
             "color": "blue"
           },
           {
             "text": "が作成できます。"
           },
           {
-            "text": "中心が源泉になるように設置する",
+            "text": "中心が龍穴になるように設置する",
             "color": "dark_purple"
           },
           {
             "text": "事が重要で、そして"
           },
           {
-            "text": "源泉の種類にあったレンズ",
+            "text": "龍穴の種類にあったレンズ",
             "color": "dark_purple"
           },
           {
@@ -20359,7 +20362,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "エルドリンパワーの供給"
+        "value": "龍脈の力の供給"
       },
       {
         "type": "text",
@@ -20369,14 +20372,14 @@
             "text": "一度"
           },
           {
-            "text": "エルドリンの力",
+            "text": "龍脈の力",
             "color": "blue"
           },
           {
-            "text": "を源泉を捕獲するか、エルドリン煙フィルターで得たのち、"
+            "text": "を龍穴を捕獲するか、龍脈煙フィルターで得たのち、"
           },
           {
-            "text": "エルドリン導管を利用することで装置にエネルギーを供給",
+            "text": "龍脈導管を利用することで装置にエネルギーを供給",
             "color": "dark_purple"
           },
           {
@@ -20390,7 +20393,7 @@
             "color": "dark_purple"
           },
           {
-          	"text": "、どれだけ遠くに共有できるか、そしてどれだけ早く内部容量にエルドリンの力を転送するかを決めます。需要を満たせない場合、導管はオーバーヒートすることがあります。これは導管を破壊しませんが、供給しているのを遅くします。導管はレッドストーンシグナルを与えることで、オフにすることもできます。"
+          	"text": "、どれだけ遠くに共有できるか、そしてどれだけ早く内部容量に龍脈の力を転送するかを決めます。需要を満たせない場合、導管はオーバーヒートすることがあります。これは導管を破壊しませんが、供給しているのを遅くします。導管はレッドストーンシグナルを与えることで、オフにすることもできます。"
           },
           {
           	"text": "\n\n オーバーヒートは視覚的に判断でき、さらに、起動することで誰が導管を使用するか変更できます。"
@@ -20430,7 +20433,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "エルドリンの祭壇"
+        "value": "龍脈の祭壇"
       },
       {
         "type": "text",
@@ -20440,14 +20443,14 @@
             "text": ""
           },
           {
-            "text": "エルドリンの祭壇",
+            "text": "龍脈の祭壇",
             "color": "blue"
           },
           {
             "text": "は、過去の伝説に記されている、最上位の魔道具を作成できます。 まず、祭壇を作成し、それをペデスタルで囲みます。\n\nその後、"
           },
           {
-            "text": "エルドリン導管",
+            "text": "龍脈導管",
             "color": "blue"
           },
           {
@@ -20853,7 +20856,7 @@
             "text": "ようやく"
           },
           {
-            "text": "エルドリン源泉",
+            "text": "龍穴",
             "color": "blue"
           },
           {
@@ -21098,7 +21101,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Beheading"
+        "value": "断頭"
       },
       {
         "type": "text",
@@ -21149,7 +21152,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Telekinetic Retrieval"
+        "value": "念力回収"
       },
       {
         "type": "text",
@@ -21191,7 +21194,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Bouncy"
+        "value": "弾性"
       },
       {
         "type": "text",
@@ -21292,7 +21295,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Gilded"
+        "value": "金張り"
       },
       {
         "type": "text",
@@ -21323,7 +21326,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Fireproof"
+        "value": "耐火"
       },
       {
         "type": "text",
@@ -21333,11 +21336,11 @@
             "text": "This enchantment will "
           },
           {
-            "text": "prevent the enchanted item from burning when thrown into lava or fire",
+            "text": "溶岩や炎でアイテムが燃えるのを防ぎます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIt won't however, make it float in lava. This enchantment also only protects the item from burning up; it won't protect the wearer, nor will it protect from wear and tear damage done while being worn."
+            "text": "。 \n\nIt won't however, make it float in lava. This enchantment also only protects the item from burning up; it won't protect the wearer, nor will it protect from wear and tear damage done while being worn."
           }
         ]
       }
@@ -21354,7 +21357,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Artificer's Aura"
+        "value": "整備士のオーラ"
       },
       {
         "type": "text",
@@ -21385,7 +21388,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Aura of the Bulwark"
+        "value": "Bulwarkのオーラ"
       },
       {
         "type": "text",
@@ -21424,7 +21427,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Aura of Healing"
+        "value": "回復のオーラ"
       },
       {
         "type": "text",
@@ -21455,7 +21458,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Aura of the Pilgrim"
+        "value": "ピルグリムのオーラ"
       },
       {
         "type": "text",
@@ -21493,7 +21496,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Aura of Jumping"
+        "value": "跳躍のオーラ"
       },
       {
         "type": "text",
@@ -21528,7 +21531,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Aura of Mining"
+        "value": "採掘のオーラ"
       },
       {
         "type": "text",
@@ -21559,7 +21562,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Aura of Running"
+        "value": "走行のオーラ"
       },
       {
         "type": "text",
@@ -21590,7 +21593,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Aura of the Depths"
+        "value": "深海のオーラ"
       },
       {
         "type": "text",
@@ -21621,7 +21624,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Aqua Affinity"
+        "value": "水中採掘"
       },
       {
         "type": "text",
@@ -21659,7 +21662,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Bane of Arthropods"
+        "value": "虫特攻"
       },
       {
         "type": "text",
@@ -21706,7 +21709,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Binding Curse"
+        "value": "束縛の呪い"
       },
       {
         "type": "text",
@@ -21737,7 +21740,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Vanishing Curse"
+        "value": "消滅の呪い"
       },
       {
         "type": "text",
@@ -21768,7 +21771,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Blast Protection"
+        "value": "爆破耐性"
       },
       {
         "type": "text",
@@ -21811,7 +21814,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Channeling"
+        "value": "招雷"
       },
       {
         "type": "text",
@@ -21856,7 +21859,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Depth Strider"
+        "value": "水中歩行"
       },
       {
         "type": "text",
@@ -21895,7 +21898,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Efficiency"
+        "value": "効率強化"
       },
       {
         "type": "text",
@@ -21956,7 +21959,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Feather Falling"
+        "value": "落下耐性"
       },
       {
         "type": "text",
@@ -21999,7 +22002,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Fire Aspect"
+        "value": "火属性"
       },
       {
         "type": "text",
@@ -22034,7 +22037,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Fire Protection"
+        "value": "火炎耐性"
       },
       {
         "type": "text",
@@ -22077,7 +22080,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Flame"
+        "value": "フレイム"
       },
       {
         "type": "text",
@@ -22136,7 +22139,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Transitory Step"
+        "value": "空中歩行"
       },
       {
         "type": "text",
@@ -22167,7 +22170,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Fortune"
+        "value": "幸運"
       },
       {
         "type": "text",
@@ -22206,7 +22209,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Frost Walker"
+        "value": "氷渡り"
       },
       {
         "type": "text",
@@ -22269,7 +22272,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Impaling"
+        "value": "水棲特攻"
       },
       {
         "type": "text",
@@ -22316,7 +22319,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Infinity"
+        "value": "無限"
       },
       {
         "type": "text",
@@ -22347,7 +22350,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Knockback"
+        "value": "ノックバック"
       },
       {
         "type": "text",
@@ -22382,7 +22385,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Looting"
+        "value": "ドロップ増加"
       },
       {
         "type": "text",
@@ -22421,7 +22424,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Loyalty"
+        "value": "忠誠"
       },
       {
         "type": "text",
@@ -22482,7 +22485,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Luck of the Sea"
+        "value": "宝釣り"
       },
       {
         "type": "text",
@@ -22522,7 +22525,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Lure"
+        "value": "入れ食い"
       },
       {
         "type": "text",
@@ -22576,7 +22579,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mending"
+        "value": "修繕"
       },
       {
         "type": "text",
@@ -22608,7 +22611,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Multishot"
+        "value": "拡散"
       },
       {
         "type": "text",
@@ -22640,7 +22643,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Piercing"
+        "value": "貫通"
       },
       {
         "type": "text",
@@ -22681,7 +22684,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Power"
+        "value": "射撃ダメージ増加"
       },
       {
         "type": "text",
@@ -22754,7 +22757,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Projectile Protection"
+        "value": "飛び道具耐性"
       },
       {
         "type": "text",
@@ -22798,7 +22801,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Protection"
+        "value": "防護"
       },
       {
         "type": "text",
@@ -22842,7 +22845,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Punch"
+        "value": "パンチ"
       },
       {
         "type": "text",
@@ -22885,7 +22888,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Respiration"
+        "value": "水中呼吸"
       },
       {
         "type": "text",
@@ -22925,7 +22928,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Quick Charge"
+        "value": "高速装填"
       },
       {
         "type": "text",
@@ -22979,7 +22982,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Riptide"
+        "value": "激流"
       },
       {
         "type": "text",
@@ -23019,7 +23022,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Sharpness"
+        "value": "ダメージ増加"
       },
       {
         "type": "text",
@@ -23067,7 +23070,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Silk Touch"
+        "value": "シルクタッチ"
       },
       {
         "type": "text",
@@ -23099,7 +23102,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Smite"
+        "value": "アンデッド特攻"
       },
       {
         "type": "text",
@@ -23147,7 +23150,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Sweeping Edge"
+        "value": "範囲攻撃"
       },
       {
         "type": "text",
@@ -23288,7 +23291,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Unbreaking"
+        "value": "耐久"
       },
       {
         "type": "text",
@@ -23599,35 +23602,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Impulse"
+        "value": "インパルス"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "I can use my magic to cause an item from my other hand to "
+            "text": "魔法を利用して自分が左手に持っているアイテムを"
           },
           {
-            "text": "launch forward becoming an improvised projectile",
+            "text": "前に吹き飛ばして攻撃できます",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nCertain items are naturally projectiles, gaining a damage bonus.  If I enchant the item with the "
+            "text": "。\n\nいくつかのアイテムは射出に適しており、ダメージにボーナスが乗ります。"
           },
           {
-            "text": "Telekinetic Retrieval",
+            "text": "念力回収",
             "color": "blue"
           },
           {
-            "text": " enchantment, it will "
+            "text": "のエンチャントをアイテムにすることで、"
           },
           {
-            "text": "automatically return to my inventory after impact",
+            "text": "アイテムが射出後にインベントリに自動で戻ります",
             "color": "dark_purple"
           },
           {
-            "text": ". If I target myself with this spell, I will launch the item in the direction I am facing.  If I target something else, I will launch the item at that target regardless of where I am facing. I bet if I "
+            "text": "。 If I target myself with this spell, I will launch the item in the direction I am facing.  If I target something else, I will launch the item at that target regardless of where I am facing. I bet if I "
           },
           {
             "text": "augment the spell by supplying gunpowder as an optional reagent",
@@ -23744,28 +23747,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Purge"
+        "value": "パージ"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell will attempt to "
+            "text": "この呪文は、"
           },
           {
-            "text": "strip away beneficial effects from the target, dealing damage and draining mana for each one",
+            "text": "対象から有効な効果をはぎ取り、一つ当たりダメージを与えマナを減らします。",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIt can only be crafted by those that have allied themselves with the "
+            "text": ". \n\nこれは、"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": "."
+            "text": "の派閥と同盟を組んだ者のみ作成できます。"
           }
         ]
       }
@@ -23783,7 +23786,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Amplify Magic"
+        "value": "魔法強化"
       },
       {
         "type": "text",
@@ -23822,7 +23825,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Dampen Magic"
+        "value": "魔法弱体化"
       },
       {
         "type": "text",
@@ -23861,7 +23864,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Sunder"
+        "value": "鎧無効化"
       },
       {
         "type": "text",
@@ -24003,21 +24006,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Insight"
+        "value": "洞察"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "The target of this spell is given a precise "
+            "text": "この呪文の対象は、周囲のモブの"
           },
           {
-            "text": "view into the damage dealt and healing received",
+            "text": "受けたダメージと回復",
             "color": "dark_purple"
           },
           {
-            "text": " to nearby targets."
+            "text": "が見えるようになります。"
           }
         ]
       }
@@ -24319,28 +24322,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Insect Swarm"
+        "value": "虫の大群"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell"
+            "text": "この呪文は"
           },
           {
-            "text": " summons a swarm of insects",
+            "text": "虫の大群を呼び出し、",
             "color": "dark_purple"
           },
           {
-            "text": " that will attempt to poison any nearby hostile targets. They will attempt to change targets frequently and "
+            "text": "可能な限りの周囲の敵に毒を与えようとします。 They will attempt to change targets frequently and "
           },
           {
             "text": "keep the poison spreading as much as possible",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nInsect Swarms count against your summon cap."
+            "text": ".\n\nこれは召喚の最大数にカウントされます。"
           }
         ]
       }
@@ -24358,21 +24361,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Soar"
+        "value": "滑空"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell allows me to "
+            "text": "この呪文は"
           },
           {
-            "text": "soar as if with an Elytra",
+            "text": "エリトラのように滑空",
             "color": "dark_purple"
           },
           {
-            "text": ", though at a very high mana cost."
+            "text": "を可能にしますが、マナ消費が多いです。"
           }
         ]
       }
@@ -24390,21 +24393,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Lacerate"
+        "value": "裂傷"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This insidious spell leaves gushing gashes on the target causing them to "
+            "text": "この呪文は相手に裂傷を与え、"
           },
           {
-            "text": "hemmhorage quickly until the bleeding stops",
+            "text": "出血が止まるまでダメージを与えます",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -24449,7 +24452,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Life Drain"
+        "value": "ライフドレイン"
       },
       {
         "type": "text",
@@ -24459,7 +24462,7 @@
             "text": "This spell damages the target, "
           },
           {
-            "text": "healing me for half the damage successfully dealt.",
+            "text": "与えたダメージの半分回復します。",
             "color": "dark_purple"
           }
         ]
@@ -24472,7 +24475,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Frailty"
+        "value": "老化"
       },
       {
         "type": "text",
@@ -24482,7 +24485,7 @@
             "text": "This spell weakens the target, advancing years in moments as they rapidly age and become frail, making them "
           },
           {
-            "text": "take additional damage from all sources",
+            "text": "一定時間受けるダメージを増加",
             "color": "dark_purple"
           },
           {
@@ -24613,7 +24616,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Fissure"
+        "value": "形: 亀裂"
       },
       {
         "type": "text",
@@ -24645,7 +24648,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Focus"
+        "value": "形: 集中"
       },
       {
         "type": "text",
@@ -24681,7 +24684,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Embers"
+        "value": "形: 余燼"
       },
       {
         "type": "text",
@@ -24713,7 +24716,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Bludgeoning"
+        "value": "殴打"
       },
       {
         "type": "text",
@@ -24761,7 +24764,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ascended Duration"
+        "value": "持続時間上昇"
       },
       {
         "type": "text",
@@ -24812,7 +24815,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ascended Speed"
+        "value": "速度上昇"
       },
       {
         "type": "text",
@@ -24863,7 +24866,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ascended Range"
+        "value": "距離上昇"
       },
       {
         "type": "text",
@@ -24914,28 +24917,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Prismatic Amulet"
+        "value": "プリズムのアミュレット"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This amulet causes the "
+            "text": "このアミュレットは、"
           },
           {
-            "text": "Projectile",
+            "text": "投射物",
             "color": "blue"
           },
           {
-            "text": " shape to "
+            "text": "の形を"
           },
           {
-            "text": "fire three projectiles instead of one",
+            "text": "一つではなく三つ発射するようにします",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -25131,46 +25134,49 @@
         "value": "",
         "json": [
           {
-            "text": "It can be tedious to place the "
+            "text": "毎回"
           },
           {
-            "text": "Ritual of Arcana ",
+            "text": "アルカナの儀式",
             "color": "blue"
           },
           {
-            "text": "all the time.  That's why I've come up with the idea of the "
+            "text": "を行うのは面倒です。  そのため、"
           },
           {
-            "text": "Altar of Arcana. ",
+            "text": "アルカナの祭壇",
             "color": "blue"
           },
           {
-            "text": "all I need to do is "
+            "text": "を開発しました！ "
           },
           {
-            "text": "put the items for the spell in one or more nearby containers ",
+            "text": "呪文のためのアイテムを付近のチェストなどに入れ、",
             "color": "dark_purple"
           },
           {
-            "text": "as well as "
+            "text": "そして"
           },
           {
-            "text": "put the spell recipe and a ",
+            "text": "呪文のレシピ",
             "color": "dark_purple"
           },
           {
-            "text": "Vellum, Staff, Wand, or Bangle ",
+            "text": "と"
+          },
+          {
+            "text": "皮紙/大杖/小杖/腕輪",
             "color": "blue"
           },
           {
-            "text": "into the altar and start it.  It will perform the crafting for me.  Of course I can still use the "
+            "text": "を祭壇に入れて開始してください。  自動でクラフトしてくれます。  もちろん、まだ "
           },
           {
-            "text": "Ritual of Arcana ",
+            "text": "アルカナの儀式",
             "color": "blue"
           },
           {
-            "text": "as I have before, this is merely a convenience.  Spells inscribed on vellum can be placed into a spell book for storage convenience, whereas the other mediums can accept enchantments which can potentially increase the efficacy of the spell within."
+            "text": "を手動で行うことはできます。  皮紙に書かれている呪文は呪文本にまとめることができて便利ですが、大杖/小杖/腕輪はエンチャントすることで呪文を強化できます。"
           }
         ]
       }
@@ -25188,24 +25194,24 @@
     "sections": [
       {
         "type": "title",
-        "value": "Experienced Soul"
+        "value": "経験魂"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This enchant will "
+            "text": "このエンチャントは、"
           },
           {
-            "text": "consume some of the XP I gain and convert it into souls",
+            "text": "入手した経験値の一部を魂に変換します",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nThis enchant can only be made by those that have allied themselves with the "
+            "text": "。\n\nThis enchant can only be made by those that have allied themselves with the "
           },
           {
-            "text": "Undead.",
+            "text": "不死者",
             "color": "dark_gray"
           }
         ]
@@ -25224,7 +25230,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Feast of Souls"
+        "value": "魂の晩餐の儀式"
       },
       {
         "type": "text",
@@ -25270,7 +25276,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Soulbound"
+        "value": "ソウルバウンド"
       },
       {
         "type": "text",
@@ -25302,7 +25308,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Grow"
+        "value": "巨大化"
       },
       {
         "type": "text",
@@ -25348,7 +25354,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shrink"
+        "value": "縮小"
       },
       {
         "type": "text",
