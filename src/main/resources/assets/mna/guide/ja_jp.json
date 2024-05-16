@@ -13340,7 +13340,6 @@
           {
             "text": ""
           },
-          
           {
             "text": "魔絹",
             "color": "blue"
@@ -14757,7 +14756,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ender disc"
+        "value": "Ender Disc"
       },
       {
         "type": "text",
@@ -16317,6 +16316,75 @@
       }
     ]
   },
+  "Patterning Prisms": {
+    "index": -96,
+    "category": "constructs",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Patterning Prisms"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "The Patterning Prism is much more than an ingredient for the Lodestar.  It is capable of "
+          },
+          {
+            "text": "copying logic",
+            "color": "dark_purple"
+          },
+          {
+            "text": " between "
+          },
+          {
+            "text": "Lodestars ",
+            "color": "blue"
+          },
+          {
+            "text": "(or "
+          },
+          {
+            "text": "Delegation Stations",
+            "color": "blue"
+          },
+          {
+            "text": "), as well as "
+          },
+          {
+            "text": "copying data",
+            "color": "dark_purple"
+          },
+          {
+            "text": " between "
+          },
+          {
+            "text": "Particle Emitters",
+            "color": "blue"
+          },
+          {
+            "text": ".\n\nIn addition, it "
+          },
+          {
+            "text": "contains several simple templates for Construct logic that can be used to quickly set up basic logic flows",
+            "color": "dark_purple"
+          },
+          {
+            "text": ".  It is capable of copying/pasting to/from the system clipboard, so it "
+          },
+          {
+            "text": "can also be used to share logic flows across games or with other players",
+            "color": "dark_purple"
+          },
+          {
+            "text": ".\n\nTo use all of this functionality, simply hold a patterning prism and use the radial menu, default 'Z'."
+          }
+        ]
+      }
+    ],
+    "related_recipes": []
+  },
   "Sharing Constructs": {
     "index": "-96",
     "category": "constructs",
@@ -16535,7 +16603,6 @@
       },
       {
         "type": "text",
-        "value": "This command will cause the construct to take an item out of the specified inventory.  The marking rune specifies the side and position of the container to search.  The filter is optional, and will take any item if left blank.  It requires the construct have at least one grabber arm to hold the item, and it can't already have something in it.  If you give a construct two hands and want to fill both, you will need to use this command twice in a row.",
         "json": [
           {
             "text": "This command will cause the construct to "
@@ -16569,11 +16636,11 @@
             "text": ", and will take any item if left blank. \n\nIt requires the construct have "
           },
           {
-            "text": "at least one grabber arm",
+            "text": "at least one grabber arm or storage torso",
             "color": "dark_purple"
           },
           {
-            "text": " to hold the item, and it can't already have something in it. \n\nIf you give a construct two hands and want to fill both, you will need to use this command twice in a row."
+            "text": " to hold the item, and it can't already have something in it.  Stack merging is done as part of taking, but not during the initial check for performance reasons. As such, this command requires at least one empty slot somewhere in the construct's inventory. \n\nIf you give a construct two hands and want to fill both or wish to fill several inventory slots, you will need to use this command multiple times in a row."
           }
         ]
       }
@@ -16882,6 +16949,39 @@
       }
     ]
   },
+  "Command: Guard": {
+  	"index": 4,
+  	"category": "constructs",
+  	"sections": [
+      {
+        "type": "title",
+        "value": "Command: Guard"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "This command will cause the construct to "
+          },
+          {
+            "text": "move to the specified point and match its facing",
+            "color": "dark_purple"
+          },
+          {
+            "text": ", standing guard and attacking enemies that come within range of its sight (if it is capable of doing so).  If its attack causes it to move too far away from the guard point (based on the construct's perception stat), "
+          },
+          {
+            "text": "it will cease attack and return to its post",
+            "color": "dark_purple"
+          },
+          {
+            "text": ". \n\nAfter standing guard for the specified number of seconds, the task will complete and the construct will go on to any other tasks afterward."
+          }
+        ]
+      }
+    ]
+  },
   "Command: Patrol": {
     "index": 4,
     "category": "constructs",
@@ -17162,7 +17262,6 @@
       },
       {
         "type": "text",
-        "value": "This command will cause the construct to shear nearby sheep, mooshrooms, and other animals that can be sheared, as well as periodically pluck feathers from chickens within the configured radius.  The construct must have a blade arm in order to use this task.  If the parameter to do so is turned on, the construct will instead shear blocks instead of mobs.",
         "json": [
           {
             "text": "This command will cause the construct to "
@@ -17206,6 +17305,38 @@
       }
     ]
   },
+  "Command: Milk": {
+    "index": 4,
+    "category": "constructs",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Command: Milk"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This command will cause the construct to "
+          },
+          {
+            "text": "milk nearby cows and cow variants where possible",
+            "color": "dark_purple"
+          },
+          {
+            "text": " within the configured radius. \n\nThe construct "
+          },
+          {
+            "text": "must have a fluid nozzle and tank torso",
+            "color": "dark_purple"
+          },
+          {
+            "text": " in order to use this task."
+          }
+        ]
+      }
+    ]
+  },
   "Command: Place Block": {
     "index": 4,
     "category": "constructs",
@@ -17216,7 +17347,6 @@
       },
       {
         "type": "text",
-        "value": "This command will cause the construct to place the block that it currently has in its hand (use a Take Item command to get one there) at the given location, provided it is a block or an item that creates a block (like seeds or saplings).  The construct needs to have the carrying capability in order to do this task.",
         "json": [
           {
             "text": "This command will cause the construct to "
@@ -17573,6 +17703,75 @@
           },
           {
             "text": "The construct needs a minimum intelligence of 16 to perform this task.",
+            "color": "dark_purple"
+          }
+        ]
+      }
+    ]
+  },
+  "Command: Hunt": {
+    "index": 4,
+    "category": "constructs",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Command: Hunt"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This command will cause the construct to "
+          },
+          {
+            "text": "wander off and disappear for a few minutes as it goes monster hunting",
+            "color": "dark_purple"
+          },
+          {
+            "text": ". When it returns it will have some random dimension-appropriate hunting loot it found on its journey. \n\n"
+          },          
+          {
+            "text": "It will require either a "
+          },
+          {
+            "text": "storage torso",
+            "color": "blue"
+          },
+          {
+            "text": " and/or a "
+          },
+          {
+            "text": "grabber arm",
+            "color": "blue"
+          },
+          {
+            "text": " in order to carry home the loot.\n\n"
+          },
+          {
+            "text": "What monsters it fights depends on the configuration of the task.\n\n",
+            "color": "dark_purple"
+          },
+          {
+            "text": "It is possible for the construct to die during this task, but the risk can be mitigated:",
+            "color": "dark_red"
+          },
+          {
+            "text": "\n\n The construct must be able to engage with at least one of the configured enemy types (ranged attacks, flight, teleportation, or spell casting for flying monsters, buoyancy for water monsters, and perception 20 or lights (consumed) in its inventory for underground.  It will skip any types that it does not meet the criteria for.  For example, setting surface and underground will cause the construct to still perform a surface hunt if it doesn't have the required perception or light sources available."
+          },
+          {
+            "text": "\n\n The risk level determines how dangerous the prey it will attempt to fight.  Stronger combat capabilities (more damage) will mitigate damage taken, as will armor and toughness.\n\nAffinity also plays a role in the construct's survivability, with wind/arcane protecting from flying monsters, water protecting from aquatic monsters, earth/fire/ender protecting from underground, and earth protecting from surface encounters."
+          },
+          {
+            "text": "\n\n Surface is the least dangerous, followed by water, flying, and finally underground."
+          },
+          {
+            "text": "\n\n Friendly faction mobs encountered during the hunt will serve instead to heal the construct.  Their loot will never be returned."
+          },
+          {
+            "text": "\n\n It is suggested to make use of the health condition task in a lodestar to ensure the construct has healed before leaving on a hunt.  Their natural regeneration can heal them to full, after all."
+          },
+          {
+            "text": "\n\nThe construct needs a minimum intelligence of 16 to perform this task, and higher perception will result in more encounters.  Having intelligence 36 and perception 20 will allow the construct to bring back drops that require a player kill.",
             "color": "dark_purple"
           }
         ]
@@ -19062,7 +19261,6 @@
       },
       {
         "type": "text",
-        "value": "The storage torso allows the construct to have an additional 9 slots of inventory.  This will cause them to bring back more resources from mining and adventuring, and to be able to pick up more items.  Better materials do not give more storage.",
         "json": [
           {
             "text": "The storage torso allows the construct to have an "
@@ -19079,7 +19277,10 @@
             "color": "dark_purple"
           },
           {
-            "text": ", and to be able to pick up more items. Better materials do not give more storage."
+            "text": ", and to be able to pick up more items. Better materials allow for larger stack sizes each additional slot:"
+          },
+          {
+            "text": "\n  Wickerwood: 4\n  Wood/Stone: 8\n  Iron/Gold: 16\n  Obsidian: 32\n  Diamond: 64\n\nThis is further increased by ender affinity, which will multiply the stack size by 8.  Regardless of material or affinity, stack size will always cap at 64."
           }
         ]
       }
@@ -19971,7 +20172,6 @@
           {
             "text": "すこしずつ視点を源泉に向かせます"
           },
-          
           {
             "text": "。\n\n 杖を機能させるのに少量のマナが必要ですが、そこまで多く感じないはずです。"
           }
@@ -24351,6 +24551,7 @@
   "Component: Greater Animus": {
     "index": "2",
     "category": "sorcery",
+    "tier": 5,
     "sections": [
       {
         "type": "title",
