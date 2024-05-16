@@ -6733,7 +6733,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "形: 隕石"
+        "value": "形: 流星群"
       },
       {
         "type": "text",
@@ -8064,7 +8064,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Felled Oak"
+        "value": "伐採"
       },
       {
         "type": "text",
@@ -8403,7 +8403,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Possession"
+        "value": "憑依"
       },
       {
         "type": "text",
@@ -8605,7 +8605,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mind Control"
+        "value": "精神操作"
       },
       {
         "type": "text",
@@ -15084,7 +15084,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Transitory Tunnel"
+        "value": "通りぬけトンネル"
       },
       {
         "type": "text",
@@ -21388,7 +21388,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Bulwarkのオーラ"
+        "value": "Bulwarkの鎧オーラ"
       },
       {
         "type": "text",
@@ -24098,7 +24098,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Disjunction"
+        "value": "エンチャント無効化"
       },
       {
         "type": "text",
@@ -24591,7 +24591,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Precision"
+        "value": "精度"
       },
       {
         "type": "text",
