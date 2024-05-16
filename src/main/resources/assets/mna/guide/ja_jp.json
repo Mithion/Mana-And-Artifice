@@ -10453,70 +10453,70 @@
         "value": "",
         "json": [
           {
-            "text": "The first step in most artifice involves creating "
+            "text": "魔道具作成の一歩目は、"
           },
           {
-            "text": "magical runes",
+            "text": "魔法のルーン",
             "color": "blue"
           },
           {
-            "text": ". \n\nAll runes required a scribed pattern. \n\nTo make it, I need to take a "
+            "text": "を作成するところから始まりあます。 \n\n 全てのルーンは、刻まれたパターンが必要です。 \n\n作成するにはまず、"
           },
           {
-            "text": "blank pattern",
+            "text": "空のパターン",
             "color": "blue"
           },
           {
-            "text": " to a "
+            "text": "を、 "
           },
           {
-            "text": "Runescribing Table",
+            "text": "ルーン鍛冶師のハンマー",
             "color": "blue"
           },
           {
-            "text": ", along with a "
+            "text": "と、"
           },
           {
-            "text": "Runesmith's Hammer",
+            "text": "ルーン鍛冶師のノミ",
             "color": "blue"
           },
           {
-            "text": " and "
+            "text": "と一緒に"
           },
           {
-            "text": "Runesmith's Chisel",
+            "text": "ルーン刻印テーブル",
             "color": "blue"
+          },     
+          {
+            "text": "に置きます。 \n\n これらの道具は使うことで、必要なパターンを刻み込むことができます。ミスをやり直すのは高額なので、細心の注意を払うべきでしょう！ノミ跡をもとに戻すには、粘土と知識"
           },
           {
-            "text": ". \n\nUsing these tools, I then need to chisel out the desired pattern of the rune. I should take care when chiselling the pattern, as any mistakes will be expensive to undo! To undo a chisel mark, it will cost me some clay and some knowledge "
-          },
-          {
-            "text": "(XP)",
+            "text": "(経験値)",
             "italic": true
           },
           {
-            "text": " for each one I need to undo.\n\nI remember hearing "
+            "text": "を毎回消費します。\n\nそういえば"
           },
           {
-            "text": "Runesmith Villagers",
+            "text": "ルーン鍛冶の村人",
             "color": "blue"
           },
           {
-            "text": " hawking wares and mentioning something about "
+            "text": "が"
           },
           {
-            "text": "selling patterns",
+            "text": "パターンを売っている",
             "color": "dark_purple"
           },
           {
-            "text": ".  If I make a rune in the first place, I can also convert it into a "
+            "text": "とか聞いたことがある。一度ルーンを作成したら、それを利用して量産のための"
           },
           {
-            "text": "Charcoal Pattern",
+            "text": "炭パターン",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "も作成できます。"
           }
         ]
       }
@@ -10633,7 +10633,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "黒鉛のパターン"
+        "value": "炭のパターン"
       },
       {
         "type": "text",
