@@ -1949,7 +1949,7 @@
             "color": "blue"
           },
           {
-            "text": "を自身に詠唱したとき、修飾にかかわらず"
+            "text": "を自身に詠唱したとき、モディファイヤにかかわらず"
           },
           {
             "text": "持続時間が永続になります",
@@ -3210,7 +3210,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "があり、最低でも"
+            "text": "があり、そうなった場合、最低でも"
           },
           {
             "text": "爆発的な結果",
@@ -4457,14 +4457,14 @@
         "value": "",
         "json": [
           {
-            "text": "The tolling of the iron bell rings out into the ether, summoning a mysterious entity only known as "
+            "text": "鉄の鐘の音がエーテルに鳴り響き、謎めいた存在の"
           },
           {
-            "text": "The Broker",
+            "text": "ブローカー",
             "color": "blue"
           },
           {
-            "text": ". This entity will remain for one half day and will trade a combination of faction tokens obtained by defeating faction troops in addition to relics of my own faction in exchange for relics it has somehow obtained from the other factions. \n\nI should ensure that I have one of each of my faction's relics available for trade and at least a stack of each of the faction tokens before calling upon The Broker.\n\nIt's anyone's guess what use it has for the marks."
+            "text": "を召喚します。 このエンティティは半日間滞在し、敵を倒した際に得られる派閥の印と自身の派閥のレリックと引き換えに、どうやって手に入れたかわからない他の派閥のレリックと交換してくれます。 \n\n 取引用の自分の派閥の全てのレリックと、すべての派閥の印が一スタックは持っているように儀式の前に準備するべきでしょう。\n\n"
           }
         ]
       }
@@ -5159,63 +5159,63 @@
         "value": "This forbidden ritual summons a demon lord.  These demons often offer power to those that seek it, though with power always comes a price.\n\nDemons are very powerful, and respect only those that can withstand such power.  Proper precautions should be taken before attempting to make an bargain with a demon lest the summoner find themselves burned alive.\n\nThis includes both protections, as well as having an offering of a Mote of Fire to offer the demon.\n\nAllying oneself with such entities will almost assuredly make enemies of others.",
         "json": [
           {
-            "text": "This forbidden ritual summons a "
+            "text": "この禁じられた儀式は"
           },
           {
-            "text": "Demon Lord",
+            "text": "魔王",
             "color": "dark_red"
           },
           {
-            "text": ". \n\nThese demons often offer power to those that seek it, though with power always comes a price. Demons are very powerful, and respect only those that can withstand such power. "
+            "text": "を呼び出します。 \n\n悪魔は力を願うものに与えるが、力には常に代償が伴います。悪魔は強力で、その力に耐えられる者のみ敬意を払います。悪魔との取引を行うとする前に、"
           },
           {
-            "text": "Proper precautions should be taken",
+            "text": "十分な準備を行うべきでしょう",
             "color": "dark_purple"
           },
           {
-            "text": " before attempting to make an bargain with a demon "
+            "text": "、"
           },
           {
-            "text": "lest the summoner find themselves burned alive",
+            "text": "召喚者がい生きたまま焼かれないように",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nTo mollify the rage of the demon, I should have an offering of a "
+            "text": "。 \n\n 悪魔の怒りを減らすために、悪魔に"
           },
           {
-            "text": "Mote of Fire",
+            "text": "火の雫",
             "color": "blue"
           },
           {
-            "text": " to offer the demon, "
+            "text": "を"
           },
           {
-            "text": "in addition to the ritual reagents",
+            "text": "儀式の触媒とは別として追加で渡すべきでしょう",
             "color": "blue"
           },
           {
-            "text": ". \n\n"
+            "text": "。 \n\n"
           },
           {
-            "text": "Allying oneself with such entities will almost assuredly make enemies of others.",
+            "text": "このような存在の仲間になるのは、たくさんの敵を作るでしょう。",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nAlternatively, performing this ritual in a "
+            "text": "\n\n この儀式の他の効果として、この儀式を"
           },
           {
-            "text": "Demon Arena",
+            "text": "悪魔の闘技場",
             "color": "dark_red"
           },
           {
-            "text": " will challenge the "
+            "text": "で行うことで、"
           },
           {
-            "text": "Demon Lord",
+            "text": "魔王",
             "color": "dark_red"
           },
           {
-            "text": " to a duel."
+            "text": "を決闘に挑戦することもできます。"
           }
         ]
       }
@@ -5244,49 +5244,49 @@
         "value": "This forbidden ritual summons a faerie queen.  Through bargains, the fey often offer power to those that seek it, though with power always comes a price.\n\nAn offering of a Mote of Air is usually a good bet.\n\nAllying oneself with such entities will almost assuredly make enemies of others.",
         "json": [
           {
-            "text": "This forbidden ritual summons a "
+            "text": "この禁じられた儀式は、"
           },
           {
-            "text": "Faerie Queen from either Summer or Winter",
+            "text": "雪、もしくは夏の妖精女王",
             "color": "dark_green"
           },
           {
-            "text": ".\n\nThrough bargains, the fey often offer power to those that seek it, though with power always comes a price. An offering of a "
+            "text": "を召喚します。\n\n 交渉にて、妖精をよく求める者に力を与えますが、すべての力には代償があります。捧げものとして、"
           },
           {
-            "text": "Mote of Air",
+            "text": "空の雫",
             "color": "blue"
           },
           {
-            "text": " is usually a good bet, "
+            "text": "を"
           },
           {
-            "text": "in addition to the other ritual reagents",
+            "text": "触媒のほかに追加で渡すのが",
             "color": "blue"
           },
           {
-            "text": ".\n\n"
+            "text": "一番堅実でしょう。\n\n"
           },
           {
-            "text": "Allying oneself with such entities will almost assuredly make enemies of others.",
+            "text": "このような存在の仲間になることは、多くの敵を作るでしょう。",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nAlternatively, performing this ritual in the right spot within a "
+            "text": "\n\n この儀式の他の効果として、この儀式を"
           },
           {
-            "text": "Great Fey Tree",
+            "text": "偉大なる妖精の巨木",
             "color": "dark_green"
           },
           {
-            "text": " will challenge both "
+            "text": "の正しい場所で行うことで、両方の"
           },
           {
-            "text": "Faerie Queens",
+            "text": "妖精女王",
             "color": "dark_green"
           },
           {
-            "text": " to a duel."
+            "text": "を決闘に挑戦します。"
           }
         ]
       }
@@ -5371,42 +5371,42 @@
         "value": "This ritual summons a conclave from the Ancient Council of Wizards.  By doing so, you are offering to align yourself with the council in exchange for access to their knowledge of higher magics.\n\nOnce you have summoned the council, stand in the center of them to receive their blessing, if you believe you are worthy.\n\nAllying oneself with such entities will almost assuredly make enemies of others.",
         "json": [
           {
-            "text": "This ritual summons a conclave from the "
+            "text": "この儀式、"
           },
           {
-            "text": "Ancient Council of Wizards",
+            "text": "古の魔術師の評議会",
             "color": "blue"
           },
           {
-            "text": ".\n\nBy doing so, I am offering to align myself with the council in exchange for access to their knowledge of higher magics.\n\nOnce I have summoned the council, I must stand in the center of the circle to receive their blessing, if I believe I am worthy.\n\n"
+            "text": "から秘密結社を呼び出します。\n\n それをすることで、自分が評議会に所属することとと引き換えに、上位の魔術の知識にアクセスできるようになります。\n\n 評議会を召喚したのち、円の中心に立つことで、十分な力を持った魔術師は彼らからの祝福を得られます。\n\n"
           },
           {
-            "text": "Allying oneself with such entities will almost assuredly make enemies of others.",
+            "text": "このような存在の仲間になることは、多くの敵を作るでしょう。",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nAlternatively, performing this ritual in a "
+            "text": "\n\nこの儀式の他の効果として、この儀式を"
           },
           {
-            "text": "Council Great Hall",
+            "text": "評議会騎士の間",
             "color": "blue"
           },
           {
-            "text": " will challenge the "
+            "text": "で行うことで、"
           },
           {
-            "text": "Senior Council",
+            "text": "最高評議長",
             "color": "blue"
           },
           {
-            "text": " to a duel. While they almost assuredly will not accept such a challenge, I may instead draw the attention of a "
+            "text": "を決闘に挑戦できます。 彼らは確実に挑戦を受諾しませんが、その代わりに"
           },
           {
-            "text": "Council Warden",
+            "text": "評議会の守護者",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "の注意を引けるかもしれません。"
           }
         ]
       }
@@ -5431,44 +5431,44 @@
         "value": "This ritual calls out to the legions of the Undead.  By doing so, you are offering to align yourself with the undead in exchange for access to their dark powers.\n\nIf the undead respond, they will give you a sign.  Follow the instructions if you believe you are worthy.\n\nAllying oneself with such entities will almost assuredly make enemies of others.",
         "json": [
           {
-            "text": "This ritual calls out to the legions of the "
+            "text": "この儀式は、 "
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": ".\n\nBy doing so, I am offering to align myself with the undead in exchange for access to their dark powers.\n\nIf the undead respond, they will "
+            "text": "のレギオンに呼びかけます。\n\nそれをすることで、自分が不死者に所属することとと引き換えに、彼らの闇の力を利用できるようになります。\n\n 彼らが答えた場合、かれらは"
           },
           {
-            "text": "give me a sign",
+            "text": "合図を示します",
             "color": "dark_gray"
           },
           {
-            "text": ". I should follow the instructions if I believe I am worthy.\n\nAllying oneself with such entities will almost assuredly make enemies of others.\n\nAlternatively, performing this ritual in a "
+            "text": "。自分に十分な実力があると信じるならば、彼らの指示に従うべきでしょう。\n\nこのような存在の仲間になることは、多くの敵を作るでしょう。\n\nこの儀式の他の効果として、この儀式を"
           },
           {
-            "text": "Cathedral Great Hall",
+            "text": "大聖堂騎士の間",
             "color": "dark_gray"
           },
           {
-            "text": " will challenge a "
+            "text": "で行うことで、"
           },
           {
-            "text": "Powerful Undead Monster",
+            "text": "強力な不死の怪物",
             "color": "dark_gray"
           },
           {
-            "text": " to a duel."
+            "text": "を決闘に挑戦できます。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "WARNING:  The undead faction is a much more difficult faction to play.  Your casting resource becomes souls, something that does not naturally regenerate.  You must kill others to obtain their souls.  Other undead give the least, then animals, then monsters, then villagers, then players.\n\nYou can sleep in coffins as if they were beds, will burn in sunlight, but can breathe underwater.  Wearing a helmet can mitigate the burning but eventually the helmet will burn away and break.\n\nChoose this path at your own risk.",
+        "value": "注意:  不死者は他に比べてかなり難しい派閥です。The undead faction is a much more difficult faction to play.  Your casting resource becomes souls, something that does not naturally regenerate.  You must kill others to obtain their souls.  Other undead give the least, then animals, then monsters, then villagers, then players.\n\nYou can sleep in coffins as if they were beds, will burn in sunlight, but can breathe underwater.  Wearing a helmet can mitigate the burning but eventually the helmet will burn away and break.\n\nChoose this path at your own risk.",
         "json": [
           {
-            "text": "WARNING: The undead faction is a much more difficult faction to play.",
+            "text": "注意: 不死者は他に比べてかなり難しい派閥です。",
             "italic": true,
             "color": "dark_purple"
           },
@@ -5476,11 +5476,11 @@
             "text": "\n\n"
           },
           {
-            "text": "Your casting resource becomes souls, something that does not naturally regenerate. ",
+            "text": "詠唱リソースは魂になり、自然回復しません。 ",
             "italic": true
           },
           {
-            "text": "You must kill others to obtain their souls.",
+            "text": "彼らの魂を得るために他者を殺す必要があります。",
             "italic": true,
             "color": "dark_gray"
           },
@@ -5488,39 +5488,39 @@
             "text": "\n\n\n"
           },
           {
-            "text": "Other undead give the least, then animals, then monsters, then villagers, then players.",
+            "text": "他のアンデッドは最も少なく、次に動物、モンスター、村人、そしてプレイヤーの順に魂を得ます。",
             "italic": true
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "They can sleep in coffins as if they were beds and in doing so will regain 25% of souls, will ",
+            "text": "棺桶の中でベッドのように眠ることができ魂の25%を回復し、",
             "italic": true
           },
           {
-            "text": "burn in sunlight",
+            "text": "日光で燃えます",
             "italic": true,
             "color": "dark_purple"
           },
           {
-            "text": ", but can ",
+            "text": "が、",
             "italic": true
           },
           {
-            "text": "breathe underwater",
+            "text": "水中で",
             "italic": true,
             "color": "dark_purple"
           },
           {
-            "text": ". Wearing a helmet can mitigate the burning but eventually the helmet will burn away and break.",
+            "text": "呼吸できます。ヘルメットを被ることで燃焼を軽減できますが、最終的にはヘルメットが焼けて壊れます。",
             "italic": true
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "Choose this path at your own risk.",
+            "text": "自己責任でこの道を選んでください。",
             "italic": true
           }
         ]
@@ -5547,21 +5547,21 @@
         "value": "This ritual Designates a place of power for your faction.  Upon completion, it spawns a single block, a 'circle of power'.  Right click this block to display a structure that you will then need to build.  Upon completion, the circle of power will activate.  Allied faction players (and you of course) when standing near or within the completed structure will gain a powerful buff to their spell casting, causing more damage with spells and making their buffs last significantly longer.",
         "json": [
           {
-            "text": "This ritual designates a "
+            "text": "この儀式は、あなたの派閥の "
           },
           {
-            "text": "Place of Power",
+            "text": "力の宮殿",
             "color": "blue"
           },
           {
-            "text": " for your faction. \n\nUpon completion, it spawns a single block, a "
+            "text": "の位置を指定します。\n\n 完了後、一つのブロック「"
           },
           {
-            "text": "Loci of Power",
+            "text": "力の焦点",
             "color": "blue"
           },
           {
-            "text": "'. \n\nActivating this block will cause me to be granted a vision of a structure that I will then need to build. \n\nUpon completion, the Circle of Power will activate. Allied faction wizards (and me of course) when standing near or within the completed structure will gain a powerful buff to their spell casting, causing more damage with spells and making their buffs last significantly longer."
+            "text": "」を作成します. \n\nこのブロックを起動することで、設置する必要があるブロックのホログラムを見せます。\n\n 完了後、力のサークルが起動します。自身を含む同じ派閥の魔術師は、完成した構造物の中、もしくは範囲内にいることで呪文に強力なバフが乗り、ダメージを増やしバフの持続時間を大幅に延ばします。"
           }
         ]
       },
@@ -5570,21 +5570,21 @@
         "value": "For the undead, this sanctum serves an additional purpose.  Enemies within the sanctum will be given the 'Vulnerable Soul' debuff.  Killing enemies with this debuff will yield significantly more souls than normal.",
         "json": [
           {
-            "text": "For the "
+            "text": ""
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": ", this sanctum serves an additional purpose. Enemies within the sanctum will be given the "
+            "text": "の場合、この聖域は追加の効果を持ちます。聖域の近くの敵は"
           },
           {
-            "text": "Vulnerable Soul",
+            "text": "脆弱な魂",
             "color": "blue"
           },
           {
-            "text": " debuff. Killing enemies with this debuff will yield significantly more souls than normal."
+            "text": "のデバフを得ます。このデバフを得た敵を倒すことで、通常よりかなり多くの魂を得られます。"
           }
         ]
       }
@@ -5691,7 +5691,7 @@
         "value": "This ritual allows me to change the weather to be clear blue skies.  Reciting the magic words 'rain, rain, go away, come again another day' does not seem to have any extra effect.",
         "json": [
           {
-            "text": "この儀式は天候を腫れにします。 \n\nReciting the magic words "
+            "text": "この儀式は天候を晴れにします。 \n\nReciting the magic words "
           },
           {
             "text": "rain, rain, go away, come again another day",
@@ -5725,7 +5725,7 @@
         "value": "I can use this ritual to summon a torrent of rain.  If I add some gray wool to the top of the ritual, it will cause a thunderstorm.  If I leave it out, it will just rain.",
         "json": [
           {
-            "text": "この儀式をすることで雨を降らせることができます。 \n灰色の羊毛を儀式に追加すると、雷雨になります。"
+            "text": "この儀式をすることで雨を降らすことができます。 \n灰色の羊毛を儀式に追加すると、雷雨になります。"
           }
         ]
       }
@@ -5754,35 +5754,35 @@
         "value": "Since I can make Crystallize to capture things within Crystalline Cages, I can use those cages to fill a Crystal Phylactery.  Of course I can still use the normal method as well to fill the phylacteries, but this might still come in handy.",
         "json": [
           {
-            "text": "Since I can make a "
+            "text": ""
           },
           {
-            "text": "Crystallize",
+            "text": "結晶化",
             "color": "blue"
           },
           {
-            "text": " spell to capture things within "
+            "text": "の呪文で生物を"
           },
           {
-            "text": "Crystalline Cages",
+            "text": "結晶の檻",
             "color": "blue"
           },
           {
-            "text": ", I can use those cages to fill a "
+            "text": "に捕まえられるため、それを利用して"
           },
           {
-            "text": "Crystal Phylactery",
+            "text": "結晶の聖箱",
             "color": "blue"
           },
           {
-            "text": ". \n\nOf course I can still use the "
+            "text": "を充填できます。 \n\n もちろん、"
           },
           {
-            "text": "normal method",
+            "text": "普通の方法で",
             "italic": true
           },
           {
-            "text": " as well to fill the phylacteries, but this might still come in handy."
+            "text": "聖箱を充填することもできますが、それでもこれが便利な事には変わりないです。"
           }
         ]
       }
@@ -10850,35 +10850,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Runeforge Upgrade: Brimstone Forge"
+        "value": "ルーンかまど強化: 獄炎かまど"
       },
       {
         "type": "text",
         "value": "The brimstone forge is an upgrade to the runeforge that greatly increases the smelting speed.  Upgrade a forge by crafting a brimstone charm and right clicking the forge with it.",
         "json": [
           {
-            "text": "The "
+            "text": ""
           },
           {
-            "text": "Brimstone Forge",
+            "text": "獄炎かまど",
             "color": "blue"
           },
           {
-            "text": " is an upgrade to the "
+            "text": "は、"
           },
           {
-            "text": "Runeforge",
+            "text": "ルーン",
             "color": "blue"
           },
           {
-            "text": " that greatly increases the smelting speed. \n\nI can upgrade a forge by crafting a "
+            "text": "かまどの強化版であり、製錬速度が大幅に上がります。 \n\n"
           },
           {
-            "text": "Brimstone Charm",
+            "text": "獄炎の御守り",
             "color": "blue"
           },
           {
-            "text": " and activating the forge with it."
+            "text": "を作成し、かまどに利用することで強化できます。"
           }
         ]
       }
@@ -10896,66 +10896,66 @@
     "sections": [
       {
         "type": "title",
-        "value": "Runeforge Upgrade: Chimerite Crystals"
+        "value": "ルーンかまど強化: キメライトクリスタル"
       },
       {
         "type": "text",
         "value": "By placing pedestals directly adjacent to a runeforge or brimstone forge with chimerite crystals on top of them, I can alter its effects slightly.\n\nRed, Yellow, or Orange crystals will apply an ore doubling effect if there are two of them.\n\nWhite, Cyan, Blue, or Light Blue will cause the forge to repair items put into it, though it will no longer be able to smelt if upgraded in this manner.\n\nThere may be more to come in the future.",
         "json": [
           {
-            "text": "By placing two pedestals directly adjacent to a "
+            "text": ""
           },
           {
-            "text": "Runeforge ",
+            "text": "ルーンかまど",
             "color": "blue"
           },
           {
-            "text": "or "
+            "text": "もしくは、"
           },
           {
-            "text": "Brimstone Forge",
+            "text": "獄炎かまど",
             "color": "blue"
           },
           {
-            "text": " with "
+            "text": "に"
           },
           {
-            "text": "Chimerite Crystals",
+            "text": "キメライトクリスタル",
             "color": "blue"
           },
           {
-            "text": " on top of them, I can alter its effects.\n\n"
+            "text": "が置かれたペデスタルを二つかまどに隣接して設置することで、その能力に変化を与えられます。\n\n"
           },
           {
-            "text": "Red, Yellow, or Orange",
+            "text": "赤、黄色、橙色",
             "color": "dark_red"
           },
           {
-            "text": " crystals will apply an "
+            "text": "のクリスタルは、"
           },
           {
-            "text": "ore doubling",
+            "text": "鉱石倍化",
             "color": "dark_red"
           },
           {
-            "text": " effect.\n\n"
+            "text": "を与えます。\n\n"
           },
           {
-            "text": "White, Cyan, Blue, or Light Blue",
+            "text": "白、青緑、青、もしくは空色",
             "color": "dark_aqua"
           },
           {
-            "text": " will cause the forge to repair items put into it, though it will no longer be able to smelt if upgraded in this manner.\n\n"
+            "text": "のクリスタルは、かまどがアイテムを修復するようにしますが、通常の製錬はできなくなります。\n\n"
           },
           {
-            "text": "Purple, Pink, or Magenta",
+            "text": "紫、桃、青紫色",
             "color": "dark_purple"
           },
           {
-            "text": " crystals will "
+            "text": "のクリスタルは、"
           },
           {
-            "text": "greatly increase the speed at which the forge smelts.",
+            "text": "かまどの製錬速度を大幅に上昇します。",
             "color": "dark_purple"
           }
         ]
