@@ -260,7 +260,7 @@
 	"item.mna.manaweave_bottle": "マナ織りの瓶詰め",
 	"item.mna.manaweave_bottle.suffix": ": %s",
 	"item.mna.manaweaver_wand.not_recognized": "パターンが認識されませんでした。",
-	"item.mna.manaweaver_wand.channel_too_short": "パターンを完成させるのに十分な長さのチャンネルがありませんでした。",
+	"item.mna.manaweaver_wand.channel_too_short": "パターンを完成させるのに十分な時間がありませんでした。",
 	"item.mna.manaweaver_wand.position_stored": "この祭壇に杖を紐づけしました。。 描かれたパターンは、十分に近い場合（8ブロック）、常にこの祭壇に入ります。 スニーク＋右クリックで解除できます。",
 	"item.mna.manaweaver_wand.position_cleared": "祭壇への紐づけが初期化されました。",
 	"item.mna.manaweaver_wand.low_tier": "今のあなたには、このパターンを実行するための知識とスキルが不足しています。",
@@ -496,7 +496,7 @@
 	"item.mna.skeleton_assassin_spawn_egg": "Crypt Stalker Spawn Egg",
 	"item.mna.chatterer_spawn_egg": "Chatterer Spawn Egg",
 
-	"item.mna.trickery_bracelet": "いたずらのブレスレット",
+	"item.mna.trickery_bracelet": "妖術のブレスレット",
 	"item.mna.thaumaturgic_link": "魔法のリンク",
 	"item.mna.thaumaturgic_compass": "魔法のコンパス",
 	"item.mna.thaumaturgic_compass.locating": " %s に調整されている。",

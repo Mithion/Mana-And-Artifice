@@ -1745,7 +1745,7 @@
       },
       {
         "type": "text",
-        "value": "派閥：「妖精の宮廷」は、策略といたずらに重点を置いています。 彼らのレリックには、マナを使用して飛行する、エンチャントされたエリトラである「スペクトラル・エリトラ」や、スニーキング中に自分を見えなくし、スニークパンチでターゲットを飛ばすトリックのブレスレット、呪文の部品としてデコイやヒールが追加される。 オキュラスを見ているとき、フェイの宮廷を必要とするものには以下のようなアイコンが表示される。",
+        "value": "派閥：「妖精の宮廷」は、策略と妖術に重点を置いています。 彼らのレリックには、マナを使用して飛行する、エンチャントされたエリトラである「スペクトラル・エリトラ」や、スニーキング中に自分を見えなくし、スニークパンチでターゲットを飛ばすトリックのブレスレット、呪文の部品としてデコイやヒールが追加される。 オキュラスを見ているとき、フェイの宮廷を必要とするものには以下のようなアイコンが表示される。",
         "json": [
           {
             "text": "派閥："
@@ -1755,7 +1755,7 @@
             "color": "dark_green"
           },
           {
-            "text": "は、策略といたずらに重点を置いています。\n\n彼らはマナの代わりにいずれか二種類のリソース："
+            "text": "は、策略と妖術に重点を置いています。\n\n彼らはマナの代わりにいずれか二種類のリソース："
           },
           {
             "text": " 「夏火」",
@@ -1786,7 +1786,7 @@
             "text": "や、着用者がスニークしてる場合に透明にし、スニークパンチにノックを追加する"
           },
           {
-            "text": "「いたずらのブレスレット」",
+            "text": "「妖術のブレスレット」",
             "color": "dark_green"
           },
           {
@@ -20498,63 +20498,63 @@
     "sections": [
       {
         "type": "title",
-        "value": "Infernal Armor"
+        "value": "煉獄の鎧"
       },
       {
         "type": "text",
         "value": "The pinnacle of demonic defense, the Infernal Armor is nearly impervious to damage.  The flames imbued into it allow me to achieve extreme speeds while sprinting, and if jumping while sprinting I will launch into the air.\n\nWhile airborne, if I crouch I will rocket myself down towards the ground, impacting in a fiery explosion.  The farther I fall, the larger the explosion.\n\nThe armor renders me completely immune to explosive, falling, and fire damage, and if I am burning, the flames empower the armor and allow me to strike in melee with far more power than I would otherwise be able to.",
         "json": [
           {
-            "text": "The pinnacle of demonic defense, the "
+            "text": "悪魔の防御の頂点である"
           },
           {
-            "text": "Infernal Armor",
+            "text": "煉獄の鎧",
             "color": "dark_red"
           },
           {
-            "text": " is nearly impervious to damage.\n\nThe flames imbued into it allow me to achieve "
+            "text": "は、ダメージを無視できるものにします。\n\n それに組み込まれた炎は"
           },
           {
-            "text": "extreme speeds while sprinting",
+            "text": "走っている時に高速で移動",
             "color": "dark_purple"
           },
           {
-            "text": ", and if "
+            "text": "できるようにし、"
           },
           {
-            "text": "jumping while sprinting I will launch into the air",
+            "text": "ダッシュ中にジャンプすることで空へ舞い上がれます",
             "color": "dark_purple"
           },
           {
-            "text": ". "
+            "text": "。 "
           },
           {
-            "text": "While airborne, if I crouch I will rocket myself down towards the ground, impacting in a fiery explosion",
+            "text": "空中で屈んだ場合は、着床者が高速で地面に突撃し、着地点に炎上する爆発を起こします",
             "color": "dark_purple"
           },
           {
-            "text": ". The farther I fall, the larger the explosion.\n\nThe armor renders me completely "
+            "text": "。 落下距離が高いほど、大きい爆発になります。\n\n この鎧は着用者を、"
           },
           {
-            "text": "immune to explosive, falling, and fire damage",
+            "text": "爆発、落下、火ダメージから完全に守り",
             "color": "dark_purple"
           },
           {
-            "text": ", and i"
+            "text": "、そしてもし"
           },
           {
-            "text": "f I am burning, the flames empower the armor and allow me to move faster, resist knockback, and strike in melee with far more power than I would otherwise be able to",
+            "text": "着用者が燃えている場合、炎が鎧に力を与えることで、速度上昇、ノックバック抵抗、そして近接攻撃をより強力にします",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nIt should be noted that the "
+            "text": "。\n\n 留意すべき点として、"
           },
           {
-            "text": "Infernal Armor performs best when enchanted",
+            "text": "煉獄の鎧はエンチャントされている場合に一番の性能を発揮します",
             "color": "dark_purple"
           },
           {
-            "text": ", as things granting step assist, higher jump, or multi-jump will greatly increase the other benefits the armor provides."
+            "text": "。なぜならステップアシスト、跳躍力上昇や、マルチジャンプがある事で、鎧が与える効果が最大限に発揮されるからです。"
           }
         ]
       }
@@ -20584,56 +20584,56 @@
     "sections": [
       {
         "type": "title",
-        "value": "Spellweaver Armor"
+        "value": "魔導士の鎧"
       },
       {
         "type": "text",
         "value": "When most think of an archmage, they often think of a long beard and flowing robes.  While not archmage armor, the spellweaver armor is the battle standard for the Wizard Council's magi, used by many of their adept wizards and is inspired by the archmage's armor itself.  The armor itself is as strong as a knight's chainmail, and while wearing it, I have significantly more mana and mana regeneration.  It also allows limited levitation flight (double tap space to toggle).  Finally, it has a replenishing bank of three defensive runes that will reflect projectiles.  Each rune goes dormant after reflecting a projectile, and will come back online after a brief recharge period of a few seconds, allowing it to reflect another projectile.",
         "json": [
           {
-            "text": "When most think of an archmage, they often think of a long beard and flowing robes. \n\nWhile not archmage armor, the "
+            "text": "ほとんどの人がアークメイジと聞くと、長い髭とローブをイメージするでしょう。 \n\n アークメイジの鎧ではありませんが、"
           },
           {
-            "text": "Spellweaver Armor",
+            "text": "魔導士の鎧",
             "color": "blue"
           },
           {
-            "text": " is the battle standard for the "
+            "text": "は、 "
           },
           {
-            "text": "Wizard Council's",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": " magi, used by many of their adept wizards and is inspired by the archmage's armor itself. \n\nThe armor itself is as strong as a knight's chainmail, and while wearing it, I have "
+            "text": "の一般的な戦闘装備で、多くの魔術師に利用され、アークメイジの鎧にインスパイヤされています。\n\n 鎧そのものは騎士の鎖帷子程度の防御力しかありませんが、着用者は "
           },
           {
-            "text": "significantly more mana and mana regeneration",
+            "text": "かなり多くの最大マナとマナ再生を得ます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIt allows "
+            "text": "。 \n\n さらに"
           },
           {
-            "text": "levitation",
+            "text": "空中浮遊",
             "color": "dark_purple"
           },
           {
-            "text": " "
+            "text": "を可能にします"
           },
           {
-            "text": "(double tap space to toggle)",
+            "text": "(スペースバーをダブルタップで切り替え)",
             "italic": true
           },
           {
-            "text": ". \n\nFinally, it has a replenishing bank of three defensive runes that will "
+            "text": "。 \n\n 最後に、充填が回復する三つの防御ルーンが備わっており、"
           },
           {
-            "text": "reflect projectiles",
+            "text": "発射物を反射",
             "color": "dark_purple"
           },
           {
-            "text": ". Each rune goes dormant after reflecting a projectile, and will come back online after a brief recharge period of a few seconds, allowing it to reflect another projectile."
+            "text": "します。 ルーンはそれぞれ反射を行ったあと休眠状態になりますが、数秒間の充填で復活し、また反射できるようになります。"
           }
         ]
       }
@@ -20663,70 +20663,70 @@
     "sections": [
       {
         "type": "title",
-        "value": "Druidic Armor"
+        "value": "ドルイドの鎧"
       },
       {
         "type": "text",
         "value": "Several village elders tell legends of the druids of old, who were able to link themselves to nature in extreme ways.  In reality, these druids were simply high ranking allies of the fey, gifted with powerful artifacts and spells.  One of the highest gifts was the Druidic Armor, which is imbued with the trickery of the fey as well as their chaotic yet gentle embrace.  While not as strong as some of the other faction armors in terms of physical defense, the ironwood it is composed of is as strong as common plate armor.  When wearing this armor, the wings on the back will allow me to fly or hover depending on my preference (double tap to start or stop hovering, single tap while falling to enter elytra flight).  It also has a chance to teleport or levitate melee attackers, and a chance to reflect projectiles.  Lastly, when my health gets low, it will apply a regenerating effect to me, though it can only do so every so often.",
         "json": [
           {
-            "text": "Several village elders tell legends of the druids of old, who were able to completely link themselves to nature. \n\nIn reality, these druids were high ranking allies of the "
+            "text": " いくつもの村の長老は、古のドルイドは自身を自然と一体化できたという伝説があります。\n\n 実際は、これらのドルイドは"
           },
           {
-            "text": "Fey",
+            "text": "妖精",
             "color": "dark_green"
           },
           {
-            "text": ", gifted with powerful artifacts and spells. \n\nOne of the highest gifts was the "
+            "text": "の高位の味方であり、彼らから強力なアーティファクトや呪文を授かっていました。 \n\n 最上位の贈り物として、"
           },
           {
-            "text": "Druidic Armor",
+            "text": "ドルイドの鎧",
             "color": "dark_green"
           },
           {
-            "text": ", which is imbued with the trickery of the "
+            "text": "があり、 "
           },
           {
-            "text": "Fey",
+            "text": "妖精",
             "color": "dark_green"
           },
           {
-            "text": " as well as their chaotic yet gentle embrace. \n\nWhile not as strong as some of the other faction armors in terms of physical defense, the ironwood it is composed of is as strong as common plate armor. \n\nWhen wearing this armor, the wings on the back will allow me to "
+            "text": "の妖術と、混沌かつ繊細な祝福が施されています。 \n\n 防御力では他の派閥の物に劣りますが、鎧を構成する鉄樹は鉄の鎧と同等の防御力があります。\n\n 鎧を装備しているとき、背中の翼が"
           },
           {
-            "text": "fly or hover",
+            "text": "飛行、もしくはホバー",
             "color": "dark_purple"
           },
           {
-            "text": " depending on my preference "
+            "text": "を可能にします"
           },
           {
-            "text": "(double tap to start or stop hovering, single tap while falling to enter elytra flight)",
+            "text": "(ダブルタップでホバーを開始/停止し、落下中に一回タップすることでエリトラ飛行に移行します。)",
             "italic": true
           },
           {
-            "text": ". \n\nIt also has a chance to "
+            "text": "。 \n\n さらに"
           },
           {
-            "text": "teleport or levitate melee attackers",
+            "text": "近接攻撃してきた相手を浮遊、もしくはテレポートする",
             "color": "dark_purple"
           },
           {
-            "text": ", and a "
+            "text": "可能性があり、 "
           },
           {
-            "text": "chance to reflect projectiles",
+            "text": "発射物を反射",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nLastly, when my health gets low, it will apply a "
+            "text": "する可能性もあります。 \n\n 最後に、体力が低くなった時に鎧は着用者に"
           },
           {
-            "text": "regenerating effect",
+            "text": "再生能力",
             "color": "dark_purple"
           },
           {
-            "text": " to me, though it can only do so every so often."
+            "text": "を付与します。ただこの能力は頻繁には使用できません。"
           }
         ]
       }
@@ -20756,66 +20756,66 @@
     "sections": [
       {
         "type": "title",
-        "value": "Witherbone Armor"
+        "value": "ウィザーボーンの鎧"
       },
       {
         "type": "text",
         "value": "Members of the undead embody the unstoppable resilience of death while wearing the Witherbone armor.  It is as strong as even the most hardy armor forged from the metals of the nether, boasting near immunity to physical damage.  This armor causes the wearer to drain life away at a touch, regenerating souls simply by causing damage.  It also prevents the death of the wearer, instead shifting them to a cloud of mist allowing them to fly and make their escape.\n\nIf you take damage that would kill you while wearing this armor, that damage is reduced so that you are left with one hit point and you immediately enter mist form.  If you have one hit point, you die as normal.  This effect has no cooldown.",
         "json": [
           {
-            "text": "Members of the "
+            "text": ""
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": " embody the unstoppable resilience of death while wearing the "
+            "text": "の派閥の一員は、 "
           },
           {
-            "text": "Witherbone Armor",
+            "text": "ウィザーボーンの鎧",
             "color": "dark_gray"
           },
           {
-            "text": ". \n\nIt is as strong as even the most hardy armor forged from the metals of the nether, boasting "
+            "text": "を装備している間、死でさえ止められない耐久力を得ます。 \n\n これはネザーの金属で作られた鎧と同等の強度を誇り、"
           },
           {
-            "text": "near immunity to physical damage",
+            "text": "物理ダメージに抵抗持っている",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThis armor causes the wearer to drain life away at a touch, "
+            "text": "といってもいいほどです。 \n\n この鎧は、接触した相手から生気を吸い取る能力があり、 "
           },
           {
-            "text": "regenerating souls by causing damage",
+            "text": "ダメージを与えた際に魂が回復",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIt also "
+            "text": "するようになります。 \n\nさらに装備している者の"
           },
           {
-            "text": "prevents the death",
+            "text": "死を防ぎ",
             "color": "dark_purple"
           },
           {
-            "text": " of the wearer, instead "
+            "text": "、代わりに"
           },
           {
-            "text": "shifting them to a cloud of mist",
+            "text": "霧の雲に変化させることで",
             "color": "dark_purple"
           },
           {
-            "text": " allowing them to fly and make their escape. \n\nIf you take damage that would kill you while wearing this armor, that damage is reduced so that you are left with one hit point and you immediately enter mist form. If you have one hit point, you die as normal. "
+            "text": "飛んで逃げ出すことを可能にします。\n\n この鎧を装備しているときに致命傷を受けた場合体力を1だけ残して食いしばり、即座に霧に変化します。体力がすでに1しかない場合はそのまま死亡します。"
           },
           {
-            "text": "This effect has no cooldown",
+            "text": "この能力にクールダウンはありません",
             "color": "dark_purple"
           },
           {
-            "text": ".  Lastly, this armor enhances "
+            "text": "。  最後に、この鎧は "
           },
           {
-            "text": "Mist Form, making it a toggle when cast as a spell and increasing its flight speed.",
+            "text": "霧化の呪文を強化し、制限時間が無限になり飛行速度も上昇します。",
             "color": "dark_purple"
           }
         ]
@@ -22801,7 +22801,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "防護"
+        "value": "ダメージ軽減"
       },
       {
         "type": "text",
