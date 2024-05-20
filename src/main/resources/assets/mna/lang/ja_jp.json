@@ -956,7 +956,8 @@
 	"effect.mna.earthquake": "地震",
 	"effect.mna.amplify_magic": "魔法強化",
 
-	"effect.mna.dampen_magic": "Dampen Magic",
+	"effect.mna.dampen_magic": "魔法抑制",
+
 	"effect.mna.soaked": "ずぶ濡れ",
 	"effect.mna.sunder": "Sunder",
 	"effect.mna.frailty": "Frailty",
