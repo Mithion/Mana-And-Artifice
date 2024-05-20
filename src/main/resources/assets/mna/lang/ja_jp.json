@@ -1364,7 +1364,8 @@
 
 	"mna:manaweave_patterns/square": "正方形",
 
-	"mna:manaweave_patterns/triangle": "Triangulus",
+	"mna:manaweave_patterns/triangle": "三角形",
+
 	"mna:manaweave_patterns/slash": "Vulnus",
 	"mna:manaweave_patterns/backslash": "Scalpere",
 	"mna:manaweave_patterns/star": "Estrela",
