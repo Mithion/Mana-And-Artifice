@@ -51,7 +51,7 @@
 	"item.mna.hat_large_witch": "Large Wizard Hat",
 	"item.mna.hat_tall_cowboy": "Tall Cowboy Hat",
 
-	"item.mna.torn_journal_page": "破れたジャーナルページ",
+	"item.mna.torn_journal_page": "破れた論文のページ",
 	"item.mna.torn_journal_page.empty": "判読不能なほど破損しているようです",
 	"item.mna.torn_journal_page.contains": "に関する断片的な文章が含まれているようです。",
 	"item.mna.torn_journal_page.learned.prefix": "あなたの",
@@ -73,9 +73,9 @@
 	"item.mna.book_of_rote.part_not_rote": "%s は暗記ではないので、この本を使ってこの呪文を唱えることはできません。",
 	"item.mna.book_marks": "マークの書",
 	"item.mna.staff_phylactery": "召集の杖",
-	"item.mna.bound_axe": "Bound斧",
-	"item.mna.bound_sword": "Bound Sword",
-	"item.mna.bubble_boat": "Bubble Boat",
+	"item.mna.bound_axe": "魔術の斧",
+	"item.mna.bound_sword": "魔術の剣",
+	"item.mna.bubble_boat": "泡の船",
 	"item.mna.brimstone_charm": "獄炎の御守り",
 	"item.mna.brimstone_boat": "獄炎のボート",
 	"item.mna.battlemage_amulet": "魔導士のアミュレット",
@@ -574,7 +574,7 @@
 	"mna:mage_armor_set_bonus": "(3)セットボーナス:\n +200 最大マナ\n +25% マナ再生",
 	"mna:bone_armor_set_bonus": "(4) セットボーナス:\n 死亡した際に一致時間霧になる\n ダメージから魂を得る\n 強化された霧化",
 	"mna:demon_armor_set_bonus": "(4) セットボーナス:\n 炎の憤怒\n 隕石ジャンプ\n 炎の道",
-	"mna:fey_armor_set_bonus": "(4) セットボーナス:\n 上位飛行\n 攻撃者浮遊/テレポート\n 投射物を弾く確率\n HP再生小",
+	"mna:fey_armor_set_bonus": "(4) セットボーナス:\n 上位飛行\n 攻撃者浮遊/テレポート\n 確率で投射物を弾く\n HP再生小",
 	"mna:council_armor_set_bonus": "(4) セットボーナス:\n 魔法耐性\n +750 最大マナ\n +25% マナ再生\n 飛行\n 投射物反射 (三回)",
 
 	"block.mna.arcane_sentry": "魔法セントリー",
@@ -687,10 +687,10 @@
 	"block.mna.hellfire": "獄炎",
 
 	"block.mna.illusion_block": "幻ブロック",
-	"block.mna.seer_stone": "精霊石",
+	"block.mna.seer_stone": "千里石",
 	"block.mna.seer_stone.whitelist": "Whitelist defining items.  Optional. Player Charms and/or Crystal Phylacteries.",
 	"block.mna.seer_stone.blacklist": "Blacklist defining items.  Optional. Player Charms and/or Crystal Phylacteries.",
-	"block.mna.seer_stone.area": "Search Area Definition.  Optional.  Oneのコーナー of the boundinb box must be within 32 blocks of the seer stone.",
+	"block.mna.seer_stone.area": "Search Area Definition.  Optional.  One corner of the boundinb box must be within 32 blocks of the seer stone.",
 	
 	"block.mna.magicians_workbench": "魔術師の作業台",
 	"block.mna.magicians_workbench.lock_prompt": "右クリックでロック/アンロック",
@@ -2584,7 +2584,7 @@
 	"mna:tier_2/obtain_spell_book.description": "呪文本を入手",
 	"mna:tier_2/study_desk_rote.title": "生徒",
 	"mna:tier_2/study_desk_rote.description": "勉強台で、論文か破れた論文のページを使用して暗記の進捗を上昇させる",
-	"mna:tier_2/advance_tier_3.title": "熟練職人",
+	"mna:tier_2/advance_tier_3.title": "熟練",
 	"mna:tier_2/advance_tier_3.description": "ティア 3 に進む",		
 	
 	"mna:tier_3/magic_level_45.title": "魔法使い",
