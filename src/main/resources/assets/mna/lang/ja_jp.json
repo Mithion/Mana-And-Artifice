@@ -1341,7 +1341,8 @@
 	"event.mna.faction_ally_undead": "As the lich's hand touches you, you feel the breath pulled from your lungs.  You feel cold, getting colder until it feels like it burns. And then, nothing.  Your vision fades to 黒のand you drift.  When you awaken, you feel...different.  You have allied yourself with the Legions of the Undead!",
 	"event.mna.spell_part_rote": "%s を暗記しました！",
 
-	"mna:manaweave_patterns/circle": "Orbeus",
+	"mna:manaweave_patterns/circle": "世界",
+
 	"mna:manaweave_patterns/bolt": "Fulgur",
 	"mna:manaweave_patterns/diamond": "Adamas",
 	"mna:manaweave_patterns/hourglass": "Horarium",
