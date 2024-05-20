@@ -1358,7 +1358,8 @@
 	"mna:manaweave_patterns/knot2": "Auctoro",
 	"mna:manaweave_patterns/knot3": "Relligo",
 	"mna:manaweave_patterns/knot4": "Adnecto",
-	"mna:manaweave_patterns/split_triangle": "Propterea Anguli",
+	"mna:manaweave_patterns/split_triangle": "分割三角形",
+
 	"mna:manaweave_patterns/inverted_split_triangle": "Divisus Propterea Anguli",
 	"mna:manaweave_patterns/square": "Quadratum",
 	"mna:manaweave_patterns/triangle": "Triangulus",
