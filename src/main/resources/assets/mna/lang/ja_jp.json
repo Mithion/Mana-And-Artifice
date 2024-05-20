@@ -1362,7 +1362,8 @@
 
 	"mna:manaweave_patterns/inverted_split_triangle": "逆分割三角形",
 
-	"mna:manaweave_patterns/square": "Quadratum",
+	"mna:manaweave_patterns/square": "正方形",
+
 	"mna:manaweave_patterns/triangle": "Triangulus",
 	"mna:manaweave_patterns/slash": "Vulnus",
 	"mna:manaweave_patterns/backslash": "Scalpere",
