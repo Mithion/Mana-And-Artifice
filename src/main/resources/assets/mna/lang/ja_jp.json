@@ -1434,7 +1434,8 @@
 	"mna:rituals/cold_dark": "冷たい暗闇の儀式",
 	"mna:rituals/hole": "Ritual of the Yawning Chasm",
 	"mna:rituals/staircase": "Ritual of the Earthen Steppes",
-	"mna:rituals/odins_call": "Ritual of Odin's Call",
+	"mna:rituals/odins_call": "オーディンの呼びかけの儀式",
+
 	"mna:rituals/odins_call.sky": "この儀式は、空が見える必要があります。",
 	"mna:rituals/odins_call.storm": "この儀式は、天候が雷である必要があります。",
 	"mna:rituals/wandering_wizard": "行商魔術師の儀式",
