@@ -311,7 +311,8 @@
 	"item.mna.purified_vinteum_ingot": "浄化ヴィンテウムのインゴット",
 	"item.mna.purified_vinteum_coated_iron": "浄化ヴィンテウムで覆われた鉄",
 
-	"item.mna.mithions_magnificent_mbag": "Mithionの素晴らしいM...バッグ",
+	"item.mna.mithions_magnificent_mbag": "Mithionの素晴らしいバ...バッグ",
+
 	"item.mna.practitioners_pouch": "施術者のポーチ",
 	"item.mna.practitioners_pouch.stored": "儀式のパターンが保持されました！",
 	"item.mna.practitioners_pouch.store_failed": "儀式のパターンを保持できませんでした。パターンと触媒を確認し、すべて置いてあることを確認してください。",
