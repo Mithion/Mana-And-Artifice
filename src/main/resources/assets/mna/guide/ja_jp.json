@@ -138,7 +138,6 @@
           }
         ]
       },
-      
       {
         "type": "title",
         "value": "「戻る」の動作",
@@ -522,7 +521,6 @@
             "text": "魔法商",
             "color": "dark_purple"
           },
-          
           {
             "text": "は、ランダムな魔法の花や、"
           },
@@ -544,7 +542,6 @@
             "text": "薬師のポーチ",
             "color": "blue"
           },
-          
           {
             "text": "を売っています。ポーチは革と糸でできており、素材を取り出した後に再利用できます。\n\n魔法商は仕事をするのに"
           },
@@ -573,7 +570,6 @@
           {
             "text": "は、"
           },
-          
           {
             "text": "即興で利用できるマナ織りの瓶詰や、"
           },
@@ -602,7 +598,6 @@
             "text": "マナ織り師のポーチ",
             "color": "blue"
           },
-
           {
             "text": "を売っています。ポーチは革と糸でできており、素材を取り出した後に再利用できます。\n\nマナ織り師は仕事をするのに"
           },
@@ -631,7 +626,6 @@
           {
             "text": "は、"
           },
-          
           {
             "text": "様々なルーンや、"
           },
@@ -639,11 +633,9 @@
             "text": "マーキングのルーン",
             "color": "blue"
           },
-          
           {
             "text": "、"
           },
-          
           {
             "text": "その他コンストラクトやルーン鍛冶に便利なアイテムが含まれる",
             "color": "blue"
@@ -856,7 +848,6 @@
           {
             "text": "に生息します"
           },
-          
           {
             "text": "。砂漠の一番寒い夜でも暖かく、ポケットに忍ばせて防寒対策に使う人も多いです。"
           }
@@ -1677,7 +1668,6 @@
             "text": "早くなり",
             "color": "dark_purple"
           },
-          
           {
             "text": "、そして"
           },
@@ -1973,7 +1963,7 @@
             "text": "し、２以上のティアで、一つのティアにつき召喚上限が一つ増加します。"
           },
           {
-          	"text": "\nこの道は自己責任で選んでください。\n\nオキュラスでは、不死者の派閥限定のものには、以下のようなアイコンが表示されます："
+            "text": "\nこの道は自己責任で選んでください。\n\nオキュラスでは、不死者の派閥限定のものには、以下のようなアイコンが表示されます："
           }
         ]
       },
@@ -1992,7 +1982,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "命令"
+        "value": "コマンド"
       },
       {
         "type": "text",
@@ -2924,7 +2914,6 @@
             "text": "組み合わせる",
             "color": "dark_purple"
           },
-
           {
             "text": "事ができます。\n\n"
           },
@@ -3085,33 +3074,33 @@
       }
     ],
     "related_recipes": [
-    	{
-	  		"locations": [
-	        	"mna:staves/staff_amethyst",
-	          	"mna:staves/staff_aum",
-	          	"mna:staves/staff_cerublossom",
-	          	"mna:staves/staff_chimerite",
-	          	"mna:staves/staff_desertnova",
-	          	"mna:staves/staff_emerald",
-	          	"mna:staves/staff_glass",
-	          	"mna:staves/staff_gold",
-	          	"mna:staves/staff_iron",
-	          	"mna:staves/staff_lapis",
-	          	"mna:staves/staff_netherquartz",
-	          	"mna:staves/staff_prismarinecrystal",
-	          	"mna:staves/staff_prismarineshard",
-	          	"mna:staves/staff_redstone",
-	          	"mna:staves/staff_skull",
-	          	"mna:staves/staff_tarma",
-	          	"mna:staves/staff_vinteum",
-	          	"mna:staves/staff_wakebloom"
-	        ],
-	        "type": "crafting"
-    	},
-    	{
-	  		"location": "mna:staves/bangle",
-	        "type": "crafting"
-    	}
+      {
+        "locations": [
+          "mna:staves/staff_amethyst",
+          "mna:staves/staff_aum",
+          "mna:staves/staff_cerublossom",
+          "mna:staves/staff_chimerite",
+          "mna:staves/staff_desertnova",
+          "mna:staves/staff_emerald",
+          "mna:staves/staff_glass",
+          "mna:staves/staff_gold",
+          "mna:staves/staff_iron",
+          "mna:staves/staff_lapis",
+          "mna:staves/staff_netherquartz",
+          "mna:staves/staff_prismarinecrystal",
+          "mna:staves/staff_prismarineshard",
+          "mna:staves/staff_redstone",
+          "mna:staves/staff_skull",
+          "mna:staves/staff_tarma",
+          "mna:staves/staff_vinteum",
+          "mna:staves/staff_wakebloom"
+        ],
+        "type": "crafting"
+      },
+      {
+        "location": "mna:staves/bangle",
+        "type": "crafting"
+      }
     ]
   },
   "Ritual How-To": {
@@ -3147,7 +3136,6 @@
           {
             "text": "。 \n\nその後、 "
           },
-          
           {
             "text": "浄化ヴィンテウムの粉",
             "color": "blue"
@@ -3159,7 +3147,6 @@
             "text": "中心を起動してください",
             "color": "dark_purple"
           },
-          
           {
             "text": "。 儀式が起動し、必要な触媒が表示されます。 "
           },
@@ -3188,7 +3175,6 @@
           {
             "text": "してください。"
           },
-          
           {
             "text": "これにより、儀式の詠唱が開始されます。"
           }
@@ -4381,7 +4367,7 @@
             "italic": true
           },
           {
-          	"text": "the locating patterns, as well as "
+            "text": "the locating patterns, as well as "
           },
           {
             "text": "Maps and Compasses.",
@@ -4762,7 +4748,6 @@
   "Gate": {
     "index": 0,
     "category": "rituals",
-    "tier": 4,
     "sections": [
       {
         "type": "title",
@@ -5536,7 +5521,6 @@
   "Sanctum Invocation": {
     "index": 0,
     "category": "rituals",
-    "tier": 3,
     "sections": [
       {
         "type": "title",
@@ -5615,7 +5599,6 @@
   "Flat Lands": {
     "index": 0,
     "category": "rituals",
-    "tier": 2,
     "sections": [
       {
         "type": "title",
@@ -5714,7 +5697,6 @@
   "Monsoon": {
     "index": 0,
     "category": "rituals",
-    "tier": 4,
     "sections": [
       {
         "type": "title",
@@ -10486,7 +10468,7 @@
           {
             "text": "ルーン刻印テーブル",
             "color": "blue"
-          },     
+          },
           {
             "text": "に置きます。 \n\n これらの道具は使うことで、必要なパターンを刻み込むことができます。ミスをやり直すのは高額なので、細心の注意を払うべきでしょう！ノミ跡をもとに戻すには、粘土と知識"
           },
@@ -11565,7 +11547,6 @@
         "type": "text",
         "value": "Some of the items that I make have an internal charge, such as the Amulet of Warding or the Ring of Silk.  These items will lose charge whenever they perform their effect.  They will automatically pull mana from Mana Crystal Fragments in your inventory to help them last longer.  When their charge finally runs out, some of them can be recharged by holding them in your hand and holding right click to channel mana into them.  Not all items can be recharged in this manner though.  Their tooltip will indicate which methods they allow.\n\nAll chargeable items can also be recharged by a mechanic called Pedestal Charging.  To do this, simply craft a Mana Crystal and a Pedestal, and place them within 8 blocks of each other.  Place the item on the pedestal and the crystal will charge it up over time.  A single crystal can charge multiple items.",
         "json": [
-          
           {
             "text": "結界のアミュレット",
             "color": "blue"
@@ -11583,12 +11564,10 @@
           {
             "text": "作成するアイテムのいくつかは、"
           },
-          
           {
             "text": "マナを貯蔵",
             "color": "dark_purple"
           },
-          
           {
             "text": "しています。 これらのアイテムは、使用されるたびに貯蔵マナを消費します。\n\n これらは、長持ちさせるために自動で"
           },
@@ -12300,13 +12279,13 @@
       }
     ]
   },
-  "Slipstream Generator": {
+  "スリップストリーム発生装置": {
     "index": 0,
     "category": "artifice",
     "sections": [
       {
         "type": "title",
-        "value": "Slipstream Generator"
+        "value": "スリップストリーム発生装置"
       },
       {
         "type": "text",
@@ -12670,13 +12649,13 @@
       }
     ]
   },
-  "Magician's Workbench": {
+  "魔術師の作業台": {
     "index": 0,
     "category": "artifice",
     "sections": [
       {
         "type": "title",
-        "value": "Magician's Workbench"
+        "value": "魔術師の作業台"
       },
       {
         "type": "text",
@@ -13275,13 +13254,13 @@
       }
     ]
   },
-  "Brimstone Charm": {
+  "獄炎の御守り": {
     "index": 1,
     "category": "artifice",
     "sections": [
       {
         "type": "title",
-        "value": "Brimstone Charm"
+        "value": "獄炎の御守り"
       },
       {
         "type": "text",
@@ -13710,13 +13689,13 @@
       }
     ]
   },
-  "Antidote Bracelet": {
+  "解毒のブレスレット": {
     "index": 1,
     "category": "artifice",
     "sections": [
       {
         "type": "title",
-        "value": "Antidote Bracelet"
+        "value": "解毒のブレスレット"
       },
       {
         "type": "text",
@@ -13894,13 +13873,13 @@
       }
     ]
   },
-  "Belt of Locks": {
+  "鍵のベルト": {
     "index": 1,
     "category": "artifice",
     "sections": [
       {
         "type": "title",
-        "value": "Belt of Locks"
+        "value": "鍵のベルト"
       },
       {
         "type": "text",
@@ -13926,7 +13905,7 @@
       }
     ]
   },
-  "Belt of Selfishness": {
+  "利己的なベルト": {
     "index": 1,
     "category": "artifice",
     "sections": [
@@ -13965,13 +13944,13 @@
       }
     ]
   },
-  "Staff of the Pilgrim": {
+  "旅人の大杖": {
     "index": 1,
     "category": "artifice",
     "sections": [
       {
         "type": "title",
-        "value": "Staff of the Pilgrim"
+        "value": "旅人の大杖"
       },
       {
         "type": "text",
@@ -14193,13 +14172,13 @@
       }
     ]
   },
-  "Ring of Collection": {
+  "回収のリング": {
     "index": 1,
     "category": "artifice",
     "sections": [
       {
         "type": "title",
-        "value": "Ring of Collection"
+        "value": "回収のリング"
       },
       {
         "type": "text",
@@ -14239,13 +14218,13 @@
       }
     ]
   },
-  "Ring of Collection (Greater)": {
+  "回収のリング (上位)": {
     "index": 1,
     "category": "artifice",
     "sections": [
       {
         "type": "title",
-        "value": "Ring of Collection (Greater)"
+        "value": "回収のリング (上位)"
       },
       {
         "type": "text",
@@ -14759,7 +14738,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ender Disc"
+        "value": "エンダーディスク"
       },
       {
         "type": "text",
@@ -15038,7 +15017,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Hellfire Trident"
+        "value": "獄炎のトライデント"
       },
       {
         "type": "text",
@@ -16277,19 +16256,19 @@
         ]
       },
       {
-      	"type": "text",
-      	"json": [
-      		{
-      			"text": "Constructs practice "
-      		},
-      		{
-      			"text": "co-la-bo-ra-tion ",
-      			"color": "blue"
-      		},
-      		{
-      			"text": "when performing tasks through a Lodestar or a Delegation Station.  When I have multiple constructs assigned to the same Lodestar or Delegation Station, they will share the work, splitting the tasks among them instead of each one trying to do the same thing."
-      		}
-      	]
+        "type": "text",
+        "json": [
+          {
+            "text": "Constructs practice "
+          },
+          {
+            "text": "co-la-bo-ra-tion ",
+            "color": "blue"
+          },
+          {
+            "text": "when performing tasks through a Lodestar or a Delegation Station.  When I have multiple constructs assigned to the same Lodestar or Delegation Station, they will share the work, splitting the tasks among them instead of each one trying to do the same thing."
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -16596,7 +16575,7 @@
       }
     ]
   },
-  "Command: Take Item": {
+  "命令： Take Item": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16649,7 +16628,7 @@
       }
     ]
   },
-  "Command: Wait": {
+  "命令： Wait": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16675,7 +16654,7 @@
       }
     ]
   },
-  "Command: Place Item": {
+  "命令： Place Item": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16715,7 +16694,7 @@
       }
     ]
   },
-  "Command: Runescribe": {
+  "命令： Runescribe": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16755,7 +16734,7 @@
       }
     ]
   },
-  "Command: Forge": {
+  "命令： Forge": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16788,7 +16767,7 @@
       }
     ]
   },
-  "Command: Harvest": {
+  "命令： Harvest": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16834,7 +16813,7 @@
       }
     ]
   },
-  "Command: Plant": {
+  "命令： Plant": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16874,7 +16853,7 @@
       }
     ]
   },
-  "Command: Activate": {
+  "命令： Activate": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16900,13 +16879,13 @@
       }
     ]
   },
-  "Command: Move": {
+  "命令： 移動": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Move"
+        "value": "命令：移動"
       },
       {
         "type": "text",
@@ -16926,13 +16905,13 @@
       }
     ]
   },
-  "Command: Drop Item": {
+  "命令： アイテムを落とす": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Drop Item"
+        "value": "命令： アイテムを落とす"
       },
       {
         "type": "text",
@@ -16952,10 +16931,10 @@
       }
     ]
   },
-  "Command: Guard": {
-  	"index": 4,
-  	"category": "constructs",
-  	"sections": [
+  "命令： 警備": {
+    "index": 4,
+    "category": "constructs",
+    "sections": [
       {
         "type": "title",
         "value": "命令: 警備"
@@ -16985,13 +16964,13 @@
       }
     ]
   },
-  "Command: Patrol": {
+  "命令： パトロール": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Patrol"
+        "value": "命令： パトロール"
       },
       {
         "type": "text",
@@ -17018,13 +16997,13 @@
       }
     ]
   },
-  "Command: Craft": {
+  "命令： 作成": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Craft"
+        "value": "命令： 作成"
       },
       {
         "type": "text",
@@ -17082,13 +17061,13 @@
       }
     ]
   },
-  "Command: Crush": {
+  "命令： 粉砕": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Crush"
+        "value": "命令： 粉砕"
       },
       {
         "type": "text",
@@ -17189,13 +17168,13 @@
       }
     ]
   },
-  "Command: Breed": {
+  "命令： 繁殖": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Breed"
+        "value": "命令： 繁殖"
       },
       {
         "type": "text",
@@ -17229,13 +17208,13 @@
       }
     ]
   },
-  "Command: Butcher": {
+  "命令： 屠殺": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Butcher"
+        "value": "命令： 屠殺"
       },
       {
         "type": "text",
@@ -17255,13 +17234,13 @@
       }
     ]
   },
-  "Command: Shear / Pluck": {
+  "命令： 刈り取り/摘み取り": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Shear / Pluck"
+        "value": "命令： 刈り取り/摘み取り"
       },
       {
         "type": "text",
@@ -17274,21 +17253,21 @@
             "color": "dark_purple"
           },
           {
-            "text": " within the configured radius. \n\nIf the construct does not have a "
+            "text": " within the configured radius.\n\nIf the construct does not have a "
           },
           {
             "text": "smart head",
             "color": "dark_purple"
           },
           {
-            "text": ", it will cause minor injury to chickens. \n\nThe construct "
+            "text": ", it will cause minor injury to chickens.\n\nThe construct "
           },
           {
             "text": "must have a blade arm",
             "color": "dark_purple"
           },
           {
-            "text": " in order to use this task. \n\nIf the "
+            "text": " in order to use this task.\n\nIf the "
           },
           {
             "text": "parameter ",
@@ -17308,13 +17287,13 @@
       }
     ]
   },
-  "Command: Milk": {
+  "命令： 乳搾り": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Milk"
+        "value": "命令：乳搾り"
       },
       {
         "type": "text",
@@ -17340,13 +17319,13 @@
       }
     ]
   },
-  "Command: Place Block": {
+  "命令： ブロック設置": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Place Block"
+        "value": "命令： ブロック設置"
       },
       {
         "type": "text",
@@ -17372,13 +17351,13 @@
       }
     ]
   },
-  "Command: Chop Trees": {
+  "命令： 伐採": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Chop Trees"
+        "value": "命令： 伐採"
       },
       {
         "type": "text",
@@ -17405,13 +17384,13 @@
       }
     ]
   },
-  "Command: Gather Fluid From Source Blocks": {
+  "命令： 源のブロックから液体を回収": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Gather Fluid From Source Blocks"
+        "value": "命令： 源のブロックから液体を回収"
       },
       {
         "type": "text",
@@ -17438,13 +17417,13 @@
       }
     ]
   },
-  "Command: Place Fluid In World": {
+  "命令： ワールドに液体を設置": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Place Fluid In World"
+        "value": "命令： ワールドに液体を設置"
       },
       {
         "type": "text",
@@ -17471,13 +17450,13 @@
       }
     ]
   },
-  "Command: Water Plants": {
+  "命令： 水やり": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Water Plants"
+        "value": "命令： 水やり"
       },
       {
         "type": "text",
@@ -17511,13 +17490,13 @@
       }
     ]
   },
-  "Command: Gather Items": {
+  "命令： アイテム回収": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Gather Items"
+        "value": "命令： アイテム回収"
       },
       {
         "type": "text",
@@ -17551,13 +17530,13 @@
       }
     ]
   },
-  "Command: Fish": {
+  "命令：釣り": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Fish"
+        "value": "命令： 釣り"
       },
       {
         "type": "text",
@@ -17591,13 +17570,13 @@
       }
     ]
   },
-  "Command: Eat Item": {
+  "命令：アイテムを食べる": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Eat Item"
+        "value": "命令： アイテムを食べる"
       },
       {
         "type": "text",
@@ -17617,13 +17596,13 @@
       }
     ]
   },
-  "Command: Mine": {
+  "命令： 採掘": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Mine"
+        "value": "命令： 採掘"
       },
       {
         "type": "text",
@@ -17668,13 +17647,13 @@
       }
     ]
   },
-  "Command: Adventure": {
+  "命令： 冒険": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Adventure"
+        "value": "命令： 冒険"
       },
       {
         "type": "text",
@@ -17712,13 +17691,13 @@
       }
     ]
   },
-  "Command: Hunt": {
+  "命令： 狩り": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Hunt"
+        "value": "命令： 狩り"
       },
       {
         "type": "text",
@@ -17732,7 +17711,7 @@
           },
           {
             "text": ". When it returns it will have some random dimension-appropriate hunting loot it found on its journey. \n\n"
-          },          
+          },
           {
             "text": "It will require either a "
           },
@@ -17781,13 +17760,13 @@
       }
     ]
   },
-  "Command: Use Item on Block": {
+  "命令： ブロックにアイテムを使用": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Use Item on Block"
+        "value": "命令： ブロックにアイテムを使用"
       },
       {
         "type": "text",
@@ -17814,13 +17793,13 @@
       }
     ]
   },
-  "Command: Gather Fluid From Container": {
+  "命令： 容器からアイテムを取る": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Gather Fluid From Container"
+        "value": "命令： 容器からアイテムを取る"
       },
       {
         "type": "text",
@@ -17847,13 +17826,13 @@
       }
     ]
   },
-  "Command: Place Fluid In Container": {
+  "命令： 容器に液体を追加": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Place Fluid In Container"
+        "value": "命令： 容器に液体を追加"
       },
       {
         "type": "text",
@@ -17880,13 +17859,13 @@
       }
     ]
   },
-  "Command: Break Blocks": {
+  "命令： ブロックを破壊": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Break Blocks"
+        "value": "命令： ブロックを破壊"
       },
       {
         "type": "text",
@@ -17913,13 +17892,13 @@
       }
     ]
   },
-  "Condition: Is Block At Location": {
+  "条件 : 場所にブロックがあるか": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Condition: Is Block At Location"
+        "value": "条件 : 場所にブロックがあるか"
       },
       {
         "type": "text",
@@ -17953,13 +17932,13 @@
       }
     ]
   },
-  "Condition: Is Area Empty": {
+  "条件 : 範囲が空か": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Condition: Is Area Empty"
+        "value": "条件 : 範囲が空か"
       },
       {
         "type": "text",
@@ -17993,13 +17972,13 @@
       }
     ]
   },
-  "Condition: Is Health Above Percent": {
+  "条件 : 体力が一定割合あるか": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Condition: Is Health Above Percent"
+        "value": "条件 : 体力が一定割合あるか"
       },
       {
         "type": "text",
@@ -18033,13 +18012,13 @@
       }
     ]
   },
-  "Condition: Has Name": {
+  "条件 : 名前が一致しているか": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Condition: Has Name"
+        "value": "条件 : 名前が一致しているか"
       },
       {
         "type": "text",
@@ -18080,13 +18059,13 @@
       }
     ]
   },
-  "Condition: Construct Has Item": {
+  "条件 : コンストラクトがブロックを持っている": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Condition: Construct Has Item"
+        "value": "条件 : コンストラクトがブロックを持っている"
       },
       {
         "type": "text",
@@ -18120,13 +18099,13 @@
       }
     ]
   },
-  "Condition: Is Entity In Area": {
+  "条件 : 範囲にエンティティがいるか": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Condition: Is Entity In Area"
+        "value": "条件 : 範囲にエンティティがいるか"
       },
       {
         "type": "text",
@@ -18167,13 +18146,13 @@
       }
     ]
   },
-  "Condition: Is Container Empty": {
+  "条件 : 容器が空か": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Condition: Is Container Empty"
+        "value": "条件 : 容器が空か"
       },
       {
         "type": "text",
@@ -18207,13 +18186,13 @@
       }
     ]
   },
-  "Condition: Is Fluid In Container": {
+  "条件 : 液体が容器にあるか": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Condition: Is Fluid In Container"
+        "value": "条件 : 液体が容器にあるか"
       },
       {
         "type": "text",
@@ -18247,13 +18226,13 @@
       }
     ]
   },
-  "Condition: Is Item In Container": {
+  "条件 : アイテムが容器にあるか": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Condition: Is Item In Container"
+        "value": "条件 : アイテムが容器にあるか"
       },
       {
         "type": "text",
@@ -18287,13 +18266,13 @@
       }
     ]
   },
-  "Condition: Is Time of Day Within Range": {
+  "条件 : どの時間帯か": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Condition: Is Time of Day Within Range"
+        "value": "条件 : どの時間帯か"
       },
       {
         "type": "text",
@@ -18327,13 +18306,13 @@
       }
     ]
   },
-  "Condition: Is Block Redstone Powered": {
+  "条件 : レッドストーン信号がされているか": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Condition: Is Block Redstone Powered"
+        "value": "条件 : レッドストーン信号がされているか"
       },
       {
         "type": "text",
@@ -18367,13 +18346,13 @@
       }
     ]
   },
-  "Condition: Random Chance": {
+  "条件 : ランダムな確率": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Condition: Random Chance"
+        "value": "条件 : ランダムな確率"
       },
       {
         "type": "text",
@@ -19781,7 +19760,6 @@
   "Eldrin Power": {
     "index": -100,
     "category": "eldrin_altar",
-    "tier": 2,
     "sections": [
       {
         "type": "title",
@@ -20127,7 +20105,7 @@
           }
         ]
       },
-     {
+      {
         "type": "title",
         "value": "ダウジングロッド",
         "newPage": true
@@ -20279,7 +20257,6 @@
   "Capturing Eldrin Wellsprings": {
     "index": -97,
     "category": "eldrin_altar",
-    "tier": 4,
     "sections": [
       {
         "type": "title",
@@ -20386,17 +20363,17 @@
             "text": "できます。導管が、エネルギーを現実世界に転送します。導管は、種類によって別の属性のエネルギーを供給します。\n\n 下位導管はエネルギーを転送する速度が遅く、内部ストレージバッファが小さいです。 需要を満たすためには複数設置するか、上位の導管にアップグレードする必要があります。"
           },
           {
-          	"text": "\n\n導管はさらに "
+            "text": "\n\n導管はさらに "
           },
           {
             "text": "範囲と充電速度があり",
             "color": "dark_purple"
           },
           {
-          	"text": "、どれだけ遠くに共有できるか、そしてどれだけ早く内部容量に龍脈の力を転送するかを決めます。需要を満たせない場合、導管はオーバーヒートすることがあります。これは導管を破壊しませんが、供給しているのを遅くします。導管はレッドストーンシグナルを与えることで、オフにすることもできます。"
+            "text": "、どれだけ遠くに共有できるか、そしてどれだけ早く内部容量に龍脈の力を転送するかを決めます。需要を満たせない場合、導管はオーバーヒートすることがあります。これは導管を破壊しませんが、供給しているのを遅くします。導管はレッドストーンシグナルを与えることで、オフにすることもできます。"
           },
           {
-          	"text": "\n\n オーバーヒートは視覚的に判断でき、さらに、起動することで誰が導管を使用するか変更できます。"
+            "text": "\n\n オーバーヒートは視覚的に判断でき、さらに、起動することで誰が導管を使用するか変更できます。"
           }
         ]
       }
@@ -20429,7 +20406,6 @@
   "Eldrin Altar": {
     "index": -95,
     "category": "eldrin_altar",
-    "tier": 4,
     "sections": [
       {
         "type": "title",
@@ -21044,7 +21020,6 @@
             "italic": true,
             "color": "blue"
           },
-
           {
             "text": ")、以下のルールが適応されます:",
             "italic": true
@@ -23325,13 +23300,13 @@
       }
     ]
   },
-  "Command: Duel": {
+  "命令： Duel": {
     "index": "4",
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Duel"
+        "value": "命令： Duel"
       },
       {
         "type": "text",
@@ -23359,13 +23334,13 @@
     ],
     "related_recipes": []
   },
-  "Command: Cast Spell at Target": {
+  "命令： Cast Spell at Target": {
     "index": "4",
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "Command: Cast Spell at Target"
+        "value": "命令： Cast Spell at Target"
       },
       {
         "type": "text",
@@ -24554,7 +24529,6 @@
   "Component: Greater Animus": {
     "index": "2",
     "category": "sorcery",
-    "tier": 5,
     "sections": [
       {
         "type": "title",
@@ -24911,7 +24885,7 @@
       }
     ]
   },
-  "Prismatic Amulet": {
+  "プリズムのアミュレット": {
     "index": "1",
     "category": "artifice",
     "sections": [
@@ -25466,7 +25440,7 @@
           {
             "text": ", though it can store any item."
           },
-           {
+          {
             "text": "\n\nItems not in the above list will render as scrolls in the display slots.  There is a tag to make additional items render as potions in the shelf instead.",
             "italic": true
           }
