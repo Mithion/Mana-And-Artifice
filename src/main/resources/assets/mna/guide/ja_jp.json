@@ -1992,11 +1992,11 @@
     "sections": [
       {
         "type": "title",
-        "value": "コマンド"
+        "value": "命令"
       },
       {
         "type": "text",
-        "value": "このMODには、モデレーターがサーバにいる人を助けたり、クリエイティブモードでテストを行うために使用するいくつかのコマンドが含まれています。 すべてのコマンドはルート '/mna' コマンドの下に含まれています。"
+        "value": "このMODには、モデレーターがサーバにいる人を助けたり、クリエイティブモードでテストを行うために使用するいくつかの命令が含まれています。 すべての命令はルート '/mna' 命令の下に含まれています。"
       }
     ],
     "related_recipes": []
@@ -2261,7 +2261,7 @@
       },
       {
         "type": "title",
-        "value": "Thesis Desk"
+        "value": "論文台"
       },
       {
         "type": "text",
@@ -4612,7 +4612,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ritual of the Yawning Chasm"
+        "value": "深淵の儀式"
       },
       {
         "type": "text",
@@ -6110,7 +6110,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Foci"
+        "value": "焦点"
       },
       {
         "type": "text",
@@ -12028,7 +12028,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Elemental Sentries"
+        "value": "属性のセントリー"
       },
       {
         "type": "text",
@@ -12359,7 +12359,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Seer Stone"
+        "value": "千里石"
       },
       {
         "type": "text",
@@ -12537,7 +12537,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Redstone Spell Trigger"
+        "value": "呪文レッドストーン検知"
       },
       {
         "type": "text",
@@ -12576,7 +12576,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pedestal"
+        "value": "ペデスタル"
       },
       {
         "type": "text",
@@ -13094,7 +13094,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Fluid urns"
+        "value": "液体の壺"
       },
       {
         "type": "text",
@@ -13167,7 +13167,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Staff of Calling"
+        "value": "召喚の大杖"
       },
       {
         "type": "text",
@@ -13199,7 +13199,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Bubble Boat"
+        "value": "泡の船"
       },
       {
         "type": "text",
@@ -13235,7 +13235,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Brimstone Boat"
+        "value": "獄炎の船"
       },
       {
         "type": "text",
@@ -13524,7 +13524,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Emberglow Bracelet"
+        "value": "琥珀輝のブレスレット"
       },
       {
         "type": "text",
@@ -13570,7 +13570,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Coffin"
+        "value": "棺"
       },
       {
         "type": "text",
@@ -13677,7 +13677,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Cowl of Consumption"
+        "value": "摂取のカウル"
       },
       {
         "type": "text",
@@ -13755,7 +13755,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Trickery Bracelet"
+        "value": "妖術のブレスレット"
       },
       {
         "type": "text",
@@ -13808,7 +13808,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ring of the Skies"
+        "value": "天空の指輪"
       },
       {
         "type": "text",
@@ -13861,7 +13861,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ring of Brittle Bone"
+        "value": "脆い骨の指輪"
       },
       {
         "type": "text",
@@ -13932,7 +13932,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Belt of Selfishness"
+        "value": "利己的なベルト"
       },
       {
         "type": "text",
@@ -14121,7 +14121,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Witherguard Amulet"
+        "value": "ウィザー防護のアミュレット"
       },
       {
         "type": "text",
@@ -14160,7 +14160,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Enderguard Amulet"
+        "value": "エンダー防護のアミュレット"
       },
       {
         "type": "text",
@@ -14414,7 +14414,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ring of the Enderman"
+        "value": "エンダーマンの指輪"
       },
       {
         "type": "text",
@@ -14855,7 +14855,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Arcane Crown"
+        "value": "神秘の王冠"
       },
       {
         "type": "text",
@@ -14908,7 +14908,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Spectral Elytra"
+        "value": "分光のエリトラ"
       },
       {
         "type": "text",
@@ -14947,7 +14947,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Faction Horns"
+        "value": "派閥の角笛"
       },
       {
         "type": "text",
@@ -14995,7 +14995,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Hellfire Staff"
+        "value": "獄炎の杖"
       },
       {
         "type": "text",
@@ -15926,7 +15926,7 @@
         "value": "Incidental commands are given using a Bell of Bidding.  Use the radial menu on the bell to select your command, then right click on something.  The commands are contextual.  The following commands are available:",
         "json": [
           {
-            "text": "一度きりのコマンドは、"
+            "text": "一度きりの命令は、"
           },
           {
             "text": "命令の鐘",
@@ -16325,7 +16325,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Patterning Prisms"
+        "value": "パターンプリズム"
       },
       {
         "type": "text",
@@ -16602,7 +16602,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: Take Item"
+        "value": "命令: アイテムを取る"
       },
       {
         "type": "text",
@@ -16655,7 +16655,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: Wait"
+        "value": "命令: 待機"
       },
       {
         "type": "text",
@@ -16681,7 +16681,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: Place Item"
+        "value": "命令: アイテム設置"
       },
       {
         "type": "text",
@@ -16721,7 +16721,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: Runescribe"
+        "value": "命令: ルーン刻み"
       },
       {
         "type": "text",
@@ -16761,7 +16761,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: Forge"
+        "value": "命令: 鍛造"
       },
       {
         "type": "text",
@@ -16794,7 +16794,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: Harvest"
+        "value": "命令: 収穫"
       },
       {
         "type": "text",
@@ -16840,7 +16840,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: Plant"
+        "value": "命令: 植える"
       },
       {
         "type": "text",
@@ -16880,7 +16880,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: Activate"
+        "value": "命令: 起動"
       },
       {
         "type": "text",
@@ -16958,7 +16958,7 @@
   	"sections": [
       {
         "type": "title",
-        "value": "Command: Guard"
+        "value": "命令: 警備"
       },
       {
         "type": "text",
@@ -21388,7 +21388,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Bulwarkの鎧オーラ"
+        "value": "城壁のオーラ"
       },
       {
         "type": "text",
@@ -23190,7 +23190,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Soul Speed"
+        "value": "ソウルスピード"
       },
       {
         "type": "text",
@@ -23230,7 +23230,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Thorns"
+        "value": "防護"
       },
       {
         "type": "text",
@@ -24956,7 +24956,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Fortifying Amulet"
+        "value": "要塞のアミュレット"
       },
       {
         "type": "text",
@@ -25515,7 +25515,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Dowsing Rod"
+        "value": "ダウジングロッド"
       },
       {
         "type": "text",
