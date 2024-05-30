@@ -1167,7 +1167,7 @@
 	"construct.mna:take_fluid_from_container": "容器から液体を回収",
 	"construct.mna:place_fluid_in_container": "容器に液体を追加",
 	"construct.mna:use_item_on_block": "アイテムをブロックに使用",
-	"construct.mna:has_item": "条件：コンストラクトがブロックを持っているか",
+	"construct.mna:has_item": "条件：コンストラクトがアイテムを持っているか",
 	"construct.mna:find_block": "条件：場所にブロックがあるか",
 	"construct.mna:find_entity": "条件：範囲にエンティティがいるか",
 	"construct.mna:container_empty": "条件：容器が空か",

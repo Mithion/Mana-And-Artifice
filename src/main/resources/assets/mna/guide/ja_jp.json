@@ -5079,7 +5079,7 @@
             "text": "この儀式は火の属性と獄炎の力をエッセンスに閉じ込めます。 \n"
           },
           {
-            "text": "この儀式はネザーでのみ行えます。",
+            "text": "この儀式はネザーでのみ行えます",
             "color": "dark_purple"
           },
           {
@@ -12007,7 +12007,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "属性のセントリー"
+        "value": "属性別の神秘のセントリー"
       },
       {
         "type": "text",
@@ -12279,7 +12279,7 @@
       }
     ]
   },
-  "スリップストリーム発生装置": {
+  "Slipstream Generator": {
     "index": 0,
     "category": "artifice",
     "sections": [
@@ -12649,7 +12649,7 @@
       }
     ]
   },
-  "魔術師の作業台": {
+  "Magician's Workbench": {
     "index": 0,
     "category": "artifice",
     "sections": [
@@ -13254,7 +13254,7 @@
       }
     ]
   },
-  "獄炎の御守り": {
+  "Brimstone Charm": {
     "index": 1,
     "category": "artifice",
     "sections": [
@@ -13689,7 +13689,7 @@
       }
     ]
   },
-  "解毒のブレスレット": {
+  "Antidote Bracelet": {
     "index": 1,
     "category": "artifice",
     "sections": [
@@ -13873,7 +13873,7 @@
       }
     ]
   },
-  "鍵のベルト": {
+  "Belt of Locks": {
     "index": 1,
     "category": "artifice",
     "sections": [
@@ -13905,7 +13905,7 @@
       }
     ]
   },
-  "利己的なベルト": {
+  "Belt of Selfishness": {
     "index": 1,
     "category": "artifice",
     "sections": [
@@ -13944,7 +13944,7 @@
       }
     ]
   },
-  "旅人の大杖": {
+  "Staff of the Pilgrim": {
     "index": 1,
     "category": "artifice",
     "sections": [
@@ -14172,7 +14172,7 @@
       }
     ]
   },
-  "回収のリング": {
+  "Ring of Collection": {
     "index": 1,
     "category": "artifice",
     "sections": [
@@ -14218,7 +14218,7 @@
       }
     ]
   },
-  "回収のリング (上位)": {
+  "Ring of Collection (Greater)": {
     "index": 1,
     "category": "artifice",
     "sections": [
@@ -16575,7 +16575,7 @@
       }
     ]
   },
-  "命令： Take Item": {
+  "Command: Take Item": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16628,7 +16628,7 @@
       }
     ]
   },
-  "命令： Wait": {
+  "Command: Wait": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16654,7 +16654,7 @@
       }
     ]
   },
-  "命令： Place Item": {
+  "Command: Place Item": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16694,7 +16694,7 @@
       }
     ]
   },
-  "命令： Runescribe": {
+  "Command: Runescribe": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16734,7 +16734,7 @@
       }
     ]
   },
-  "命令： Forge": {
+  "Command: Forge": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16767,7 +16767,7 @@
       }
     ]
   },
-  "命令： Harvest": {
+  "Command: Harvest": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16813,7 +16813,7 @@
       }
     ]
   },
-  "命令： Plant": {
+  "Command: Plant": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16853,7 +16853,7 @@
       }
     ]
   },
-  "命令： Activate": {
+  "Command: Activate": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16879,13 +16879,13 @@
       }
     ]
   },
-  "命令： 移動": {
+  "Command: 移動": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令：移動"
+        "value": "Command:移動"
       },
       {
         "type": "text",
@@ -16905,13 +16905,13 @@
       }
     ]
   },
-  "命令： アイテムを落とす": {
+  "Command: アイテムを落とす": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： アイテムを落とす"
+        "value": "Command: アイテムを落とす"
       },
       {
         "type": "text",
@@ -16931,7 +16931,7 @@
       }
     ]
   },
-  "命令： 警備": {
+  "Command: 警備": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16964,13 +16964,13 @@
       }
     ]
   },
-  "命令： パトロール": {
+  "Command: パトロール": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： パトロール"
+        "value": "Command: パトロール"
       },
       {
         "type": "text",
@@ -16997,13 +16997,13 @@
       }
     ]
   },
-  "命令： 作成": {
+  "Command: 作成": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 作成"
+        "value": "Command: 作成"
       },
       {
         "type": "text",
@@ -17061,13 +17061,13 @@
       }
     ]
   },
-  "命令： 粉砕": {
+  "Command: Crush": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 粉砕"
+        "value": "Command: 粉砕"
       },
       {
         "type": "text",
@@ -17168,13 +17168,13 @@
       }
     ]
   },
-  "命令： 繁殖": {
+  "Command: Breed": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 繁殖"
+        "value": "Command: 繁殖"
       },
       {
         "type": "text",
@@ -17208,13 +17208,13 @@
       }
     ]
   },
-  "命令： 屠殺": {
+  "Command: Butcher": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 屠殺"
+        "value": "Command: 屠殺"
       },
       {
         "type": "text",
@@ -17234,13 +17234,13 @@
       }
     ]
   },
-  "命令： 刈り取り/摘み取り": {
+  "Command: Shear / Pluck": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 刈り取り/摘み取り"
+        "value": "Command: 刈り取り/摘み取り"
       },
       {
         "type": "text",
@@ -17287,13 +17287,13 @@
       }
     ]
   },
-  "命令： 乳搾り": {
+  "Command: Milk": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令：乳搾り"
+        "value": "Command:乳搾り"
       },
       {
         "type": "text",
@@ -17319,13 +17319,13 @@
       }
     ]
   },
-  "命令： ブロック設置": {
+  "Command: Place Block": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： ブロック設置"
+        "value": "Command: ブロック設置"
       },
       {
         "type": "text",
@@ -17351,13 +17351,13 @@
       }
     ]
   },
-  "命令： 伐採": {
+  "Command: Chop Trees": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 伐採"
+        "value": "Command: 伐採"
       },
       {
         "type": "text",
@@ -17384,13 +17384,13 @@
       }
     ]
   },
-  "命令： 源のブロックから液体を回収": {
+  "Command: Gather Fluid From Source Blocks": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 源のブロックから液体を回収"
+        "value": "Command: 源のブロックから液体を回収"
       },
       {
         "type": "text",
@@ -17417,13 +17417,13 @@
       }
     ]
   },
-  "命令： ワールドに液体を設置": {
+  "Command: Place Fluid In World": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： ワールドに液体を設置"
+        "value": "Command: ワールドに液体を設置"
       },
       {
         "type": "text",
@@ -17450,13 +17450,13 @@
       }
     ]
   },
-  "命令： 水やり": {
+  "Command: Water Plants": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 水やり"
+        "value": "Command: 水やり"
       },
       {
         "type": "text",
@@ -17490,13 +17490,13 @@
       }
     ]
   },
-  "命令： アイテム回収": {
+  "Command: Gather Items": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： アイテム回収"
+        "value": "Command: アイテム回収"
       },
       {
         "type": "text",
@@ -17530,13 +17530,13 @@
       }
     ]
   },
-  "命令：釣り": {
+  "Command: Fish": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 釣り"
+        "value": "Command: 釣り"
       },
       {
         "type": "text",
@@ -17570,13 +17570,13 @@
       }
     ]
   },
-  "命令：アイテムを食べる": {
+  "Command: Eat Item": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： アイテムを食べる"
+        "value": "Command: アイテムを食べる"
       },
       {
         "type": "text",
@@ -17596,13 +17596,13 @@
       }
     ]
   },
-  "命令： 採掘": {
+  "Command: Mine": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 採掘"
+        "value": "Command: 採掘"
       },
       {
         "type": "text",
@@ -17647,13 +17647,13 @@
       }
     ]
   },
-  "命令： 冒険": {
+  "Command: Adventure": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 冒険"
+        "value": "Command: 冒険"
       },
       {
         "type": "text",
@@ -17691,13 +17691,13 @@
       }
     ]
   },
-  "命令： 狩り": {
+  "Command: Hunt": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 狩り"
+        "value": "Command: 狩り"
       },
       {
         "type": "text",
@@ -17760,13 +17760,13 @@
       }
     ]
   },
-  "命令： ブロックにアイテムを使用": {
+  "Command: Use Item on Block": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： ブロックにアイテムを使用"
+        "value": "Command: ブロックにアイテムを使用"
       },
       {
         "type": "text",
@@ -17793,13 +17793,13 @@
       }
     ]
   },
-  "命令： 容器からアイテムを取る": {
+  "Command: Gather Fluid From Container": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 容器からアイテムを取る"
+        "value": "Command: 容器からアイテムを取る"
       },
       {
         "type": "text",
@@ -17826,13 +17826,13 @@
       }
     ]
   },
-  "命令： 容器に液体を追加": {
+  "Command: Place Fluid In Container": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： 容器に液体を追加"
+        "value": "Command: 容器に液体を追加"
       },
       {
         "type": "text",
@@ -17859,13 +17859,13 @@
       }
     ]
   },
-  "命令： ブロックを破壊": {
+  "Command: Break Blocks": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： ブロックを破壊"
+        "value": "Command: ブロックを破壊"
       },
       {
         "type": "text",
@@ -17892,13 +17892,13 @@
       }
     ]
   },
-  "条件 : 場所にブロックがあるか": {
+  "Condition: Is Block At Location": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "条件 : 場所にブロックがあるか"
+        "value": "Condition: 場所にブロックがあるか"
       },
       {
         "type": "text",
@@ -17932,13 +17932,13 @@
       }
     ]
   },
-  "条件 : 範囲が空か": {
+  "Condition: Is Area Empty": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "条件 : 範囲が空か"
+        "value": "Condition: 範囲が空か"
       },
       {
         "type": "text",
@@ -17972,13 +17972,13 @@
       }
     ]
   },
-  "条件 : 体力が一定割合あるか": {
+  "Condition: Is Health Above Percent": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "条件 : 体力が一定割合あるか"
+        "value": "Condition: 体力が一定割合あるか"
       },
       {
         "type": "text",
@@ -18012,13 +18012,13 @@
       }
     ]
   },
-  "条件 : 名前が一致しているか": {
+  "Condition: Has Name": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "条件 : 名前が一致しているか"
+        "value": "Condition: 名前が一致しているか"
       },
       {
         "type": "text",
@@ -18059,13 +18059,13 @@
       }
     ]
   },
-  "条件 : コンストラクトがブロックを持っている": {
+  "Condition: Construct Has Item": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "条件 : コンストラクトがブロックを持っている"
+        "value": "Condition: コンストラクトがアイテムを持っている"
       },
       {
         "type": "text",
@@ -18099,13 +18099,13 @@
       }
     ]
   },
-  "条件 : 範囲にエンティティがいるか": {
+  "Condition: Is Entity In Area": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "条件 : 範囲にエンティティがいるか"
+        "value": "Condition: 範囲にエンティティがいるか"
       },
       {
         "type": "text",
@@ -18146,13 +18146,13 @@
       }
     ]
   },
-  "条件 : 容器が空か": {
+  "Condition: Is Container Empty": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "条件 : 容器が空か"
+        "value": "Condition: 容器が空か"
       },
       {
         "type": "text",
@@ -18186,13 +18186,13 @@
       }
     ]
   },
-  "条件 : 液体が容器にあるか": {
+  "ondition: Is Fluid In Container": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "条件 : 液体が容器にあるか"
+        "value": "Condition: 液体が容器にあるか"
       },
       {
         "type": "text",
@@ -18226,13 +18226,13 @@
       }
     ]
   },
-  "条件 : アイテムが容器にあるか": {
+  "Condition: Is Item In Container": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "条件 : アイテムが容器にあるか"
+        "value": "Condition: アイテムが容器にあるか"
       },
       {
         "type": "text",
@@ -18266,13 +18266,13 @@
       }
     ]
   },
-  "条件 : どの時間帯か": {
+  "Condition: Is Time of Day Within Range": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "条件 : どの時間帯か"
+        "value": "Condition: どの時間帯か"
       },
       {
         "type": "text",
@@ -18306,13 +18306,13 @@
       }
     ]
   },
-  "条件 : レッドストーン信号がされているか": {
+  "Condition: Is Block Redstone Powered": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "条件 : レッドストーン信号がされているか"
+        "value": "Condition: レッドストーン信号がされているか"
       },
       {
         "type": "text",
@@ -18346,13 +18346,13 @@
       }
     ]
   },
-  "条件 : ランダムな確率": {
+  "Condition: Random Chance": {
     "index": 4,
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "条件 : ランダムな確率"
+        "value": "Condition: ランダムな確率"
       },
       {
         "type": "text",
@@ -23205,7 +23205,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "防護"
+        "value": "棘の鎧"
       },
       {
         "type": "text",
@@ -23300,13 +23300,13 @@
       }
     ]
   },
-  "命令： Duel": {
+  "Command: Duel": {
     "index": "4",
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： Duel"
+        "value": "Command: Duel"
       },
       {
         "type": "text",
@@ -23334,13 +23334,13 @@
     ],
     "related_recipes": []
   },
-  "命令： Cast Spell at Target": {
+  "Command: Cast Spell at Target": {
     "index": "4",
     "category": "constructs",
     "sections": [
       {
         "type": "title",
-        "value": "命令： Cast Spell at Target"
+        "value": "Command: Cast Spell at Target"
       },
       {
         "type": "text",
@@ -24885,7 +24885,7 @@
       }
     ]
   },
-  "プリズムのアミュレット": {
+  "Prismatic Amulet": {
     "index": "1",
     "category": "artifice",
     "sections": [
