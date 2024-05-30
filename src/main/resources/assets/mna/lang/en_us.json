@@ -366,7 +366,7 @@
 	"item.mna.rune_marking.blockWhenSet": "Block at position when set: %s",
 	"item.mna.rune_marking.face": "Face: %s",	
 	
-	"item.mna.charm_pattern_base": "Charm Base: Pattern",
+	"item.mna.charm_pattern_base": "Pattern: Charm Base",
 	"item.mna.charm_pattern": "Charm Base",
 	
 	"item.mna.rune_pattern_air": "Rune Pattern: Air",
@@ -1264,6 +1264,7 @@
 	"gui.mna.parameter.find_block.point": "What point should the block be searched in?",
 	"gui.mna.parameter.fluid_in_container.filter": "What fluid should be searched for?  Any item that holds a fluid and has some of that fluid in it will do.",
 	"gui.mna.parameter.fluid_in_container.pos": "What container should be searched for fluids?",
+	"gui.mna.parameter.fluid_in_container.pct": "What percent full must the container be in order to consider success?",
 	"gui.mna.parameter.item_in_container.filter": "What items should be searched for?",
 	"gui.mna.parameter.item_in_container.pos": "What container should be searched for items?",
 	"gui.mna.parameter.item_in_container.amount": "How many total matched items need to be found in order for this to be considered success?",
@@ -1998,6 +1999,7 @@
 	"entity.mna.odin.defeated": "Enough, warriors.  You have proven your valor this day.  I offer this axe as reward for your prowess.  Take it with my blessing.",
 	"entity.mna.tfpd": "The Pig Dragon",
 	"entity.mna.magmoo": "Magmoo",
+	"entity.mna.living_ward": "Living Ward",
 	
 	"key.categories.mna": "Mana and Artifice",
 	"key.spellbookopen": "Spell Book Quick Select",

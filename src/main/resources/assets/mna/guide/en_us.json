@@ -16927,7 +16927,7 @@
   	"sections": [
       {
         "type": "title",
-        "value": "Command: Patrol"
+        "value": "Command: Guard"
       },
       {
         "type": "text",
@@ -17681,7 +17681,7 @@
       }
     ]
   },
-  "Command: Adventure": {
+  "Command: Hunt": {
     "index": 4,
     "category": "constructs",
     "sections": [
