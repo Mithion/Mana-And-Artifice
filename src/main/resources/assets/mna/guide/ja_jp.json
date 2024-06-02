@@ -3545,24 +3545,24 @@
     "sections": [
       {
         "type": "title",
-        "value": "施術者のポーチ"
+        "value": "実践者の巾着"
       },
       {
         "type": "text",
         "value": "Having to draw out a ritual each and every time can be time consuming.  Enter the practitioner's pouch.\n\nTo bind the pouch to a specific ritual pattern, sneak while activating the centre of a ritual.\n\nHold the GUI key (default left Ctrl) and right click the pouch to open it.  Place all items needed for the ritual inside the pouch.\n\nActivating the pouch on a sufficiently sized, empty flat space will instantly place and activate the ritual.  Items will be consumed from the pouch.\n\nPractitioner's Pouches can store multiple rituals.  Select a slot before binding or placing using the UI key (default 'z') and the radial menu.",
         "json": [
           {
-            "text": "毎回、儀式のために魔法陣を描くのは時間がかかります。 そこで、 "
+            "text": "毎回、儀式のために魔法陣を描くのは時間がかかります。 そこで、"
           },
           {
-            "text": "施術者のポーチ",
+            "text": "実践者の巾着",
             "color": "blue"
           },
           {
-            "text": "です。 \n\n利用するには、儀式に必要な素材をポーチの中に入れる必要があります。ポーチを十分の広さの平らな場所で起動することで、即座に儀式を設置し発動します。\n\n"
+            "text": "です。\n\n利用するには、儀式に必要な素材をポーチの中に入れる必要があります。ポーチを十分の広さの平らな場所で起動することで、即座に儀式を設置し発動します。\n\n"
           },
           {
-            "text": "ポーチを特定の儀式のパターンに紐づけしたい場合、魔法陣の中心をスニークしながら起動してください。 GUIキー（デフォルト:'ctrl'）を押しながら右クリックでポーチを開けます。  施術者のポーチは、複数の儀式を保持できます。紐づけ、もしくは儀式を起動する前に、UIキー(デフォルト:'z')で円形メニューのスロットを選択してください。",
+            "text": "ポーチを特定の儀式のパターンに紐づけしたい場合、魔法陣の中心をスニークしながら起動してください。 GUIキー（デフォルト:'ctrl'）を押しながら右クリックでポーチを開けます。 施術者のポーチは、複数の儀式を保持できます。紐づけ、もしくは儀式を起動する前に、UIキー(デフォルト:'z')で円形メニューのスロットを選択してください。",
             "italic": true
           }
         ]
@@ -3576,24 +3576,24 @@
         "value": "One of the most beneficial things about a practitioner's pouch is the ability to extend its functionality through patches.\n\nTo apply a patch to the practitioner's pouch, place the pouch down on a Runic Anvil.  Then, place the patch on top of the pouch.  Finally, activate the anvil with a Sorcerous Sewing Set to stitch the patch on to the pouch.\n\nGiven the relatively small size of the pouch, there's only about enough space for three different kinds of patches (excluing the speed pouch, that one can always be applied in combination with any others).  Rumor has it that there exist powerful variants of this pouch that have every single patch applied.  Some very smart wizard must have figured out how to do it long ago.",
         "json": [
           {
-            "text": "施術者のポーチの中で一番便利な機能として、"
+            "text": "実践者の巾着の中で一番便利な機能として、"
           },
           {
             "text": "パッチ",
             "color": "blue"
           },
           {
-            "text": "を利用して、機能を拡張できます。 \n\n施術者のポーチにパッチを適用するには、"
+            "text": "を利用して、機能を拡張できます。\n\n実践者の巾着にパッチを適用するには、"
           },
           {
-            "text": "ポーチを刻印の金床に設置",
+            "text": "巾着を刻印の金床に設置",
             "color": "dark_purple"
           },
           {
             "text": "してください。その後、追加したい"
           },
           {
-            "text": "パッチをポーチの上に設置",
+            "text": "パッチを巾着の上に設置",
             "color": "dark_purple"
           },
           {
@@ -3604,14 +3604,14 @@
             "color": "dark_purple"
           },
           {
-            "text": "することで、パッチをポーチに裁縫できます。 \n\nポーチを小さいサイズに鑑みるに、最大三つしかパッチを縫いつけることはできないでしょう。 ( "
+            "text": "することで、パッチをポーチに裁縫できます。\n\nポーチを小さいサイズに鑑みるに、最大三つしかパッチを縫いつけることはできないでしょう。 ( "
           },
           {
             "text": "スピードパッチを除く",
             "color": "blue"
           },
           {
-            "text": "、これは他のパッチと組み合わせて使用できます)。 \n\n風の噂で、すべてのパッチが適用された、特殊な種類のポーチがこの世界のどこかにあるといわれています。過去にいた天才の魔術師がやり方を見つけたのでしょう。"
+            "text": "、これは他のパッチと組み合わせて使用できます)。\n\n風の噂で、すべてのパッチが適用された、特殊な種類のポーチがこの世界のどこかにあるといわれています。過去にいた天才の魔術師がやり方を見つけたのでしょう。"
           }
         ]
       }
@@ -3641,42 +3641,39 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Void"
+        "value": "実践者の巾着のパッチ : 削除"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch along with a Collection Patch, a Void Patch provides an additional sixteen slot filter. Upon collecting an item in this filter, it will be destroyed if all stacks of that item in the Pouch are full instead of being placed into the player's inventory.",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "回収のパッチ",
             "color": "blue"
           },
           {
-            "text": " along with a "
+            "text": "と一緒に"
           },
           {
-            "text": "Collection Patch",
+            "text": "施術者のポーチ",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "に縫い付けられた場合、"
           },
           {
-            "text": "Void Patch",
+            "text": "削除のパッチ",
             "color": "blue"
           },
           {
-            "text": " provides an additional sixteen slot filter. Upon collecting an item in this filter, it will be destroyed "
+            "text": "は追加で16スロットのフィルターを追加します。このフィルター内のアイテムが回収された場合、"
           },
           {
-            "text": "if all stacks of that item in the Pouch are full",
+            "text": "ポーチ内のそのアイテムのスタックがすべて埋まっている場合",
             "color": "dark_purple"
           },
           {
-            "text": " instead of being placed into the player's inventory."
+            "text": "、プレイヤーのインベントリに入る代わりにその回収されたアイテムを削除します。"
           }
         ]
       }
@@ -3694,70 +3691,60 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Depth"
+        "value": "実践者の巾着のパッチ : 深度"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch, a Depth patch increases the stack limit of items within the Pouch to four times their normal value.\n\nAccomplished magicians can create improved Depth Patches that can be sewn on top of the basic Depth Patch. Stitching an improved patch onto a Pouch that already has a Depth Patch increases the stack limits of the items within by four times again (sixteen times its normal limit in total).",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "実践者の巾着",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "に縫い付けることで、"
           },
           {
-            "text": "Depth Patch",
+            "text": "深度のパッチ",
             "color": "blue"
           },
           {
-            "text": " increases the "
+            "text": "は巾着の中の"
           },
           {
-            "text": "stack limit of items",
+            "text": "アイテムの最大スタック数",
             "color": "dark_purple"
           },
           {
-            "text": " within the Pouch to "
+            "text": "を"
           },
           {
-            "text": "four times their normal value",
+            "text": "通常の四倍",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nAccomplished magicians can create "
+            "text": "に向上させます。\n\n熟練の魔術師は、通常の深度のパッチの上に縫い付ける事ができる"
           },
           {
-            "text": "improved Depth Patches",
-            "color": "blue"
-          },
-          {
-            "text": " that can be "
-          },
-          {
-            "text": "sewn on top of the basic Depth Patch",
+            "text": "改良型の深度パッチ",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nStitching an "
+            "text": "を作成できます。\n\n深度のパッチが縫い付けられている巾着に"
           },
           {
-            "text": "improved patch",
+            "text": "改良されたパッチ",
             "color": "dark_purple"
           },
           {
-            "text": " onto a Pouch that already has a Depth Patch increases the stack limits of the items within by four times again for a total of"
+            "text": "を縫い付ける事で、追加で最大スタック数をさらに四倍にし、合計でスタック数を"
           },
           {
-            "text": " sixteen times its normal limit",
+            "text": "通常の十六倍",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "まで上昇します。"
           }
         ]
       }
@@ -3779,49 +3766,53 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Speed"
+        "value": "実践者の巾着のパッチ : 速度"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch, a Speed Patch increases the rate at which a ritual bound to the Pouch draws and readies itself by 30%.\n\nAccomplished magicians can create improved Speed Patches that can be sewn on top of the basic Speed Patch. Stitching an improved patch onto a Pouch that already has a Speed Patch further increases the rate at which bound rituals ready themselves by an additional 30% each (to a maximum of 90% increased ritual speed).",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "実践者の巾着",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "に縫い付けられた場合、"
           },
           {
-            "text": "Speed Patch ",
+            "text": "速度のパッチ",
             "color": "blue"
           },
           {
-            "text": "increases the rate at which a ritual bound to the Pouch draws and readies itself by "
+            "text": "は儀式を描いて準備するまでの速度を"
           },
           {
             "text": "30%",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nAccomplished magicians can create "
+            "text": "早くします。\n\n熟練の魔術師は、通常の速度のパッチの上に縫い付ける事ができる"
           },
           {
-            "text": "improved Speed Patches",
-            "color": "blue"
-          },
-          {
-            "text": " that can be sewn on top of the basic Speed Patch. \n\nStitching an improved patch onto a Pouch that already has a Speed Patch further increases the rate at which bound rituals ready themselves by an additional 30% each (to a "
-          },
-          {
-            "text": "maximum of 90% increased ritual speed",
+            "text": "改良型の速度パッチ",
             "color": "dark_purple"
           },
           {
-            "text": ")."
+            "text": "を作成できます。\n\n速度のパッチが縫い付けられている巾着に"
+          },
+          {
+            "text": "改良されたパッチ",
+            "color": "black"
+          },
+          {
+            "text": "を縫い付ける事で、追加で30%("
+          },
+          {
+            "text": "最大90%",
+            "color": "dark_purple"
+          },
+          {
+            "text": ")ずつ儀式を準備する速度が上昇します。"
           }
         ]
       }
@@ -3847,38 +3838,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Glyph"
+        "value": "実践者の巾着のパッチ : グリフ"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch, a Glyph Patch provides an additional sixteen slot inventory that can only hold dyed glyphs.\n\nThe additional inventory can be accessed by clicking on the green + icon over the Glyph Patch icon, and can be closed by clicking on the red - icon in the upper right of the patch inventory.",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "実践者の巾着",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "に縫い付けることで、"
           },
           {
-            "text": "Glyph Patch",
+            "text": "グリフのパッチ",
             "color": "blue"
           },
           {
-            "text": " provides an additional sixteen slot inventory that can only hold dyed glyphs, useful for rituals requiring them.  If a glyph is collected by a "
+            "text": "は色付きのグリフのみ保持できるインベントリのスロットを16個追加します。儀式にグリフを利用する場合に便利です。回収のパッチでグリフが回収された場合、先にグリフ専用インベントリに収納されます。\n\n"
           },
           {
-            "text": "Collection Patch",
-            "color": "blue"
-          },
-          {
-            "text": ", it will first try to enter this glyph inventory.\n\n"
-          },
-          {
-            "text": "The additional inventory can be accessed by clicking on the green ",
+            "text": "追加のスロットは、グリフのパッチのアイコンの上の緑の ",
             "italic": true
           },
           {
@@ -3887,16 +3868,16 @@
             "color": "dark_green"
           },
           {
-            "text": " icon over the Glyph Patch icon, and can be closed by clicking on the red",
+            "text": " をクリックすることで利用でき、パッチのインベントリの右上の赤い ",
             "italic": true
           },
           {
-            "text": " -",
+            "text": "-",
             "italic": true,
             "color": "dark_red"
           },
           {
-            "text": " icon in the upper right of the patch inventory.",
+            "text": " をクリックすることで閉じれます。",
             "italic": true
           }
         ]
@@ -3915,38 +3896,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Mote"
+        "value": "実践者の巾着のパッチ ：雫"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch, a Mote Patch provides an additional twelve slot inventory that can only hold motes and greater motes.\n\nThe additional inventory can be accessed by clicking on the green + icon over the Mote Patch icon, and can be closed by clicking on the red - icon in the upper right of the patch inventory.",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "実践者の巾着",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "に縫い付けることで、"
           },
           {
-            "text": "Mote Patch",
+            "text": "雫のパッチ",
             "color": "blue"
           },
           {
-            "text": " provides an additional twelve slot inventory that can only hold motes and greater motes.  If a mote is collected by a "
+            "text": "は雫のみ保持できるインベントリのスロットを12個追加します。儀式に雫を利用する場合に便利です。回収のパッチで雫が回収された場合、先に雫専用インベントリに収納されます。\n\n"
           },
           {
-            "text": "Collection Patch",
-            "color": "blue"
-          },
-          {
-            "text": ", it will first try to enter this mote inventory.\n\n"
-          },
-          {
-            "text": "The additional inventory can be accessed by clicking on the green ",
+            "text": "追加のスロットは、雫のパッチのアイコンの上の緑の ",
             "italic": true
           },
           {
@@ -3955,16 +3926,23 @@
             "color": "dark_green"
           },
           {
-            "text": " icon over the Mote Patch icon, and can be closed by clicking on the red",
+            "text": " をクリックすることで利用でき、雫のインベントリの右上の赤い ",
             "italic": true
           },
           {
-            "text": " -",
+            "text": "-",
             "italic": true,
             "color": "dark_red"
           },
           {
-            "text": " icon in the upper right of the patch inventory.",
+            "text": " をクリックすることで閉じれます。",
+            "italic": true
+          },
+          {
+            "text": "\n\n"
+          },
+          {
+            "text": "ntory.",
             "italic": true
           }
         ]
@@ -3983,42 +3961,39 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Rift"
+        "value": "実践者の巾着のパッチ : リフト"
       },
       {
         "type": "text",
         "value": "Normally, a ritual bound to a Practitioner's Pouch needs all of the necessary items within itself. When sewn onto a Practitioner's Pouch, a Rift Patch allows a ritual to search for missing items within the user's Rift storage instead. If necessary items are contained both in the Pouch and the Rift, items in the Rift will be consumed first.",
         "json": [
           {
-            "text": "Normally, a ritual bound to a "
+            "text": "通常では、"
           },
           {
-            "text": "Practitioner's Pouch",
+            "text": "実践者の巾着",
             "color": "blue"
           },
           {
-            "text": " needs all of the necessary items within itself. When sewn onto a "
+            "text": "に紐づけされた儀式を行う際は必要なアイテムを自身のインベントリから利用します。"
           },
           {
-            "text": "Practitioner's Pouch",
+            "text": "実践者の巾着",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "に"
           },
           {
-            "text": "Rift Patch",
+            "text": "リフトのパッチ",
             "color": "blue"
           },
           {
-            "text": " allows a ritual to search for missing items within the user's Rift storage instead. If necessary items are contained both in the Pouch and the Rift, "
+            "text": "を縫い付けた場合、不足しているアイテムを使用者のリストストレージから代わりに利用できるようになります。\n必用なアイテムがリフトと巾着の両方に存在している場合は、"
           },
           {
-            "text": "items in the Rift will be consumed first",
+            "text": "リフト内のアイテムを先に消費します。",
             "color": "dark_purple"
-          },
-          {
-            "text": "."
           }
         ]
       }
@@ -4036,45 +4011,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: マナ織"
+        "value": "実践者の巾着のパッチ：マナ織"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch, a Weave Patch provides an additional twelve slot inventory that can only hold bottles containing manaweave patterns. When a ritual is started with the Pouch, any necessary manaweave patterns stored in the Weave Patch will be consumed automatically. If all manaweaves are present in bottles, no manaweaving will be necessary to complete the ritual.\n\nThe additional inventory can be accessed by clicking on the green + icon over the Weave Patch icon, and can be closed by clicking on the red - icon in the upper right of the patch inventory.",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "実践者の巾着",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "に縫い付けることで、"
           },
           {
-            "text": "Weave Patch",
+            "text": "マナ織のパッチ",
             "color": "blue"
           },
           {
-            "text": " provides an additional twelve slot inventory that can only hold "
+            "text": "は"
           },
           {
-            "text": "Bottled Manaweave Patterns",
+            "text": "瓶詰マナ織",
             "color": "blue"
           },
           {
-            "text": ". \n\nWhen a ritual is started with the pouch, any necessary manaweave patterns stored in the Weave Patch will be consumed automatically. "
+            "text": "のみ保持できるインベントリのスロットを12個追加します。\n\n巾着から儀式が起動された場合、インベントリ内のマナ織の記号を自動で消費します。"
           },
           {
-            "text": "If all manaweaves are present in bottles, no manaweaving will be necessary to complete the ritual",
+            "text": "必要なマナ織がすべて瓶詰されている場合、マナ織りをせずに儀式を完了できます",
             "color": "dark_purple"
           },
           {
-            "text": ". If some of the manaweaves are present in bottles in the pouch, only the missing ones will be required to complete the ritual.\n\n"
+            "text": "。一部のマナ織のみ存在する場合、残りのマナ織りを行う必要があります。\n\n"
           },
           {
-            "text": "The additional inventory can be accessed by clicking on the green ",
+            "text": "追加のスロットは、マナ織のパッチのアイコンの上の緑の ",
             "italic": true
           },
           {
@@ -4083,7 +4055,7 @@
             "color": "dark_green"
           },
           {
-            "text": " icon over the Weave Patch icon, and can be closed by clicking on the red ",
+            "text": " をクリックすることで利用でき、パッチのインベントリの右上の赤い ",
             "italic": true
           },
           {
@@ -4092,7 +4064,7 @@
             "color": "dark_red"
           },
           {
-            "text": " icon in the upper right of the patch inventory.",
+            "text": " をクリックすることで閉じれます。",
             "italic": true
           }
         ]
@@ -4111,56 +4083,53 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Conveyance"
+        "value": "実践者の巾着のパッチ : 輸送"
       },
       {
         "type": "text",
         "value": "When sewn onto a Practitioner's Pouch, a Conveyance Patch provides a single slot that can only hold a Rune of Marking.\n\nNormally, a ritual bound to a Practitioner's Pouch needs all of the necessary items within itself. A Conveyance Patch allows a ritual to search for missing items within the inventory the provided Rune of Marking points to, if it is loaded.\n\nIf necessary items are contained both in the Pouch and the marked inventory, items in the marked inventory will be consumed first. If the Pouch has both a Conveyance Patch and a Rift Patch, items in the Rift will be consumed before items in the marked inventory.",
         "json": [
           {
-            "text": "When sewn onto a "
-          },
-          {
-            "text": "Practitioner's Pouch",
+            "text": "実践者の巾着",
             "color": "blue"
           },
           {
-            "text": ", a "
+            "text": "に縫い付けることで、"
           },
           {
-            "text": "Conveyance Patch",
+            "text": "輸送のパッチ",
             "color": "blue"
           },
           {
-            "text": " provides a single slot that can only hold a "
+            "text": "は"
           },
           {
-            "text": "Rune of Marking",
+            "text": "マーキングのルーン",
             "color": "blue"
           },
           {
-            "text": ". Normally, a ritual bound to a Practitioner's Pouch needs all of the necessary items within itself. \n\nA Conveyance Patch allows a ritual to "
+            "text": "を保持できるスロットを一つ追加できます。通常は、実践者の巾着に紐づけられた儀式は、必要なアイテムを自身のインベントリから消費します。\n\n輸送のパッチは、"
           },
           {
-            "text": "search for missing items within the inventory the provided Rune of Marking points to",
+            "text": "儀式に不足しているアイテムをマーキングのルーンが指定した容器から使用します",
             "color": "dark_purple"
           },
           {
-            "text": ", if it is loaded. If necessary items are contained both in the Pouch and the marked inventory, "
+            "text": "。この容器はロードされている必要があります。必用なアイテムが指定された容器と巾着の両方に存在している場合は、"
           },
           {
-            "text": "items in the marked inventory will be consumed first",
+            "text": "指定された容器内のアイテムを先に消費します。",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIf the Pouch has both a "
+            "text": "\n\n巾着が"
           },
           {
-            "text": "Conveyance Patch and a Rift Patch",
+            "text": "リフトのパッチと輸送のパッチ",
             "color": "blue"
           },
           {
-            "text": ", items in the Rift will be consumed before items in the marked inventory."
+            "text": "両方が縫い付けられている場合、リフト内のアイテムを先に消費します。"
           }
         ]
       }
@@ -4178,49 +4147,49 @@
     "sections": [
       {
         "type": "title",
-        "value": "Practitioner's Pouch Patch: Collection"
+        "value": "実践者の巾着のパッチ : 回収"
       },
       {
         "type": "text",
         "value": "Normally, items must be inserted into a Practitioner's Pouch manually. When sewn on, a Collection Patch causes any items picked up to automatically go to the Pouch's inventory instead.\n\nItems will only enter the Pouch if the item already exists in the pouch and is not at its stack limit.",
         "json": [
           {
-            "text": "Normally, items must be inserted into a "
+            "text": "通常では、"
           },
           {
-            "text": "Practitioner's Pouch",
+            "text": "実践者の巾着",
             "color": "blue"
           },
           {
-            "text": " manually. When sewn on, a "
+            "text": "にアイテムは手動で追加する必要があります。"
           },
           {
-            "text": "Collection Patch",
-            "color": "blue"
+            "text": "回収のパッチ",
+            "color": "dark_blue"
           },
           {
-            "text": " causes any items picked up to automatically go to the Pouch's inventory instead."
+            "text": "が縫い付けられた場合、拾われたアイテムは自動で巾着のインベントリに収納されます。"
           },
           {
-            "text": " Items will only enter the Pouch if the item already exists in the pouch and is not at its stack limit.",
+            "text": "巾着にアイテムが既に存在し、それが最大スタック数に達していない場合にのみアイテムは収納されます",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nThis pairs exceptionally well with "
+            "text": "。\n\nこれは"
           },
           {
-            "text": "Depth Patches",
-            "color": "blue"
+            "text": "深度のパッチ",
+            "color": "dark_purple"
           },
           {
-            "text": " and "
+            "text": "や"
           },
           {
-            "text": "Void Patches",
-            "color": "blue"
+            "text": "削除のパッチ",
+            "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "と相性がいいです。"
           }
         ]
       }
@@ -4321,7 +4290,7 @@
             "color": "blue"
           },
           {
-            "text": "を決闘に挑戦します。 Be on your guard, this fight is extremely deadly. The ritual must be performed at a place that can see the sky while a thunderstorm is happening."
+            "text": "を決闘に挑戦します。この戦闘はかなり危険なため、準備を怠らないようにしましょう。この儀式は、雷雨が発生している時に空へ視線が通っている場所でのみ行えます。"
           }
         ]
       }
@@ -4573,14 +4542,14 @@
         "value": "This ritual will turn day to night.  It can only be performed during the day.",
         "json": [
           {
-            "text": "This ritual will turn"
+            "text": "この儀式は、"
           },
           {
-            "text": " day to night",
+            "text": "時間を夜に変更",
             "color": "dark_purple"
           },
           {
-            "text": ". It can only be performed during the day."
+            "text": "します。この儀式は太陽が出ている場合にのみ使用できます。"
           }
         ]
       }
@@ -16879,7 +16848,7 @@
       }
     ]
   },
-  "Command: 移動": {
+  "Command: Move": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16905,7 +16874,7 @@
       }
     ]
   },
-  "Command: アイテムを落とす": {
+  "Command: Drop Item": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16931,7 +16900,7 @@
       }
     ]
   },
-  "Command: 警備": {
+  "Command: Guard": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16964,7 +16933,7 @@
       }
     ]
   },
-  "Command: パトロール": {
+  "Command: Patrol": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -16997,7 +16966,7 @@
       }
     ]
   },
-  "Command: 作成": {
+  "Command: Craft": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -20488,7 +20457,7 @@
             "color": "dark_red"
           },
           {
-            "text": "は、ダメージを無視できるものにします。\n\n それに組み込まれた炎は"
+            "text": "は、ダメージを無視できるものにします。\n\nそれに組み込まれた炎は"
           },
           {
             "text": "走っている時に高速で移動",
@@ -20505,11 +20474,11 @@
             "text": "。 "
           },
           {
-            "text": "空中で屈んだ場合は、着床者が高速で地面に突撃し、着地点に炎上する爆発を起こします",
+            "text": "空中で屈んだ場合は、着用者が高速で地面に突撃し、着地点に炎上する爆発を起こします",
             "color": "dark_purple"
           },
           {
-            "text": "。 落下距離が高いほど、大きい爆発になります。\n\n この鎧は着用者を、"
+            "text": "。 落下距離が高いほど、大きい爆発になります。\n\nこの鎧は着用者を、"
           },
           {
             "text": "爆発、落下、火ダメージから完全に守り",
@@ -20523,7 +20492,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。\n\n 留意すべき点として、"
+            "text": "。\n\n留意すべき点として、"
           },
           {
             "text": "煉獄の鎧はエンチャントされている場合に一番の性能を発揮します",
