@@ -4258,7 +4258,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。 It can only be performed at night or during thunderstorms."
+            "text": "。この儀式は夜、もしくは雷雨の天候の場合のみ行えます。 "
           }
         ]
       }
@@ -4315,32 +4315,35 @@
         "value": "",
         "json": [
           {
-            "text": "This ritual will enchant a compass to find a structure, village, or biome. Trade with the "
+            "text": "この儀式はコンパスにエンチャントを施し、特定の構造物や村、バイオームを指し示すようにします。行"
           },
           {
-            "text": "Wandering Wizard",
+            "text": "商魔術師の儀式",
             "color": "blue"
           },
           {
-            "text": " summoned by the aptly named "
+            "text": "によって召喚した"
           },
           {
-            "text": "Ritual of the Wandering Wizard",
+            "text": "行商魔術師",
             "color": "blue"
           },
           {
-            "text": " to get "
+            "text": "と取引することで、"
           },
           {
-            "text": "most of ",
+            "text": "ほとんど",
             "italic": true
           },
           {
-            "text": "the locating patterns, as well as "
+            "text": "の探知パターンと、"
           },
           {
-            "text": "Maps and Compasses.",
+            "text": "地図やコンパス",
             "color": "blue"
+          },
+          {
+            "text": "を入手できます。"
           }
         ]
       }
@@ -4419,7 +4422,7 @@
             "color": "blue"
           },
           {
-            "text": "を召喚します。 このエンティティは半日間滞在し、敵を倒した際に得られる派閥の印と自身の派閥のレリックと引き換えに、どうやって手に入れたかわからない他の派閥のレリックと交換してくれます。 \n\n 取引用の自分の派閥の全てのレリックと、すべての派閥の印が一スタックは持っているように儀式の前に準備するべきでしょう。\n\n"
+            "text": "を召喚します。 このエンティティは半日間滞在し、敵を倒した際に得られる派閥の印と自身の派閥のレリックと引き換えに、どうやって手に入れたかわからない他の派閥のレリックと交換してくれます。\n\n取引用の自分の派閥の全てのレリックと、すべての派閥の印を一スタックは持っているように儀式の前に準備するべきでしょう。"
           }
         ]
       }
@@ -4451,7 +4454,7 @@
             "color": "blue"
           },
           {
-            "text": "て、羊皮紙に呪文を書き込む必要があります。"
+            "text": "で、羊皮紙に呪文を書き込む必要があります。"
           }
         ]
       }
@@ -4492,28 +4495,21 @@
         "value": "This ritual is used to add modifiers to spells you have already crafted.  You will first need to craft a Book of Alteration, and use its radial menu (hold in your hand and hold 'Z') to select the modifier you want to add.  Then place the required items in the ritual and perform it to add the modifier to the spell.  You can only have 3 modifiers on a spell.  If you try to add more, the ritual will fail.",
         "json": [
           {
-            "text": "This ritual is used to "
+            "text": "この儀式は、すでに作成された"
           },
           {
-            "text": "add modifiers to spells",
+            "text": "呪文にモディファイアを追加",
             "color": "dark_purple"
           },
           {
-            "text": " I have already crafted. I will first need to craft a "
+            "text": "するために利用されます。そのためにはまず"
           },
           {
-            "text": "Book of Alteration",
+            "text": "変更の書",
             "color": "blue"
           },
           {
-            "text": ", and bookmark the modifier I want to add "
-          },
-          {
-            "text": "(use its radial menu (hold in your hand and hold 'Z') to select the modifier you want to add)",
-            "italic": true
-          },
-          {
-            "text": ". \n\nThen place the required items in the ritual and perform it to add the modifier to the spell. \n\nThis ritual will not allow me to bypass the 3 modifier limit on a spell. If I try to add more, the ritual will fail."
+            "text": "を作成し、追加したいモディファイアをブックマークします（円メニュー｛手に持って'Z'を長押し｝で追加したいモディファイアを選択）。\n\nその後、必要なアイテムを儀式に設置し、行うことでモディファイアを呪文に追加できます。\n\nこの儀式は呪文のモディファイア最大数（３）の制限を超えられません。さらに追加しようとすると、儀式が失敗します。"
           }
         ]
       }
@@ -4574,14 +4570,14 @@
         "value": "This ritual will summon a powerful destructive force that will burrow straight down until it reaches bedrock.  It will not drop any blocks during this process, consuming them to continue to fuel itself.",
         "json": [
           {
-            "text": "This ritual will summon a powerful destructive force that will "
+            "text": "この儀式は強力で破壊的な力を呼び出し、"
           },
           {
-            "text": "burrow straight down until it reaches bedrock.",
+            "text": "岩盤に達するまで垂直に地面を掘りつくします",
             "color": "dark_purple"
           },
           {
-            "text": " It will not drop any blocks during this process, consuming them to continue to fuel itself."
+            "text": "。ドロップしたアイテムはすべて儀式の燃料に消費されるため、回収できません。"
           }
         ]
       }
@@ -4603,21 +4599,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "大地の足跡の儀式"
+        "value": "大地の階段の儀式"
       },
       {
         "type": "text",
         "value": "This ritual will summon a powerful destructive force that will burrow down at an angle until it reaches bedrock.  It will not drop any blocks during this process, consuming them to continue to fuel itself.",
         "json": [
           {
-            "text": "This ritual will summon a powerful destructive force that will b"
+            "text": "この儀式は強力で破壊的な力を召喚し、"
           },
           {
-            "text": "urrow down at an angle until it reaches bedrock",
+            "text": "岩盤に到達するまで斜め下に採掘します",
             "color": "dark_purple"
           },
           {
-            "text": ". It will not drop any blocks during this process, consuming them to continue to fuel itself."
+            "text": "。ドロップしたアイテムはすべて儀式の燃料に消費されるため、回収できません。"
           }
         ]
       }
@@ -4700,7 +4696,19 @@
       },
       {
         "type": "text",
-        "value": "この儀式は、合っているルーンの組み合わせのウェイストーンへのポータルを短時間開きます。 そのポータルを通り抜けることでそのウェイストーンの位置にテレポートできます。\n\nポータルはスニークしている対象をテレポートしない事を覚えておくことでしょう。"
+        "value": "この儀式は、合っているルーンの組み合わせのウェイストーンへのポータルを短時間開きます。 そのポータルを通り抜けることでそのウェイストーンの位置にテレポートできます。\n\nポータルはスニークしている対象をテレポートしない事を覚えておくことでしょう。",
+        "json": [
+          {
+            "text": "この儀式は、合っているルーンの組み合わせの"
+          },
+          {
+            "text": "ウェイストーン",
+            "color": "blue"
+          },
+          {
+            "text": "へのポータルを短時間開きます。 そのポータルを通り抜けることでそのウェイストーンの位置に転移できます。 \nポータルはスニークしている対象を転移しない事を覚えておくことでしょう。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -4734,7 +4742,7 @@
             "color": "blue"
           },
           {
-            "text": " ウェイストーンへのポータルを開きます。\n\nそのポータルを通り抜けることでそのウェイストーンの位置にテレポートできます。 \n\n この儀式は"
+            "text": " ウェイストーンへのポータルを開きます。\n\nそのポータルを通り抜けることでそのウェイストーンの座標に転移できます。\n\nこの儀式は"
           },
           {
             "text": "帰還の儀式",
@@ -4748,7 +4756,7 @@
             "color": "blue"
           },
           {
-            "text": "が放り込まれるまで開き続きます。 \n\nそして、任意で染料を追加することでポータルの色を変更できます。\n\n"
+            "text": "が放り込まれるまで開き続きます。\n\nそして、任意で染料を追加することでポータルの色を変更できます。\n\n"
           },
           {
             "text": "ポータルは、スニークしている対象をテレポートしない",
@@ -4791,21 +4799,21 @@
         "value": "This ritual will use a player charm to open a portal at that player's current location.  That portal will allow the player to step through and teleport to the location that the ritual was performed.",
         "json": [
           {
-            "text": "This ritual will use a "
+            "text": "この儀式は"
           },
           {
-            "text": "Player Charm",
+            "text": "プレイヤーの御守り",
             "color": "blue"
           },
           {
-            "text": " to open a portal at that player's current location, provided they are in the same dimension, or a dimension specified by an optional "
+            "text": "を利用して、そのプレイヤーの現在位置にポータルを開きます。指定されたプレイヤーは、同じディメンションに居るか、（任意）"
           },
           {
-            "text": "World Charm",
+            "text": "世界の御守り",
             "color": "blue"
           },
           {
-            "text": ".\n\nThat portal will allow the player to step through and teleport to the location that the ritual was performed."
+            "text": "に指定されたディメンションに居る必要があります。\n\nこの儀式は、ポータルを通り抜けたプレイヤーを儀式が行われた座標に転移する事を可能にします。"
           }
         ]
       }
@@ -4838,39 +4846,42 @@
         "value": "This ritual will use a player charm to open a portal at the center of the ritual.  Stepping through the portal will teleport you to the location the player was at when the ritual was completed.",
         "json": [
           {
-            "text": "This ritual will use a "
+            "text": "この儀式は、"
           },
           {
-            "text": "Player Charm",
+            "text": "プレイヤーの御守り",
             "color": "blue"
           },
           {
-            "text": " to open a portal at the center of the ritual.\n\nThe portal will teleport any who step through to the location the player was at "
+            "text": "を利用して儀式の中心にポータルを開きます。\n\nこのポータルは、"
           },
           {
-            "text": "when the ritual was completed.  ",
+            "text": "儀式が完了した際",
             "color": "dark_purple"
           },
           {
-            "text": "If the target player is in a different dimension, a "
+            "text": "に対象のプレイヤーがいた場所にポータルを通り抜けた者を転移します。対象のプレイヤーが別のディメンションに居る場合は、プレイヤーを見つけるためにそのディメンションの"
           },
           {
-            "text": "World Charm ",
+            "text": "世界の御守り",
             "color": "blue"
           },
           {
-            "text": "must be provided for their dimension in order to find them.\n\nIf both of the optional "
+            "text": "が必要です。\n\n任意の"
           },
           {
-            "text": "Bones",
+            "text": "骨",
             "color": "blue"
           },
           {
-            "text": " are provided, the portal will instead open with a "
+            "text": "が両方とも儀式に追加された場合、ポータルは代わりに"
           },
           {
-            "text": "target of the player's last death.",
+            "text": "そのプレイヤーの最後の死亡地点を対象",
             "color": "dark_purple"
+          },
+          {
+            "text": "にします。"
           }
         ]
       }
@@ -4932,10 +4943,14 @@
         "value": "This ritual coalesces the elements of water and the deep sea into an essence.\n\nThis ritual can only be performed while in an ocean biome.",
         "json": [
           {
-            "text": "この儀式は海の属性と深海の力をエッセンスに閉じ込めます。 \n"
+            "text": "この儀式を行うことで海の属性と深海の力をエッセンスに閉じ込めます。\n"
           },
           {
-            "text": "海のバイオームにいる場合にのみ行うことができます。",
+            "text": "この儀式は",
+            "color": "black"
+          },
+          {
+            "text": "海のバイオームにいる場合にのみ行うことができます",
             "color": "dark_purple"
           },
           {
@@ -4964,14 +4979,18 @@
         "value": "この儀式はエントロピーと虚無の力をエッセンスに閉じ込めます。\n\nこの儀式は、すべての儀式のルーンが完全なる暗闇の中にいる場合のみ行えます。",
         "json": [
           {
-            "text": "この儀式はエントロピーと虚無の力をエッセンスに閉じ込めます。 \n"
+            "text": "この儀式はエントロピーと虚無の力をエッセンスに閉じ込めます。\n"
           },
           {
-            "text": "この儀式は、儀式のルーンがすべて完全なる暗闇の中にいる場合のみ行えます",
+            "text": "この儀式は、",
+            "color": "black"
+          },
+          {
+            "text": "儀式のルーンがすべて完全なる暗闇の中にいる場合のみ行えます",
             "color": "dark_purple"
           },
           {
-            "text": "の"
+            "text": "。"
           }
         ]
       }
@@ -4996,25 +5015,45 @@
         "value": "This ritual coalesces the elements of knowledge and study into an essence.\n\nThis ritual must be done by placing enough blocks that improve enchantments (such as bookshelves) anywhere along the ritual's outer border.  I think ten should do the trick.",
         "json": [
           {
-            "text": "この儀式は知識と勉学の力をエッセンスに閉じ込めます。 \n"
+            "text": "この儀式を行うことで知識と勉学の力をエッセンスに閉じ込めます。\n"
           },
           {
-            "text": "儀式は、十分なエンチャントを強化するブロック",
+            "text": "この儀式は、",
+            "color": "black"
+          },
+          {
+            "text": "十分なエンチャントを強化するブロック",
             "color": "dark_purple"
           },
           {
-            "text": " （本棚など）を"
+            "text": " （本棚など）が"
           },
           {
-            "text": "儀式の縁に置くことで",
+            "text": "儀式の縁に置いてある場合",
             "color": "dark_purple"
           },
           {
-            "text": "起動できます。 \n\n"
+            "text": "に行えます",
+            "color": "black"
           },
           {
-            "text": "大事なのはブロックの数で、エンチャントの強度は関係ないです。  十個あれば十分でしょう。",
+            "text": "。\n\n"
+          },
+          {
+            "text": "大事なのはブロックの数で、エンチャントの強度は関係",
             "color": "dark_purple"
+          },
+          {
+            "text": "ありません。",
+            "color": "black"
+          },
+          {
+            "text": " 十個あれば十分でしょう",
+            "color": "dark_purple"
+          },
+          {
+            "text": "。",
+            "color": "black"
           }
         ]
       },
@@ -5045,10 +5084,14 @@
         "value": "This ritual coalesces the elements of fire and brimstone into an essence.\n\nThis ritual can only be performed in the nether.",
         "json": [
           {
-            "text": "この儀式は火の属性と獄炎の力をエッセンスに閉じ込めます。 \n"
+            "text": "この儀式を行うことで、火の属性と獄炎の力をエッセンスに閉じ込めます。\n"
           },
           {
-            "text": "この儀式はネザーでのみ行えます",
+            "text": "この儀式",
+            "color": "black"
+          },
+          {
+            "text": "はネザーでのみ行えます",
             "color": "dark_purple"
           },
           {
@@ -5120,7 +5163,7 @@
             "color": "dark_red"
           },
           {
-            "text": "を呼び出します。 \n\n悪魔は力を願うものに与えるが、力には常に代償が伴います。悪魔は強力で、その力に耐えられる者のみ敬意を払います。悪魔との取引を行うとする前に、"
+            "text": "を呼び出します。\n\n悪魔は力を願うものに与えるが、力には常に代償が伴います。悪魔は強力で、その力に耐えられる者のみ敬意を払います。悪魔との取引を行うとする前に、"
           },
           {
             "text": "十分な準備を行うべきでしょう",
@@ -5134,7 +5177,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。 \n\n 悪魔の怒りを減らすために、悪魔に"
+            "text": "。\n\n悪魔の怒りを減らすために、悪魔に"
           },
           {
             "text": "火の雫",
@@ -5148,14 +5191,14 @@
             "color": "blue"
           },
           {
-            "text": "。 \n\n"
+            "text": "。\n\n"
           },
           {
-            "text": "このような存在の仲間になるのは、たくさんの敵を作るでしょう。",
+            "text": "このような存在の仲間になることで、多くの敵を作るでしょう。",
             "color": "dark_purple"
           },
           {
-            "text": "\n\n この儀式の他の効果として、この儀式を"
+            "text": "\n\nこの儀式の他の効果として、この儀式を"
           },
           {
             "text": "悪魔の闘技場",
@@ -5205,7 +5248,7 @@
             "color": "dark_green"
           },
           {
-            "text": "を召喚します。\n\n 交渉にて、妖精をよく求める者に力を与えますが、すべての力には代償があります。捧げものとして、"
+            "text": "を召喚します。\n\n交渉にて、妖精をよく求める者に力を与えますが、すべての力には代償があります。捧げものとして、"
           },
           {
             "text": "空の雫",
@@ -5215,7 +5258,7 @@
             "text": "を"
           },
           {
-            "text": "触媒のほかに追加で渡すのが",
+            "text": "触媒の他として追加で渡すのが",
             "color": "blue"
           },
           {
@@ -5226,7 +5269,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "\n\n この儀式の他の効果として、この儀式を"
+            "text": "\n\nこの儀式の他の効果として、この儀式を"
           },
           {
             "text": "偉大なる妖精の巨木",
@@ -5268,39 +5311,46 @@
         "type": "text",
         "json": [
           {
-            "text": "Those within the fey often feel themselves called to both summer and winter. \n\nUsing this ritual, a fey wizard can "
+            "text": "妖精と同盟を組んだ者は、夏と冬、両方に魅力を感じる事があります。\n\nこの儀式を利用することで、妖精の魔術師は"
           },
           {
-            "text": "alter which season they are currently aligned to",
+            "text": "自身に調整した季節を変更",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThis changes their spells to cast with either "
+            "text": "する事ができます。\n\nこれは呪文の詠唱リソースを"
           },
           {
-            "text": "summer fire",
+            "text": "夏火",
             "color": "red"
           },
           {
-            "text": " or "
+            "text": "もしくは"
           },
           {
-            "text": "winter ice",
+            "text": "冬氷",
             "color": "dark_aqua"
           },
           {
-            "text": ", said spells becoming more powerful during the day or night respectively, and weaker during the opposite. \n\nThe court that is aligned to is determined by the flower chosen, with "
+            "text": "に変更しすることで、呪文が夜もしくは日中に強くなり、その逆の時間帯に弱くなります。\n\n調整される季節は儀式に使用される花によって決まります。"
           },
           {
-            "text": "white and pink tulips joining winter",
+            "text": "白と桃色のチューリップで冬",
             "color": "dark_aqua"
           },
           {
-            "text": " and "
+            "text": "になり"
           },
           {
-            "text": "red and orange tulips joining summer.",
+            "text": "、",
+            "color": "dark_red"
+          },
+          {
+            "text": "赤と橙色のチューリップで夏",
             "color": "red"
+          },
+          {
+            "text": "になります。"
           }
         ]
       }
@@ -5507,14 +5557,14 @@
             "color": "blue"
           },
           {
-            "text": "の位置を指定します。\n\n 完了後、一つのブロック「"
+            "text": "の位置を指定します。\n\n完了後、一つのブロック「"
           },
           {
             "text": "力の焦点",
             "color": "blue"
           },
           {
-            "text": "」を作成します. \n\nこのブロックを起動することで、設置する必要があるブロックのホログラムを見せます。\n\n 完了後、力のサークルが起動します。自身を含む同じ派閥の魔術師は、完成した構造物の中、もしくは範囲内にいることで呪文に強力なバフが乗り、ダメージを増やしバフの持続時間を大幅に延ばします。"
+            "text": "」を作成します.\n\nこのブロックを起動することで、設置する必要があるブロックを可視化します。\n\n完了後、力のサークルが起動します。自身を含む同じ派閥の魔術師は、完成した構造物の中、もしくは範囲内にいることで呪文に強力なバフが乗り、ダメージを増やしバフの持続時間を大幅に延ばします。"
           }
         ]
       },
@@ -5522,9 +5572,6 @@
         "type": "text",
         "value": "For the undead, this sanctum serves an additional purpose.  Enemies within the sanctum will be given the 'Vulnerable Soul' debuff.  Killing enemies with this debuff will yield significantly more souls than normal.",
         "json": [
-          {
-            "text": ""
-          },
           {
             "text": "不死者",
             "color": "dark_gray"
@@ -5578,21 +5625,21 @@
         "value": "This very powerful magic allows a mage to mark out an area using special runes of marking, then perform the ritual close to the marked location, within about 16m or so of either of the marked points.  The magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more.\n\nEach of the two Runes of Marking marks the opposite corners of a cube to target.",
         "json": [
           {
-            "text": "This very powerful magic allows me to mark out an area using "
+            "text": "この強力な呪文を行うにはまず目印のルーンで範囲を指定し、指定されたいずれかの地点の16m以内の位置で儀式を行う必要があります。\n\n儀式から強力な魔術が放出され、指定された範囲の木や植物、土、石、鉱石などを破壊します。"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
+            "color": "dark_blue"
+          },
+          {
+            "text": "で指定した両方の座標は、対象になる立方体の反対側の角を指定します。\n\n両手に一つずつ"
+          },
+          {
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ", then perform the ritual close to the marked location, within about 16m or so of either of the marked points. \n\nThe magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more. Each of the two "
-          },
-          {
-            "text": "Runes of Marking",
-            "color": "blue"
-          },
-          {
-            "text": " marks the opposite corners of a cube to target.\n\nIf I hold one of the Runes of Marking in each hand, I will be able to visualize the area that they cover."
+            "text": "を手に持つことで、指定されている範囲を可視化できます。\n"
           }
         ]
       },
@@ -5606,10 +5653,24 @@
         "value": "It seems that only basic blocks are affected by this spell, and not anything like chests, furnaces, or the like.\n\nThere are rumors that no mage has been able to make this ritual function on an area larger than 48m or so.  Any larger just seems to consume the materials and then quickly implode upon itself.  Conversely, any dimension smaller than 3m also seems to have the same effect.",
         "json": [
           {
-            "text": "It seems that only basic blocks are affected by this spell, and not anything like chests, furnaces, or the like. \n\nThere are rumors that no mage has been able to make this ritual function on an area larger than 48m or so. Any larger just seems to consume the materials and then quickly implode upon itself. \n\nConversely, any dimension smaller than 3m also seems to have the same effect.\n\n"
+            "text": "通常のブロックのみこの魔術に影響されるようで、"
           },
           {
-            "text": "(1m = 1 block)",
+            "text": "チェスト",
+            "color": "blue"
+          },
+          {
+            "text": "や"
+          },
+          {
+            "text": "かまど",
+            "color": "blue"
+          },
+          {
+            "text": "などの物は影響されないようです。\n\n噂ではどんな魔術師でも48mよりも大きい範囲で儀式を成功できた者はいないとされています。\nそれ以上に大きい範囲は儀式の素材を取り込んだのち自己崩壊してしまうようです。\n\n逆に3mよりも小さい範囲も同じ結果になるようです。\n\n"
+          },
+          {
+            "text": "（1m = 1ブロック）",
             "italic": true
           }
         ]
@@ -5643,15 +5704,19 @@
         "value": "This ritual allows me to change the weather to be clear blue skies.  Reciting the magic words 'rain, rain, go away, come again another day' does not seem to have any extra effect.",
         "json": [
           {
-            "text": "この儀式は天候を晴れにします。 \n\nReciting the magic words "
+            "text": "この儀式は天候を晴れにします。\n\n"
           },
           {
-            "text": "rain, rain, go away, come again another day",
+            "text": "r",
+            "color": "blue"
+          },
+          {
+            "text": "ain, rain, go away, come again another day",
             "italic": true,
             "color": "blue"
           },
           {
-            "text": " does not seem to have any extra effect."
+            "text": " の魔法の言葉を一緒に唱えても追加効果はないようです。"
           }
         ]
       }
@@ -5669,14 +5734,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "モンスーンの儀式"
+        "value": "嵐の儀式"
       },
       {
         "type": "text",
         "value": "I can use this ritual to summon a torrent of rain.  If I add some gray wool to the top of the ritual, it will cause a thunderstorm.  If I leave it out, it will just rain.",
         "json": [
           {
-            "text": "この儀式をすることで雨を降らすことができます。 \n灰色の羊毛を儀式に追加すると、雷雨になります。"
+            "text": "この儀式をすることで"
+          },
+          {
+            "text": "雨を降らす",
+            "color": "blue"
+          },
+          {
+            "text": "ことができます。\n灰色の羊毛を儀式に追加すると、雷雨になります。"
           }
         ]
       }
@@ -5705,9 +5777,6 @@
         "value": "Since I can make Crystallize to capture things within Crystalline Cages, I can use those cages to fill a Crystal Phylactery.  Of course I can still use the normal method as well to fill the phylacteries, but this might still come in handy.",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "結晶化",
             "color": "blue"
           },
@@ -5719,21 +5788,21 @@
             "color": "blue"
           },
           {
-            "text": "に捕まえられるため、それを利用して"
+            "text": "に捕まえた場合、それを利用して"
           },
           {
             "text": "結晶の聖箱",
             "color": "blue"
           },
           {
-            "text": "を充填できます。 \n\n もちろん、"
+            "text": "を充填する事ができます。\n\nもちろん、"
           },
           {
-            "text": "普通の方法で",
+            "text": "普通の方法でも",
             "italic": true
           },
           {
-            "text": "聖箱を充填することもできますが、それでもこれが便利な事には変わりないです。"
+            "text": "聖箱を充填することもできますが、それでもこれが便利な事には変わりません。"
           }
         ]
       }
@@ -6285,14 +6354,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "呪文本"
+        "value": "呪文の書"
       },
       {
         "type": "text",
         "value": "Once you start gaining several spells, you'll find that you need a place to carry them all.\n\nThe spell book spells can be switched between by holding Z and selecting a spell from the wheel.",
         "json": [
           {
-            "text": "いくつもの呪文を作成し始めると、それを持ち運ぶものが必要です。 呪文本の呪文は、ページを切り替えるだけで簡単に変更できます。"
+            "text": "いくつもの呪文を作成し始めると、それを持ち運ぶものが必要です。 呪文の書の呪文は、ページを切り替えるだけで簡単に変更できます。"
           },
           {
             "text": "皮紙に呪文が書き込まれている必要があります",
@@ -6302,7 +6371,7 @@
             "text": "。 "
           },
           {
-            "text": "(Zを長押しして円から選択する).",
+            "text": "(Zを長押しして円から選択する)。",
             "italic": true
           },
           {
@@ -6313,7 +6382,7 @@
             "color": "blue"
           },
           {
-            "text": "に付与されている場合は呪文本に設置できませんが、その代わりに"
+            "text": "に付与されている場合は呪文の書に設置できませんが、その代わりに"
           },
           {
             "text": "エンチャントすることができます",
@@ -6326,45 +6395,38 @@
       },
       {
         "type": "title",
-        "value": "Grimoire"
+        "value": "グリモア"
       },
       {
         "type": "text",
         "value": "Once you have advanced in tier, you will also be able to summon grimoires using a cantrip.  These special spell books have a more limited inventory space, but function much like an ender chest.  Even if the grimoire is lost or destroyed, simply summon another one to retrieve the contents.",
         "json": [
           {
-            "text": "I've seen wizards use a "
+            "text": "魔術の経験がある程度着いた後、魔術師は"
           },
           {
-            "text": "Cantrip",
+            "text": "まじない",
             "color": "blue"
           },
           {
-            "text": " to summon books that they keep their spells in, once they have a little more experience with magic.  They referred to them as "
+            "text": "を利用して呪文を保存するための本を召喚するようです。これは"
           },
           {
-            "text": "Grimoires",
+            "text": "グリモア",
             "color": "blue"
           },
           {
-            "text": ".\n\nI asked a wizard once why not just use a spell book, and they told me that while a Grimoire has less space than a Spell Book, it's "
+            "text": "と呼ばれています。\n\nその魔術師になぜ呪文の書の代わりに利用するかを聞いてみたところ、グリモアは保持できる呪文の数が比較すると少ないが、異次元に保存されると教えてくださった。つまり、"
           },
           {
-            "text": "extradimensional",
+            "text": "もしグリモアが紛失したり破壊されても、まじないで再度召喚すれば中身がすべて保持されている状態ということです",
             "color": "dark_purple"
           },
           {
-            "text": ".  This means that "
+            "text": "。欠点として、複数グリモアを持っていても同じ次元を共有するので複数グリモアを持っていても意味があまりないことです。\n\nだとしても、十分に便利です。エンダーチェストを彷彿とさせます。\n\n"
           },
           {
-            "text": "if the Grimoire is ever lost or destroyed, all they need to do is summon it back with another cantrip and it's back, contents and all",
-            "color": "dark_purple"
-          },
-          {
-            "text": ".  \nThe downside is that multiple Grimoires share the same extradimensional space, so having more than one doesn't grant much benefit.\n\nStill, sounds pretty useful.  Reminds me of an Ender Chest."
-          },
-          {
-            "text": "\n\nSpell Books and Grimoires allow you to change the slot quickly using Chords.  Press the chord key (default V) with a Spell Book or Grimoire equipped, then press a hotbar key.  It will quick swap to the slot matching what you pressed.  This is in addition to the radial menu.  Use whatever method you prefer.",
+            "text": "呪文の書やグリモアは、付箋を利用する事で呪文を素早く選択できます。呪文の書かグリモアを手に持って付箋キー（デフォルト V）を押し、その後ホットバーのキーを押してください。押したキーに対応した呪文に素早く変更されます。円メニューでも呪文を選択できます。どっちを利用するかはあなた次第です。",
             "italic": true
           }
         ]
@@ -6374,21 +6436,21 @@
         "value": "Both Spell Books and Grimoires can be dyed simply by crafting them together with dye.  Be sure to remove spells from them before doing so as it's possible the crafting process can clear the item's inventory.",
         "json": [
           {
-            "text": "Both "
+            "text": "呪文の書とグリモアは、染料とクラフトすることで両方とも"
           },
           {
-            "text": "Spell Books and Grimoires can be dyed",
+            "text": "染めることができます",
             "color": "dark_purple"
           },
           {
-            "text": " simply by crafting them together with dye. Be sure to "
+            "text": "。"
           },
           {
-            "text": "remove spells from them before doing so",
+            "text": "必ず、クラフト行う前に呪文を取り除く",
             "color": "dark_purple"
           },
           {
-            "text": " as it's possible the crafting process can damage the spells within."
+            "text": "必要があり、クラフトの際に中の呪文が破損する可能性があるからです。"
           }
         ]
       },
@@ -6397,7 +6459,7 @@
         "value": "Grimoires also have faction-themed variants that can be summoned later on.  These serve only an aesthetic purpose and point to the same inventory as regular grimoires.",
         "json": [
           {
-            "text": "I've even seen wizards that are aligned with a faction summon special grimoires that represent their faction!  They don't do anything different than a regular Grimoire, but they sure look flashy."
+            "text": "派閥に所属した魔術師が、派閥を象徴する特殊なグリモアを召喚するのを見かけました！\n通常のグリモアと機能に何も違いはありませんが、見た目がいいです。"
           }
         ]
       }
@@ -6620,21 +6682,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Projectile"
+        "value": "形：発射体"
       },
       {
         "type": "text",
         "value": "This spell shape will spawn a projectile at the caster, in the direction that the caster is looking.  The projectile will fly forward and will affect the first entity or block it hits.",
         "json": [
           {
-            "text": "This spell shape will spawn a projectile at the caster, in the direction that the caster is looking. The projectile will fly forward and will affect the "
+            "text": "この形は詠唱者の座標と向いている方角に発射体を生成します。この発射体は前進し、"
           },
           {
-            "text": "first entity or block it hits",
+            "text": "最初に接触したエンティティかブロックに",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "影響を与えます。"
           }
         ]
       }
@@ -6659,14 +6721,14 @@
         "value": "This spell shape will spawn a projectile up to 16 blocks into the air, targeted at the point where the caster is pointing (if in range).  The projectile will fall quickly and will affect the first entity or block it hits.  The smite shape deals extra damage on impact due to its difficulty to target, which is based on how far it fell.",
         "json": [
           {
-            "text": "This spell shape will spawn a projectile up to 16 blocks into the air, targeted at the point where the caster is pointing (if in range). The projectile will fall quickly and will affect the first entity or block it hits. "
+            "text": "この形は発射体を最大で16ブロック上に生成し、詠唱者が向いている位置（射程内の場合）を狙います。\nその発射体は素早く落下し、最初に接触したブロックとエンティティに影響を与えます。"
           },
           {
-            "text": "The smite shape deals extra damage on impact based on how far it fell",
+            "text": "天撃は、落下距離に応じて追加のダメージを与えます",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -6691,14 +6753,14 @@
         "value": "This incredibly powerful channeled spell shape will call down smiting blasts of magic to strike all around me within its radius.  Like smite, it must have a clear path to the sky, so it won't be as useful in tight spaces.",
         "json": [
           {
-            "text": "This incredibly powerful channeled spell shape will call down smiting blasts of magic to strike all around me within its radius.  Each one will spawn up to 16 blocks in the air, and will "
+            "text": "この強力な持続的な呪文は魔術の天撃を自分の周囲に大量に呼び出します。それぞれ最大16ブロック上に生成され、"
           },
           {
-            "text": "deal additional damage based on how far it fell",
+            "text": "落下距離に応じて追加のダメージを与えます",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -6716,32 +6778,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Bound Sword"
+        "value": "形： 魔術の剣"
       },
       {
         "type": "text",
         "value": "This shape will cause the spell (or spell staff/book) to coalesce into a bound sword.  The components will be applied to whatever mob I hit with it.  The sword has a constant minor mana drain, and consumes a burst of mana with each hit.\n\nTo return it to a spell, either run out of mana or drop the sword on the ground.",
         "json": [
           {
-            "text": "This shape will cause the spell (or spell staff/book) to coalesce into a bound sword.\n\nThe components will be applied to whatever mob I hit with it. The sword has a "
+            "text": "この形は、呪文（もしくは杖/本）を剣へと変化させます。\n\nその剣で攻撃した相手に、利用した部品の影響を与えます。この剣は、"
           },
           {
-            "text": "constant minor mana drain, unless I am wearing a ",
-            "color": "dark_purple"
-          },
-          {
-            "text": "Battlemage Amulet",
+            "text": "魔法戦士のアミュレット",
             "color": "blue"
           },
           {
-            "text": ", and consumes a "
+            "text": "を装備していない限り"
           },
           {
-            "text": "burst of mana with each hit",
+            "text": "常に少量のマナを消費",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nTo return the sword to a spell, drop it on the ground. It will also revert automatically if I run out of mana."
+            "text": "し、攻撃が"
+          },
+          {
+            "text": "当たった場合にもマナを消費",
+            "color": "dark_purple"
+          },
+          {
+            "text": "します。\n\nこの剣は、地面に落とすことで呪文に戻せます。マナ切れになった際も自動で呪文に戻ります。"
           }
         ]
       }
@@ -6759,35 +6824,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Bound Shield"
+        "value": "形：魔術の盾"
       },
       {
         "type": "text",
         "value": "This shape will cause the spell (or spell staff/book) to coalesce into a bound shield.  The components will be applied to whatever mob I block with it, as long as they are within 5 blocks of me.  The shield has a constant minor mana drain that increases while actively blocking, and consumes a burst of mana with each block.\n\nTo return it to a spell, either run out of mana or drop the shield on the ground.",
         "json": [
           {
-            "text": "This shape will cause the spell (or spell staff/book) to coalesce into a bound shield. \n\nThe components will be applied to whatever enemy I block with it, as long as they are within 5 blocks of me. \n\nThe shield has a "
+            "text": "この形は、呪文（もしくは杖/本）を盾へと変化させます。\n\nその盾で防御した相手が５ブロック以内の場合に、利用した呪文部品の影響を与えます。この盾は、"
           },
           {
-            "text": "constant minor mana drain that increases while actively blocking",
-            "color": "dark_purple"
-          },
-          {
-            "text": ", and "
-          },
-          {
-            "text": "consumes a burst of mana with each block.",
-            "color": "dark_purple"
-          },
-          {
-            "text": "\n\nThe passive mana cost can be eliminated by wearing a "
-          },
-          {
-            "text": "Warding Amulet.",
+            "text": "魔法戦士のアミュレット",
             "color": "blue"
           },
           {
-            "text": "\n\nTo return the shield to a spell, drop it on the ground.  It will also automatically revert if I run out of mana."
+            "text": "を装備していない限り"
+          },
+          {
+            "text": "常に少量のマナ（防御中は中程度）を消費",
+            "color": "dark_purple"
+          },
+          {
+            "text": "し、"
+          },
+          {
+            "text": "攻撃を防いだ場合にもマナを消費",
+            "color": "dark_purple"
+          },
+          {
+            "text": "します。\n\nこの盾は、地面に落とすことで呪文に戻せます。マナ切れになった際も自動で呪文に戻ります。"
           }
         ]
       }
@@ -6805,32 +6870,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Bound Axe"
+        "value": "形：魔術の斧"
       },
       {
         "type": "text",
         "value": "This shape will cause the spell (or spell staff/book) to coalesce into a bound axe.  The components will be applied to whatever mob I hit with it.  The axe has a constant minor mana drain, and consumes a burst of mana with each hit.\n\nTo return it to a spell, either run out of mana or drop the axe on the ground.",
         "json": [
           {
-            "text": "This shape will cause the spell (or spell staff/book) to coalesce into a bound axe.\n\nThe components will be applied to whatever mob I hit with it. The axe has a "
+            "text": "この形は、呪文（もしくは杖/本）を斧へと変化させます。\n\nその斧で攻撃した相手に利用した呪文部品の影響を与えます。この剣は、"
           },
           {
-            "text": "constant minor mana drain, unless I am wearing a ",
-            "color": "dark_purple"
-          },
-          {
-            "text": "Battlemage Amulet",
+            "text": "魔法戦士のアミュレット",
             "color": "blue"
           },
           {
-            "text": ", and consumes a "
+            "text": "を装備していない限り"
           },
           {
-            "text": "burst of mana with each hit",
+            "text": "常に少量のマナを消費",
             "color": "dark_purple"
           },
           {
-            "text": ".  It also functions as a basic axe, which can strip logs and break shields.\n\nTo return the axe to a spell, drop it on the ground. It will also revert automatically if I run out of mana."
+            "text": "し、攻撃が"
+          },
+          {
+            "text": "当たった場合にもマナを消費",
+            "color": "dark_purple"
+          },
+          {
+            "text": "します。普通の斧のようにも利用でき、木の皮を剥ぎ盾を破壊できます。\n\nこの斧は、地面に落とすことで呪文に戻せます。マナ切れになった際も自動で呪文に戻ります。"
           }
         ]
       }
@@ -6848,39 +6916,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Bound Bow"
+        "value": "形：魔術の弓"
       },
       {
         "type": "text",
         "value": "This shape will cause the spell (or spell staff/book) to coalesce into a bound bow.  The components will be applied to whatever mob I hit with its arrows.  The bow has a constant minor mana drain, and consumes a burst of mana with each arrow fired.  However, the arrows are made of pure mana and don't require nor consume any arrows from my pack.\n\nTo return it to a spell, either run out of mana or drop the bow on the ground.",
         "json": [
           {
-            "text": "This shape will cause the spell (or spell staff/book) to coalesce into a bound bow. \n\nThe components will be applied to whatever mob I hit with its arrows. The bow has a "
+            "text": "この形は、呪文（もしくは杖/本）を魔術の弓へと変化させます。\n\n呪文の部品の効果は、矢が当たった存在に影響を与えます。\nこの弓は、"
           },
           {
-            "text": "constant minor mana drain, unless I am wearing a ",
-            "color": "dark_purple"
-          },
-          {
-            "text": "Battlemage Amulet",
+            "text": "魔法戦士のアミュレット",
             "color": "blue"
           },
           {
-            "text": ", and "
+            "text": "を装備していない限り"
           },
           {
-            "text": "consumes a burst of mana with each arrow fired",
+            "text": "常に少量のマナを消費",
             "color": "dark_purple"
           },
           {
-            "text": ". However, the arrows are made of pure mana and "
+            "text": "し、"
           },
           {
-            "text": "don't require nor consume any arrows from my pack",
+            "text": "矢を撃つのにもマナを消費",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nTo return the bow to a spell, drop it on the ground.  It will automatically revert if I run out of mana."
+            "text": "します。その代わりに矢は純粋なマナでできており、"
+          },
+          {
+            "text": "インベントリから矢を消費せず矢を要求しません",
+            "color": "dark_purple"
+          },
+          {
+            "text": "。\n\nこの弓は、地面に落とすことで呪文に戻せます。マナ切れになった際も自動で呪文に戻ります。\n"
           }
         ]
       }
@@ -6905,40 +6976,31 @@
         "value": "I can make use of the arcane arts to summon creatures to defend me.  First, I will need to fill a Crystal Phylactery with souls from the creature I want to summon.  This is done simply by having it in my pack when I kill them (though to initially set the creature type of the phylactery, it must be held in one of my hands when the creature is killed - being in my pack isn't enough).  Then, I hold the spell in one hand, and the phylactery in the other.  That will determine what I summon.\n\nIt's also worth noting that any components I put into the spell will be applied to the creature when it is summoned, so I should be aware of the implications...and the possibilities.",
         "json": [
           {
-            "text": "I can make use of the arcane arts to summon creatures to defend me. \n\nFirst, I will need to fill a "
+            "text": "魔法の術を利用することで、自分を守ってくれる生き物を召喚できます。\n\nまず、召喚したい生き物の魂で"
           },
           {
-            "text": "Crystal Phylactery",
+            "text": "結晶聖箱",
             "color": "blue"
           },
           {
-            "text": " with souls from the creature I want to summon. \n\nThis is done initially by "
+            "text": "を充填する必要があります。\n\nこれをするには、最初に対象を"
           },
           {
-            "text": "having the Crystal Phylactery in my offhand when I kill them",
+            "text": "殺す際に左手に結晶聖箱を持っている",
             "color": "dark_purple"
           },
           {
-            "text": ", which sets the Crystal Phylactery to that enemy.  After the first one is set, it just needs to be in my pack to fill the rest of the way.\n\nThen, I hold the spell in one hand, and the phylactery in the other (or wear it on my back). That will determine what I summon. \n\nIt's also worth noting that "
+            "text": "ことで、結晶聖箱をその敵に設定します。対象の敵が設定されたのち、インベントリの中でも残りの充填を完了できます。\n\nその後、召喚の呪文を手に持ち、反対の手に（もしくは背中に装備）結晶聖箱を持ちます。これで召喚する対象が決まります。\n\n注意する事として、"
           },
           {
-            "text": "any components I put into the spell will be applied to the summon",
+            "text": "呪文に追加した部品は召喚に影響する",
             "color": "dark_purple"
           },
           {
-            "text": ", so I should be aware of the implications...and the possibilities."
+            "text": "ので、その危険性と可能性には留意すべきです。\n"
           },
           {
-            "text": "The summon cap by default is 2, with the exception of the ",
-            "italic": true
-          },
-          {
-            "text": " undead, ",
-            "color": "dark_gray",
-            "italic": true
-          },
-          {
-            "text": "who gain one additonal additional summon for each tier beyond 2 they attain.",
+            "text": "召喚数制限はデフォルトで2で、例外として不死者は２以上の段階１につき召喚数が２増えます。",
             "italic": true
           }
         ]
@@ -6961,21 +7023,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Emanation"
+        "value": "形：噴出"
       },
       {
         "type": "text",
         "value": "The emanation shape projects the spell component in a radius surrounding the caster.  If the radius has been increased, it will start at the default size and expand to the full size over a few seconds.  The emanation will persist as long as the caster channels the effect.",
         "json": [
           {
-            "text": "The emanation shape projects the spell in a radius surrounding me. \n\nIf I've increased the radius, it will start at the default size and expand to the full size over a few seconds. \n\nThe emanation will persist as long as I channel the effect "
-          },
-          {
-            "text": "(continue holding right mouse)",
-            "italic": true
-          },
-          {
-            "text": "."
+            "text": "噴出の形は、呪文を自身の周囲の半径に放出します。\n\n半径を上げた場合はデフォルトの大きさから始まり、設定したサイズになるまで数秒かかります。\n\n噴出の効果は、呪文を詠唱を続けている限り継続します（右クリック長押し）。"
           }
         ]
       }
@@ -6993,28 +7048,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Wall"
+        "value": "形：壁"
       },
       {
         "type": "text",
         "value": "The wall shape targets similarly to Bolt, but will instead spawn a wall perpendicular to the caster.  The wall will persist as long as the caster channels the effect.",
         "json": [
           {
-            "text": "The wall shape targets similarly to "
+            "text": "この形は"
           },
           {
-            "text": "Bolt",
+            "text": "ボルト",
             "color": "blue"
           },
           {
-            "text": ", but will instead spawn a wall at the targeted point, extending out perpendicular from the direction I am facing to either side.  I can use a "
+            "text": "と同じように対象を選択しますが、代わりに対象の地点に呪文の壁を生成し、向いている方向と垂直に広がります。"
           },
           {
-            "text": "Precision ",
+            "text": "精度",
             "color": "blue"
           },
           {
-            "text": "modifier to cause the wall to horizontally align to the closest cardinal direction I am facing.\n\nThe wall will persist for the duration of the spell."
+            "text": "のモディファイアを利用することで、壁が一番近い軸に沿って生成されるようになります。\n\nこの壁は、呪文の持続時間だけ残ります。"
           }
         ]
       }
@@ -7032,14 +7087,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Beam"
+        "value": "形：ビーム"
       },
       {
         "type": "text",
         "value": "The beam shape will project a magical ray out from the caster to a point ahead of them.  The width and height are centered on the beam, but the depth starts where the beam impacts.  The beam will persist as long as the caster channels it.",
         "json": [
           {
-            "text": "The beam shape will project a magical ray to a point ahead of me in the direction I am facing.\n\nThe width and height are centered on the beam, but the depth starts where the beam impacts and will extend further.\n\nThe beam will persist as long as I channel it."
+            "text": "ビームの形は、自分の向いている方向に魔法の光線を放ちます。\n\n幅と高さはビームを中心にしますが、深さははビームの着弾地点からさらに奥に進みます。\n\nビームは、詠唱を続けている限り続きます。"
           }
         ]
       }
@@ -25180,28 +25235,28 @@
         "value": "",
         "json": [
           {
-            "text": "This ritual consumes a creature trapped within a "
+            "text": "この儀式は"
           },
           {
-            "text": "Crystalline Cage",
-            "color": "blue"
-          },
-          {
-            "text": " to give "
-          },
-          {
-            "text": "twenty times the number of souls it normally would.  ",
+            "text": "結晶の檻",
             "color": "dark_purple"
           },
           {
-            "text": "\n\n"
+            "text": "に捕らえられた生命を吸収し、"
           },
           {
-            "text": "The diamond will be returned",
+            "text": "通常の20倍の魂",
             "color": "dark_purple"
           },
           {
-            "text": ", ready for re-use."
+            "text": "を獲得します。\n\n"
+          },
+          {
+            "text": "ダイアモンドは返却され",
+            "color": "dark_purple"
+          },
+          {
+            "text": "、再利用できます。"
           }
         ]
       }
