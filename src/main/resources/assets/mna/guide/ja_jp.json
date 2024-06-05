@@ -3562,7 +3562,14 @@
             "text": "です。\n\n利用するには、儀式に必要な素材をポーチの中に入れる必要があります。ポーチを十分の広さの平らな場所で起動することで、即座に儀式を設置し発動します。\n\n"
           },
           {
-            "text": "ポーチを特定の儀式のパターンに紐づけしたい場合、魔法陣の中心をスニークしながら起動してください。 GUIキー（デフォルト:'ctrl'）を押しながら右クリックでポーチを開けます。 施術者のポーチは、複数の儀式を保持できます。紐づけ、もしくは儀式を起動する前に、UIキー(デフォルト:'z')で円形メニューのスロットを選択してください。",
+            "text": "ポーチを特定の儀式のパターンに紐づけしたい場合、魔法陣の中心をスニークしながら起動してください。 GUIキー（デフォルト:'ctrl'）を押しながら右クリックでポーチを開けます。 ",
+            "italic": true
+          },
+          {
+            "text": "\n\n"
+          },
+          {
+            "text": "施術者のポーチは、複数の儀式を保持できます。紐づけされた儀式を起動する前に、UIキー(デフォルト:'z')で円形メニューで行う儀式を選択してください。",
             "italic": true
           }
         ]
@@ -3666,7 +3673,7 @@
             "color": "blue"
           },
           {
-            "text": "は追加で16スロットのフィルターを追加します。このフィルター内のアイテムが回収された場合、"
+            "text": "は追加で16スロットのフィルターを追加します。\n\nこのフィルター内のアイテムが回収され、"
           },
           {
             "text": "ポーチ内のそのアイテムのスタックがすべて埋まっている場合",
@@ -3856,7 +3863,7 @@
             "color": "blue"
           },
           {
-            "text": "は色付きのグリフのみ保持できるインベントリのスロットを16個追加します。儀式にグリフを利用する場合に便利です。回収のパッチでグリフが回収された場合、先にグリフ専用インベントリに収納されます。\n\n"
+            "text": "は色付きのグリフのみ保持できるインベントリのスロットを16個追加します。\n\n儀式にグリフを利用する場合に便利です。\n\n回収のパッチでグリフが回収された場合、先にグリフ専用インベントリに収納されます。\n\n"
           },
           {
             "text": "追加のスロットは、グリフのパッチのアイコンの上の緑の ",
@@ -3914,7 +3921,7 @@
             "color": "blue"
           },
           {
-            "text": "は雫のみ保持できるインベントリのスロットを12個追加します。儀式に雫を利用する場合に便利です。回収のパッチで雫が回収された場合、先に雫専用インベントリに収納されます。\n\n"
+            "text": "は雫のみ保持できるインベントリのスロットを12個追加します。\n\n儀式に雫を利用する場合に便利です。\n\n回収のパッチで雫が回収された場合、先に雫専用インベントリに収納されます。\n\n"
           },
           {
             "text": "追加のスロットは、雫のパッチのアイコンの上の緑の ",
@@ -3939,11 +3946,7 @@
             "italic": true
           },
           {
-            "text": "\n\n"
-          },
-          {
-            "text": "ntory.",
-            "italic": true
+            "text": "\n"
           }
         ]
       }
@@ -3975,7 +3978,7 @@
             "color": "blue"
           },
           {
-            "text": "に紐づけされた儀式を行う際は必要なアイテムを自身のインベントリから利用します。"
+            "text": "に紐づけされた儀式を行う際は必要なアイテムを自身のインベントリから利用します。\n\n"
           },
           {
             "text": "実践者の巾着",
@@ -3989,7 +3992,7 @@
             "color": "blue"
           },
           {
-            "text": "を縫い付けた場合、不足しているアイテムを使用者のリストストレージから代わりに利用できるようになります。\n必用なアイテムがリフトと巾着の両方に存在している場合は、"
+            "text": "を縫い付けた場合、不足しているアイテムを使用者のリストストレージから代わりに利用できるようになります。\n\n必用なアイテムがリフトと巾着の両方に存在している場合は、"
           },
           {
             "text": "リフト内のアイテムを先に消費します。",
@@ -4656,21 +4659,28 @@
             "color": "dark_purple"
           },
           {
-            "text": "。 \n\n"
+            "text": "。\n\n"
           },
           {
             "text": "帰還の儀式",
             "color": "blue"
           },
           {
-            "text": "を使用することで、そのルーンの組み合わせを使用することでその地点に戻ることができます。ただし、その地点が同じディメンションにあるか、そのディメンションに調整された"
+            "text": "を使用することで、そのルーンの組み合わせのウェイポイント転移することができます。\n\nただし、その"
+          },
+          {
+            "text": "ウェイストーン",
+            "color": "blue"
+          },
+          {
+            "text": "が同じディメンションにあるか、そのディメンションに調整された"
           },
           {
             "text": "ワールドチャーム",
             "color": "blue"
           },
           {
-            "text": "を利用する必要があります。"
+            "text": "を儀式に利用する必要があります。"
           }
         ]
       }
@@ -6969,7 +6979,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Summon"
+        "value": "形：召喚"
       },
       {
         "type": "text",
@@ -7112,13 +7122,13 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Sigil"
+        "value": "形：印"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "The sigil shape will create a sigil in the world at the targeted point.  The preparation aspect allows sigils to be cast for far less mana than other shapes for its complexity. The range attribute will change how far away you can place the sigil. The radius attribute will change the size of the sigil's effect when triggered.\n\nThe magnitude effect changes what will trigger the sigil.\nMagnitude 1: Anything\nMagnitude 2: Anything living\nMagnitude 3: Players only.\n\nDamage will always trigger the sigil.\n\nSigils can be made "
+            "text": "印の形は、対象の地点に簡易の魔法陣を作成します。印は、事前に準備してから発動する関係上、複雑さの割りに他の形に比べてマナの消費量がかなり低いです。\n\nThe sigil shape will create a sigil in the world at the targeted point. The preparation aspect allows sigils to be cast for far less mana than other shapes for its complexity. The range attribute will change how far away you can place the sigil. The radius attribute will change the size of the sigil's effect when triggered.\n\nThe magnitude effect changes what will trigger the sigil.\nMagnitude 1: Anything\nMagnitude 2: Anything living\nMagnitude 3: Players only.\n\nDamage will always trigger the sigil.\n\nSigils can be made "
           },
           {
             "text": "permanent",
@@ -7160,7 +7170,7 @@
             "color": "dark_purple"
           },
           {
-            "text": " once triggered, during which time the sigil will flash. When looking at a Sigil, if you are the caster, you will be shown how many charges it has left. Attacking a sigil will destroy it, and will set it off. \n\nSigils can be permanently made less visible by casting an invisibility spell on them."
+            "text": " once triggered, during which time the sigil will flash. When looking at a Sigil, if you are the caster, you will be shown how many charges it has left. Attacking a sigil will destroy it, and will set it off.\n\nSigils can be permanently made less visible by casting an invisibility spell on them."
           }
         ]
       }
@@ -7178,28 +7188,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Wave"
+        "value": "形：波"
       },
       {
         "type": "text",
         "value": "The wave shape will summon a wave at the caster's feet that moves forward in the direction the caster was facing when the spell was cast.  The wave is not affected by gravity and can be launched at an angle if desired.  The wave will persist as long as the caster channels it.",
         "json": [
           {
-            "text": "The wave shape will summon a wave at my feet that moves forward in the direction I was facing when the spell was cast.   I can use a "
+            "text": "この形は、呪文詠唱された時に自分の足元から自分が向いている方向に波を召喚します。"
           },
           {
-            "text": "Precision ",
+            "text": "精度",
             "color": "blue"
           },
           {
-            "text": "modifier to cause the wall to horizontally align to the closest cardinal direction I am facing.\n\nThe wave is not affected by gravity and can be launched at an angle if desired, unless "
+            "text": "のモディファイアを利用することで、その波を一番近い軸に対して垂直になります。\n\n波は重力に影響されず、"
           },
           {
-            "text": "Precision ",
+            "text": "精度",
             "color": "blue"
           },
           {
-            "text": "is used.  Using Precision will not cause the wave to be affected by gravity.\n\nThe wave will persist as long as I channel it."
+            "text": "を使用していない限りどの方向にも撃ちだすことができます。精度を利用しても、重力に影響はされません。\n\n波は、詠唱し続ける限り続きます。"
           }
         ]
       }
@@ -7217,14 +7227,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Cone"
+        "value": "形：円錐"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "The cone shape will channel a continual stream of magic out from my location for as long as I channel it."
+            "text": "円錐の形は、呪文を詠唱し続ける限り、自分の位置から継続的に魔術を放ち続けます。"
           }
         ]
       }
@@ -7242,14 +7252,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Self"
+        "value": "形：自分"
       },
       {
         "type": "text",
         "value": "This shape will cause the spell to affect the caster directly when cast.",
         "json": [
           {
-            "text": "This shape will cause the spell to affect me directly when cast."
+            "text": "この形は、詠唱した際に呪文が直接自分に影響するようになります。"
           }
         ]
       }
@@ -7267,14 +7277,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Bolt"
+        "value": "形：ボルト"
       },
       {
         "type": "text",
         "value": "The bolt shape is a long range instantaneous effect, but requires a great deal of precision to target.  Due to the longer range, it can't seem to hit as wide a range as other shapes.",
         "json": [
           {
-            "text": "The bolt shape is a long range instantaneous effect, but requires a great deal of precision to target. Due to the longer range, it can't seem to hit as wide a range as other shapes, and has no AoE capabilities."
+            "text": "ボルトの形は高速で長距離の効果をもたらしますが、狙うのに精度が必要です。長射程を得た代わりに、ヒットボックスが小さく、範囲攻撃ができません。"
           }
         ]
       }
@@ -7292,21 +7302,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Touch"
+        "value": "形：接触"
       },
       {
         "type": "text",
         "value": "This shape is a relatively short range effect, however the close proximity requires much less energy to cast.  As a result, it has a much higher capacity for radius.\n\nI should be careful putting too much radius into this.  The effects could potentially hit me as well.",
         "json": [
           {
-            "text": "This shape is a relatively short range effect, based on what I can reach, however the close proximity requires much less energy to cast. As a result, it has a much higher capacity for radius.  "
+            "text": "この形は比較的短距離な効果で、自分が触れるかどうかで決まります。短距離であるメリットとして、消費するエネルギーがかなり少ないです。その結果として、影響する半径の最大はかなり高いです。一"
           },
           {
-            "text": "If I extend my reach distance even temporarily, it extends the range of this shape.",
+            "text": "時的でも自身の手が届く範囲を伸ばした場合、この形の射程も一緒に上昇します",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nWhen targeting blocks horizontally, the shape will only ever extend down one block, the rest of the height will extend upward. For all directions, it will also lock the radius to the plane matching the face of the block hit. This makes it ideal for precision tunneling and excavation."
+            "text": "。\n\n効果範囲を増やした場合、下には一ブロックだけ伸び、他は横と上に広がります。範囲の方角は対象のブロックの面と垂直固定されます。これのおかげで、精密なトンネル作成や掘削に適しています。"
           }
         ]
       }
@@ -7324,21 +7334,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shape: Chain"
+        "value": "形：チェーン"
       },
       {
         "type": "text",
         "value": "This shape will target a short distance away from me.  From there, if I hit a block it will jump to nearby connected blocks of the same type, applying the components of the spell to each block.  If it hits an entity, it will attempt to jump within the full radius to other entities.  It will not jump between blocks and entities.",
         "json": [
           {
-            "text": "This shape will target a short distance away from me. From there, if I hit a block it will jump to nearby connected blocks of the same type, applying the components of the spell to each block. If it hits an entity, it will attempt to jump within the full radius to other entities. "
+            "text": "この形は、詠唱者から短距離を対象にします。\nそこから、\n\nブロックに当たった場合は、近くの同じ種類のブロックに連鎖し、呪文の部品を連鎖したブロックすべてに影響します。\n\nエンティティに当たった場合は、半径内の他のエンティティに連鎖を試みます。\n\n"
           },
           {
-            "text": "It will not jump between blocks and entities",
+            "text": "ブロックとエンティティの間には連鎖しません",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -7356,35 +7366,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Fire Damage"
+        "value": "火ダメージ"
       },
       {
         "type": "text",
         "value": "This effect lights whatever it touches on fire.  The initial heat bloom is extremely potent and will scorch targets before igniting them.",
         "json": [
           {
-            "text": "This effect lights whatever it touches on fire. The initial heat bloom is extremely potent and will "
+            "text": "この効果は、対象に火を点けます。最初の熱波は非常に強力で、着火する前に"
           },
           {
-            "text": "scorch targets",
+            "text": "対象を炙ります",
             "color": "dark_purple"
           },
           {
-            "text": " before igniting them.\n\nIt is possible to disable the lingering fire on targets using a "
+            "text": "。\n\n"
           },
           {
-            "text": "Duration",
+            "text": "持続時間",
             "color": "blue"
           },
           {
-            "text": " or "
+            "text": "もしくは"
           },
           {
-            "text": "Precision",
+            "text": "精度",
             "color": "blue"
           },
           {
-            "text": " modifier."
+            "text": "のモディファイアを利用することで、着火を無効化できます。"
           }
         ]
       }
@@ -7402,35 +7412,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Arcane Damage"
+        "value": "魔法ダメージ"
       },
       {
         "type": "text",
         "value": "This effect strikes the target with a burst of pure magic, and can burn some of their own magic away.  This component can only be crafted and cast by those aligned with the Council of Wizards.",
         "json": [
           {
-            "text": "This effect strikes the target with a burst of pure magic, and can "
+            "text": "この攻撃は対象を純粋なマナで攻撃し、"
           },
           {
-            "text": "burn some of their mana away",
+            "text": "相手のマナを減らす",
             "color": "dark_purple"
           },
           {
-            "text": ".  Arcane damage does "
+            "text": "ことができます。魔法ダメージは、"
           },
           {
-            "text": "double damage to summoned creatures",
+            "text": "召喚された存在に二倍のダメージ",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nThis component can only be crafted and cast by those aligned with the "
+            "text": "を与えます。\n\nこの部品は、"
           },
           {
-            "text": "Council of Wizards",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ、作成と詠唱が行えます。"
           }
         ]
       }
@@ -7448,21 +7458,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Transitory Tile"
+        "value": "通り抜けトンネル"
       },
       {
         "type": "text",
         "value": "This simple spell is based on verisimilomancy, with a touch of invocation added.  It creates a walkable path wherever the spell targets.",
         "json": [
           {
-            "text": "This simple spell is based on verisimilomancy, with a touch of invocation added. It "
+            "text": "この単純な呪文は幻術と、召喚の魔術の組み合わせに基づいています。呪文が対象にした場所を、通"
           },
           {
-            "text": "creates a temporary block",
+            "text": "り抜けられる一時的なブロックに置き換えます",
             "color": "dark_purple"
           },
           {
-            "text": " wherever the spell targets."
+            "text": "。"
           }
         ]
       }
@@ -7480,28 +7490,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Frost Damage"
+        "value": "氷ダメージ"
       },
       {
         "type": "text",
         "value": "This effect drastically lowers the temperature of whatever it targets.  The shock from the temperature change can cause significant damage.  As the damage of the frost increases, it can freeze water to temporary ice (or permanent ice if the damage is high enough), and lava to obsidian.",
         "json": [
           {
-            "text": "This effect drastically lowers the temperature of whatever it targets. The shock from the temperature change can cause "
+            "text": "この効果は、当たった対象の温度を劇的に低下させます。温度変化によるショックは"
           },
           {
-            "text": "damage, slow the target for a brief time, and build up some frostbite on them",
+            "text": "ダメージを与え、対象を短い間鈍足にし、ある程度凍傷を蓄積させます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nAs the damage of the frost increases, it "
+            "text": "。\n\n氷のダメージが上昇すると、"
           },
           {
-            "text": "can freeze water to temporary ice (or permanent ice if the damage is high enough), and lava to obsidian",
+            "text": "水を一時的な氷（ダメージが十分高い場合は永続的な氷）に、そして溶岩を黒曜石に変えます",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -7519,28 +7529,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Lightning Damage"
+        "value": "雷ダメージ"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "I've figured out a way to channel pure fire into a blast so concentrated that it more resembles lightning than anything else. The charge it creates seems to have a "
+            "text": "純粋な炎を濃縮させることで、雷としか表しようがない効果を及ぼす手段を発見した。\n\nそれが生み出す電荷は、つぎ込んだ規模に基づいて"
           },
           {
-            "text": "chance to arc to other targets",
+            "text": "他の対象に放電して連鎖する",
             "color": "dark_purple"
           },
           {
-            "text": " based on the amount of magnitude I put into it. This could be useful against large groups of enemies.  In theory, if I put enough damage into it, I may even be able to "
-          },
-          {
-            "text": "ignite creepers",
-            "color": "dark_purple"
-          },
-          {
-            "text": " , provided they actually survive the lightning blast, which may prove somewhat of its own challenge.  I might need to get creative."
+            "text": "可能性があります。これは敵の集団と戦うのに便利です。\n\n理論上、十分なダメージを追加すればクリーパーを点火することができるはずです。クリーパーがダメージを生き残る事が必要なので、意外と難しいかもしれません。工夫が必要かもしれない。"
           }
         ]
       }
@@ -7558,24 +7561,24 @@
     "sections": [
       {
         "type": "title",
-        "value": "Leap"
+        "value": "跳躍"
       },
       {
         "type": "text",
         "value": "I've figured out how I can channel currents of air around myself to launch me higher into the air whenever I jump.  \n\nI'll need to be careful of what's below me when I land, and how far I fall.",
         "json": [
           {
-            "text": "I've figured out how I can channel currents of air around myself to "
+            "text": "自身の周囲の空気の流れを利用することで、"
           },
           {
-            "text": "launch me higher into the air whenever I jump",
+            "text": "ジャンプした際にさらに高く跳べる",
             "color": "dark_purple"
           },
           {
-            "text": ". I'll need to be careful of what's below me when I land, and how far I fall.\n\n"
+            "text": "ようになる手段を発見した。\n\n着地するする際には足元と、落下する距離に注意しましょう。\n\n"
           },
           {
-            "text": "M&A fixes the jump boost effect so a forward boost is applied as well, essentially maintaining momentum.",
+            "text": "M&Aは跳躍の効果を前へのブーストが掛かるように修正しました。まるで慣性を保持しているかのように移動できるようになっています。",
             "italic": true
           }
         ]
@@ -7594,21 +7597,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Slowfall"
+        "value": "低速落下"
       },
       {
         "type": "text",
         "value": "I've learned how to coalesce the air below me into a cushion that gently carries me towards the ground.  I'm one step closer to true flight!",
         "json": [
           {
-            "text": "I've learned how to coalesce the air below me into a cushion that gently "
+            "text": "自身の真下の空気をまとめてクッションにすることで、"
           },
           {
-            "text": "carries me towards the ground",
+            "text": "地面まで緩やかに降りる",
             "color": "dark_purple"
           },
           {
-            "text": ". I'm one step closer to true flight!"
+            "text": "手段を学びました。\n\n真なる飛行にまた一歩近づきました！"
           }
         ]
       }
@@ -7626,35 +7629,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Break"
+        "value": "破壊"
       },
       {
         "type": "text",
         "value": "I can focus my magic to break things.  Dirt, Stone, and more all shatters at my command.  I can feel the earth shake below my feet.\n\nIf I put more effort into the spell to increase its magnitude, I can increase what it can break.\n\nI've heard rumors that there are magic rings that can do this for me as well.  I should check back when I've gained some experience.",
         "json": [
           {
-            "text": "I can focus my magic to break things. "
+            "text": "自分の魔法を集中させる事で物体を破壊できます。"
           },
           {
-            "text": "Dirt, Stone, and more all shatters at my command",
+            "text": "土や石、それ以外も自由自在に破壊できます",
             "color": "dark_purple"
           },
           {
-            "text": ". I can feel the earth shake below my feet. \n\nIf I put more effort into the spell to "
+            "text": "。\n\n大地が自分の足元で震えているのを感じる。\n\n呪文にさらに力をつぎ込み"
           },
           {
-            "text": "increase its magnitude, I can increase what it can break",
+            "text": "規模を上昇させる事で、破壊できる物を増やせます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nI've heard rumors that there are "
+            "text": "。\n\nこれと"
           },
           {
-            "text": "magic rings that can do this for me as well",
+            "text": "同じ事ができる魔法の指輪",
             "color": "blue"
           },
           {
-            "text": ". I should check back when I've gained some experience."
+            "text": "が存在していると言う噂を聞いた。経験をもっと積んだ後に再度確認するべきだろう。"
           }
         ]
       }
@@ -7680,21 +7683,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rift"
+        "value": "次元の裂け目"
       },
       {
         "type": "text",
         "value": "I have discovered how to tear a small rift between this dimension and one of the neighbouring ones.  It's not large enough to fit myself through, but it does always seem to go to the same place for me.  Maybe I can use it to store a few things safely away from prying eyes and sticky fingers.\n\nEven moreso if I cast it on myself, this opens the rift just for me and immediately closes it when I am done with it.\n\nInterestingly, other mages that interact with rifts find that for them it opens to a different location, even if I am the one to summon it.  It must be something to do with how their magic interacts with the spell's formula.",
         "json": [
           {
-            "text": "I have discovered how to tear a small rift between this dimension and one of the neighbouring ones. It's not large enough to fit myself through, but it does always seem to go to the same place for me. Maybe I can use it to "
+            "text": "この次元と、隣接した次元の間に小さな裂け目を生み出す手段を発見しました。自分が通り抜けるほど大きくはありませんが、自分の裂け目は常に同じ場所につながっているようです。\n\nもしかしたら、"
           },
           {
-            "text": "store a few things safely away from prying eyes and sticky fingers",
+            "text": "いくつかの物を安全に保管し、監視の目や紛失を避けるのに利用できる",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nEven moreso if I cast it on myself, this opens the rift just for me and immediately closes it when I am done with it. Interestingly, other mages that interact with rifts find that for them it opens to a different location, even if I am the one to summon it. It must be something to do with how their magic interacts with the spell's formula."
+            "text": "かもしれない。\n\n自分に対して詠唱した場合にそれは顕著で、自分にだけ裂け目を開き終わった後に即座に裂け目が閉ざされます。\n\n興味深いことに、自分が裂け目を開いた場合でも他の魔術師にとっては別の場所に繋がっているようです。これには呪文の方程式に彼らの魔法が干渉している事が関係しているはずだ。"
           }
         ]
       }
@@ -7712,42 +7715,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Fling"
+        "value": "吹き飛ばし"
       },
       {
         "type": "text",
         "value": "I can use similar air magic to when I slow my falling speed to push against other creatures and force them away from me.  This might be a good spell in a pinch when another creeper sneaks up on me, if I'm fast enough.",
         "json": [
           {
-            "text": "I can use similar air magic to when I slow my falling speed to "
+            "text": "自分の落下速度を低下させる魔術と似ている大気の魔術を利用することで、"
           },
           {
-            "text": "push things away from me",
+            "text": "敵を自分から離れるように吹き飛ばす",
             "color": "dark_purple"
           },
           {
-            "text": ". This might be a good spell in a pinch when another creeper sneaks up on me, if I'm fast enough.\n\nIn fact, it can cause rather "
+            "text": "ことができます。これは反射速度が間に合えば、後ろから忍び寄ってきたクリーパーに対象するのに使えるかもしれません。\n\nさらに、"
           },
           {
-            "text": "significant damage if I fling something into a wall",
+            "text": "敵を壁に向かって叩きつける事で結構なダメージを与える",
             "color": "dark_purple"
           },
           {
-            "text": ".  That includes me.  I've heard there is an "
+            "text": "ことができます。これは自分が吹き飛ばされた際にも適用されます。\n\n強力な魔術師が作成できる、"
           },
           {
-            "text": "artifact",
+            "text": "このダメージから守ってくれるアーティファクト",
             "color": "blue"
           },
           {
-            "text": " powerful wizards can create that "
-          },
-          {
-            "text": "protects them from this damage",
-            "color": "blue"
-          },
-          {
-            "text": "."
+            "text": "があると聞いたことがあります。"
           }
         ]
       }
@@ -7765,28 +7761,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Camouflage"
+        "value": "カモフラージュ"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "I can use water magic to "
+            "text": "水の魔法を利用する事で"
           },
           {
-            "text": "bend light around myself, becoming harder to see",
+            "text": "自分の周囲の光を曲げることができ、自分を見難くする",
             "color": "dark_purple"
           },
           {
-            "text": ". I'll need to "
+            "text": "ことができます。\n\nこの呪文から最大限の効果を得るには、"
           },
           {
-            "text": "stand still for a few seconds",
+            "text": "数秒間動かずに留まる",
             "color": "dark_purple"
           },
           {
-            "text": " to get the most benefit from this spell."
+            "text": "必要があります。"
           }
         ]
       }
@@ -7811,14 +7807,14 @@
         "value": "This convenient spell will take blocks from my inventory to fill holes in the world.  If I'm holding a block in my other hand, it will use that.  Otherwise it will use the block that the spell targets.",
         "json": [
           {
-            "text": "This convenient spell will take materials from my inventory to "
+            "text": "この便利な呪文は、インベントリからアイテムを利用して地形にある"
           },
           {
-            "text": "fill holes in the world",
+            "text": "穴を埋める",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIf I'm holding a block in my other hand, it will use that. Otherwise it will use the block that the spell targets."
+            "text": "ことができます。\n\n左手にブロックを持っている場合は、それを利用します。でなければ呪文が対象にしているブロックを利用します。"
           }
         ]
       }
@@ -7836,28 +7832,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Bind Wounds"
+        "value": "傷口縛り"
       },
       {
         "type": "text",
         "value": "I can use this effect to mimic the body's ability to heal over time. The subject's cuts mend, their broken bones set, and bruises vanish in mere moments.\n\nMuch like conventional medical care, the subject must largely remain still. Any sudden upsets to the body like a sudden movement (or worse, taking further injury) will disrupt the spell and end the effect.",
         "json": [
           {
-            "text": "I can use this effect to mimic the body's ability to "
+            "text": "この効果を利用し、体が時間の経過とともに怪我を修復する仕組みを模倣することができます。\n\n切り傷は塞がり、折れた骨は固まり、打撲は消えてなくなります。一般的な医療のように、対象は安静を保つ必要があります。\n\n"
           },
           {
-            "text": "heal over time",
+            "text": "急激な移動（もしくは更なる怪我）は呪文を乱し、効果が終了します",
             "color": "dark_purple"
           },
           {
-            "text": ". The subject's cuts mend, their broken bones set, and bruises vanish in mere moments. Much like conventional medical care, the subject must largely remain still. Any sudden upsets to the body like a "
-          },
-          {
-            "text": "sudden movement (or worse, taking further injury) will disrupt the spell and end the effect",
-            "color": "dark_purple"
-          },
-          {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -7875,28 +7864,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Levitate"
+        "value": "空中浮遊"
       },
       {
         "type": "text",
         "value": "I can use a combination of arcane and wind magic to lift my target into the air and allow them a limited form of flight.  The movement is slow, but some days, that still beats walking.\n\nUnless allied with the fey, this spell requires a feather as a reagent.",
         "json": [
           {
-            "text": "I can use a combination of arcane and wind magic to lift my target into the air and allow them a "
+            "text": "神秘と風の魔術の組み合わせを利用する事で対象を空に飛ばし、"
           },
           {
-            "text": "limited form of flight",
+            "text": "制限された飛行",
             "color": "dark_purple"
           },
           {
-            "text": ". The movement is slow, but some days, that still beats walking. \n\nUnless allied with the "
+            "text": "を行えるようにします。\n動きは遅いですが、たまには歩きたくない日もあるでしょう。\n\n"
           },
           {
-            "text": "Fey",
+            "text": "妖精",
             "color": "dark_green"
           },
           {
-            "text": ", this spell requires a feather as a reagent."
+            "text": "に所属していない限り、触媒として羽根を必要とします。"
           }
         ]
       }
@@ -7914,21 +7903,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Exchange"
+        "value": "交換"
       },
       {
         "type": "text",
         "value": "I can use this effect to exchange a block that's hit with a block in my other hand.  I've discovered that the first time this happens in a spell, it will 'set' the block type and will consume additional blocks even from my pack if the stack in my hand runs out.  This is particularly notable for spells that target a large area, or for channeled spells.",
         "json": [
           {
-            "text": "I can use this effect to "
+            "text": "この効果を利用することで、"
           },
           {
-            "text": "exchange a block that's hit with a block in my other hand",
+            "text": "対象のブロックを左手のブロックと交換します。",
             "color": "dark_purple"
           },
           {
-            "text": ". I've discovered that the first time this happens in a spell, it will 'set' the block type and will consume additional blocks even from my pack if the stack in my hand runs out. This is particularly notable for spells that target a large area, or for channeled spells."
+            "text": "呪文を最初に利用した際にブロックの種類が「セット」され、アイテムスタックが尽きた場合はインベントリからも消費します。\n\nこれは、範囲が広かったり継続的に詠唱する呪文で特に起きやすいです。"
           }
         ]
       }
