@@ -6699,7 +6699,7 @@
         "value": "This spell shape will spawn a projectile at the caster, in the direction that the caster is looking.  The projectile will fly forward and will affect the first entity or block it hits.",
         "json": [
           {
-            "text": "この形は詠唱者の座標と向いている方角に発射体を生成します。この発射体は前進し、"
+            "text": "この形は詠唱者の座標と向いている方角に発射体を生成します。\n\nこの発射体は前進し、"
           },
           {
             "text": "最初に接触したエンティティかブロックに",
@@ -6731,7 +6731,7 @@
         "value": "This spell shape will spawn a projectile up to 16 blocks into the air, targeted at the point where the caster is pointing (if in range).  The projectile will fall quickly and will affect the first entity or block it hits.  The smite shape deals extra damage on impact due to its difficulty to target, which is based on how far it fell.",
         "json": [
           {
-            "text": "この形は発射体を最大で16ブロック上に生成し、詠唱者が向いている位置（射程内の場合）を狙います。\nその発射体は素早く落下し、最初に接触したブロックとエンティティに影響を与えます。"
+            "text": "この形は発射体を最大で16ブロック上に生成し、詠唱者が向いている位置（射程内の場合）を狙います。\n\nその発射体は素早く落下し、最初に接触したブロックとエンティティに影響を与えます。\n\n"
           },
           {
             "text": "天撃は、落下距離に応じて追加のダメージを与えます",
@@ -6763,7 +6763,7 @@
         "value": "This incredibly powerful channeled spell shape will call down smiting blasts of magic to strike all around me within its radius.  Like smite, it must have a clear path to the sky, so it won't be as useful in tight spaces.",
         "json": [
           {
-            "text": "この強力な持続的な呪文は魔術の天撃を自分の周囲に大量に呼び出します。それぞれ最大16ブロック上に生成され、"
+            "text": "この強力な持続的な呪文は魔術の天撃を自分の周囲に大量に呼び出します。\n\nそれぞれ最大16ブロック上に生成され、"
           },
           {
             "text": "落下距離に応じて追加のダメージを与えます",
@@ -7128,49 +7128,42 @@
         "type": "text",
         "json": [
           {
-            "text": "印の形は、対象の地点に簡易の魔法陣を作成します。印は、事前に準備してから発動する関係上、複雑さの割りに他の形に比べてマナの消費量がかなり低いです。\n\nThe sigil shape will create a sigil in the world at the targeted point. The preparation aspect allows sigils to be cast for far less mana than other shapes for its complexity. The range attribute will change how far away you can place the sigil. The radius attribute will change the size of the sigil's effect when triggered.\n\nThe magnitude effect changes what will trigger the sigil.\nMagnitude 1: Anything\nMagnitude 2: Anything living\nMagnitude 3: Players only.\n\nDamage will always trigger the sigil.\n\nSigils can be made "
+            "text": "印の形は、対象の地点に簡易の魔法陣を作成します。印は、事前に準備してから発動する関係上、複雑さの割りに他の形に比べてマナの消費量がかなり低いです。\n射程のモディファイアは印を設置できる自分からの距離を変更します。\n半径のモディファイアは、起動した際の効果の範囲を変更します。\n\n規模を変更することで、印を起動する生物を変更できます。\n規模１：すべて\n規模２：すべての生命\n規模３：プレイヤーのみ\n\nダメージは、常に印を起動します。\n\n印は"
           },
           {
-            "text": "permanent",
-            "color": "blue"
-          },
-          {
-            "text": " by casting them on a "
-          },
-          {
-            "text": "metal ritual rune",
+            "text": "金属製のルーン",
             "color": "dark_purple"
           },
           {
-            "text": ". When this is done, the Sigil will gain charges and a cooldown. Charges can be replenished by either "
+            "text": "に詠唱することで、永続的にすることができます。この際、印は回数とクールダウンを得ます。回数は"
           },
           {
-            "text": "casting additional Sigil spells (contents do not matter)",
+            "text": "既存の印に印(中身は問わない)を詠唱する",
             "color": "blue"
           },
           {
-            "text": " on to an existing sigil, or by "
+            "text": "か、"
           },
           {
-            "text": "placing them within 16 blocks of a Mana Crystal (line of sight not required)",
+            "text": "マナクリスタルが１６ブロック以内（視線を要求しない）",
             "color": "dark_purple"
           },
           {
-            "text": ". Permanent Sigils can hold up to "
+            "text": "に存在することで充填できます。\n\n永続的な印は"
           },
           {
-            "text": "10 charges",
+            "text": "１０までの回数",
             "color": "blue"
           },
           {
-            "text": ", and will go into cooldown mode for "
+            "text": "を保持することができ、起動したら点滅しながら"
           },
           {
-            "text": "3 seconds",
+            "text": "三秒間",
             "color": "dark_purple"
           },
           {
-            "text": " once triggered, during which time the sigil will flash. When looking at a Sigil, if you are the caster, you will be shown how many charges it has left. Attacking a sigil will destroy it, and will set it off.\n\nSigils can be permanently made less visible by casting an invisibility spell on them."
+            "text": "のクールダウンに入ります。あなたが印の作成者であれば、印を見ている際に残りの回数が表示されます。\n\n印は、透明化の呪文を詠唱することで永続的に視認性を減らすことができます。"
           }
         ]
       }
@@ -7234,7 +7227,7 @@
         "value": "",
         "json": [
           {
-            "text": "円錐の形は、呪文を詠唱し続ける限り、自分の位置から継続的に魔術を放ち続けます。"
+            "text": "円錐の形は呪文を詠唱し続ける限り、自分の位置から継続的に魔術を放ち続けます。"
           }
         ]
       }
@@ -7284,7 +7277,7 @@
         "value": "The bolt shape is a long range instantaneous effect, but requires a great deal of precision to target.  Due to the longer range, it can't seem to hit as wide a range as other shapes.",
         "json": [
           {
-            "text": "ボルトの形は高速で長距離の効果をもたらしますが、狙うのに精度が必要です。長射程を得た代わりに、ヒットボックスが小さく、範囲攻撃ができません。"
+            "text": "ボルトの形は高速で長距離の効果をもたらしますが、狙うのに精度が必要です。\n\n長射程を得た代わりに、ヒットボックスが小さく、範囲攻撃ができません。"
           }
         ]
       }
@@ -7309,7 +7302,14 @@
         "value": "This shape is a relatively short range effect, however the close proximity requires much less energy to cast.  As a result, it has a much higher capacity for radius.\n\nI should be careful putting too much radius into this.  The effects could potentially hit me as well.",
         "json": [
           {
-            "text": "この形は比較的短距離な効果で、自分が触れるかどうかで決まります。短距離であるメリットとして、消費するエネルギーがかなり少ないです。その結果として、影響する半径の最大はかなり高いです。一"
+            "text": "この形は比較的短距離な効果で、自分が触れるかどうかで決まります。\n\n短距離であるメリットとして、"
+          },
+          {
+            "text": "消費するエネルギーがかなり少ない",
+            "color": "dark_purple"
+          },
+          {
+            "text": "です。\n\nその結果として、影響する半径のポテンシャルはかなり高いです。一"
           },
           {
             "text": "時的でも自身の手が届く範囲を伸ばした場合、この形の射程も一緒に上昇します",
@@ -7373,7 +7373,7 @@
         "value": "This effect lights whatever it touches on fire.  The initial heat bloom is extremely potent and will scorch targets before igniting them.",
         "json": [
           {
-            "text": "この効果は、対象に火を点けます。最初の熱波は非常に強力で、着火する前に"
+            "text": "この効果は、対象に火を点けます。\n\n最初の熱波は非常に強力で、着火する前に"
           },
           {
             "text": "対象を炙ります",
@@ -7465,10 +7465,10 @@
         "value": "This simple spell is based on verisimilomancy, with a touch of invocation added.  It creates a walkable path wherever the spell targets.",
         "json": [
           {
-            "text": "この単純な呪文は幻術と、召喚の魔術の組み合わせに基づいています。呪文が対象にした場所を、通"
+            "text": "この単純な呪文は幻術と、召喚の魔術の組み合わせに基づいています。\n\n呪文が対象にした場所を、"
           },
           {
-            "text": "り抜けられる一時的なブロックに置き換えます",
+            "text": "通り抜けられる一時的なブロックに置き換えます",
             "color": "dark_purple"
           },
           {
@@ -7839,7 +7839,7 @@
         "value": "I can use this effect to mimic the body's ability to heal over time. The subject's cuts mend, their broken bones set, and bruises vanish in mere moments.\n\nMuch like conventional medical care, the subject must largely remain still. Any sudden upsets to the body like a sudden movement (or worse, taking further injury) will disrupt the spell and end the effect.",
         "json": [
           {
-            "text": "この効果を利用し、体が時間の経過とともに怪我を修復する仕組みを模倣することができます。\n\n切り傷は塞がり、折れた骨は固まり、打撲は消えてなくなります。一般的な医療のように、対象は安静を保つ必要があります。\n\n"
+            "text": "この効果を利用することで体が時間の経過とともに怪我を修復する仕組みを模倣することができます。\n\n切り傷は塞がり、折れた骨は固まり、打撲は消えてなくなります。一般的な医療のように、対象は安静を保つ必要があります。\n\n"
           },
           {
             "text": "急激な移動（もしくは更なる怪我）は呪文を乱し、効果が終了します",
@@ -7935,42 +7935,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Fossilize"
+        "value": "化石化"
       },
       {
         "type": "text",
         "value": "This powerful magic I've discovered seems to be somewhat of a double-edged sword.\n\nIt greatly fortifies me against powerful blows, but makes my defense much more brittle against smaller attacks, much like a diamond: extremely hard but will shatter if struck just right.\n\nAll incoming attacks cannot do more than 4 damage (2 hearts) to me, but anything that does less will be increased to 4 damage.\n\nThis might be a good candidate for shorter durations, and I can see several offensive possibilities to apply this to my target as well...",
         "json": [
           {
-            "text": "This powerful magic I've discovered seems to be somewhat of a "
+            "text": "自分が発見したこの強力な魔術は"
           },
           {
-            "text": "double-edged sword",
+            "text": "諸刃の剣",
             "color": "dark_purple"
           },
           {
-            "text": ". It greatly "
+            "text": "のようなものです。\n\n"
           },
           {
-            "text": "fortifies me against powerful blows",
+            "text": "強力な攻撃に対しては自身を大幅に強く",
             "color": "blue"
           },
           {
-            "text": ", but makes my defense much more "
+            "text": "しますが、"
           },
           {
-            "text": "brittle against smaller attacks",
+            "text": "弱い攻撃からもそれなりのダメージを受ける",
             "color": "dark_purple"
           },
           {
-            "text": ", much like a diamond: extremely hard but will shatter if struck just right. \n\nAll incoming attacks cannot do more than 4 damage (2 hearts) to me, but anything that does less will be increased to 4 damage. This might be a good candidate for shorter durations, and I can see several offensive possibilities to apply this to my target as well...\n\nThis spell part can only be crafted by those who have aligned themselves with the "
+            "text": "ようになります、ダイアモンドのように。とても硬いですが、当たり所によってはたちまち砕けます。\n\nすべての受けるダメージは４ダメージ（ハート２個分）以上になりませんが、それ以下の攻撃もすべて４ダメージまで上昇します。\n\n短時間だけ利用するには便利ですし、敵に与えることで攻撃にも利用できるかもしれません。\n\nこの呪文は"
           },
           {
-            "text": "Undead",
-            "color": "dark_gray"
+            "text": "不死者",
+            "color": "gray"
           },
           {
-            "text": "."
+            "text": "と同盟を組んでいる者のみ作成できます。"
           }
         ]
       }
@@ -7988,21 +7988,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shear"
+        "value": "刈り取り"
       },
       {
         "type": "text",
         "value": "In my ever-present quest to eschew physical tools, I have figured out a way to precisely control a burst of magic to apply a shearing effect.  This will work well for things like sheep, but will also help me manipulate blocks, such as carving a pumpkin.",
         "json": [
           {
-            "text": "In my ever-present quest to eschew physical tools, I have figured out a way to precisely control a burst of magic to "
+            "text": "物理的な道具に頼るのを減らす道のりの中で、精密に操作された魔術の渦で、道具を利用せずに"
           },
           {
-            "text": "simulate shears",
+            "text": "ハサミと同じ事",
             "color": "dark_purple"
           },
           {
-            "text": " without the need for the actual tool. This will work well for things like sheep, but will also help me manipulate blocks, such as carving a pumpkin."
+            "text": "を行うことができます。\n\nもちろん羊の毛を刈り取る事ができますが、それだけではなくカボチャを彫りのようにブロックに影響を与えることができます。"
           }
         ]
       }
@@ -8020,28 +8020,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Wind Wall"
+        "value": "風壁"
       },
       {
         "type": "text",
         "value": "I've plucked arrows out of my armor (and limbs) for the last time!  I've found a way to create a dense barrier of whirling wind surrounding me.  With this wind, I can redirect arrows and other projectiles that are launched at me.  If I increase the power of the wind, I can even cause it to reflect the projectile back at its source!\n\nThis will teach the first skeleton I see a lesson.",
         "json": [
           {
-            "text": "I've plucked arrows out of my armor (and limbs) for the last time! I've found a way to create a dense barrier of whirling wind surrounding me. With this wind, I can "
+            "text": "これで鎧や体から矢を引っこ抜く作業におさらばだ！\n\n自分の周りに厚い風の障壁を生成する手段を見つけました。\nこの風で、自分に向かって放たれた"
           },
           {
-            "text": "redirect arrows and other projectiles",
+            "text": "矢や他の発射体を逸らす",
             "color": "dark_purple"
           },
           {
-            "text": " that are launched at me. If I increase the power of the wind, I can even cause it to reflect the projectile back at its source! This will teach the first skeleton I see a lesson.\n\nI've noticed that this spell may be somewhat "
+            "text": "ことができます。\n\n風の強さを調整することで、発射体を相手に跳ね返すこともできます！\nこれでスケルトンは自分と敵対するべきではないと学ぶでしょう。\n\nこの呪文は、"
           },
           {
-            "text": "unreliable against the attacks of particularly powerful enemies",
+            "text": "非常に強力な敵の攻撃に対しては信頼できない",
             "color": "dark_purple"
           },
           {
-            "text": ".  Still, some sounds better than none."
+            "text": "ようです。\n\nだとしても、ないよりマシです。"
           }
         ]
       }
@@ -8066,14 +8066,7 @@
         "value": "Using a similar form of magic to Break, I can cause entire trees to fall at my whim.",
         "json": [
           {
-            "text": "Using a similar form of magic to Break, I can "
-          },
-          {
-            "text": "cause entire trees to fall",
-            "color": "dark_purple"
-          },
-          {
-            "text": " at my whim."
+            "text": "破壊と似たような魔術を利用し、意のままに木を一括で破壊できます。"
           }
         ]
       }
@@ -8091,70 +8084,53 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mist Form"
+        "value": "霧化"
       },
       {
         "type": "text",
         "value": "I can use the necromantic arts to turn myself into living mist.  While I am in the form of mist, I can fly, pass through any non-solid block, and take reduced damage when attacked, but I can't interact with any block, item, or entity.\n\nTo end the effect early, double tap space as if to fly.\n\nWARNING:  This spell part can only be crafted by those who have aligned themselves with the Undead.",
         "json": [
           {
-            "text": "I can use the necromantic arts to "
+            "text": "死霊術を利用することで、自身を"
           },
           {
-            "text": "turn myself into living mist",
+            "text": "生きている霧に変身",
             "color": "dark_purple"
           },
           {
-            "text": ". While I am in the form of mist, I can "
+            "text": "させられます。\n\n霧でいる間は空を飛ぶことができ、"
           },
           {
-            "text": "fly",
+            "text": "個体ブロック以外通り抜けられ",
             "color": "dark_purple"
           },
           {
-            "text": ", "
+            "text": "、攻撃から受けるダメージが減りますが、"
           },
           {
-            "text": "pass through any non-solid block",
+            "text": "ブロック/アイテム/エンティティに",
+            "color": "black"
+          },
+          {
+            "text": "干渉できなく",
             "color": "dark_purple"
           },
           {
-            "text": ", and "
+            "text": "なります。\n\n霧になっている者にとって水は危険です。\n\n"
           },
           {
-            "text": "take reduced damage",
-            "color": "dark_purple"
-          },
-          {
-            "text": " when attacked, but I "
-          },
-          {
-            "text": "can't interact",
-            "color": "dark_purple"
-          },
-          {
-            "text": " with any block, item, or entity. "
-          },
-          {
-            "text": "Water is dangerous",
-            "color": "dark_purple"
-          },
-          {
-            "text": " to those in mist form. \n\n"
-          },
-          {
-            "text": "To end the effect early, double tap space as if to fly.",
+            "text": "効果を途中で終了する場合、飛ぶときのようにスペースをダブルタップしてください。",
             "italic": true
           },
           {
-            "text": " \n\nThis spell part can only be crafted by those who have aligned themselves with the "
+            "text": "\n\nこの呪文は、"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": "."
+            "text": "に所属している者によってのみ作成できます。"
           }
         ]
       }
@@ -8172,35 +8148,36 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mind Vision"
+        "value": "心の視覚"
       },
       {
         "type": "text",
         "value": "I can use a forbidden branch of magic to access the mind of another, seeing what they see for a short time.\n\nTo end the effect early, double tap space as if to fly.\n\nWARNING:  This spell part can only be crafted by those who have aligned themselves with the Undead.",
         "json": [
           {
-            "text": "I can use a forbidden branch of magic to access the mind of another, "
+            "text": "禁忌とされる魔術の一角を利用することで他人の精神にアクセスでき、"
           },
           {
-            "text": "seeing what they see",
+            "text": "彼らの視界を見る",
             "color": "dark_purple"
           },
           {
-            "text": " for a short time. \n\n"
+            "text": "ことができます。\n\n"
           },
           {
-            "text": "To end the effect early, double tap space as if to fly.",
-            "italic": true
+            "text": "効果を早めに終了したい場合、スペースをダブルタップしてください。",
+            "italic": true,
+            "color": "black"
           },
           {
-            "text": "\n\nThis spell part can only be crafted by those who have aligned themselves with the "
+            "text": "\n\nこの呪文は、"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -8218,42 +8195,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Recall"
+        "value": "帰還"
       },
       {
         "type": "text",
         "value": "I can focus my arcane magic on a Rune of Marking held in my hand to transport the spell's target to its marked location instantly.  It can go about 500 blocks per magnitude, and might get them into trouble if the marked location is in a different dimension.  In those cases, a Ritual of Return would be the better choice.",
         "json": [
           {
-            "text": "I can focus my arcane magic on a "
+            "text": "神秘の魔術を手に持った"
           },
           {
-            "text": "Rune of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": " held in my hand to "
+            "text": "に使用することで、"
           },
           {
-            "text": "transport the spell's target",
+            "text": "呪文の対象を目印の座標に転移",
             "color": "dark_purple"
           },
           {
-            "text": " to its marked location instantly. \n\nIt can go about 500 meters "
+            "text": "できます。\n\n規模につき500m(ブロック)まで転移できますが、目印の座標が他のディメンションにある場合は対象に迷惑をかける可能性があります。\n\nこの場合は、"
           },
           {
-            "text": "(blocks)",
-            "italic": true
-          },
-          {
-            "text": " per magnitude, and might get them into trouble if the marked location is in a different dimension. \n\nIn those cases, a "
-          },
-          {
-            "text": "Ritual of Return",
+            "text": "帰還の儀式",
             "color": "blue"
           },
           {
-            "text": " would be the better choice."
+            "text": "のほうが適しているでしょう。"
           }
         ]
       }
@@ -8271,70 +8241,68 @@
     "sections": [
       {
         "type": "title",
-        "value": "Eldrin Flight"
+        "value": "エルドリン飛行"
       },
       {
         "type": "text",
         "value": "By focusing on the ambient streams of magic that form the eldrin wellsprings of the world, I can attune my own magic to them and cause my target to be swept up and carried along them at immense speed.\n\nThis spell requires being cast twice in order to work.  The first cast no matter the target will cause my target to start seeing eldrin wellsprings for about 10 seconds.  The second cast will cause the target to launch along the closest eldrin wellspring to where they are looking.  The spell will place me at the surface of the world, or if the Eldrin Wellspring is captured, it will place me within the capture, if able.\n\nIt also appears that I can see the affinities of the eldrin wellsprings I might travel to when choosing.  This might help in selecting which one I want to navigate towards.\n\nIt seems this spell can only target me and other wizards, and only if they are allied with me (Minecraft Scoreboard Teams).",
         "json": [
           {
-            "text": "By focusing on the ambient streams of magic that form the "
-          },
-          {
-            "text": "Eldrin Wellsprings",
+            "text": "龍脈",
             "color": "blue"
           },
           {
-            "text": " of the world, I can attune my own magic to them and "
+            "text": "から流れている環境のマナに集中し、自身のマナをそれに調律することで、"
           },
           {
-            "text": "cause my target to be swept up and carried along them at immense speed",
+            "text": "対象を空に飛ばし環境のマナと一緒に高速で運ばれる",
+            "color": "blue"
+          },
+          {
+            "text": "ことができます。\n\nこの呪文は、機能するために"
+          },
+          {
+            "text": "二回詠唱される必要",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThis spell "
+            "text": "があります。\n\n"
           },
           {
-            "text": "requires being cast twice",
+            "text": "最初の詠唱",
             "color": "dark_purple"
           },
           {
-            "text": " in order to work. \n\nThe "
+            "text": "は、十秒間の間だけ近くの"
           },
           {
-            "text": "first cast",
+            "text": "龍穴の方角が見える",
             "color": "dark_purple"
           },
           {
-            "text": " no matter the target will cause them to start "
+            "text": "ようになります。\n\n"
           },
           {
-            "text": "seeing paths toward wellsprings",
+            "text": "二回目の詠唱",
             "color": "dark_purple"
           },
           {
-            "text": " for about 10 seconds. \n\nThe "
+            "text": "で、見ている方角に一番近い"
           },
           {
-            "text": "second cast",
+            "text": "龍穴の方角に詠唱者を高速で飛ばします",
             "color": "dark_purple"
           },
           {
-            "text": " will cause the target to "
+            "text": "。\n\nこの呪文は自分を地上、もしくは捕獲された龍穴の場合は、可能であれば自分をその祭壇に移動します。龍穴を選ぶ際、龍穴の属性が分かるようです。\n進みたい場所を選択する際に役に立つかもしれません。\n\nこの呪文は自身と、自分と同盟を組んでいる魔術師にのみ対象にできるようです。（"
           },
           {
-            "text": "launch along the closest path to where they are looking",
-            "color": "dark_purple"
+            "text": "バニラのスコアボードのチーム",
+            "italic": true,
+            "color": "black"
           },
           {
-            "text": ". \n\nThe spell will place me at the surface of the world, or if the Wellspring is captured, it will place me within the capture, if able. It also appears that I can see the affinities of captured Wellsprings I might travel to when choosing.   This might help in selecting which one I want to navigate towards. \n\nIt seems this spell can only target me and other wizards, and only if they are allied with me "
-          },
-          {
-            "text": "(Vanilla Scoreboard Teams)",
-            "italic": true
-          },
-          {
-            "text": "."
+            "text": "）"
           }
         ]
       }
@@ -8352,35 +8320,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Summon Skeletal Horse"
+        "value": "骨馬召喚"
       },
       {
         "type": "text",
         "value": "I can reach across the border of death to animate bones to carry me where I need to go.\n\nWARNING:  This spell part can only be crafted by those who have aligned themselves with the Undead.",
         "json": [
           {
-            "text": "I can reach across the border of death to "
+            "text": "死の狭間に接続して"
           },
           {
-            "text": "animate bones to carry me",
+            "text": "骨に命を与え",
             "color": "dark_purple"
           },
           {
-            "text": " where I need to go, be it land or water.\nIf I use a "
+            "text": "、陸海関わらず"
           },
           {
-            "text": "bone",
+            "text": "自身を運んでくれます",
+            "color": "dark_purple"
+          },
+          {
+            "text": "。\n"
+          },
+          {
+            "text": "骨",
             "color": "blue"
           },
           {
-            "text": " as a reagent, it becomes permanent.\n\nThis spell part can only be crafted by those who have aligned themselves with the "
+            "text": "を触媒に利用した場合、持続時間が無くなります。\n\nこの呪文は、"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": ".\n\nSkeletal Horses count against your summon cap."
+            "text": "に所属している者のみ作成できます。\n\n骨馬は召喚の最大数にカウントされます。"
           }
         ]
       }
@@ -8405,35 +8380,11 @@
         "value": "I can invade the mind of another to force them to do my bidding.  Left clicking while posessing a target may sometimes yield special abilities.\n\nTo end the effect early, double tap space as if to fly.\n\nWARNING:  This spell part can only be crafted by those who have aligned themselves with the Undead.",
         "json": [
           {
-            "text": "I can "
-          },
-          {
-            "text": "overpower the mind of another",
+            "text": "他者の精神を乗っ取り",
             "color": "dark_purple"
           },
           {
-            "text": ", putting them under my direct control.  I can move them and control them directly.  My body is somewhat vulnerable during this process.\n\n"
-          },
-          {
-            "text": "Left clicking while posessing a target may sometimes yield special abilities.",
-            "italic": true
-          },
-          {
-            "text": " \n"
-          },
-          {
-            "text": "To end the effect early, double tap space as if to fly.",
-            "italic": true
-          },
-          {
-            "text": " \n\nThis spell part can only be crafted by those who have aligned themselves with the "
-          },
-          {
-            "text": "Undead",
-            "color": "dark_gray"
-          },
-          {
-            "text": "."
+            "text": "、直接自分の制御下に置けます。直接その身体を動かし、操作できます。この間、自分の元の身体はそれなりに脆弱です。\n\n対象に表している場合に右クリックすると、特殊な能力が利用できる場合があります。\n効果を早めに終了する場合、スペースをダブルタップしてください。\n\nこの呪文は、不死者に所属している者のみ作成できます。"
           }
         ]
       }
@@ -8451,35 +8402,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Living Bomb"
+        "value": "生きた爆弾"
       },
       {
         "type": "text",
         "value": "I can ignite my target into a living bomb.  They will take fire damage based on the magnitude of the spell.  If they die while under the effect of this spell, they will explode based on the magnitude of the spell.  This explosion will also cause any targets hit by it to then be affected by Living Bomb as well, though a weaker version of it.",
         "json": [
           {
-            "text": "I can ignite my target into a living bomb. They will "
+            "text": "対象を、生きている爆弾にし点火することができます。呪文の規模に応じて、"
           },
           {
-            "text": "take periodic fire damage",
+            "text": "持続ダメージ",
             "color": "dark_purple"
           },
           {
-            "text": " based on the magnitude of the spell. \n\n"
+            "text": "を受けます。\n\nこの呪"
           },
           {
-            "text": "If they die while under the effect of this spell, they will explode",
+            "text": "文の影響下で死亡した場合、呪文の規模に応じて爆発",
             "color": "dark_purple"
           },
           {
-            "text": " based on the magnitude of the spell. This explosion will also "
+            "text": "します。\n\nこの爆発は"
           },
           {
-            "text": "cause any targets hit by it to then be affected by Living Bomb",
+            "text": "当たった対象も生きた爆弾の影響を受けます",
             "color": "dark_purple"
           },
           {
-            "text": " as well, though a weaker version of it."
+            "text": "が、元の効果より弱くなります。"
           }
         ]
       }
@@ -8497,21 +8448,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Wither"
+        "value": "衰弱"
       },
       {
         "type": "text",
         "value": "I can tap into the slow decay of the grave and accelerate the process, making my target wither before my very eyes.",
         "json": [
           {
-            "text": "I can tap into the slow decay of the grave and accelerate the process, "
+            "text": "死への緩やかな腐敗に干渉して加速させ、"
           },
           {
-            "text": "making my target wither",
+            "text": "対象を衰弱させる",
             "color": "dark_purple"
           },
           {
-            "text": " before my very eyes."
+            "text": "事ができます。"
           }
         ]
       }
@@ -8536,14 +8487,7 @@
         "value": "I can use a combination of arcane and ender magic to divine the location of nearby ores, making them visible to me through walls at a short distance.  If I hold a block in my offhand, it will focus the spell on finding that block.",
         "json": [
           {
-            "text": "I can use a combination of arcane and ender magic to "
-          },
-          {
-            "text": "divine the location of nearby ores",
-            "color": "dark_purple"
-          },
-          {
-            "text": ", making them visible to me through walls at a short distance. If I hold a particular ore block in my offhand, it will focus the spell on finding only that block."
+            "text": "神秘とエンダーの魔術を組み合わせることで近くの鉱石の位置を探知し、壁を通過して見えるようになります。\n\n左手に特定の鉱石ブロックを持つことで、呪文をその鉱石だけ探知するように集中できます。"
           }
         ]
       }
@@ -8561,28 +8505,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Confuse"
+        "value": "混乱"
       },
       {
         "type": "text",
         "value": "I can use ender magic to confuse a target, making it attack targets at random, possibly even its allies.  Of course if I'm the only target at random, I suppose the spell won't do much.\n\nWARNING:  This spell can only be cast by those that have aligned themselves with the Faerie Courts!",
         "json": [
           {
-            "text": "I can use ender magic to confuse a target, making it "
+            "text": "エンダーの魔術を利用する事で対象を混乱させる事ができ、味方を含むラ"
           },
           {
-            "text": "attack targets at random",
+            "text": "ンダムな対象に攻撃",
             "color": "dark_purple"
           },
           {
-            "text": ", possibly even its allies. Of course if I'm the only target at random, I suppose the spell won't do much. \n\nThis spell can only be crafted by those that have aligned themselves with the "
+            "text": "するようになります。\n\nこの呪文は、"
           },
           {
-            "text": "Faerie Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -8607,21 +8551,21 @@
         "value": "I can harness some of the most powerful ender magic to bend a target's mind to my will.  It will only fight my enemies while under the duration of the spell, though it will not follow me.\n\nWARNING:  This spell can only be cast by those that have aligned themselves with the Faerie Courts!",
         "json": [
           {
-            "text": "I can harness some of the most powerful ender magic to "
+            "text": "最も強力なエンダーの魔術を利用する事で、"
           },
           {
-            "text": "bend a target's mind to my will",
+            "text": "対象の精神を意のままに操れます",
             "color": "dark_purple"
           },
           {
-            "text": ". It will only fight my enemies while under the duration of the spell, though it will not follow me. \n\nThis spell can only be crafted by those that have aligned themselves with the "
+            "text": "。\n呪文の持続時間中の敵は自分の為に戦ってくれますが、自分についてくる事はしません。\n\nこの呪文は、"
           },
           {
-            "text": "Faerie Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -8639,21 +8583,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Summon Spectral Workbench"
+        "value": "作業台召喚"
       },
       {
         "type": "text",
         "value": "I can conjure a phantasmal workbench that will allow me to craft items at it for a short duration.  I'm able to effortlessly maintain the workbench as long as I or any other person is close to it, But otherwise it will fade after twenty seconds.\n\nAlternately, if I simply cast the component on myself, I can create a small workbench that only I can use immediately, and it will dissipate the moment I am done with it.",
         "json": [
           {
-            "text": "I can "
+            "text": "魔術で"
           },
           {
-            "text": "conjure a phantasmal workbench",
+            "text": "霊的な作業台を作成",
             "color": "dark_purple"
           },
           {
-            "text": " that will allow me to craft items at it for a short duration. \n\nI'm able to effortlessly maintain the workbench as long as I or any other person is close to it, But otherwise it will fade after twenty seconds. \n\nAlternately, if I simply cast the component on myself, I can create a small workbench that only I can use immediately, and it will dissipate the moment I am done with it."
+            "text": "することで、短い時間の間クラフトを可能にします。\n\n自分、もしくは他の人が作業台の近くにいる限り簡単に維持できますが、いない場合は２０秒後に消滅します。\n\nもしくは呪文を自身に直接詠唱し、自分だけが利用できる小さな作業台を作成して即座に利用でき、終わった後即座に消失します。"
           }
         ]
       }
@@ -8678,14 +8622,14 @@
         "value": "I can conjure a phantasmal stonecutter that will allow me to shape stone at it for a short duration, as with a normal stonecutter.  I'm able to effortlessly maintain the stonecutter as long as I or any other person is close to it, But otherwise it will fade after twenty seconds.\n\nAlternately, if I simply cast the component on myself, I can create a small stonecutter that only I can use immediately, and it will dissipate the moment I am done with it.",
         "json": [
           {
-            "text": "I can "
+            "text": "魔術で"
           },
           {
-            "text": "conjure a phantasmal stonecutter",
+            "text": "霊的な石きり台を作成",
             "color": "dark_purple"
           },
           {
-            "text": " that will allow me to shape stone at it for a short duration, as with a normal stonecutter. \n\nI'm able to effortlessly maintain the stonecutter as long as I or any other person is close to it, But otherwise it will fade after twenty seconds. \n\nAlternately, if I simply cast the component on myself, I can create a small stonecutter that only I can use immediately, and it will dissipate the moment I am done with it."
+            "text": "することで、短い時間の間普通の石切りを可能にします。\n\n自分、もしくは他の人が石きり台の近くにいる限り簡単に維持できますが、いない場合は２０秒後に消滅します。\n\nもしくは呪文を自身に直接詠唱し、自分だけが利用できる小さな石きり台を作成して即座に利用でき、終わった後即座に消失します。"
           }
         ]
       }
@@ -8710,14 +8654,14 @@
         "value": "I can conjure a phantasmal anvil that will allow me to repair and combine items at it for a short duration, as with a normal anvil.  I'm able to effortlessly maintain the anvil as long as I or any other person is close to it, But otherwise it will fade after twenty seconds.\n\nAlternately, if I simply cast the component on myself, I can create a small anvil that only I can use immediately, and it will dissipate the moment I am done with it.",
         "json": [
           {
-            "text": "I can "
+            "text": "魔術で"
           },
           {
-            "text": "conjure a phantasmal anvil",
+            "text": "霊的な金床を作成",
             "color": "dark_purple"
           },
           {
-            "text": " that will allow me to repair and combine items at it for a short duration, as with a normal anvil. \n\nI'm able to effortlessly maintain the anvil as long as I or any other person is close to it, But otherwise it will fade after twenty seconds. \n\nAlternately, if I simply cast the component on myself, I can create a small anvil that only I can use immediately, and it will dissipate the moment I am done with it."
+            "text": "することで、短い時間の間普通の金床のようにアイテムの修復とアイテムの合成を可能にします。\n\n自分、もしくは他の人が金床の近くにいる限り簡単に維持できますが、いない場合は２０秒後に消滅します。\n\nもしくは呪文を自身に直接詠唱し、自分だけが利用できる小さな金床を作成して即座に利用でき、終わった後即座に消失します。"
           }
         ]
       }
@@ -8735,35 +8679,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Animus"
+        "value": "生命化"
       },
       {
         "type": "text",
         "value": "I can use my magic to bring blocks to life for a short time!  They'll hop around and attack my enemies before returning to a block where they stand.\n\nThis component will cause all further components within the spell to affect the animated block rather than the original target.\n\nWARNING: This can only be crafted by those who have aligned themselves to the Ancient Council of Wizards.",
         "json": [
           {
-            "text": "I can use my magic to "
+            "text": "自分の魔術を利用し、"
           },
           {
-            "text": "bring blocks to life",
+            "text": "ブロックに短時間の間だけ命を吹き込む",
             "color": "dark_purple"
           },
           {
-            "text": " for a short time! They'll jump around attack my enemies before returning to a block where they stand. This component will cause all further components within the spell to affect the animated entity rather than the original target. \n\nIf I target myself with this spell, I can animate a block that's in my other hand.  "
+            "text": "ことができます！彼らはブロックに戻る前に、跳ねまわって敵を攻撃してくれます。\n\nこの部品は、呪文の他の部品が元の対象の代わりに、この生み出された生物を対象にするようになります。\n\nこの呪文で自身を対象にした場合、左手に持っているブロックに命を吹き込みます。"
           },
           {
-            "text": "Certain blocks seem to have special abilities",
+            "text": "いくつかのブロックは特殊な能力を持っている",
             "color": "dark_purple"
           },
           {
-            "text": ".  I should pay attention to what I animate.\n\nThis can only be crafted by those who have aligned themselves with the "
+            "text": "ようです。生命にするブロックに気を使うべきでしょう。\n\nこの呪文は、"
           },
           {
-            "text": "Council of Wizards",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": ".  Animus blocks can also be ridden like a horse, though the rider must jump to move. Animus blocks are exceptionally good at going across water.  Animus blocks being ridden have no duration limit.  Some animus blocks can even fly!  These ones are not good with water."
+            "text": "に所属している者のみ作成できます。\n\n生命化したブロックは馬のように乗ることができます。しかし、騎手はジャンプさせて移動する必要があります。\n\n生命化ブロックは水を渡るのに非常に長けています。騎乗されている生命化ブロックは時間制限がなくなります。\n\nいくつかの生命化したブロックは飛ぶこともできます！ただし、これらは水と相性が悪いです。"
           }
         ]
       }
@@ -8781,28 +8725,25 @@
     "sections": [
       {
         "type": "title",
-        "value": "Greater Invisibility"
+        "value": "上位透明化"
       },
       {
         "type": "text",
         "value": "The fey have taught me how to extend my invisibility to my equipped items and armor.  I can hide from all but the most astute of observers.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Fey",
+            "text": "妖精",
             "color": "dark_green"
           },
           {
-            "text": " have taught me how to extend my invisibility to my equipped items and armor. I can hide from all but the most astute of observers.\n\nThis spell can only be crafted by those that have allied themselves with the "
+            "text": "達は、透明化を装備しているアイテムや防具にまで延長する方法を教えてくれました。これで、最も観察眼の鋭い者以外、つまりほとんどの者から隠れることができます。\n\nこの呪文は"
           },
           {
-            "text": "Faerie Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -8820,35 +8761,32 @@
     "sections": [
       {
         "type": "title",
-        "value": "Nethergate"
+        "value": "ネザーゲート"
       },
       {
         "type": "text",
         "value": "The demons have taught me how to enter and exit their realm at will, without the need for the usual obsidian portals.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Demons",
+            "text": "悪魔",
             "color": "dark_red"
           },
           {
-            "text": " have taught me how to enter and exit their realm at will, without the need for the usual obsidian portals.\n\nThis can only be cast on other wizards if they are directly allied with me "
+            "text": "達は、黒曜石のポータルを利用せずに彼らの次元に出入りする手段を教えてくれた。\n\nこの呪文は、他の魔術師に詠唱する場合は彼らと同盟を組んでいる必要があります（"
           },
           {
-            "text": "(vanilla scoreboard teams)",
+            "text": "バニラのスコアボードのチーム",
             "italic": true
           },
           {
-            "text": ".\n\nThis spell can only be crafted by those that have allied themselves with the "
+            "text": "）。\n\nこの呪文は、"
           },
           {
-            "text": "Demons of the Nether",
+            "text": "ネザーの悪魔",
             "color": "dark_red"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -8905,21 +8843,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Earthsky"
+        "value": "天空の島"
       },
       {
         "type": "text",
         "value": "Using some rudimentary mix of air and earth magic, I can cause simple blocks to temporarily defy gravity and float upwards into the sky before locking in place.",
         "json": [
           {
-            "text": "Using some rudimentary mix of air and earth magic, I can cause simple "
+            "text": "大気と大地の魔術の混合を利用することで、単純な"
           },
           {
-            "text": "blocks to  float upwards into the sky",
+            "text": "ブロックを天空に浮上",
             "color": "dark_purple"
           },
           {
-            "text": " for a short duration before locking in place.\n\n...because what self-respecting wizard *wouldn't* want a floating island in the sky?"
+            "text": "させそこで固定します。\n\nなぜなら天空に浮かんでいる島が欲しくない魔術師なんていないでしょう？"
           }
         ]
       }
@@ -8944,14 +8882,14 @@
         "value": "I can use earth magic to cause simple blocks to fall under the influence of gravity for a short time.\n\nNext time I see that creeper, I intend to fling it backwards and collapse the tunnel around it!",
         "json": [
           {
-            "text": "I can use earth magic to cause simple "
+            "text": "大地の魔術を利用し、短時間の間単純な"
           },
           {
-            "text": "blocks to fall under the influence of gravity",
+            "text": "ブロックが重力に影響され落下",
             "color": "dark_purple"
           },
           {
-            "text": " for a short time. Next time I see that creeper, I intend to fling it backwards and collapse the tunnel around it!"
+            "text": "するようになります。\n\n次にクリーパーに出会った場合、それを吹き飛ばした後、崩壊で道を塞ぐつもりです！"
           }
         ]
       }
@@ -8976,14 +8914,14 @@
         "value": "I've studied closely how certain fish breathe, and how water interacts with things in water.  I've figured out how to use this to force my target to start drowning.  Their breath is crushed out of them, though if they can they will just immediately take another breath, and if they are already out of breath, then I can...ahem...expedite the process.\n\nI can only imagine the effectiveness if they are actively holding their breath, or if I can hold them underwater somehow.\n\nNaturally this won't have any detrimental effect on things that can already breathe underwater or things that don't need to breathe.",
         "json": [
           {
-            "text": "I've studied closely how certain fish breathe, and how water interacts with things in water. I've figured out how to use this to "
+            "text": "いくつかの魚の水中での呼吸と、水中の物と水の相互作用などを研究しました。\n\nこの知識を利用し、"
           },
           {
-            "text": "force my target to start drowning",
+            "text": "対象を強制的に窒息させる",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nTheir breath is crushed out of them, though if they can they will just immediately take another breath, and if they are already out of breath, then I can...ahem...expedite the process. \n\nI can only imagine the effectiveness if they are actively holding their breath, or if I can hold them underwater somehow. \n\nNaturally this won't have any detrimental effect on things that can already breathe underwater or things that don't need to breathe."
+            "text": "方法を発見しました。\n\n酸素を彼らの身体から減少させますが、対象は可能であれば即座に再度呼吸して酸素を補給し始めます。\n対象が既に息切れしている場合、相手の窒息死までの時間を減らせます。\n\n彼らが既に水中にいたり、息を止めている場合は特に効果的でしょう。\n\n当たり前ですが、すでに水中で呼吸できる存在や、呼吸の必要がない者にはあまり効果がありません。"
           }
         ]
       }
@@ -9008,14 +8946,14 @@
         "value": "By pondering particular plants, I've perceived a process of pilfering populous parts that when pooled produce a particularly potent poison. Per this perception, it's possible I can protract this pattern and produce them using pure prestidigitation.",
         "json": [
           {
-            "text": "By pondering particular plants, I've perceived a process of pilfering populous parts that when pooled produce a "
+            "text": "特定の植物を研究することで、"
           },
           {
-            "text": "particularly potent poison",
+            "text": "特別に強力な猛毒",
             "color": "dark_purple"
           },
           {
-            "text": ". Per this perception, it's possible I can protract this pattern and produce them using pure prestidigitation."
+            "text": "が見つかりました。\n\nこの毒を認識することで、その毒を純粋な魔術で生成することが可能になります。"
           }
         ]
       }
@@ -9040,49 +8978,56 @@
         "value": "I've been thinking of a way to use fire spells to do more than destroy.  I know there are many effects of fire that are beneficial:  warmth, cooked food, industry.  But what about the preservation of life?  I believe with some carefully applied fire, I can seal up wounds.  It will hurt initially, but the overall benefit will be greater.  It also seems that if fire is somehow unable to affect the target, then the beneficial healing of the spell is not applied either.\n\nMagnitude 1: Damage 2, heal 4\n\nMagnitude 2: Damage 4, heal 8\n\nMagnitude 3: Damage 8, heal 16\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether.",
         "json": [
           {
-            "text": "I've been thinking of a way to use fire spells to do more than destroy. I know there are many effects of fire that are beneficial: warmth, cooked food, industry. But what about the preservation of life? I believe with some carefully applied fire, I can "
+            "text": "火の呪文を、破壊以外で利用する方法がないか考えていました。火の有能な効果は沢山あります：暖かさ、調理された料理や、工業など。しかし命を助ける事はできるでしょうか？\n\n丁寧に調整された火を利用することで、"
           },
           {
-            "text": "seal up wounds. It will hurt initially",
+            "text": "傷口を閉じる",
             "color": "dark_purple"
           },
           {
-            "text": ", but the overall benefit will be greater. It also seems that "
+            "text": "ことが可能なはずです。"
           },
           {
-            "text": "if fire is somehow unable to affect the target, then the beneficial healing of the spell is not applied either",
+            "text": "最初は痛みます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\n"
+            "text": "が、最終的に得られるメリットの方が大きいです。\n\n何らかの理由で対象が"
           },
           {
-            "text": "Magnitude 1: Damage 2, heal 4 ",
+            "text": "火に耐性を得ている場合、この呪文の回復効果も受けなくなる",
+            "color": "dark_purple"
+          },
+          {
+            "text": "ようです。\n\n"
+          },
+          {
+            "text": "規模１：ダメージ２、回復４",
             "italic": true
           },
           {
-            "text": "\n"
+            "text": "\n\n"
           },
           {
-            "text": "Magnitude 2: Damage 4, heal 8 ",
+            "text": "規模２：ダメージ４、回復８",
             "italic": true
           },
           {
-            "text": "\n"
+            "text": "\n\n"
           },
           {
-            "text": "Magnitude 3: Damage 8, heal 16",
+            "text": "規模３：ダメージ８、回復１６",
             "italic": true
           },
           {
-            "text": " \n\nThis spell can only be crafted by those allied with the"
+            "text": "\n\nこの呪文は"
           },
           {
-            "text": " Demons of the Nether",
+            "text": "ネザーの悪魔",
             "color": "dark_red"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -9107,14 +9052,14 @@
         "value": "I can use a small bit of arcane force to activate a block that I target.  Good for switches, buttons, and making a grand entrance through doors.",
         "json": [
           {
-            "text": "I can use a small bit of arcane force to "
+            "text": "少しの魔法の力を利用することで、対象の"
           },
           {
-            "text": "activate a block",
+            "text": "ブロックを起動",
             "color": "dark_purple"
           },
           {
-            "text": " that I target. Good for switches, buttons, and making a grand entrance through doors."
+            "text": "できます。ボタンやレバー、そしてドアを豪快に開くのに有用です。"
           }
         ]
       }
@@ -9139,21 +9084,28 @@
         "value": "I can use a pinch of bonemeal and expand it into an entire spell, applying the bonemeal across the entire space.\n\nThis spell requires bonemeal in your inventory as a reagent.  If you are aligned with the fey, you are exempt from this requirement.",
         "json": [
           {
-            "text": "I can use a pinch of bonemeal and expand it into an entire spell, applying the bonemeal across the entire space. \n\nThis spell requires "
+            "text": "少量の骨粉を呪文の隅々まで拡大し、指定した範囲のすべてに骨粉を与える事ができます。\n\nこの呪文は、"
           },
           {
-            "text": "Bonemeal",
-            "color": "blue"
-          },
-          {
-            "text": " in my inventory as a reagent, unless I have allied myself with the "
-          },
-          {
-            "text": "Faerie Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": "."
+            "text": "に所属していない限り、"
+          },
+          {
+            "text": "触媒",
+            "color": "dark_purple"
+          },
+          {
+            "text": "として"
+          },
+          {
+            "text": "骨粉",
+            "color": "blue"
+          },
+          {
+            "text": "が必要になります。"
           }
         ]
       }
@@ -9178,28 +9130,28 @@
         "value": "I have figured out how to combine fire magic with a small bit of air to create a very fast burst of fire akin to an explosion.\n\nMoridrex would be proud.\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether.",
         "json": [
           {
-            "text": "I have figured out how to combine fire magic with a small bit of air to create a very fast "
+            "text": "火と、少しの大気の魔術を組み合わせる事で、"
           },
           {
-            "text": "burst of fire akin to an explosion",
+            "text": "爆発のような高速の炎のバースト",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\n"
+            "text": "を発生できます。\n\n"
           },
           {
             "text": "Moridrex",
             "color": "blue"
           },
           {
-            "text": " would be proud. \n\nThis can only be crafted by those allied with the "
+            "text": "は誇りに思うでしょう。\n\nこの呪文は、"
           },
           {
-            "text": "Demons of the Nether",
+            "text": "ネザーの悪魔",
             "color": "dark_red"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -9224,21 +9176,21 @@
         "value": "I've discovered that through some questionable covenants I can bind my own life force to that of my target.  When the target is then injured, a small portion of that life force is transferred to me instead of to entropy.\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether.",
         "json": [
           {
-            "text": "I've discovered that through some questionable covenants I can bind my own life force to that of my target. "
+            "text": "不可解な契約などを利用することで、対象に自身の生命力を紐付けする方法を見つけました。\n\n対象が"
           },
           {
-            "text": "When the target is then injured, a small portion of that life force is transferred to their attacker",
+            "text": "怪我をした場合、失った生命力の一部を攻撃者が得る",
             "color": "dark_purple"
           },
           {
-            "text": " instead of to entropy. \n\nThis can only be crafted by those allied with the "
+            "text": "ようになります。\n\nこの呪文は、"
           },
           {
-            "text": "Demons of the Nether",
+            "text": "ネザーの悪魔",
             "color": "dark_red"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -9263,21 +9215,14 @@
         "value": "By studying mage lights (which are nothing more than glowing balls of coalesced mana) and eldritch orbs I have figured out a way to harden a barrier of pure mana around myself.  This will deflect some damage (or all, I imagine if I put enough magnitude into it).  However, the cost to my magical fortitude will eventually wear me down.\n\nStill, better than being dead.\n\nWARNING: This can only be crafted by those allied with the Ancient Council of Wizards.",
         "json": [
           {
-            "text": "By studying mage lights (which are nothing more than glowing balls of coalesced mana) and eldritch orbs I have figured out a way to "
+            "text": "魔術師の光（ただのマナが封じられた光る球）や、エルドリッチオーブを研究した事で"
           },
           {
-            "text": "harden a barrier of pure mana around my target",
+            "text": "、硬化した純粋なマナの障壁を対象の周りに作成する",
             "color": "dark_purple"
           },
           {
-            "text": ". This will deflect some damage (or all, I imagine if I put enough magnitude into it). However, the cost to my magical fortitude will eventually wear me down. Still, better than being dead. \n\nIf I cast this on another target, it will still use my mana if I am close enough, or the effect will simply end if I am too far away.\n\nThis can only be crafted by those allied with the "
-          },
-          {
-            "text": "Council of Wizards",
-            "color": "blue"
-          },
-          {
-            "text": "."
+            "text": "方法を発見しました。\n\nこれは、ダメージの一部（もしくは規模が大きい場合は全て）を逸らします。ただし、消費するマナはかなり多いです。ただ、死ぬよりかは断然マシです。\n\n他の対象に詠唱した場合は、近くにいる場合は詠唱者のマナを利用し、遠すぎる場合は単純に効果が途切れます。\n\nこの呪文は、魔術師評議会に所属している者のみ作成できます。"
           }
         ]
       }
@@ -9302,28 +9247,28 @@
         "value": "One of the first things that the demons have taught me is their classic cloak of fire.  By surrounding myself with this fire I not only reduce incoming flame attacks but retaliate against those who are close and foolish enough to attack me.\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether.",
         "json": [
           {
-            "text": "One of the first things that the demons have taught me is their classic cloak of fire. By surrounding myself with this fire I not only "
+            "text": "悪魔達が一番最初に教えてくれた物の一つとして、彼らの炎の外套があります。\n\nこの炎で自身を囲む事で、"
           },
           {
-            "text": "reduce incoming flame attacks",
+            "text": "受ける火の攻撃のダメージを減少させる",
             "color": "dark_purple"
           },
           {
-            "text": " but "
+            "text": "だけでなく、近距離で"
           },
           {
-            "text": "also retaliate with fire",
+            "text": "攻撃してきた相手に炎で反撃",
             "color": "dark_purple"
           },
           {
-            "text": " against those who are foolish enough to attack me at close range.\n\nThis can only be crafted by those allied with the "
+            "text": "します。\n\nこの呪文は、"
           },
           {
-            "text": "Demons of the Nether",
+            "text": "ネザーの悪魔",
             "color": "dark_red"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -9341,28 +9286,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "吸収"
+        "value": "衝撃吸収"
       },
       {
         "type": "text",
         "value": "I find that after working with fire all this time, I have built up a rather impressive pain tolerance.  All I need to do is focus on compartmentalizing the pain, and coupled with an investment of mana to assist my effective pain tolerance will rise.\n\nWARNING: This can only be crafted by those allied with the Demons of the Nether.",
         "json": [
           {
-            "text": "I find that after working with fire all this time, I have built up a rather impressive pain tolerance. All I need to do is focus on compartmentalizing the pain, and coupled with an investment of mana to assist my "
+            "text": "火を長い間利用していたおかげで、驚異的な痛み耐性が付いている事に気が付きました。痛みをすみわけさせることに集中し、マナを利用するだけで、"
           },
           {
-            "text": "effective pain tolerance will rise",
+            "text": "痛みの耐性を効果的に得られます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThis can only be crafted by those allied with the "
+            "text": "。\n\nこの呪文は、"
           },
           {
-            "text": "Demons of the Nether",
+            "text": "ネザーの悪魔",
             "color": "dark_red"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -9380,42 +9325,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Briarthornのバリア"
+        "value": "茨の障壁"
       },
       {
         "type": "text",
         "value": "I have been shown how to pull protective thorns and vines from the very fey court itself.  These thorns will protect me from swords and bows like an armored carapace (albeit a small amount of armor; I should probably use it to enhance existing armor instead of relying on it completely).  So too will they protect from things like  cacti and sweet berries or other thorns.  It will also retaliate against attackers.\n\nWARNING: This can only be crafted by those allied with the Fey Courts.",
         "json": [
           {
-            "text": "I have been shown how to pull protective thorns and vines from the very fey court itself. These thorns will "
+            "text": "妖精の宮廷そのものから防衛用の茨や蔓を引っ張ってくる方法を見せてくれました。\n\nこれらの茨は甲皮鎧のように"
           },
           {
-            "text": "protect me from physical attacks",
+            "text": "物理攻撃から守ってくれます",
             "color": "dark_purple"
           },
           {
-            "text": " like an armored carapace (albeit a small amount of armor; I should probably use it to enhance existing armor instead of relying on it completely). \n\nSo too will they "
+            "text": "（ただ得られる鎧は小さいです；これにのみ頼るより、既存の鎧に追加で利用するべきです）。\n\nさらに、サボテンやスイートベリーなどの"
           },
           {
-            "text": "protect from thorned things",
+            "text": "棘から守ってくれます",
             "color": "dark_purple"
           },
           {
-            "text": " like cacti and sweet berries. \n\nIt will also "
+            "text": "。\n\n"
           },
           {
-            "text": "retaliate against attackers",
+            "text": "攻撃してきた相手に反撃",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThis can only be crafted by those allied with the "
+            "text": "も行ってくれます。\n\nこの呪文は、"
           },
           {
-            "text": "Fey Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -9440,28 +9385,28 @@
         "value": "Trickery is something the fey are known for.  It's true, this decoy will create an illusory double of me that will run forward.  It will draw the attention of enemies that seek to do me harm, and is more likely to do so with a higher magnitude.\n\nThis component will cause all further components within the spell to affect the decoy rather than the original target.\n\nWARNING: This can only be crafted by those allied with the Fey Courts.",
         "json": [
           {
-            "text": "Trickery is something the fey are known for. It's true, this decoy will "
+            "text": "妖精は幻術が得意な事で知られていて、それは正しいです。このデコイの呪文は、"
           },
           {
-            "text": "create an illusory double",
+            "text": "幻術で自分の分身を作成",
             "color": "dark_purple"
           },
           {
-            "text": " of me that will run forward. It can "
+            "text": "して前に走らせます。。\n\nそれは、自分に"
           },
           {
-            "text": "draw the attention of enemies",
+            "text": "敵対する者の注意を引きます",
             "color": "dark_purple"
           },
           {
-            "text": " that seek to do me harm, and is more likely to do so with a higher magnitude. This component will cause all further components within the spell to affect the decoy rather than the original target. \n\nThis can only be crafted by those allied with the "
+            "text": "。規模が大きいほど、高確率で相手の気を引きます。\n\nこの呪文の部品は、残りの呪文の部品がデコイを対象にするようにします。\n\nこの呪文は、"
           },
           {
-            "text": "Fey Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -9479,28 +9424,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "マナ転送"
+        "value": "マナ譲渡"
       },
       {
         "type": "text",
         "value": "I have learned extensive mana techniques and gained expertise so that now I am able to directly infuse my mana into another.  It is taxing, but carries a plethora of uses and benefits.\n\nWARNING: This can only be crafted by those allied with the Ancient Council of Wizards.",
         "json": [
           {
-            "text": "I have learned extensive mana techniques and gained expertise so that now I am able to "
+            "text": "多岐にわたるマナの技術を学び経験を得たことで、"
           },
           {
-            "text": "directly infuse my mana into another",
+            "text": "自分のマナを直接他のコンストラクトや魔術師に譲渡できる",
             "color": "dark_purple"
           },
           {
-            "text": ", be it wizard or construct.\n\nThis can only be crafted by those allied with the "
+            "text": "ようになりました。\n\nこの呪文は、"
           },
           {
-            "text": "Council of Wizards",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -9525,28 +9470,21 @@
         "value": "While breaking blocks is a useful tool with earth magic, I can use air magic for a more gentle effect.  This will clear out grass, leaves, plants, and snow while leaving the dirt and stone intact.",
         "json": [
           {
-            "text": "While breaking blocks is a useful tool with earth magic, I can use air magic for a more gentle effect. This will "
+            "text": "大地の魔術はブロックを破壊するのに便利ですが、大気の魔術を利用する事でもっと繊細な効果を得られます。これは"
           },
           {
-            "text": "clear out grass, leaves, plants, and snow",
+            "text": "草、葉、植物、雪を破壊します",
             "color": "dark_purple"
           },
           {
-            "text": " while leaving the dirt and stone intact.\n\nTargeting "
+            "text": "が土や石は破壊しません。\n\n生物を対象にした場合、風はかなり強いです。"
           },
           {
-            "text": "creatures",
+            "text": "彼らを空に打ち上げます",
             "color": "dark_purple"
           },
           {
-            "text": " on the other hand, the gust is much stronger.  It will "
-          },
-          {
-            "text": "launch them directly into the air",
-            "color": "dark_purple"
-          },
-          {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -9571,14 +9509,14 @@
         "value": "Other wizards talk too much.  I should do something about that.  This spell should quiet them down, and at the same time prevent them from casting spells.  I'm not sure which one is more valuable.",
         "json": [
           {
-            "text": "Other wizards talk too much. I should do something about that. This spell should quiet them down, and at the same time "
+            "text": "他の魔術師は話が長すぎます。それに対して何かしなければなりません。\n\nこの呪文で彼らを静かにすることができるはずで、副次効果で"
           },
           {
-            "text": "prevent them from casting spells",
+            "text": "呪文を詠唱するのを封じます",
             "color": "dark_purple"
           },
           {
-            "text": ". I'm not sure which one is more valuable."
+            "text": "。\n\nどちらの方が有益かは議論の余地があります。"
           }
         ]
       }
@@ -9596,21 +9534,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Gravity Well"
+        "value": "重力の井"
       },
       {
         "type": "text",
         "value": "I saw an apple falling of a tree the other day, and it gave me an idea.  What if I used a spell to enhance the gravity of that apple?\n\nMaybe that's thinking too small.\n\nWhat if I could increase gravity on myself?  It would have seemingly all kinds of uses.",
         "json": [
           {
-            "text": "I saw an apple falling of a tree the other day, and it gave me an idea. What if I used a spell to enhance the gravity of that apple? Maybe that's thinking too small. What if I could "
+            "text": "リンゴが木から落ちるのを見て、アイデアが湧きました。もし呪文でリンゴの重力を増やしたら?　考えが小さすぎるかもしれませんね。もし、どんな"
           },
           {
-            "text": "increase gravity on my target",
+            "text": "対象の重力を上昇",
             "color": "dark_purple"
           },
           {
-            "text": " in general?\n\nThey would hit the ground harder when they fall, and it could probably force some flying targets to the ground."
+            "text": "できたら？\n\n落下した際に体を地面に強く打ち、空を飛んでいる相手を地面に墜とすことともできるでしょう。"
           }
         ]
       }
@@ -9628,21 +9566,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Entangle"
+        "value": "絡み付き"
       },
       {
         "type": "text",
         "value": "I've seen many that follow the druidic arts talking to plants as they move through the forests.  It sometimes even seems as thought they answer, with how they move and sway in the wind.  I wonder, if I asked them nicely, if they would assist me in restraining those that seek to do me harm?",
         "json": [
           {
-            "text": "I've seen many that follow the druidic arts talking to plants as they move through the forests. It sometimes even seems as thought they answer, with how they move and sway in the wind. I wonder, if I asked them nicely, if they would assist me in "
+            "text": "ドルイドの術を利用すり人達が、植物と話しながら森を移動しているのを見ました。偶に、風で揺れる動きや揺れ方で答えているようにも見えます。\n\n気になるのは、もし自分が優しく聞いてみたら"
           },
           {
-            "text": "restraining those that seek to do me harm",
+            "text": "自分に攻撃しようとしている相手を束縛するの",
             "color": "dark_purple"
           },
           {
-            "text": "?"
+            "text": "に手伝ってくれるでしょうか？"
           }
         ]
       }
@@ -9667,21 +9605,21 @@
         "value": "I've done it.  I've managed to step on to the shores of the river of time, albeit only briefly.  Using this powerful magic, I can anchor myself in time.  When enough time has passed, or if tragedy befalls me, I will be yanked back through time to where I cast the spell with all of my physical attributes returned as well.\n\nThis spell requires a clock as a reagent.",
         "json": [
           {
-            "text": "I've done it. I've managed to step on to the shores of the river of time, albeit only briefly. Using this powerful magic, I can anchor myself in time. "
+            "text": "やったぞ！ほんの少しだが、時の流れに干渉する事に成功した。\n\nこの強力な魔術を利用する事で、自分に対して時に錨を付けれます。"
           },
           {
-            "text": "When enough time has passed, or if tragedy befalls me, I will be yanked back through time to where I cast the spell with all of my physical attributes returned as well.",
+            "text": "十分な時間が経った、もしくは自分に悲劇的な事が起きた場合、時を巻き戻し呪文を詠唱したタイミングの場所と物理的な状態を戻します",
             "color": "dark_purple"
           },
           {
-            "text": " \n\nThis spell requires a "
+            "text": "。\n\nこの呪文は、"
           },
           {
-            "text": "clock",
+            "text": "時計",
             "color": "blue"
           },
           {
-            "text": " as a reagent."
+            "text": "を触媒として必要します。"
           }
         ]
       }
@@ -9706,14 +9644,14 @@
         "value": "I have figured out how to use the power of fire to increase my speed.  It's hard to explain, but it feels like a surge of extreme motivation, like someone lit a fire under my...oh.",
         "json": [
           {
-            "text": "I have figured out how to use the power of fire to "
+            "text": "火の力を利用して、自分の"
           },
           {
-            "text": "increase my movement speed",
+            "text": "移動速度を上昇",
             "color": "dark_purple"
           },
           {
-            "text": ". It's hard to explain, but it feels like a surge of extreme motivation, like someone lit a fire under my...oh."
+            "text": "させる方法を発見した。\n\n説明しづらいですが、かなりのやる気が湧きだしてきて、まるで誰かが尻に火を点け... あ"
           }
         ]
       }
@@ -9738,14 +9676,14 @@
         "value": "By studying turtles, I have figured out a way to use magic to slow the movements of my target down.",
         "json": [
           {
-            "text": "By studying turtles, I have figured out a way to use magic to "
+            "text": "亀を研究する事で、魔術を利用して"
           },
           {
-            "text": "slow the movements of my target",
+            "text": "対象の動きを遅くする",
             "color": "dark_purple"
           },
           {
-            "text": " down."
+            "text": "方法を発見しました。"
           }
         ]
       }
@@ -9770,14 +9708,14 @@
         "value": "By reinforcing my target's connection to the earth, I am able to grant them increased strength.",
         "json": [
           {
-            "text": "By reinforcing my target's connection to the earth, I am able to "
+            "text": "対象の大地との繋がりを強めることで、対象の"
           },
           {
-            "text": "increase their strength",
+            "text": "筋力を上昇させる",
             "color": "dark_purple"
           },
           {
-            "text": ".  This allows them to swing weapons much harder than they otherwise would be able to."
+            "text": "ことができます。\n\nこれは、対象が元よりも力強く武器を振るうことを可能にします。"
           }
         ]
       }
@@ -9802,14 +9740,11 @@
         "value": "I am able to pull the strength directly out of my target, leaving them withered and weak.",
         "json": [
           {
-            "text": "I am able to "
-          },
-          {
-            "text": "pull the strength directly out of my target",
+            "text": "対象の筋力を直接弱める",
             "color": "dark_purple"
           },
           {
-            "text": ", leaving them withered and weak."
+            "text": "事ができ、対象を弱体化させます。"
           }
         ]
       }
@@ -9834,14 +9769,14 @@
         "value": "I find I need to spend a large part of my time in the water.  However, threats and predators there make the experience nerve wracking.  So, I devised a way to help control the water currents around me in order to propel me forward.  That should help even the scales, provided I can hold my breath long enough.",
         "json": [
           {
-            "text": "I find I need to spend a large part of my time in the water. However, threats and predators there make the experience nerve wracking. So, I devised a way to help control the water currents around me in order to propel me forward and "
+            "text": "自分は、かなりの時間水中で作業をしています。しかし、脅威や捕食者がいる関係で神経をすり減らすようです。\n\nですので、自分の周囲の水流を操作することで"
           },
           {
-            "text": "allow me to swim much faster",
+            "text": "もっと速い速度で泳げる",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nThat should help even the scales, provided I can hold my breath long enough."
+            "text": "ようにする方法を見つけました。\n\nこれで、息が切れない限り不利になることがなくなるでしょう。"
           }
         ]
       }
@@ -9859,21 +9794,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Watery Grave"
+        "value": "かなずち"
       },
       {
         "type": "text",
         "value": "It came to me in a nightmare.  A feeling of drowning, being pulled down into the crushing, dark, cold abyss.  I looked up and watched the light fade as I sank deeper beneath the waves.  I woke up gasping for air.  I immediately started taking notes on how I might be able to leverage that effect.  I wouldn't wish it on anyone, but it couldn't hurt to know how it works.  Maybe I can use the same knowledge to protect myself from the same fate?",
         "json": [
           {
-            "text": "It came to me in a nightmare. A feeling of drowning, being "
+            "text": "アイデアは悪夢という形で現れました。溺れる感覚、そして"
           },
           {
-            "text": "pulled down into the crushing, dark, cold depths",
+            "text": "暗く、寒く、圧砕してくる海の深さに引きずり込まれていく",
             "color": "dark_purple"
           },
           {
-            "text": ". I looked up and watched the light fade as I sank deeper beneath the waves. I woke up gasping for air. I immediately started taking notes on how I might be able to leverage that effect. I wouldn't wish it on anyone, but it couldn't hurt to know how it works. Maybe I can use the same knowledge to protect myself from the same fate?"
+            "text": "。\n\n上を見上げると、波の下にさらに沈み、光が薄くなっていくのを見た。\n\n空気を求めて目を覚ましました。\n\n起きた後、即座にどうすればこの効果を実現できるかメモを取り始めました。誰にも使いたくはないですが、仕組みを知るのは問題ないでしょう。\nもしかしたら、この知識はこのような効果から自分を守るために使えるかもしれません、"
           }
         ]
       }
@@ -9898,14 +9833,14 @@
         "value": "It seems to me that most of the spells others target against me require sight.  Take that away, and they either need to fight with reduced accuracy, or switch to more destructive spells.  Perhaps I should keep my distance when using this.",
         "json": [
           {
-            "text": "It seems to me that most of the spells others target against me require sight. If I can "
+            "text": "敵が使うほとんどの呪文は、狙うのに視界が必要なようです。\n\n彼らの"
           },
           {
-            "text": "take away their sight",
+            "text": "視界を無くす",
             "color": "dark_purple"
           },
           {
-            "text": ", they either need to fight with reduced accuracy, or switch to more destructive spells. \n\nPerhaps I should keep my distance when using this."
+            "text": "ことができれば、敵は精度が低い呪文を使うか、破壊力が大きい呪文を使わざるを得なくなります。\n\nこれを使う場合、相手と距離を離したほうが良さそうです。"
           }
         ]
       }
@@ -9923,35 +9858,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "夜眼"
+        "value": "暗視"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "I wonder how the Endermen do it. Move so effortlessly through the void. I can't make it across my lab in the dark without smashing my shins off of a piece of furniture. I think I may have figured out a way to harness the power of Endermen to help me "
+            "text": "どうやってエンダーマンが行っているか気になります。虚無を難なく通り抜けてます。\n\n自分はラボの中ですら暗闇の中では脛を家具にぶつけずに移動できません。\n\nエンダーマンの力を利用し、彼らのように"
           },
           {
-            "text": "see in the dark",
+            "text": "暗闇の中で見える",
             "color": "dark_purple"
           },
           {
-            "text": ", as they do.\n\nWhen an "
+            "text": "ようになる方法を見つけたと思います。\n\n"
           },
           {
-            "text": "Undead ",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": "wizard casts the spell, the "
+            "text": "の魔術師がこの呪文を詠唱すると、"
           },
           {
-            "text": "duration is effectively permanent. ",
+            "text": "持続時間が永続",
             "color": "dark_purple"
           },
           {
-            "text": "casting the spell again will toggle it off."
+            "text": "になります。もう一度呪文を詠唱するとオフに切り替わります。"
           }
         ]
       }
@@ -9976,14 +9911,14 @@
         "value": "When thrust into the dark, it is a person's natural instinct to look for light.  Wizards are typically able to do so magically with ease, and are often the first ones to banish the darkness.",
         "json": [
           {
-            "text": "When thrust into the dark, it is a person's natural instinct to look for light. Wizards are typically able to do so magically with ease, and are often the first ones to banish the darkness.\n\nThis will spawn a "
+            "text": "闇の中にいる時、自然と本能的に光を探してしまいます。魔術師は魔法で簡単に行うことができ、よく一番最初に闇を切り開きます。\n\nこの呪文は、"
           },
           {
-            "text": "permanent stationary orb of light or make a target glow for a while",
+            "text": "永続的な光のオーブを作成するか、対象を一定時間光らせます",
             "color": "dark_purple"
           },
           {
-            "text": ".  Should be useful against targets that like to go invisible.  I bet if they're glowing, invisible or not, they lose a lot of their advantage and strength."
+            "text": "。\n\n透明になる敵に対して便利なはずです。発光していれば、透明であろうがなかろうが彼らのアドバンテージを無くすことができるでしょう。"
           }
         ]
       }
@@ -10040,21 +9975,21 @@
         "value": "I can use my magic to create a barrier around myself, protecting against kinetic force.  I wonder if there are other types of shields that would protect me against more?\n\nWARNING: This can only be crafted by those allied with the Ancient Council of Wizards.",
         "json": [
           {
-            "text": "I can use my magic to "
+            "text": "魔術を利用して"
           },
           {
-            "text": "create a barrier around myself",
+            "text": "自分の周囲に障壁を生み出す",
             "color": "dark_purple"
           },
           {
-            "text": ", protecting against kinetic force, although the barrier also will slow my mana regeneration slightly. I wonder if there are other types of shields that would protect me against more? \n\nThis can only be crafted by those allied with the "
+            "text": "事ができ、マナの再生は遅くなりますが、運動エネルギーから守ってくれます。\n\n自分を他の脅威からも守ってくれるような障壁もあるのでしょうか？\n\nこの呪文は、"
           },
           {
-            "text": "Council of Wizards",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -10079,28 +10014,28 @@
         "value": "It's an extreme use of mana, but if I can muster enough power, I can knit my injuries back together instantly.  There's no doubt this will save my life one day.\n\nWARNING: This can only be crafted by those allied with the Fey Courts.",
         "json": [
           {
-            "text": "It's an extreme use of mana, but if I can muster enough power, I can "
+            "text": "かなり特異なマナの使い方ですが、十分な力があれば"
           },
           {
-            "text": "knit my injuries back together instantly",
+            "text": "即座に傷口を縫い合わせて元に戻す",
             "color": "dark_purple"
           },
           {
-            "text": ". There's no doubt this will save my life one day.  Such a positive force also tends to be "
+            "text": "ことができます。\n\nこれがいつか自分の命を救うのは疑いようがないでしょう。\n\nこのような聖なる力は、"
           },
           {
-            "text": "harmful to undead creatures",
+            "text": "不死の存在に対して有効",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nThis can only be crafted by those allied with the "
+            "text": "なようです。\n\nこの呪文は、"
           },
           {
-            "text": "Fey Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -10125,14 +10060,7 @@
         "value": "This component causes the target to jump forward through space, passing through blocks if possible.  \n\nIt will not force them inside of a wall, for example.",
         "json": [
           {
-            "text": "This component causes the target to "
-          },
-          {
-            "text": "jump forward through space, passing through blocks if possible",
-            "color": "dark_purple"
-          },
-          {
-            "text": ". It will not force them inside of a wall, for example."
+            "text": "この部品は、対象を正面に空間を跳躍させ、壁があったら通り抜けます。\n\nただし、壁の中などにはめり込ませません。"
           }
         ]
       }
@@ -10154,7 +10082,12 @@
       },
       {
         "type": "text",
-        "value": "This component causes the target and the caster to swap positions."
+        "value": "This component causes the target and the caster to swap positions.",
+        "json": [
+          {
+            "text": "この部品は、対象と詠唱者の位置を交換させます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -10174,7 +10107,12 @@
       },
       {
         "type": "text",
-        "value": "A spellcasting version of the cantrip most wizards learn as their first trick, this allows me to convert various resources within the world into other ones."
+        "value": "A spellcasting version of the cantrip most wizards learn as their first trick, this allows me to convert various resources within the world into other ones.",
+        "json": [
+          {
+            "text": "魔術師が最初に学ぶまじないの呪文版で、世界の様々な素材を別の素材に変換できます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -10190,11 +10128,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "ダメージ"
+        "value": "モディファイア：ダメージ"
       },
       {
         "type": "text",
-        "value": "I can alter the formula of the spell to allow me to concentrate my power to a greater destructive effect.  It costs me more mana to do so, but a harder hit may be worth it."
+        "value": "I can alter the formula of the spell to allow me to concentrate my power to a greater destructive effect.  It costs me more mana to do so, but a harder hit may be worth it.",
+        "json": [
+          {
+            "text": "呪文の方程式を変更し、呪文に更なる力を籠める事でより破壊的な効果をもたらせるようになります。\n\nマナの消費が増えますが、より強い攻撃の割りに合うかもしれません。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -10210,11 +10153,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "半径"
+        "value": "モディファイア：半径"
       },
       {
         "type": "text",
-        "value": "I can change the formula of the spell to allow me to affect a larger area.  The strain is sometimes staggering, but there's nothing quite so satisfying as a huge fireball."
+        "value": "I can change the formula of the spell to allow me to affect a larger area.  The strain is sometimes staggering, but there's nothing quite so satisfying as a huge fireball.",
+        "json": [
+          {
+            "text": "呪文の方程式を変更することで、より大きな範囲に影響することができるようになります。\n\nマナ消費はかなり大きくなり得ますが、巨大な火球ほど清々しい物は他にないでしょう。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -10234,7 +10182,12 @@
       },
       {
         "type": "text",
-        "value": "I can alter the formula of a spell to cause certain movement effects to happen faster."
+        "value": "I can alter the formula of a spell to cause certain movement effects to happen faster.",
+        "json": [
+          {
+            "text": "呪文の方程式を弄ることで、呪文の特定の速度を速くできます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -10250,17 +10203,17 @@
     "sections": [
       {
         "type": "title",
-        "value": "規模"
+        "value": "モディファイア：規模"
       },
       {
         "type": "text",
         "value": "I can alter the formula for a spell to have a much more substantial effect.  This seems to be more focused on longer term effects rather than instantaneous ones, but I might be able to find other uses for it.  I'll have to keep it in mind.\n\nThis modifier can enable magnitude on all components that lesser magnitude affects as well.",
         "json": [
           {
-            "text": "I can alter the formula for a spell to have a much more substantial effect. This seems to be more focused on longer term effects rather than instantaneous ones, but I might be able to find other uses for it. I'll have to keep it in mind. \n\n"
+            "text": "呪文の方程式を弄ることで、より大きい影響を起こせるようになります。これは瞬間的な効果より長期的な効果に変化を与えているようですが、他の使い道もあるかもしれません。頭に入れておく必要があるでしょう。\n\n"
           },
           {
-            "text": "This modifier can enable magnitude on all components that lesser magnitude affects as well.",
+            "text": "このモディファイアは、呪文の部品の下位規模の効果も有効にします。",
             "color": "dark_purple"
           }
         ]
@@ -10279,11 +10232,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "低規模"
+        "value": "モディファイア：下位規模"
       },
       {
         "type": "text",
-        "value": "I can alter the formula for a spell to have a much more substantial effect.  This seems to be more focused on longer term effects rather than instantaneous ones, but I might be able to find other uses for it.  I'll have to keep it in mind."
+        "value": "I can alter the formula for a spell to have a much more substantial effect.  This seems to be more focused on longer term effects rather than instantaneous ones, but I might be able to find other uses for it.  I'll have to keep it in mind.",
+        "json": [
+          {
+            "text": "呪文の方程式を弄ることで、より大きい影響を起こせるようになります。これは瞬間的な効果より長期的な効果に変化を与えているようですが、他の使い道もあるかもしれません。頭に入れておく必要があるでしょう。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -10299,11 +10257,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "持続時間"
+        "value": "モディファイア：持続時間"
       },
       {
         "type": "text",
-        "value": "I can make spells that last a few seconds last a little longer at the cost of more mana.  This could be very helpful."
+        "value": "I can make spells that last a few seconds last a little longer at the cost of more mana.  This could be very helpful.",
+        "json": [
+          {
+            "text": "マナ消費を増やしますが、呪文を数秒長くすることができます。これはかなり便利になりえるでしょう。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -10319,11 +10282,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "遅延"
+        "value": "モディファイア：遅延"
       },
       {
         "type": "text",
-        "value": "I can choose to make the components within my spells affect the target a short delay after hitting them.  It doesn't matter if they move, teleport, run, or hide.  They're mine."
+        "value": "I can choose to make the components within my spells affect the target a short delay after hitting them.  It doesn't matter if they move, teleport, run, or hide.  They're mine.",
+        "json": [
+          {
+            "text": "呪文の部品が、当たった後に少し遅延を挟んでから対象に影響するようなります。彼らが動いても、転移しても、走っても、隠れても関係ありません。もう自分の物です。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -10339,11 +10307,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "射程距離"
+        "value": "モディファイア：射程距離"
       },
       {
         "type": "text",
-        "value": "I can alter the formula for a spell to increase its range.  This doesn't seem to affect projectiles, since their range is more based on their speed than anything else, but I might be able to extend my metaphysical touch range, and more."
+        "value": "I can alter the formula for a spell to increase its range.  This doesn't seem to affect projectiles, since their range is more based on their speed than anything else, but I might be able to extend my metaphysical touch range, and more.",
+        "json": [
+          {
+            "text": "呪文の方程式を弄ることで、その射程距離を延ばすことができます。\n\n発射体には影響しないようで、射程距離が速度に依存しているためです。\n\nしかし、直接触れる/対象にする距離などを上昇できるかもしれません。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -23483,31 +23456,31 @@
     "sections": [
       {
         "type": "title",
-        "value": "Impale"
+        "value": "刺突"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell allows me to "
+            "text": "この呪文は、対象に"
           },
           {
-            "text": "deal physical damage",
+            "text": "物理的なダメージ",
             "color": "dark_purple"
           },
           {
-            "text": " to my target. It's useful in case my target is highly magic resistant.\n\nIf a block is hit, an "
+            "text": "を与えるのを可能にします。\n\n対象が魔術に高い耐性を持っている場合に有用です。\n\nブロックに当たった場合は"
           },
           {
-            "text": "earth spike",
+            "text": "地の棘",
             "color": "dark_purple"
           },
           {
-            "text": " will spawn, dealing damage to the target and launching it into the air.  \n\n"
+            "text": "が生成され、対象にダメージを与え空に打ち上げます。\n\n"
           },
           {
-            "text": "Earth spikes cause more damage than standard blocks if fallen upon.",
+            "text": "地の棘は、落下して当たった場合に通常のブロックよりも大きなダメージを与えます。",
             "italic": true
           }
         ]
@@ -23643,35 +23616,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Wind Shear"
+        "value": "風刃"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "There are those that say wind magic must be chaotic and untamed (though less so than ender). However it is possible to wield the power of wind with control and precision. \n\nThis spell part "
+            "text": "風の魔術は、もっと混沌で暴走していないといけない（エンダーをほどではありませんが）という者達がいるようです。しかし、精密制御で風の力を利用する事も可能なはずです。\n\nこの呪文の部品は"
           },
           {
-            "text": "attacks the target with blades of air",
+            "text": "対象を風の刃で攻撃",
             "color": "dark_purple"
           },
           {
-            "text": ", and gains a damage boost the closer the target is to the target height above the ground. \n\n"
+            "text": "し、対象の相手が狙っている高さに近いほど追加でダメージを与えます。\n\n"
           },
           {
-            "text": "The more precise I am willing to be, the more of a devastating strike I can deliver",
+            "text": "精密にすればするほど、より強力なダメージを与えられます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThis spell component can only be crafted by those that have aligned themselves with the "
+            "text": "。\n\nこの呪文は、"
           },
           {
-            "text": "Faerie Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -23689,35 +23662,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Backdraft"
+        "value": "逆気流"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell takes a burning fire on a target and consumes it, instantly dealing a "
+            "text": "この呪文は対象で燃えている炎を吸収し、"
           },
           {
-            "text": "large amount of fire damage based on the amount of burn time remaining",
+            "text": "炎の残り時間に応じて大きな炎ダメージを与えます",
             "color": "dark_purple"
           },
           {
-            "text": ".  The "
+            "text": "。\n\nさらに、燃焼によって"
           },
           {
-            "text": "fire is spread to other nearby targets",
+            "text": "周囲の対象に火を広めます",
             "color": "dark_purple"
           },
           {
-            "text": " by the combustion.\n\nThis spell is only craftable by those that have aligned themselves with the "
+            "text": "。\n\nこの呪文は、"
           },
           {
-            "text": "Demons of the Nether",
+            "text": "ネザーの悪魔",
             "color": "dark_red"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -23781,21 +23754,21 @@
         "value": "",
         "json": [
           {
-            "text": "This spell amplifies magic on the target, "
+            "text": "この呪文は"
           },
           {
-            "text": "increasing mana regneration as well as incoming damage from magical sources",
+            "text": "マナの再生能力を上昇しますが、受ける魔法ダメージを上昇",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIt can only be crafted by those that have aligned themselves with the "
+            "text": "させます。\n\nこの呪文は、"
           },
           {
-            "text": "Council of Wizards",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -23820,21 +23793,21 @@
         "value": "",
         "json": [
           {
-            "text": "This spell dampens magic on the target, "
+            "text": "この呪文は対象への魔術を弱めることで、"
           },
           {
-            "text": "decreasing mana regneration as well as incoming damage from magical sources",
+            "text": "マナの再生速度が低下しますが、受ける魔法ダメージが減少します",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIt can only be crafted by those that have aligned themselves with the "
+            "text": "。\n\nこの呪文は、"
           },
           {
-            "text": "Council of Wizards",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -23859,21 +23832,21 @@
         "value": "",
         "json": [
           {
-            "text": "This spell rends the armor worn by the target, temporarily "
+            "text": "この呪文は対象の着ている鎧を引き裂き、一時的に"
           },
           {
-            "text": "reducing their armor",
+            "text": "鎧を低下",
             "color": "dark_purple"
           },
           {
-            "text": " and therefore their resistance to physical damage. \n\nIt can only be crafted by those that have aligned themselves with the "
+            "text": "し、物理ダメージへの耐性を減らします。\n\nこの呪文は、"
           },
           {
-            "text": "Faerie Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -23891,21 +23864,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Splash"
+        "value": "水しぶき"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell "
+            "text": "この呪文は"
           },
           {
-            "text": "creates water at the target location, or soaks a target",
+            "text": "対象の位置に水を作成するか、当たった対象を濡らします",
             "color": "dark_purple"
           },
           {
-            "text": " that is hit. If I am more precise, I can prevent the creation of water at the target position."
+            "text": "。\n\nより精密に呪文を作れば、対象の位置に水が生成されるのを防げます。"
           }
         ]
       }
@@ -23923,21 +23896,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Sacrifice"
+        "value": "生贄"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell "
+            "text": "この呪文は、対象の"
           },
           {
-            "text": "sacrifices the target summon and heals the summoner",
+            "text": "召喚された存在を生贄にし、召喚者をその最大HPの１０％回復",
             "color": "dark_purple"
           },
           {
-            "text": " for 10% of its maximum health. It can only be crafted by those that have aligned themselves with the Undead."
+            "text": "します。\n\nこの呪文は、"
+          },
+          {
+            "text": "不死者",
+            "color": "dark_gray"
+          },
+          {
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -23955,28 +23935,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Shatter"
+        "value": "粉々"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This component,"
+            "text": "この部品は、"
           },
           {
-            "text": " if targeting a creature that is frozen",
+            "text": "凍っている生物を対象にした場合",
             "color": "dark_purple"
           },
           {
-            "text": ", will shatter the ice surrounding them to deal a "
+            "text": "、それを覆っている氷を粉々にし、"
           },
           {
-            "text": "large amount of frost damage",
+            "text": "大きな氷ダメージを与えます",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -24026,49 +24006,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Telekinesis"
+        "value": "念力"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell, if "
+            "text": "この呪文は、自分に詠唱した場合は短時間の間、"
           },
           {
-            "text": "cast on myself",
+            "text": "干渉できるリーチが伸びます",
             "color": "dark_purple"
           },
           {
-            "text": ", will give me an "
+            "text": "。\n\n"
           },
           {
-            "text": "extended range of interaction",
+            "text": "場所に詠唱した場合",
             "color": "dark_purple"
           },
           {
-            "text": " for a brief time. If "
+            "text": "、その地点に"
           },
           {
-            "text": "cast at a location",
+            "text": "小さなアイテムを引っ張ります",
             "color": "dark_purple"
           },
           {
-            "text": ", it will "
+            "text": "。\n\n十分に精密性を高めた場合、"
           },
           {
-            "text": "pull small items in",
+            "text": "弱い相手を掴んで振り回せます",
             "color": "dark_purple"
           },
           {
-            "text": " towards that location. If I set the precision high enough, I can "
-          },
-          {
-            "text": "grab weaker enemies with it ",
-            "color": "dark_purple"
-          },
-          {
-            "text": "and toss them around."
+            "text": "。"
           }
         ]
       }
@@ -24093,7 +24066,7 @@
         "value": "",
         "json": [
           {
-            "text": "This spell temporarily suppresses enchantments on the target's equipment.  The maximum enchantment level is determined by the magnitude.  The stronger an enchantment is on an item compared to other enchantments, the harder it is to completely suppress."
+            "text": "この呪文は、対象の装備のエンチャントを一時的に無効化します。\n\n無効化できる最大のエンチャントレベルは、規模によって決まります。\n\n他のエンチャントに比べてアイテムのエンチャントが強いほど、完全に無効化するのが難しくなります。"
           }
         ]
       }
@@ -24111,35 +24084,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Crucible"
+        "value": "製錬"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell will immediately pass the "
+            "text": "この呪文は、"
           },
           {
-            "text": "target block",
+            "text": "対象のブロック",
             "color": "dark_purple"
           },
           {
-            "text": " through the intense heat from the fires of the nether, "
+            "text": "にネザーからの強力な炎をつぎ込み、"
           },
           {
-            "text": "smelting it instantly in place",
-            "color": "dark_purple"
-          },
-          {
-            "text": ". I can target myself to instantly smelt an item in my other hand. \n\nThis spell can only be crafted by those that have allied themselves with the "
-          },
-          {
-            "text": "Demons of the Nether",
+            "text": "即座に製錬",
             "color": "dark_red"
           },
           {
-            "text": "."
+            "text": "します。\n\n自分を対象にした場合、左手のアイテムを製錬します。\n\nこの呪文は、"
+          },
+          {
+            "text": "ネザーの悪魔",
+            "color": "dark_red"
+          },
+          {
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -24157,14 +24130,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ice Spike"
+        "value": "氷針"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This component causes sharp icicles to burst from the ground and pierce nearby targets, dealing frost damage and slowing them.  The spikes will remain for a short duration, slowing and damaging targets that are unable to remove themselves from the area."
+            "text": "この呪文は鋭い氷針を地面から飛び出し、近くの対象を貫き、氷ダメージを与え相手を鈍足にします。\n\n氷針は短い間残り、範囲から逃げられなかった敵にダメージを与え鈍足にし続けます。"
           }
         ]
       }
@@ -24182,21 +24155,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Spectral Ladder"
+        "value": "はしご召喚"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "I can "
+            "text": "魔術で"
           },
           {
-            "text": "conjure a phantasmal ladder",
+            "text": "霊的な梯子を作成",
             "color": "dark_purple"
           },
           {
-            "text": " that will allow me to climb it for a short duration. \n\nI'm able to effortlessly maintain the ladder as long as I or any other person is close to it, But otherwise it will fade after twenty seconds."
+            "text": "することで、短い時間の間登るを可能にします。\n\n自分、もしくは他の人が梯子の近くにいる限り簡単に維持できますが、いない場合は２０秒後に消滅します。"
           }
         ]
       }
@@ -24214,21 +24187,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Spectral Web"
+        "value": "蜘蛛の巣召喚"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "I can "
+            "text": "魔術で"
           },
           {
-            "text": "conjure a phantasmal web",
+            "text": "霊的な蜘蛛の巣を作成",
             "color": "dark_purple"
           },
           {
-            "text": " that will slow and tangle those inside it for a short duration."
+            "text": "することで、中の敵に絡みつき遅くします。"
           }
         ]
       }
@@ -24246,21 +24219,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Water Walking"
+        "value": "水上歩行"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell allows the target to "
+            "text": "この呪文は、対象が"
           },
           {
-            "text": "walk on water for a time",
+            "text": "水の上を歩く",
             "color": "dark_purple"
           },
           {
-            "text": ". Crouching will allow them to fall through the water and swim as normal if desired."
+            "text": "のを可能にします。\n\n屈むことで、水の中に入って普通に泳ぐことも可能にします。"
           }
         ]
       }
@@ -24278,21 +24251,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Spider Climbing"
+        "value": "蜘蛛の手足"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell will allow the target to "
+            "text": "この呪文は一定時間の間、対象を"
           },
           {
-            "text": "climb walls like a spider",
+            "text": "蜘蛛のように壁を登る",
             "color": "dark_purple"
           },
           {
-            "text": " for a time. It also prevents them from being affected by spider webs."
+            "text": "ことを可能にします。\n\nさらに、蜘蛛の巣に影響されるのも防ぎます。"
           }
         ]
       }
@@ -24324,14 +24297,14 @@
             "color": "dark_purple"
           },
           {
-            "text": "可能な限りの周囲の敵に毒を与えようとします。 They will attempt to change targets frequently and "
+            "text": "可能な限りの周囲の敵に毒を与えようとします。 \n\n彼らは頻繁に対象を変えようとすることで、"
           },
           {
-            "text": "keep the poison spreading as much as possible",
+            "text": "毒を可能な限り広げようとします",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nこれは召喚の最大数にカウントされます。"
+            "text": "。\n\nこれは召喚の最大数にカウントされます。"
           }
         ]
       }
@@ -24407,28 +24380,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Earthquake"
+        "value": "地震"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "Shaking the very earth, this spell "
+            "text": "大地そのものを揺らすことで、この呪文は"
           },
           {
-            "text": "tosses blocks into the air, deals damage to those inside and forces them prone",
+            "text": "ブロックを空中に飛ばし、その範囲内にいる相手にダメージを与え、強制的にうつ伏せにさせます",
             "color": "dark_purple"
           },
           {
-            "text": ". The falling blocks can "
+            "text": "。\n\n落下してくるブロックは、"
           },
           {
-            "text": "potentially bury them",
+            "text": "相手を地面に埋める可能性",
             "color": "dark_purple"
           },
           {
-            "text": " beneath the earth."
+            "text": "があります。"
           }
         ]
       }
@@ -24447,7 +24420,7 @@
         "value": "",
         "json": [
           {
-            "text": "This spell damages the target, "
+            "text": "この呪文は対象にダメージを与え、"
           },
           {
             "text": "与えたダメージの半分回復します。",
@@ -24470,14 +24443,15 @@
         "value": "",
         "json": [
           {
-            "text": "This spell weakens the target, advancing years in moments as they rapidly age and become frail, making them "
+            "text": "この呪文は対象を弱体化し、一瞬で数十年経過させて老化させ、元の時間の元の年齢に戻るまで対象の"
           },
           {
-            "text": "一定時間受けるダメージを増加",
+            "text": "ダメージを一定時間増加させます",
             "color": "dark_purple"
           },
           {
-            "text": " for a time before fading and returning their age to its original point in time."
+            "text": "。",
+            "color": "black"
           }
         ]
       }
@@ -24489,21 +24463,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Phantom Sound"
+        "value": "幻音"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell "
+            "text": "この呪文は、"
           },
           {
-            "text": "creates a sound at the target location",
+            "text": "対象の地点に音を出します",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -24515,25 +24489,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Illusory Creeper"
+        "value": "幻のクリーパー"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This spell causes an "
+            "text": "この呪文は、対象に"
           },
           {
-            "text": "illusion of a creeper",
+            "text": "幻のクリーパー",
             "color": "dark_purple"
           },
           {
-            "text": " to appear at the target point. It looks like a creeper, moves like a creeper, ignites like a creeper, but "
+            "text": "を生み出します。\n\nそれはクリーパーをように見え、クリーパーのように動き、クリーパーのように発火しますが、"
           },
           {
-            "text": "explodes into nothing but sparkles.",
+            "text": "爆発はただ",
             "color": "dark_purple"
+          },
+          {
+            "text": "\n"
+          },
+          {
+            "text": "キラキラと光るだけです",
+            "color": "dark_purple"
+          },
+          {
+            "text": "。"
           }
         ]
       }
@@ -24545,28 +24529,25 @@
     "sections": [
       {
         "type": "title",
-        "value": "Greater Animus"
+        "value": "上位生命化"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "In addition to everything "
-          },
-          {
-            "text": "Animus ",
+            "text": "生命化",
             "color": "blue"
           },
           {
-            "text": "does, this spell allows me to "
+            "text": "の効果に比べて、この呪文は"
           },
           {
-            "text": "animate items from my offhand such as swords, bows, and even spells",
+            "text": "左手に持っている剣、弓、そして呪文でさえ生命化",
             "color": "dark_purple"
           },
           {
-            "text": " to fight for me."
+            "text": "し自分の為に戦ってくれるようにします。"
           }
         ]
       }
@@ -24578,14 +24559,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "精度"
+        "value": "モディファイア：精密性"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This modifier allows me to control how precise certain effects within my spells are."
+            "text": "このモディファイアは、自分の呪文の精密性を制御できるようにします。"
           }
         ]
       }
@@ -24610,14 +24591,14 @@
         "value": "",
         "json": [
           {
-            "text": "This shape will cause a "
+            "text": "この形は、自分が"
           },
           {
-            "text": "rumbling fissure that will travel towards the location I am pointing at",
+            "text": "狙っている場所に向かって鳴動する亀裂を作り出します",
             "color": "dark_purple"
           },
           {
-            "text": ".  It is always bound to the ground, and will detonate the spell when I stop channeling."
+            "text": "。\n\nこれは常に地面に縛られており、詠唱を停止した場合に呪文を起爆します。"
           }
         ]
       }
@@ -24642,17 +24623,17 @@
         "value": "",
         "json": [
           {
-            "text": "This spell will "
+            "text": "この呪文は、"
           },
           {
-            "text": "continually affect a point in front of me for as long as I concentrate",
+            "text": "詠唱し続ける限り自分の正面の地点を影響し続けます",
             "color": "dark_purple"
           },
           {
-            "text": ".  It will move with me as I look around.\n\n"
+            "text": "。これは自分が辺りを見渡すと一緒に動きます。\n\n"
           },
           {
-            "text": "It can be moved forwards and backwards while channelling by rolling the mouse wheel.",
+            "text": "マウスのホイールを回すことで前、後ろに狙いを移動できます。",
             "italic": true
           }
         ]
@@ -24678,14 +24659,7 @@
         "value": "",
         "json": [
           {
-            "text": "This spell will summon one or more "
-          },
-          {
-            "text": "embers that will follow and orbit me",
-            "color": "dark_purple"
-          },
-          {
-            "text": ".  They will automatically fire at nearby enemies as they approach me."
+            "text": "この呪文は、自分を追尾して周回する一つ以上の余燼を召喚します。これは近づいてきた敵に自動で発射されます。"
           }
         ]
       }
@@ -25082,21 +25056,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Component: Place Block"
+        "value": "部品：ブロック設置"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This component will "
+            "text": "この部品は、呪文が対象とした地点に"
           },
           {
-            "text": "place the block in my other hand",
+            "text": "左手のブロックを設置",
             "color": "dark_purple"
           },
           {
-            "text": " wherever the spell targets."
+            "text": "します。"
           }
         ]
       }
@@ -25302,28 +25276,28 @@
         "value": "",
         "json": [
           {
-            "text": "This spell will cause its target to "
+            "text": "この呪文は、一定時間の間対象の"
           },
           {
-            "text": "grow in size",
+            "text": "サイズを大きく",
             "color": "dark_purple"
           },
           {
-            "text": " for a time.  During this time, movement affecting spells like "
+            "text": "します。この間、"
           },
           {
-            "text": "Fling and Gust",
+            "text": "吹き飛ばしやつむじ風",
             "color": "blue"
           },
           {
-            "text": " "
+            "text": "が対象に"
           },
           {
-            "text": "will be less effective",
+            "text": "効きにくくなります",
             "color": "dark_purple"
           },
           {
-            "text": " against the target."
+            "text": "。"
           }
         ]
       }
@@ -25348,42 +25322,21 @@
         "value": "",
         "json": [
           {
-            "text": "This spell will cause its target to "
+            "text": "この呪文は、対象のサイズを縮小させます。この間、"
           },
           {
-            "text": "shrink in size",
-            "color": "dark_purple"
-          },
-          {
-            "text": " for a time.  During this time, movement affecting spells like "
-          },
-          {
-            "text": "Fling and Gust",
+            "text": "吹き飛ばしやつむじ風",
             "color": "blue"
           },
           {
-            "text": " "
+            "text": "が対象に対して"
           },
           {
-            "text": "will be more effective",
+            "text": "より効果的",
             "color": "dark_purple"
           },
           {
-            "text": " against the target.\n\nWhen a "
-          },
-          {
-            "text": "Fey ",
-            "color": "dark_green"
-          },
-          {
-            "text": "wizard casts the spell, the "
-          },
-          {
-            "text": "duration is effectively permanent. ",
-            "color": "dark_purple"
-          },
-          {
-            "text": "casting the spell again will toggle it off."
+            "text": "になります。\n\n妖精の魔術師がこの呪文を詠唱した場合、持続時間が永続になり、もう一度詠唱する事でオフになります。"
           }
         ]
       }
