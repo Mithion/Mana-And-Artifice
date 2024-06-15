@@ -8615,7 +8615,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Summon Spectral Stonecutter"
+        "value": "石きり台召喚"
       },
       {
         "type": "text",
@@ -8647,7 +8647,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Summon Spectral Anvil"
+        "value": "金床召喚"
       },
       {
         "type": "text",
@@ -23499,21 +23499,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "Redstone Pulse"
+        "value": "レッドストーンパルス"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "I can create a small burst of electricity in the form of a "
-          },
-          {
-            "text": "redstone signal at the target location",
-            "color": "dark_purple"
-          },
-          {
-            "text": ", as long as there isn't already something else there."
+            "text": "対象の地点に小さな電気を、そこに他の物が既にない限りレッドストーンシグナルの形で作成します。"
           }
         ]
       }
@@ -23531,21 +23524,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pull"
+        "value": "引力"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "Using a burst of air magic, I can cause the target to be "
+            "text": "大気の魔術を利用する事で、対象を"
           },
           {
-            "text": "pulled towards me",
+            "text": "自分に引っ張る",
             "color": "dark_purple"
           },
           {
-            "text": ".  If there's something between them and me that they crash into, it will hurt them if they've had enough time to get up to speed."
+            "text": "事ができます。\n\n自分と対象の間にぶつかれるものがある場合、十分な速度に達する時間があれば相手にダメージを与えられます。"
           }
         ]
       }
