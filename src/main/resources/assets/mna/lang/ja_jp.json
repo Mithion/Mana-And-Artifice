@@ -21,13 +21,13 @@
 	"item.mna.debug_wand": "Debug Orb",
 	"item.mna.debug_wand.playerless": "Changed Sigil to be Playerless",
 	"item.mna.animus_dust": "生命の粉",
-	"item.mna.animated_quill": "生き生きとした羽ペン",
+	"item.mna.animated_quill": "動く羽ペン",
 	"item.mna.cloud_in_a_bottle": "雨雲の瓶詰",
 	"item.mna.antidote_bracelet": "解毒のブレスレット",
 
 	"item.mna.arcane_ash": "神秘の灰",
 	"item.mna.arcane_compound": "神秘の混合物",
-	"item.mna.arcane_crown": "神秘の王冠",
+	"item.mna.arcane_crown": "神秘の冠",
 	"item.mna.arcanist_ink": "魔術師のインク",
 	"item.mna.affinity_lock_belt": "鍵のベルト",
 	"item.mna.allfather_axe": "オールファーザーの斧",
@@ -51,7 +51,7 @@
 	"item.mna.hat_large_witch": "魔法使いの大きな防止",
 	"item.mna.hat_tall_cowboy": "カウボーイの高い帽子",
 
-	"item.mna.torn_journal_page": "破れた論文のページ",
+	"item.mna.torn_journal_page": "破れた学術誌のページ",
 	"item.mna.torn_journal_page.empty": "判読不能なほど破損しているようです",
 	"item.mna.torn_journal_page.contains": "に関する断片的な文章が含まれているようです。",
 	"item.mna.torn_journal_page.learned.prefix": "あなたの",
@@ -216,7 +216,7 @@
 	"item.mna.infused_silk": "魔入絹",	
 	"item.mna.infused_thread": "魔入糸",
 
-	"item.mna.eldrin_bracelet": "龍脈力のブレスレット",	
+	"item.mna.eldrin_bracelet": "龍脈エネルギーのブレスレット",	
 	"item.mna.eldrin_rift": "龍脈の裂け目",
 
 	"item.mna.pumpkin_staff": "パンプキン・スタッフ",
@@ -497,7 +497,7 @@
 	"item.mna.skeleton_assassin_spawn_egg": "クリプトストーカーのスポーンエッグ",
 	"item.mna.chatterer_spawn_egg": "チャッターのスポーンエッグ",
 
-	"item.mna.trickery_bracelet": "妖術のブレスレット",
+	"item.mna.trickery_bracelet": "幻術のブレスレット",
 	"item.mna.thaumaturgic_link": "魔法のリンク",
 	"item.mna.thaumaturgic_compass": "魔法のコンパス",
 	"item.mna.thaumaturgic_compass.locating": " %s に調整されている。",
@@ -585,7 +585,7 @@
 	"block.mna.water_sentry": "水セントリー",
 	"block.mna.fire_sentry": "炎セントリー",
 
-	"block.mna.brazier": "ブレイザー",
+	"block.mna.brazier": "火鉢",
 	"block.mna.brazier.auto_on": "自動起動 オン",
 	"block.mna.brazier.auto_off": "自動起動 オフ",
 
@@ -598,7 +598,7 @@
 	"block.mna.decoration.transmuted_silver_stairs": "変異銀の階段",
 
 	"block.mna.book_shelf": "本棚",
-	"block.mna.scroll_shelf": "呪文棚",
+	"block.mna.scroll_shelf": "呪文スクロール棚",
 	"block.mna.filler_block": "マルチブロックの一部",
 
 	"block.mna.altar_of_arcana": "神秘の儀式",
@@ -634,8 +634,8 @@
 	"block.mna.spectral_crafting_table": "召喚された作業台",
 	"block.mna.spectral_stonecutter": "召喚された石きり台",
 	
-	"block.mna.basic_table": "普通のテーブル",
-	"block.mna.ornate_table": "綺麗なテーブル",
+	"block.mna.basic_table": "普通の机",
+	"block.mna.ornate_table": "綺麗な机",
 	"block.mna.eldrin_altar": "龍脈の祭壇",
 	"block.mna.eldrin_altar.wrongFaction": "あなたの派閥ではこのレシピは利用できない",
 	"block.mna.eldrin_conduit_fire": "龍脈の導管: 炎",
@@ -1030,7 +1030,7 @@
 	"gui.mna.jei.crushing": "粉砕",
 	"gui.mna.jei.transmutation": "変異",
 	"gui.mna.jei.eldrin_fume": "龍脈煙フィルター燃焼可能",
-	"gui.mna.jei.eldrin_fume.generation": "龍脈パワー生成",
+	"gui.mna.jei.eldrin_fume.generation": "龍脈エネルギー生成",
 	
 	"gui.mna.affinity": "属性:",
 	"gui.mna.complexity": "複雑さ",
@@ -1052,8 +1052,8 @@
 	"gui.mna.your_tier_max": "最大の段階を達成した",
 	"gui.mna.your_faction": "あなたの派閥:",
 	"gui.mna.your_faction.none": "なし",
-	"gui.mna.power_network": "龍穴の力:",
-	"gui.mna.wellspring-power": "龍穴の力が必要です",
+	"gui.mna.power_network": "龍脈エネルギー:",
+	"gui.mna.wellspring-power": "龍脈エネルギーが必要です",
 	
 	"gui.mna.arcane-sentry.target-players": "プレイヤーを狙う",
 	"gui.mna.arcane-sentry.no-target-players": "プレイヤーを狙わない",
@@ -1063,7 +1063,7 @@
 	"gui.mna.recipe.lowtier": "このレシピには上位の段階が必要です。",
 	"gui.mna.recipe.missing_items": "このレシピを完了するのにアイテムが足りていません。",
 	"gui.mna.recipe.missing_mana": "このレシピを完了するのにマナがたりません。",
-	"gui.mna.recipe.missing_wellspring": "あなたはレシピを完了する十分な %s 龍脈パワーがありません。",
+	"gui.mna.recipe.missing_wellspring": "あなたはレシピを完了する十分な %s 龍脈エネルギーがありません。",
 	"gui.mna.recipe.missing_conduit": "正しい属性の上位の龍脈の導管が祭壇の近くにありませんでした。 コーデックのレシピで属性を確認し、導管がレッドストーンで無効化されていないか確認してください。",
 	"gui.mna.spellbook.empty": "X",
 	"gui.mna.known_rote_spells": "暗記されている呪文",
@@ -1074,11 +1074,11 @@
 	
 	"gui.mna.wizard_lab.xp_cost": "この行動は経験値を %d XP 消費します (現在の XP: %d).",
 	"gui.mna.wizard_lab.xp_insufficient": "十分な XP がありません(%d Xpが必要で、現在の XP: %d).",
-	"gui.mna.wizard_lab.conduit_missing": "近くに導管 %s が見つかりませんでした。  コーデックスの項目 '龍脈パワーの供給'に詳細があります。",
-	"gui.mna.wizard_lab.supplied": "十分に %s の力が供給されています。",
-	"gui.mna.wizard_lab.supplied_partial": "部分的に %s の力が供給されています。",
-	"gui.mna.wizard_lab.not_requesting": "龍脈パワーを要求していません。",
-	"gui.mna.wizard_lab.no_power": "導管はみつかりましたが、 %s の力がありません。",
+	"gui.mna.wizard_lab.conduit_missing": "近くに導管 %s が見つかりませんでした。  コーデックスの項目 '龍脈エネルギーの供給'に詳細があります。",
+	"gui.mna.wizard_lab.supplied": "十分に %s のエネルギーが供給されています。",
+	"gui.mna.wizard_lab.supplied_partial": "部分的に %s のエネルギーが供給されています。",
+	"gui.mna.wizard_lab.not_requesting": "龍脈エネルギーを要求していません。",
+	"gui.mna.wizard_lab.no_power": "導管はみつかりましたが、 %s のエネルギーがありません。",
 	
 	"gui.mna.study_desk.capability_missing": "PROGRESSION もしくは ROTE の互換性が見つかりませんでした。これは重大な問題で、M&Aは正しく動作しない確率が高いです。",
 	"gui.mna.study_desk.mysterious_spell": "この呪文は未知です。",

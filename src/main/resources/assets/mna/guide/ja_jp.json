@@ -6147,11 +6147,11 @@
         "value": "When making spells, a wizard needs to have a way to control the wild magical energies in addition to the ingredients needed to make each spell piece.  These foci are very important to keep the spell stable, and higher versions are needed as the complexity of the spell in question increases.",
         "json": [
           {
-            "text": "Foci",
+            "text": "焦点",
             "color": "blue"
           },
           {
-            "text": " are often used as stabilizers in various recipes, aligning magical energies that would otherwise be more entropic."
+            "text": "は様々な呪文を安定させるために利用され、分散している魔法のエネルギーをまとめます。"
           }
         ]
       }
@@ -10178,7 +10178,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "速度"
+        "value": "モディファイア：速度"
       },
       {
         "type": "text",
@@ -11671,35 +11671,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Glyphs"
+        "value": "グリフ"
       },
       {
         "type": "text",
         "value": "Basic glyphs are a cornerstone of magical crafting.  A blank glyph is crafted with various dye colors to create magical patterns.  These glyphs are then used to focus magical effects such as rituals and enchanting.\n\nMages often craft bags specifically to carry these glyphs.",
         "json": [
           {
-            "text": "Basic "
+            "text": "基本的な"
           },
           {
-            "text": "glyphs",
+            "text": "グリフ",
             "color": "blue"
           },
           {
-            "text": " are a cornerstone of magical crafting. A blank glyph is crafted with various dye colors to create magical patterns. These glyphs are then used to focus magical effects such as rituals and enchanting. \n\nWizards often modify "
+            "text": "は、魔術工作の礎石です。空のグリフと染料でクラフトすることで、さまざまな魔法のパターンを作成できます。\n\nその後、これらのグリフは儀式やエンチャントの魔法の効果を集中させるために使われます。\n\n魔術師はよく、"
           },
           {
-            "text": "Practitioner's Pouches",
+            "text": "実践者の巾着",
             "color": "blue"
           },
           {
-            "text": " with "
+            "text": "をグリフを運ぶための"
           },
           {
-            "text": "patches",
+            "text": "パッチ",
             "color": "blue"
           },
           {
-            "text": " specifically to carry these glyphs."
+            "text": "を利用して持ち歩くようです。"
           }
         ]
       }
@@ -11925,21 +11925,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Transmuted Silver"
+        "value": "変異銀"
       },
       {
         "type": "text",
         "value": "While the cantrip for transmuted silver is useful, I need to have a way to make it more quickly and easily.  The recipes here show how.",
         "json": [
           {
-            "text": "While the "
+            "text": "変異銀を作成するための"
           },
           {
-            "text": "cantrip",
+            "text": "まじな",
             "color": "blue"
           },
           {
-            "text": " for transmuted silver is useful, I need to have a way to make it more quickly and easily. The recipes here show how."
+            "text": "いは便利ですが、もっと楽に素早く作成する手段が必要です。\n\nレシピにその手段が載っています。"
           }
         ]
       }
@@ -11961,21 +11961,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Raincloud in a Bottle"
+        "value": "雨雲の瓶詰"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "A lovely little spell, the "
+            "text": "素敵な小さな呪文の、"
           },
           {
-            "text": "Raincloud in a Bottle",
+            "text": "雨雲の瓶詰",
             "color": "blue"
           },
           {
-            "text": " can be uncorked where it will form into a small cloud above or adjacent to where it is placed, after which it will gently rain down below it, slightly increasing the speed that a crop below it will grow."
+            "text": "はあけることができます。設置された場所の横か上に小さな雲を生み出し、下に小さな雨を降らします。\n\nその下では、作物が育つ速度がほんの少し上昇します。"
           }
         ]
       }
@@ -11993,18 +11993,18 @@
     "sections": [
       {
         "type": "title",
-        "value": "属性別の神秘のセントリー"
+        "value": "属性別のセントリー"
       },
       {
         "type": "text",
         "value": "Elemental Sentries are enchanted spell books, drawn with several runes using wizard chalk, then sprinkled with vinteum dust, and lastly combined with something representing their affinity.",
         "json": [
           {
-            "text": "Elemental Sentries",
+            "text": "属性のセントリ",
             "color": "blue"
           },
           {
-            "text": " are enchanted spell books, drawn with several runes using wizard chalk, then sprinkled with vinteum dust, and lastly combined with something representing their affinity."
+            "text": "ーは、魔術師のチョークでルーンがいくつか描かれ、ヴィンテウムの粉がかけられ、最後に属性を象徴する物と組み合わされた呪文の本です。"
           }
         ]
       },
@@ -12013,21 +12013,18 @@
         "value": "Powered by elemental energies, such as those generated from an Eldrin Fume Filter or by capturing Eldrin Wellsprings, these powerful stationary guardians will launch elemental bolts at their targets when in range and in sight.",
         "json": [
           {
-            "text": "Powered by elemental energies, such as those generated from an "
-          },
-          {
-            "text": "Eldrin Fume Filter",
+            "text": "龍脈煙フィルター",
             "color": "blue"
           },
           {
-            "text": " or by capturing "
+            "text": "や"
           },
           {
-            "text": "Eldrin Wellsprings",
+            "text": "龍穴",
             "color": "blue"
           },
           {
-            "text": ", these powerful stationary guardians will launch elemental bolts at their targets when in range and in sight."
+            "text": "によって生み出された属性エネルギーによって動く、この強力な固定砲台は視界内で射程範囲内の敵に強力なエレメンタルボルトを発射します。"
           }
         ]
       },
@@ -12036,28 +12033,21 @@
         "value": "While they contain simplistic targeting of standard monsters by default, much more granular targeting can be obtained by using a Seer Stone next to the Elemental Sentry.  This will cause the Elemental Sentry to target whatever the Seer Stone is targeting.",
         "json": [
           {
-            "text": "While they contain simplistic targeting of standard monsters by default, much more granular targeting can be obtained by using a "
+            "text": "デフォルトでも、一般的な敵に対する単純な標的設定がありますが、"
           },
           {
-            "text": "Seer Stone",
-            "color": "blue"
+            "text": "セントリー",
+            "color": "dark_blue"
           },
           {
-            "text": " right next to the "
+            "text": "の横に千里石を置くことで、詳細な標的設定を行うことができます。\n\nこれをすると、"
           },
           {
-            "text": "Elemental Sentry",
-            "color": "blue"
-          },
-          {
-            "text": ". This will cause the Elemental Sentry to"
-          },
-          {
-            "text": " target whatever the Seer Stone is targeting",
+            "text": "千里石が狙っている対象をセントリーが狙う",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "ようになります。"
           }
         ]
       },
@@ -12066,18 +12056,18 @@
         "value": "Arcane Sentries shoot very slowly but deal very high magic damage.  They consume Arcane Eldrin Power.",
         "json": [
           {
-            "text": "Arcane Sentries",
+            "text": "神秘のセントリー",
             "color": "blue"
           },
           {
-            "text": " fire very slowly but deal very high magic damage. \n\nThey consume "
+            "text": "は発射レートが遅いですが、大きな魔法ダメージを与えます。\n\n"
           },
           {
-            "text": "Arcane Eldrin Power",
+            "text": "神秘の龍脈エネルギー",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "を消費します。"
           }
         ]
       },
@@ -12086,25 +12076,25 @@
         "value": "Ender Sentries shoot very slowly but teleport hit targets 10 blocks backwards in the direction the projectile is traveling.  They consume Ender Eldrin Power.",
         "json": [
           {
-            "text": "Ender Sentries",
+            "text": "エンダーのセントリー",
             "color": "blue"
           },
           {
-            "text": " fire very slowly but "
+            "text": "は発射レートがかなり遅いですが、発射物が向かっている方角に"
           },
           {
-            "text": "teleport hit targets",
+            "text": "対象を１０ブロック転移",
             "color": "dark_purple"
           },
           {
-            "text": " 10 blocks backwards in the direction the projectile is traveling.  This can teleport the target through walls. \n\nThey consume "
+            "text": "させます。この転移は壁の向こう側に送ることもできます。\n\n"
           },
           {
-            "text": "Ender Eldrin Power",
+            "text": "エンダーの龍脈エネルギー",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "を消費します。"
           }
         ]
       },
@@ -12113,25 +12103,25 @@
         "value": "Water Sentries shoot very slowly but deal minor damage and apply a very powerful slow.  They consume Water Eldrin Power.",
         "json": [
           {
-            "text": "Water Sentries",
+            "text": "水のセントリー",
             "color": "blue"
           },
           {
-            "text": " fire very slowly but deal "
+            "text": "は発射レートが遅いですが、"
           },
           {
-            "text": "minor damage and apply a very powerful slow",
+            "text": "それなりのダメージを与え強力な鈍足を付与",
             "color": "dark_purple"
           },
           {
-            "text": ". They consume "
+            "text": "します。\n\n"
           },
           {
-            "text": "Water Eldrin Power",
+            "text": "水の龍脈エネルギー",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "を消費します。"
           }
         ]
       },
@@ -12140,25 +12130,25 @@
         "value": "Wind Sentries shoot moderately slowly but apply a levitation effect to targets.  They consume Wind Eldrin Power.",
         "json": [
           {
-            "text": "Wind Sentries",
+            "text": "風のセントリー",
             "color": "blue"
           },
           {
-            "text": " fire at a moderate speed but apply a "
+            "text": "はそれなりの速度で発射しますが、対象に"
           },
           {
-            "text": "levitation effect",
+            "text": "浮遊を付与",
             "color": "dark_purple"
           },
           {
-            "text": " to targets. They consume "
+            "text": "します。\n\n"
           },
           {
-            "text": "Wind Eldrin Power",
+            "text": "風の龍脈エネルギー",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "を消費します。"
           }
         ]
       },
@@ -12167,32 +12157,25 @@
         "value": "Earth Sentries shoot very quickly and deal low physical damage.  They consume Earth Eldrin Power.",
         "json": [
           {
-            "text": "Earth Sentries",
+            "text": "大地のセントリー",
             "color": "blue"
           },
           {
-            "text": " fire "
+            "text": "は"
           },
           {
-            "text": "very quickly",
+            "text": "発射レートが速く低い物理ダメ―ジ",
             "color": "dark_purple"
           },
           {
-            "text": " and deal "
+            "text": "を与えます。\n\n"
           },
           {
-            "text": "low physical damage",
-            "color": "dark_purple"
-          },
-          {
-            "text": ". They consume "
-          },
-          {
-            "text": "Earth Eldrin Power",
+            "text": "地の龍脈エネルギー",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "を消費します。"
           }
         ]
       },
@@ -12201,39 +12184,32 @@
         "value": "Fire Sentries shoot very quickly and deal low fire damage.  They consume Fire Eldrin Power.  These sentry projectiles do not ignite blocks.",
         "json": [
           {
-            "text": "Fire Sentries",
+            "text": "火のセントリー",
             "color": "blue"
           },
           {
-            "text": " fire "
+            "text": "は"
           },
           {
-            "text": "very quickly",
+            "text": "発射レートが速く低い火ダメージ",
             "color": "dark_purple"
           },
           {
-            "text": " and deal "
+            "text": "を与えます。\n\n"
           },
           {
-            "text": "low fire damage",
-            "color": "dark_purple"
-          },
-          {
-            "text": ". They consume "
-          },
-          {
-            "text": "Fire Eldrin Power",
+            "text": "火の龍脈エネルギー",
             "color": "blue"
           },
           {
-            "text": ". These sentry projectiles "
+            "text": "を消費します。\n\nこれらの発射体はブロックに"
           },
           {
-            "text": "do not ignite blocks",
+            "text": "火を点けません",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -12278,35 +12254,25 @@
         "value": "The Slipstream Generator is a marvel of air magic.\n\nWhen placed, it affects an area 50 blocks in front of the vortex face, in a single block column.  It works horizontally as well as vertically.\n\nAdditional generators stacked opposite the vortex (for example directly below when facing up) will collectively increase the range of the effect.\n\nWizards that stand within this column will be grabbed by the slipstream.\n\nIf the wizard looks up, they will rise through the slipstream.\nIf the wizard looks down, they will safely lower through the slipstream.\n\nThe speed of raising and lowering is dependent on how much a wizard looks up or down.\n\nCrouching will lock the wizard in place in the slipstream, allowing them to look around or interact without being moved by the slipstream itself.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Slipstream Generator",
+            "text": "スリップストリーム発生装置",
             "color": "blue"
           },
           {
-            "text": " is a marvel of air magic. \n\nWhen placed, it affects an area 50 blocks in front of the vortex face, in a single block column. "
+            "text": "は、空気の魔術の驚異です。\n\n設置された後、向いている正面の方向の５０ブロック先まで影響します。縦でも横でも十分機能します。\n\n向いている方向の逆に発生装置を積み重ねることで、（例：上を向いている場合は真下に）効果の射程が積み重ねた装置の合計の数値になります。\n\nこの角柱の中に居る魔術師は、スリップストームに捕まります。魔術師は"
           },
           {
-            "text": "It works horizontally as well as vertically",
+            "text": "スリップストリームの方角もしくはその反対方向に向く事で移動",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nAdditional generators stacked opposite the vortex (for example directly below when facing up) will collectively increase the range of the effect. \n\nWizards that stand within this column will be grabbed by the slipstream. "
+            "text": "できます。\n\n移動する速度は、魔術師がどの角度でスリップストリームの方の向くかで決まります。\n\n"
           },
           {
-            "text": "The wizard moves by looking in the direction of the slipstream, both forwards and reverse",
+            "text": "屈む（シフト）と魔術師はその場に固定",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThe speed of raising and lowering is dependent on how much a wizard looks toward the direction of a slipstream. \n\n"
-          },
-          {
-            "text": "Crouching will lock the wizard in place",
-            "color": "dark_purple"
-          },
-          {
-            "text": " in the slipstream, allowing them to look around or interact without being moved by the slipstream itself."
+            "text": "され、スリップストリームに移動されずに辺りを見渡したりできます。"
           }
         ]
       }
@@ -12331,28 +12297,25 @@
         "value": "The Seer Stone is a crystal infused with detection magic.  By default, it detects hostile monsters.\n\nSeveral types of items can be placed inside it to fine tune what it targets.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Seer Stone",
+            "text": "千里石",
             "color": "blue"
           },
           {
-            "text": " is a crystal infused with detection magic. By default, it detects hostile monsters. Several types of items can be placed inside it to fine tune what it targets.\n\nAn empty Player Charm will cause it to detect all players. Attuned player charms will target those specific players only.\n\nAn empty "
+            "text": "は、探知の魔術が込められた結晶です。デフォルトで、敵対的なモンスターを探知します。いくつかの種類のアイテムを中に入れる事で、対象を詳細に設定できます。\n\n空のプレイヤーの御守りは、すべてのプレイヤーを探知するようにします。調整されたプレイヤーの御守りは、そのプレイヤーのみ対象にします。\n\n空の"
           },
           {
-            "text": "Crystal Phylactery",
+            "text": "結晶聖箱",
             "color": "blue"
           },
           {
-            "text": " will cause it to detect hostile monsters. This is useful for pairing with player charms, for instance. Crystal phylacteries with any amount of essence in them will target that specific type of entity.\n\nItems in the blacklist will cause those targets to be excluded instead of included.\n\nIf placed adjacent to an "
+            "text": "は、敵対的なモンスターを探知するようにします。これは、プレイヤーの御守りと一緒に利用するのが便利です。結晶聖箱にどんな量のエッセンスが入っていてもその特定のモンスターを対象にできます。\n\nブラックリストに入っているアイテムは、そのアイテムの対象が探知されないようにします。\n\n"
           },
           {
-            "text": "Arcane Sentry,",
+            "text": "属性のセントリー",
             "color": "blue"
           },
           {
-            "text": " the Seer Stone will override its targeting and use the filtered version instead."
+            "text": "の横に設置された場合、千里石はその対象を上書きしますて千里石のフィルターを利用するようにします。"
           }
         ]
       }
@@ -12413,14 +12376,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "Brazier"
+        "value": "火鉢"
       },
       {
         "type": "text",
         "value": "This brazier can be lit/doused as normal, however it also has a minor enchantment on it that can be activated to have it light up when night falls.",
         "json": [
           {
-            "text": "This brazier can be lit/doused as normal, however it also has a minor enchantment on it that can be activated to have it light up when night falls.  Activate the brazier while crouching to toggle this mode on or off."
+            "text": "この火鉢は普通に点火/消火できますが、追加の機能として夜になると自動で点火させる機能があります。屈みながら火鉢を起動する事で、この設定を切り替えできます。"
           }
         ]
       }
@@ -12438,11 +12401,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "Runic Light"
+        "value": "魔法の光"
       },
       {
         "type": "text",
-        "value": "The runic light is a decoration block that gives a rustic magical feel wherever it is placed."
+        "value": "The runic light is a decoration block that gives a rustic magical feel wherever it is placed.",
+        "json": [
+          {
+            "text": "魔法の光は、設置した場所に素朴で幻想的な雰囲気を作れる装飾ブロックです。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -12458,11 +12426,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "Runic Torch"
+        "value": "魔法のたいまつ"
       },
       {
         "type": "text",
-        "value": "The runic torch is a decoration block that gives a medieval magical feel wherever it is placed."
+        "value": "The runic torch is a decoration block that gives a medieval magical feel wherever it is placed.",
+        "json": [
+          {
+            "text": "魔法のたいまつは、設置された場所に中世の神秘的な雰囲気を生み出す装飾ブロックです。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -12478,11 +12451,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "Tables"
+        "value": "机"
       },
       {
         "type": "text",
-        "value": "These tables are purely decorative.  Set things on them."
+        "value": "These tables are purely decorative.  Set things on them.",
+        "json": [
+          {
+            "text": "机は完全に装飾用です。物を上に置くといい感じです。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -12509,21 +12487,18 @@
         "value": "The Redstone Spell Trigger will emit redstone from all sides when struck by a spell.  It emits full power that decreases slowly back to 0 over a few seconds.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Redstone Spell Trigger",
+            "text": "呪文レッドストーン検知",
             "color": "blue"
           },
           {
-            "text": " will emit redstone from all sides when "
+            "text": "は、"
           },
           {
-            "text": "struck by a spell",
+            "text": "呪文に当てられた",
             "color": "dark_purple"
           },
           {
-            "text": ". It emits full power that decreases slowly back to 0 over a few seconds."
+            "text": "場合にレッドストーンシグナルを発します。最大のパワーを発し、そして数秒間をかけて０に戻ります。"
           }
         ]
       }
@@ -12548,21 +12523,21 @@
         "value": "Stone pedestals can be used to hold items for display purposes.  They are also used as part of Runeforge upgrades.",
         "json": [
           {
-            "text": "Stone pedestals can be used to hold items for display purposes. They are also used as part of "
+            "text": "石のペデスタルは、アイテムを保持して展示するために利用できます。\n\nこれは、"
           },
           {
-            "text": "Runeforge",
+            "text": "ルーンかまど",
             "color": "blue"
           },
           {
-            "text": " upgrades and as part of the "
+            "text": "のアップグレードや、"
           },
           {
-            "text": "Eldrin Altar",
+            "text": "龍脈祭壇",
             "color": "blue"
           },
           {
-            "text": " setup."
+            "text": "のセットアップにも利用されます。"
           }
         ]
       }
@@ -12584,28 +12559,33 @@
     "sections": [
       {
         "type": "title",
-        "value": "Arcane Stones"
+        "value": "神秘の石"
       },
       {
         "type": "text",
         "value": "Arcane stones are often used as decoration, though they also (if placed properly) can be used to direct magical energies in specific scenarios when imbued with vinteum or chimerite inlays.  As such, they are often used in structures focusing on magic.",
         "json": [
           {
-            "text": "Arcane Stones",
+            "text": "神秘の石",
             "color": "blue"
           },
           {
-            "text": " are often used as decoration, though they also (if placed properly) can be used to direct magical energies in specific scenarios when imbued with vinteum or chimerite inlays. As such, they are often used in structures focusing on magic."
+            "text": "はよく装飾に利用されますが、それらはヴィンテウムやキメライトが注入されている場合、（正しく配置されれば）特定の条件下で魔法のエネルギーの導管として働きます。\n\nなので、魔術に焦点を当てている構造物によく利用されています。\n\n\n\n"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Shaping Stones"
+        "value": "石を切り出す"
       },
       {
         "type": "text",
-        "value": "Arcane stones can be shaped into walls, slabs, stairs, and more by following the same crafting processes that I would use for normal stone.  This is because when they are manaweaved, the magic is already infused in them, and they can thus be simply worked like normal stone either at a workbench or a stonecutter."
+        "value": "Arcane stones can be shaped into walls, slabs, stairs, and more by following the same crafting processes that I would use for normal stone.  This is because when they are manaweaved, the magic is already infused in them, and they can thus be simply worked like normal stone either at a workbench or a stonecutter.",
+        "json": [
+          {
+            "text": "神秘の石は、普通の石と同じようにクラフトして壁、ハーフブロック、階段などに切り出せます。\n\nこれはマナ織によって作成された際に、すでに魔術が埋め込まれているためで、普通の石のように作業台や石きり台で加工できます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -12648,10 +12628,10 @@
         "value": "This workbench is a handy tool for the novice wizard.  It has an internal inventory, items do not get removed from the crafting grids when closed, and it remembers the last 8 recipes you crafted.  Clicking on one of these recipes will attempt to place it in one of the workbench crafting grids if there is room.",
         "json": [
           {
-            "text": "This workbench is a handy tool for the novice wizard. It has an internal inventory, items do not get removed from the crafting grids when closed, and it remembers the last 8 recipes I've crafted. \n\n"
+            "text": "この作業台は、新米魔術師にとって便利な道具です。これは内部インベントリを持ち、取り除かれなかったアイテムはそのまま保持され、最後にクラフトしたアイテムのレシピを８つまで記憶します。\n\n"
           },
           {
-            "text": "Clicking on one of these recipes will attempt to place it in one of the workbench crafting grids if there is room and the items are available.",
+            "text": "これらのレシピをクリックすることで、アイテムと空いているスロットがあればレシピ通りにアイテムを設置しようとします。",
             "italic": true
           }
         ]
@@ -12877,35 +12857,32 @@
     "sections": [
       {
         "type": "title",
-        "value": "Thesis Desk"
+        "value": "論文台"
       },
       {
         "type": "text",
         "value": "The Thesis Desk allows me to transfer my rote knowledge for a given spell part to paper for someone else to be able to learn it as rote as well.  It needs a significant amount of experience as well as eldrin power of the affinity of the part being scribed.  In the case of shapes and modifiers, arcane power is used.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Thesis Desk",
+            "text": "論文台",
             "color": "blue"
           },
           {
-            "text": " allows me to "
+            "text": "は、特定の呪"
           },
           {
-            "text": "transfer my rote knowledge",
+            "text": "文の部品の暗記した知識を紙に載せる事で、他の人も学んで暗記できる",
             "color": "dark_purple"
           },
           {
-            "text": " for a given spell part to paper for someone else to be able to learn it as rote as well. It needs a significant amount of experience as well as "
+            "text": "ようにできます。かなりの経験値と、記載している部品の属性の"
           },
           {
-            "text": "Eldrin Power",
+            "text": "龍脈エネルギー",
             "color": "blue"
           },
           {
-            "text": " of the affinity of the part being scribed. \n\nIn the case of shapes and modifiers, arcane power is used."
+            "text": "を消費します。\n\n形やモディファイアの場合、神秘の力が消費されます。"
           }
         ]
       }
@@ -12937,7 +12914,7 @@
             "text": "は、"
           },
           {
-            "text": "雫や属性の小袋を燃やして、少量の龍脈パワーを生成できます",
+            "text": "雫や属性の小袋を燃やして、少量の龍脈エネルギーを生成できます",
             "color": "dark_purple"
           },
           {
@@ -12955,7 +12932,7 @@
             "color": "blue"
           },
           {
-            "text": "が必要です。\n\n雫は、使用されたら他の用途に使用できません。\n\n その代わり、雫は長い間燃えるので頻繁に置き換える必要がないです。 興味深いことに、装置を破壊したり別の種類の雫を利用すると、残っている雫は消失します。"
+            "text": "が必要です。\n\n雫は、使用されたら他の用途に使用できません。\n\nその代わり、雫は長い間燃えるので頻繁に置き換える必要がないです。 興味深いことに、装置を破壊したり別の種類の雫を利用すると、残っている雫は消失します。"
           }
         ]
       }
@@ -13066,18 +13043,18 @@
         "value": "Fluid urns are simple terracotta and silver items that can store fluids.  There are more powerful ones that can actually create fluids.  Some are craftable, and others are only seldom found while exploring as relics of ancient wizards past, the means to craft them having been lost to the ages.",
         "json": [
           {
-            "text": "Fluid Urns",
+            "text": "液体壺",
             "color": "blue"
           },
           {
-            "text": " are simple terracotta and silver items that can "
+            "text": "はテラコッタと銀で作られた、"
           },
           {
-            "text": "store fluids",
+            "text": "液体を保持できる",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThere are more powerful ones that can actually create fluids. They are only seldom found while exploring as relics of ancient wizards past, the means to craft them having been lost to the ages."
+            "text": "単純なアイテムです。\n\n液体を生み出せる、さらに強力な物もあります。\n\nこれらは過去の魔術師の遺物がある構造物でのみ見つかり、クラフトする方法は時の流れに失われてしまっています。"
           }
         ]
       }
@@ -13099,22 +13076,27 @@
     "sections": [
       {
         "type": "title",
-        "value": "Illusion Blocks"
+        "value": "幻ブロック"
       },
       {
         "type": "text",
         "value": "Illusion blocks, when placed, will attempt to look like a block that they are pointed at (based on place direction).  They will search up to 8 blocks to find a suitable mimic block.  They can be passed through by players but not mobs.",
         "json": [
           {
-            "text": "Illusion Blocks",
+            "text": "幻ブロック",
             "color": "blue"
           },
           {
-            "text": ", when placed, will attempt to look like a block that they are pointed at (based on place direction). They will search up to 8 blocks to find a suitable mimic block. \n\n"
+            "text": "は、設置された場合向かっている方向のブロックの見た目になろうとします。真似できるブロックを最大８ブロックまで探します。",
+            "color": "black"
           },
           {
-            "text": "They can be passed through by players but not mobs.",
-            "italic": true
+            "text": "\n\n"
+          },
+          {
+            "text": "プレイヤーは通り抜けれますが、他のエンティティには通り抜けられません。",
+            "italic": true,
+            "color": "black"
           }
         ]
       }
@@ -13139,14 +13121,7 @@
         "value": "This staff is capable of holding several crystal phylacteries and quickly switching between them to rapidly control summons.  It also has a handy center area that is just for additional storage.",
         "json": [
           {
-            "text": "This staff is capable of holding several "
-          },
-          {
-            "text": "Crystal Phylacteries",
-            "color": "blue"
-          },
-          {
-            "text": " and quickly switching between them to rapidly control summons. It also has a handy center area that is just for additional storage.  I can wear it on my back or hold it in my offhand."
+            "text": "この杖は複数の結晶聖箱を保持でき、素早く切り替える事で召喚する対象を簡単に制御できます。\n\nさらに、中心に保持するためだけの追加スロットがあります。\n\nオフハンドに持つか、背中に装備できます。"
           }
         ]
       }
@@ -13171,17 +13146,14 @@
         "value": "The Bubble Boat works like a normal boat, however it can be placed underwater, and does not get flooded underwater.  Instead, it quickly brings the passenger to the surface.  It may have other uses and interactions for the creative types.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Bubble Boat",
+            "text": "泡の船",
             "color": "blue"
           },
           {
-            "text": " works like a normal boat, however it can be placed underwater, and does not get flooded underwater. Instead, it quickly brings the passenger to the surface. \n\n"
+            "text": "は普通の船のように機能しますが、水中にも設置でき浸水しません。代わりに、乗員を素早く地上まで輸送します。\n\n"
           },
           {
-            "text": "It may have other uses for the creative wizard.",
+            "text": "独創的な魔術師にとっては、他の使い道があるかもしれません。",
             "color": "dark_purple"
           }
         ]
@@ -13207,28 +13179,25 @@
         "value": "The brimstone boat is an upgraded version of the bubble boat that boasts all the same functionality of the bubble boat itself, but also contains the ability to float across lava.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Brimstone Boat",
+            "text": "獄炎の船",
             "color": "blue"
           },
           {
-            "text": " is an upgraded version of the "
+            "text": "は強化されたバージョンの"
           },
           {
-            "text": "Bubble Boat",
+            "text": "泡の船",
             "color": "blue"
           },
           {
-            "text": " that boasts all the same functionality of the bubble boat itself, but also contains the ability to "
+            "text": "で、機能としてはほとんど同じですが"
           },
           {
-            "text": "float across lava",
+            "text": "溶岩の上でも使用する事ができます",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -13253,35 +13222,32 @@
         "value": "The brimstone charm is an upgrade ingredient for things like the bubble boat and the runeforge.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Brimstone Charm",
+            "text": "獄炎の御守り",
             "color": "blue"
           },
           {
-            "text": " is an "
+            "text": "は、"
           },
           {
-            "text": "upgrade ingredient",
+            "text": "泡の船",
+            "color": "blue"
+          },
+          {
+            "text": "や、"
+          },
+          {
+            "text": "ルーンかまど",
+            "color": "blue"
+          },
+          {
+            "text": "を"
+          },
+          {
+            "text": "アップグレードするための素材",
             "color": "dark_purple"
           },
           {
-            "text": " for things like the "
-          },
-          {
-            "text": "Bubble Boat",
-            "color": "blue"
-          },
-          {
-            "text": " and the "
-          },
-          {
-            "text": "Runeforge",
-            "color": "blue"
-          },
-          {
-            "text": "."
+            "text": "です。"
           }
         ]
       }
@@ -13299,15 +13265,12 @@
     "sections": [
       {
         "type": "title",
-        "value": "魔術の鎧"
+        "value": "魔術師の鎧"
       },
       {
         "type": "text",
         "value": "I'm able to create some mage armor out of some infused silk.  When I make and wear a full set it will increase my maximum mana and mana regen due to the runes I put in it.\n\nI can also dye it any color I want, including combinations of dyes to make new colors!",
         "json": [
-          {
-            "text": ""
-          },
           {
             "text": "魔絹",
             "color": "blue"
@@ -13327,7 +13290,7 @@
             "color": "blue"
           },
           {
-            "text": "です。どの染料でも染めることができ、組み合わせを利用して新しい色を作ることもできます。\n\n さらに、インベントリの"
+            "text": "です。どの染料でも染めることができ、組み合わせを利用して新しい色を作ることもできます。\n\nさらに、インベントリの"
           },
           {
             "text": "マナクリスタルの欠片",
@@ -13341,7 +13304,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。\n\n 最終的に壊れた場合(意外と脆いです)、ボロボロになり効果を失います。 しかし、"
+            "text": "。\n\n最終的に壊れた場合(意外と脆いです)、ボロボロになり効果を失います。 しかし、"
           },
           {
             "text": "ルーンの金床l",
@@ -13496,28 +13459,28 @@
         "value": "This enchanted bracelet will protect me from fire and lava.  I must take care though, as it's protection will not last forever and it will eventually stop working, needing to be recharged.\n\nThis bracelet can only be crafted by those that have aligned themselves with the Demons of the Nether.",
         "json": [
           {
-            "text": "This bracelet will "
+            "text": "このブレスレットは自分を"
           },
           {
-            "text": "protect me from fire and lava",
+            "text": "溶岩と炎から守ってくれます",
             "color": "dark_purple"
           },
           {
-            "text": ". I must take care though, as it's protection will not last forever and it will eventually stop working, needing to be recharged.  It can draw mana from "
+            "text": "。\n\n防護は永遠には機能せず、いずれは停止し最充填が必要になるため注意が必要です。\n\n"
           },
           {
-            "text": "Mana Crystal Fragments",
+            "text": "マナクリスタルの欠片",
             "color": "blue"
           },
           {
-            "text": " to extend its charge.\n\nThis bracelet can only be crafted by those that have aligned themselves with the "
+            "text": "からマナを引き出し、稼働時間を延ばすこともできます。\n\nこのブレスレットは、"
           },
           {
-            "text": "Demons of the Nether",
+            "text": "ネザーの悪魔",
             "color": "dark_red"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -13542,21 +13505,21 @@
         "value": "A staple of the undead, the coffin functions like a bed but only for those that have joined the ranks of the undead.  It also restores a portion of the souls that the undead use to fuel their spells.\n\nThis coffin can only be crafted by those that have allied themselves with the ranks of the undead.",
         "json": [
           {
-            "text": "A coffin functions like a bed but only for those that have joined the ranks of the "
+            "text": "棺はベッドのように利用できますが、"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": ".\nSleeping in this coffin restores a portion of the souls that the undead use to fuel their spells, though sleeping too soon after a previous night's rest will not give as many souls as would be restored if more time had passed.\n\nThis coffin can only be crafted by those that have allied themselves with the "
+            "text": "に所属した者しかできません。\n\nこの棺で寝ると不死者が詠唱に利用する魂を一部回復させますが、前回の睡眠からすぐ後に寝た場合は回復する魂の量が減ります。\n\n棺は、"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます"
           }
         ]
       }
@@ -13574,49 +13537,49 @@
     "sections": [
       {
         "type": "title",
-        "value": "Bracelet of Eldrin Power"
+        "value": "龍脈エネルギーのブレスレット"
       },
       {
         "type": "text",
         "value": "This enchanted bracelet allows me to draw power from nearby motes of residual magic as well as eldrin wellsprings if I am close enough.  I can use this to fuel my spells when I would otherwise not have enough mana.  It might be worth making something to help me see them.\n\nThis bracelet can only be crafted by those that have aligned themselves with the Council of Wizards.",
         "json": [
           {
-            "text": "This bracelet allows me to draw power from nearby "
+            "text": "このブレスレットは、十分近くにいる場合、"
           },
           {
-            "text": "residual magic",
+            "text": "魔法の残滓",
             "color": "blue"
           },
           {
-            "text": " as well as "
+            "text": "や、"
           },
           {
-            "text": "eldrin wellsprings",
+            "text": "龍穴",
             "color": "blue"
           },
           {
-            "text": " if I am close enough.  I can use this to fuel my spells when I would otherwise not have enough mana. \n\n"
+            "text": "から力を利用するのを可能にします。\n\nこれを利用して、十分なマナが足りないような呪文も詠唱する事ができるようになります。\n\n"
           },
           {
-            "text": "Residual magic",
+            "text": "魔法の残滓",
             "color": "blue"
           },
           {
-            "text": " is left over in the world "
+            "text": "は、"
           },
           {
-            "text": "whenever a spell, manaweave, or ritual is cast",
+            "text": "呪文、マナ織、儀式が詠唱された際",
             "color": "dark_purple"
           },
           {
-            "text": ".  It will slowly and harmlessly deteriorate if not used by those wearing this bracelet.\n\nThis bracelet can only be crafted by those that have aligned themselves with the "
+            "text": "に世界に残されます。このブレスレットを着用している者に利用されなかった場合、少しずつ無害な形で霧散します。\n\nこのブレスレットは、"
           },
           {
-            "text": "Council of Wizards",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -13649,21 +13612,21 @@
         "value": "Though it appears little less than a simple cloth hood, this cowl is a powerful artifact for the undead.  When the undead causes pain, if they cause enough of it, they will regain a small amount of hunger and satiation.",
         "json": [
           {
-            "text": "Though it appears little less than a simple cloth hood, this cowl is a powerful artifact for the "
+            "text": "ただの単純な布製の頭巾に見えますが、このカウルは"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": ". When the undead gains souls, they will sacrifice a small portion of those souls to instead "
+            "text": "の強力なアーティファクトです。\n\nアンデッドが魂を得た場合、その魂の一部を捧げ、"
           },
           {
-            "text": "regain a small amount of hunger and satiation",
+            "text": "代わりに少量の満腹度と隠し満腹度を回復",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "します。"
           }
         ]
       }
@@ -13688,21 +13651,21 @@
         "value": "This enchanted bracelet will protect me from the effects of poison.  It only contains so much magic, and will eventually break.",
         "json": [
           {
-            "text": "This enchanted bracelet will "
+            "text": "このエンチャントされたブレスレットは、自分を"
           },
           {
-            "text": "protect me from poison",
+            "text": "毒から守ってくれます",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nIt only contains so much magic, and will eventually need to be recharged. It can make use of "
+            "text": "。\n\nこれの魔法は有限で、再充填する必要があります。"
           },
           {
-            "text": "Mana Crystal Fragments",
+            "text": "マナクリスタルの欠片",
             "color": "blue"
           },
           {
-            "text": " and their upgrades that are in my pack to extend its charge."
+            "text": "かその上位版を利用する事で、稼働時間を延ばすことができます。"
           }
         ]
       }
@@ -13720,42 +13683,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "妖術のブレスレット"
+        "value": "幻術のブレスレット"
       },
       {
         "type": "text",
         "value": "This enchanted bracelet will enhance my stealth while sneaking and allow me to deliver an unarmed punch that will send my target flying away from me.  It only contains so much magic, and will eventually break.\n\nThis can only be crafted by those aligned with the fey courts.",
         "json": [
           {
-            "text": "This bracelet will "
+            "text": "このブレスレットは、屈んでるときの"
           },
           {
-            "text": "enhance my stealth",
+            "text": "ステルス性を向上",
             "color": "dark_purple"
           },
           {
-            "text": " while sneaking and allow me to deliver an "
+            "text": "し"
           },
           {
-            "text": "unarmed punch that will send my target flying",
+            "text": "、素手でパンチする事で対象を自分から吹き飛ばす",
             "color": "dark_purple"
           },
           {
-            "text": " away from me. \n\nIt only contains so much magic, and will eventually need to be recharged. It can make use of "
+            "text": "事ができます。\n\nこれの魔法は有限で、再充填する必要があります。"
           },
           {
-            "text": "Mana Crystal Fragments",
+            "text": "マナクリスタルの欠片",
             "color": "blue"
           },
           {
-            "text": " and their upgrades that are in my pack to extend its internal charge.\n\nThis can only be crafted by those aligned with the "
+            "text": "かその上位版を利用する事で、稼働時間を延ばすことができます。\n\nこのブレスレットは、"
           },
           {
-            "text": "Fey Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -13780,35 +13743,35 @@
         "value": "This ring, when worn, allows me to cast more movement spells (such as Blink or Fling) while I am airborne before I need to touch the ground again.\n\nIt seems to give one additional cast out the gate, plus an additional one for each tier of power I have attained.\n\nIt also seems to specifically augment Fling, allowing it to safely move me without fear of smashing into walls (though falling still can be perilous), and it seems to make the flinging effect stronger.",
         "json": [
           {
-            "text": "This ring, when worn, allows me to "
+            "text": "この指輪は、装備した場合、"
           },
           {
-            "text": "cast more movement spells (such as Blink or Fling) while I am airborne before I need to touch the ground again",
+            "text": "空中にいる際に、地上に立つ必要になるまでにより多くの移動呪文を詠唱することが可能になります",
             "color": "dark_purple"
           },
           {
-            "text": ". It seems to give one additional cast out the gate, plus an additional one for each tier of power I have attained. \n\nIt also seems to specifically augment "
+            "text": "。\n\n初めから詠唱回数が１回増え、段階が一つ上昇するたびにさらに追加で１回回数が増えます。\n\n\nさらに"
           },
           {
-            "text": "Fling",
-            "color": "blue"
-          },
-          {
-            "text": ", allowing it to "
-          },
-          {
-            "text": "safely move me without fear of smashing into walls",
+            "text": "吹き飛ばし",
             "color": "dark_purple"
           },
           {
-            "text": " (though falling still can be perilous), and it seems to "
+            "text": "の呪文を強化するようで、"
           },
           {
-            "text": "make the flinging effect stronger",
+            "text": "壁にぶつかってダメージを受ける心配をせずに安全に移動",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "でき（落下はまだ危険ですが）、さらに"
+          },
+          {
+            "text": "吹き飛ばしの移動速度も強化",
+            "color": "dark_purple"
+          },
+          {
+            "text": "します。"
           }
         ]
       }
@@ -13833,21 +13796,21 @@
         "value": "This sinister ring, when worn, seems to draw more of the mystical life force out of targets killed by undead wizards.\n\nWARNING: This ring can only be crafted by those that have allied themselves with the Undead.",
         "json": [
           {
-            "text": "This sinister ring, when worn, seems to draw more of the mystical life force out of targets killed by undead wizards, "
+            "text": "この指輪は、装備している場合、不死者の魔術師によって殺された相手からより多くの生命力を引き出し、"
           },
           {
-            "text": "increasing the amount of souls they gain from all sources",
+            "text": "すべての相手から得られる魂の量を増やします",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThis ring can only be crafted by those that have allied themselves with the "
+            "text": "。\n\nこの指輪は、"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -13872,14 +13835,14 @@
         "value": "This belt, when worn, prevents my affinity from changing when I cast spells.",
         "json": [
           {
-            "text": "This belt, when worn, "
+            "text": "このベルトは、装備すると、呪文を詠唱した際に自身の"
           },
           {
-            "text": "prevents my affinity from changing",
+            "text": "親和性が変わるのを防ぎます",
             "color": "dark_purple"
           },
           {
-            "text": " when I cast spells."
+            "text": "。"
           }
         ]
       }
@@ -13943,14 +13906,14 @@
         "value": "When held in my offhand, this staff will channel the spirits of wanderlust to increase my movement speed, my jump height, my swim speed, and give me a form of step assist.",
         "json": [
           {
-            "text": "When held in my offhand, this staff will channel the spirits of wanderlust to "
+            "text": "オフハンドに持った場合、放浪者の魂と交信することで"
           },
           {
-            "text": "increase my movement speed, my jump height, my swim speed, and give me a form of step assist",
+            "text": "移動速度、跳躍、水泳速度を向上し、ステップアシストを付与します",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -13968,28 +13931,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Amulet of the Battlemage"
+        "value": "魔法戦士のアミュレット"
       },
       {
         "type": "text",
         "value": "This amulet, when worn, will increase the damage of my spells cast by 15% while I have a sword in the other hand.\n\nBecause even wizards need to multiclass.",
         "json": [
           {
-            "text": "This amulet, when worn, will "
+            "text": "このアミュレットは、装備することで、"
           },
           {
-            "text": "increase the damage of my spells",
+            "text": "反対の手に剣を持っている",
             "color": "dark_purple"
           },
           {
-            "text": " by 30% while I have a "
+            "text": "場合に"
           },
           {
-            "text": "sword in the other hand and will increase my melee damage by more the lower my mana is",
+            "text": "呪文のダメ―ジを３０％増加",
             "color": "dark_purple"
           },
           {
-            "text": ", Because even wizards need to multiclass."
+            "text": "し、自分の"
+          },
+          {
+            "text": "マナ残量が少ないほど剣のダメージを増加",
+            "color": "dark_purple"
+          },
+          {
+            "text": "します。\n\n魔術師でも複数のクラスが必要な時があるので。"
           }
         ]
       }
@@ -14064,10 +14034,10 @@
             "color": "blue"
           },
           {
-            "text": "のレシピを保存して再度クラフトすることができます。  Using the book again on the correct altar will restore the recipe and attempt to immediately craft the item."
+            "text": "のレシピを保存して再度クラフトすることができます。 本を再び祭壇に利用することで、即座にクラフトを試みます。\n\n"
           },
           {
-            "text": "Sneak and right click to change modes from copy to paste.  Changing the slot via the UI will change the mode automatically; copy if you select an empty slot, paste if you select a recipe.",
+            "text": "スニークして右クリックでコピーとペーストのモードを切り替えます。UIを経由してスロットを変更すると、自動でモードが変わります。空のスロットはコピーになり、レシピを選択した場合はペーストになります。",
             "italic": true
           }
         ]
@@ -14093,21 +14063,21 @@
         "value": "This amulet, when worn, will protect me from the nefarious effects caused by the aptly named Wither and its skeletal minions as long as it has charge.",
         "json": [
           {
-            "text": "This amulet, when worn, will "
+            "text": "このアミュレットは、装備した場合に、充填がある限りウィザーやその眷属スケルトンなどから付与される"
           },
           {
-            "text": "protect me from wither",
+            "text": "衰弱から守ってくれます",
             "color": "dark_purple"
           },
           {
-            "text": ", the nefarious effects caused by the aptly named Wither and its skeletal minions as long as it has charge. \n\nIt can make use of "
+            "text": "。\n\nこれの魔法は有限で、再充填する必要があります。"
           },
           {
-            "text": "Mana Crystal Fragments",
+            "text": "マナクリスタルの欠片",
             "color": "blue"
           },
           {
-            "text": " and their upgrades that are in my pack in order to extend its charge."
+            "text": "かその上位版を利用する事で、稼働時間を延ばすことができます。"
           }
         ]
       }
@@ -14132,21 +14102,21 @@
         "value": "This amulet, when worn, will teleport nearby creepers that are about to explode away from me as long as it has charge remaining.  Hopefully they don't teleport near something else that's friendly.",
         "json": [
           {
-            "text": "This amulet, when worn, will "
+            "text": "`このアミュレットは、装備した場合、"
           },
           {
-            "text": "teleport nearby creepers that are about to explode away from me",
+            "text": "爆発寸前のクリーパーを自分のそばから離れた場所に転移",
             "color": "dark_purple"
           },
           {
-            "text": " as long as it has charge remaining.  It can make use of "
+            "text": "させます。\n\nこれの魔法は有限で、再充填する必要があります。"
           },
           {
-            "text": "Mana Crystal Fragments",
+            "text": "マナクリスタルの欠片",
             "color": "blue"
           },
           {
-            "text": " and their upgrades that are in my pack to extend its charge.\n\nHopefully they don't teleport near something else that's friendly.  I'm sure it'll be fine."
+            "text": "かその上位版を利用する事で、稼働時間を延ばすことができます。\n\n味方の場所に転移しない事を祈りましょう。大丈夫です。きっと"
           }
         ]
       }
@@ -14164,35 +14134,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "回収のリング"
+        "value": "回収の指輪"
       },
       {
         "type": "text",
         "value": "This ring, when worn, will cause my break spells to automatically transport the items that would be dropped on the ground directly into my inventory.  If my inventory is full, they will drop at my feet.",
         "json": [
           {
-            "text": "This ring, when worn, will cause my "
+            "text": "この指輪は、装備した場合、自分の"
           },
           {
-            "text": "break",
+            "text": "破壊",
             "color": "blue"
           },
           {
-            "text": " spells to "
+            "text": "呪文によって破壊されたアイテムが"
           },
           {
-            "text": "automatically transport the items",
+            "text": "自分のインベントリに直接転送",
             "color": "dark_purple"
           },
           {
-            "text": " that would be dropped on the ground directly "
-          },
-          {
-            "text": "into my inventory",
-            "color": "dark_purple"
-          },
-          {
-            "text": ". If my inventory is full, they will drop at my feet."
+            "text": "されるようになります。\n\nインベントリが満杯の場合、代わりに足元に落ちます。"
           }
         ]
       }
@@ -14210,35 +14173,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "回収のリング (上位)"
+        "value": "回収の指輪 (上位)"
       },
       {
         "type": "text",
         "value": "This ring, when worn, will cause my break spells to attempt to transport items to a contained marked by a Rune of Marking in my offhand.  If the container is for whatever reason unreachable, for example unloaded or in another dimension, it will attempt to instead put them in my inventory.  If my inventory is full, it will drop them at my feet.",
         "json": [
           {
-            "text": "This ring, when worn, will cause my break spells to "
+            "text": "この指輪は、装備した場合、自分の破壊呪文で"
           },
           {
-            "text": "attempt to transport items",
-            "color": "dark_purple"
-          },
-          {
-            "text": " to a container marked by a "
-          },
-          {
-            "text": "Rune of Marking",
+            "text": "破壊したアイテムを",
             "color": "blue"
           },
           {
-            "text": " in my other hand. If the container is for whatever reason unreachable"
+            "text": "、オフハンドの"
           },
           {
-            "text": ", for example unloaded or in another dimension, ",
-            "italic": true
+            "text": "目印のルーン",
+            "color": "dark_purple"
           },
           {
-            "text": "it will attempt to instead put them in my inventory. If my inventory is full, it will drop them at my feet."
+            "text": "に示された"
+          },
+          {
+            "text": "容器に転送",
+            "color": "blue"
+          },
+          {
+            "text": "しようとします。\n\n示された容器が他のディメンションにあったりして転送できない場合、代わりにインベントリに送られます。インベントリが満杯の場合は、足元に落ちます。"
           }
         ]
       }
@@ -14306,7 +14269,7 @@
             "color": "blue"
           },
           {
-            "text": "呪文は、さらに多くの素材を手に入れるようになります。 I'm sure as I grow in skill and power that I will be able to make more powerful versions of these rings and possibly even enchant them for a more powerful overall fortune effect. \n\nI should check back when I've grown in power."
+            "text": "呪文は、さらに多くの素材を手に入れるようになります。 \n\n自分の力と知識が成長するにつれさらに強力なバージョンの指輪が作成できるはずです。\n\n力が成長した後に再度この項目をチェックするべきでしょう。"
           }
         ]
       }
@@ -14386,21 +14349,21 @@
         "value": "After studying the capabilities of Endermen, I have devised a recipe for a ring that will enhance my blink spells allowing the shapes I use to dictate where I teleport to if I target a block.\n\nWhen teleporting in this way, the effective range of my blink spell is also doubled.\n\nIf I target air or a creature, it will function as the default spell.",
         "json": [
           {
-            "text": "After studying the capabilities of Endermen, I have devised a recipe for a ring that will "
+            "text": "エンダーマンの能力を学習おかげで、"
           },
           {
-            "text": "enhance my blink spells to teleport me to where the shape targets",
+            "text": "ブリンクの呪文が正面の代わりに形が対象にした位置に転移するように強化",
             "color": "dark_purple"
           },
           {
-            "text": " instead of forward. \n\nWhen teleporting in this way, the effective range of my blink spell is also doubled. \n\nIf I target air, it will function as the default spell, teleporting me forward.\n\nIf I target a creature, I will be teleported behind that creature.\n\nThis ring, similar to the "
+            "text": "する指輪のレシピを考案しました。\n\nこの方法で転移する場合、ブリンクの呪文の射程距離が二倍になっています。\n\n空中を狙った場合は、デフォルトの呪文のように正面に転移します。\n\n生物を対象にした場合は、その生物の後ろに転移します。\n\nこの指輪は、"
           },
           {
-            "text": "Ring of the Skies, ",
+            "text": "天空の指輪",
             "color": "blue"
           },
           {
-            "text": "will also allow me to cast more times in the air before needing to touch the ground."
+            "text": "のように、再度地面に触れないといけなくなるまでに空中で詠唱できる数が増えます。"
           }
         ]
       }
@@ -14425,14 +14388,14 @@
         "value": "This enchanted crystal can act as a small reserve of mana.  By changing the mode (sneak + use) between input and output, I can either store mana at times where I have plenty, or retrieve mana in a pinch when I need it.",
         "json": [
           {
-            "text": "このエンチャントされたクリスタルは小さなマナタンクとして機能します。 モードを、入力と出力で変更することで、 "
+            "text": "このエンチャントされた結晶は小さなマナタンクとして機能します。 モードを入力と出力で変更することで、 "
           },
           {
-            "text": "(スニーク＋右クリック)",
+            "text": "(スニーク＋右クリック)　",
             "italic": true
           },
           {
-            "text": "マナに余裕があるときに充電し、ピンチの時にマナを回収できます。\n\n マナの充電を要求するほぼすべてのアイテムは、自身のマナを消費する前にマナクリスタルのエネルギーを消費します。\n\n ティアが上昇するたび、より大きなクリスタルを作れるはずです。力を付けたらここに戻ってきましょう。"
+            "text": "マナに余裕があるときに充電し、ピンチの時にマナを回収できます。\n\nマナの充電を要求するほぼすべてのアイテムは、自身のマナを消費する前にマナクリスタルのエネルギーを消費します。\n\nティアが上昇すれば、より大きなクリスタルを作れるはずです。力を付けたらここに戻ってきましょう。"
           }
         ]
       }
@@ -14504,35 +14467,35 @@
         "value": "By combining several mana crystal fragments together, I have figured out a way to create a larger crystal similar to the ones of old.  It radiates pure mana, and simply standing near it makes me feel like my own reserves of mana replenish more quickly.",
         "json": [
           {
-            "text": "By combining several mana crystal fragments together, I have figured out a way to create a larger crystal similar to the ones of old. It radiates pure mana, and simply standing near it makes me feel like "
+            "text": "複数のマナクリスタルの欠片を組み合わせることで、さらに大きなマナクリスタルを作成するのに成功しました。\n\n純粋なマナを放出しており、近くに立っているだけで"
           },
           {
-            "text": "my own reserves of mana replenish more quickly",
+            "text": "自分のマナの回復が速くなっている",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nIt can also charge items that are on "
+            "text": "ように感じます。\n\nさらに"
           },
           {
-            "text": "Pedestals",
+            "text": "ペデスタル",
             "color": "blue"
           },
           {
-            "text": ", and will recharge "
+            "text": "の上のアイテムや、範囲内の"
           },
           {
-            "text": "Constructs",
+            "text": "マナ胴体",
             "color": "blue"
           },
           {
-            "text": " with "
+            "text": "がある"
           },
           {
-            "text": "Mana Torsos",
+            "text": "コンストラクト",
             "color": "blue"
           },
           {
-            "text": " within range."
+            "text": "を充填できます。"
           }
         ]
       }
@@ -14550,35 +14513,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Healing Poultice"
+        "value": "癒しの湿布"
       },
       {
         "type": "text",
         "value": "When combined with a paste made of certain plants and flowers, Vinteum appears to bring out miraculous wound-cleaning properties.\n\nThere is one specific flower, Aum, that can be used without Vinteum, as it already contains easily accessible healing properties of its own.\n\nApplying this mixture to the body and holding it in place causes a slow release of healing magic that can restore even the most serious of wounds... if given enough time.\n\nUnfortunately, any upset to the body (like sudden movements or being injured) disrupts the slow release of magical healing from the poultice and renders it useless.",
         "json": [
           {
-            "text": "When combined with a paste made of certain plants and flowers, "
+            "text": "一部の植物や花と組み合わされた場合、"
           },
           {
-            "text": "Vinteum",
+            "text": "ヴィンテウム",
             "color": "blue"
           },
           {
-            "text": " appears to bring out miraculous wound-cleaning properties. There is one specific flower, "
+            "text": "は見事な傷口消毒の性質を持ちます。\nそのうちの一つの花、"
           },
           {
-            "text": "Aum",
+            "text": "アウム",
             "color": "blue"
           },
           {
-            "text": ", that can be used without Vinteum, as it already contains easily accessible healing properties of its own. \n\nApplying this mixture to the body and holding it in place causes a slow release of healing magic that can restore even the most serious of wounds... if given enough time. \n\nUnfortunately, "
+            "text": "はヴィンテウムがなくても利用でき、なぜならその花自身に回復の性質があるからです。\n\nこの混合物を体に当てて留めておくことで、緩やかに回復の魔法を放出し、十分な時間があればどんな怪我でも直してくれます。\n\nしかし、"
           },
           {
-            "text": "any upset to the body (like sudden movements or being injured) disrupts the slow release of magical healing",
+            "text": "体に負荷がかかると（急な動きや怪我など）、緩やかな回復魔法の",
             "color": "dark_purple"
           },
           {
-            "text": " from the poultice and renders it useless, ending the effect."
+            "text": "\n"
+          },
+          {
+            "text": "放出が阻害され、効果が終了",
+            "color": "dark_purple"
+          },
+          {
+            "text": "してしまします。"
           }
         ]
       }
@@ -14600,11 +14570,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "Witherbone"
+        "value": "ウィザーボーン"
       },
       {
         "type": "text",
-        "value": "This blackened bone is often used in crafting recipes surrounding the ender, the undead, and death."
+        "value": "This blackened bone is often used in crafting recipes surrounding the ender, the undead, and death.",
+        "json": [
+          {
+            "text": "この黒ずんだ骨は、エンダー、不死者、そして死に関連するアイテムの作成によく利用されます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -14620,11 +14595,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "Living Flame"
+        "value": "生きた炎"
       },
       {
         "type": "text",
-        "value": "The flame in this bottle seems to pulse and move as if alive.  These pulsing pyros are often used in crafting recipes surrounding fire, the nether, and demons."
+        "value": "The flame in this bottle seems to pulse and move as if alive.  These pulsing pyros are often used in crafting recipes surrounding fire, the nether, and demons.",
+        "json": [
+          {
+            "text": "この瓶の中の炎は、まるで生きているかのように動いて鼓動しています。\n\nこの鼓動している炎は、よく炎、ネザー、悪魔に関するアイテムの作成に利用されます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -14640,11 +14620,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "Ironbark"
+        "value": "鋼鉄の樹皮"
       },
       {
         "type": "text",
-        "value": "This sturdy piece of ancient bark has been imbued with the strength of iron to mimic an almost petrified effect.  It's exceptionally strong and is often used in crafting recipes surrounding nature and the fey."
+        "value": "This sturdy piece of ancient bark has been imbued with the strength of iron to mimic an almost petrified effect.  It's exceptionally strong and is often used in crafting recipes surrounding nature and the fey.",
+        "json": [
+          {
+            "text": "この頑丈な古の樹皮の欠片は、鉄の強靭さが注入されており、化石のような効果をもたらしています。\n\n特別に強力で、自然や妖精に関するアイテムの作成によく利用されます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -14667,14 +14652,14 @@
         "value": "The ledger is used to define a filter for items and blocks, as used by construct tasks.",
         "json": [
           {
-            "text": "The ledger is used to define a filter for items and blocks, as used by "
+            "text": "アイテムフィルターは、"
           },
           {
-            "text": "Construct",
+            "text": "コンストラクト",
             "color": "blue"
           },
           {
-            "text": " tasks."
+            "text": "のタスクなどに利用されるアイテムやブロックのフィルターを指定するのに利用されます。"
           }
         ]
       }
@@ -14692,21 +14677,18 @@
     "sections": [
       {
         "type": "title",
-        "value": "Animated Quill"
+        "value": "動く羽根ペン"
       },
       {
         "type": "text",
         "value": "The Animated Quill doesn't do much on its own, but is used in several other recipes.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Animated Quill",
+            "text": "動く羽根ペン",
             "color": "blue"
           },
           {
-            "text": " doesn't do much on its own, but is used in several other recipes."
+            "text": "は単体では何もできませんが、いくつかのレシピに利用されます。"
           }
         ]
       }
@@ -14731,17 +14713,14 @@
         "value": "I've managed to create a disc that can instantly perform a ritual of return.  I just need to set the correct pattern in it, then it uses some of my mana to move me around.\n\nThe Ender Disc can support multiple locations, each with a name.  Quick select locations using the UI key (default 'z').",
         "json": [
           {
-            "text": "I've managed to create a disc that can "
-          },
-          {
-            "text": "instantly perform a Ritual of Return",
+            "text": "即座に帰還の儀式を発動",
             "color": "dark_purple"
           },
           {
-            "text": ". I just need to set the correct pattern in it, then it uses some of my mana to move me around. The Ender Disc can support multiple locations, each with a name.  \n\nIt cannot move between multiple dimensions, although the same combination used in different dimensions will work, teleporting me to the matching Homestead in the dimension I'm currently in.\n\nI can copy a homestead point to the disc's current pattern by sneaking and activating the point with the disc.\n\n"
+            "text": "できるディスクの作成に成功しました。\nパターンを入力して使用すれば、少しのマナを利用して自分をいろんな場所に移動させてくれます。エンダーディスクは、名前を付けて複数のウェイストーンを登録できます。\n\nディメンション間は移動できませんが、別のディメンションでも利用されている組み合わせは利用でき、現在いるディメンションの組み合わせのウェイポイントに転移できます。\n\n屈んでウェイポイントにディスクを利用することで、現在の組み合わせにコピーできます。\n\n"
           },
           {
-            "text": "Quick select locations using the UI key (default 'z').",
+            "text": "UIキー（デフォルト”Z”）で場所をクイック選択できます。",
             "italic": true
           }
         ]
@@ -14760,49 +14739,49 @@
     "sections": [
       {
         "type": "title",
-        "value": "Animus Dust"
+        "value": "生命の粉"
       },
       {
         "type": "text",
         "value": "This joyful, bouncing dust has been imbued with the very essence of life.  Simply sprinkling it on basic blocks will cause them to begin to move and jump around for a short time before reverting back to their inanimate state.\n\nThey even seem to attack the monsters that come out in the night!\n\nI wonder if I could animate other things with it?",
         "json": [
           {
-            "text": "This joyful, bouncing dust has been imbued with the very essence of life. \n\nSimply sprinkling it on basic "
+            "text": "この楽しそうに、跳ねている粉は生命の根源が浸み込んでいます。\n\n基本的なブロックに振りかけると、"
           },
           {
-            "text": "blocks will cause them to begin to move",
+            "text": "そのブロックは動き",
             "color": "dark_purple"
           },
           {
-            "text": " and jump around for a short time before reverting back to their inanimate state. They even seem to "
+            "text": "始め、元に戻るまで短時間の間跳ねまわります。彼らは、"
           },
           {
-            "text": "attack the monsters that come out in the night",
+            "text": "夜に現れるモンスターを攻撃してくれる",
             "color": "dark_purple"
           },
           {
-            "text": "! \n\nI wonder if I hang "
+            "text": "ようです！\n\n"
           },
           {
-            "text": "Construct Parts",
+            "text": "防具立て",
             "color": "blue"
           },
           {
-            "text": " on an "
+            "text": "に"
           },
           {
-            "text": "Armor Stand",
+            "text": "コンストラクトの部品",
             "color": "blue"
           },
           {
-            "text": " if it would "
+            "text": "を置いたら"
           },
           {
-            "text": "animate the construct",
+            "text": "コンストラクトを動かしてくれる",
             "color": "dark_purple"
           },
           {
-            "text": "?  I bet it would."
+            "text": "でしょうか？　そうなるはずです。"
           }
         ]
       }
@@ -14820,42 +14799,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "神秘の王冠"
+        "value": "神秘の冠"
       },
       {
         "type": "text",
         "value": "This legendary crown was originally forged by an archmage of old.  Imbued with tremendous power, it serves to make a mage able to cast spells more efficiently.  It also draws in ambient magic, allowing a larger reservoir of mana.  Finally, it is rumored that this crown can also occasionally protect its wearer from debilitating effects, but only every so often.",
         "json": [
           {
-            "text": "This legendary crown was originally forged by an archmage of old. \n\nImbued with tremendous power, it serves to make a mage able to "
+            "text": "この伝説の冠は、元は古の魔導士によって生み出されました。\n\nとてつもない力が籠められており、魔術師がより"
           },
           {
-            "text": "cast spells more efficiently",
+            "text": "効率的に呪文を詠唱",
             "color": "dark_purple"
           },
           {
-            "text": ". It also draws in ambient magic, allowing a "
+            "text": "できるようにします。\n\nさらに、環境からマナを取り込むことで、"
           },
           {
-            "text": "larger reservoir of mana",
+            "text": "マナ残量がより大きく",
             "color": "dark_purple"
           },
           {
-            "text": ". Finally, it is rumored that this crown can also occasionally "
+            "text": "なります。\n\n最後に、着用者を"
           },
           {
-            "text": "protect its wearer from debilitating effects",
+            "text": "悪い効果から守ってくれます",
             "color": "dark_purple"
           },
           {
-            "text": ", but only every so often.\n\nThis crown can only be crafted by those who have allied themselves to the "
+            "text": "が、そこまで頻繁にはしてくれません。\n\nこの冠は、"
           },
           {
-            "text": "Council of Wizards",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -14880,21 +14859,21 @@
         "value": "This legendary elytra is enchanted by the fey to allow the wearer's magic to propel them through the sky.  While flying with this elytra, you will be propelled forward as long as you have mana.  Sneaking will cause the elytra to glide like a normal elytra and let you land.\n\nBe sure to land before running out of mana or there could be disastrous results!",
         "json": [
           {
-            "text": "This legendary elytra is enchanted by the fey to allow the wearer's magic to propel them through the sky. While flying with this elytra, "
+            "text": "この伝説なエリトラは妖精からエンチャントされており、着用者の魔術で空を駆ける事ができるようになります。\n\nエリトラで飛んでいる間、"
           },
           {
-            "text": "you will be propelled forward as long as you have mana",
+            "text": "マナがある限り前方に推進力を得ます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nCrouching will cause the elytra to glide like a normal elytra and let you land, while also reducing the mana cost to continue flying. \n\nBe sure to land before running out of mana or there could be disastrous results!\n\nThis elytra can only be crafted by those who have allied themselves to the "
+            "text": "。\n\n屈む事で、エリトラを普通のエリトラのように滑空させ、マナ消費を減らしながら飛ぶことができます。\n\nマナが尽きる前に着陸するように注意しないと、ひどい結果になるかもしれません。\n\nこのエリトラは、"
           },
           {
-            "text": "Faerie Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -14919,17 +14898,17 @@
         "value": "I have found a recipe for a given device that resonates deeply with members of my faction.  I can turn this into a horn that when blown will summon allies from my faction to aid me.  This can only be done very infrequently, and my allies will only remain for a short duration.",
         "json": [
           {
-            "text": "I have found a recipe for a given device that resonates deeply with members of my faction. I can turn this into a horn that when blown will "
+            "text": "自分の派閥の仲間と共振する、装置のレシピを発見しました。\n\n吹いた際に"
           },
           {
-            "text": "summon allies from my faction to aid me",
+            "text": "自分の派閥から味方を支援に召喚できる",
             "color": "dark_purple"
           },
           {
-            "text": ". This can only be done very infrequently, and my allies will only remain for a short duration.\n\n"
+            "text": "角笛をその装置で作成しました。これは頻繁には行えず、短時間の間しか残ってくれません。\n\n"
           },
           {
-            "text": "You can only craft/use the horn of your faction.",
+            "text": "自分の派閥の角笛しか使用/作成できません。",
             "color": "dark_purple"
           }
         ]
@@ -14967,21 +14946,21 @@
         "value": "Previously wielded only by demonic princes, this staff turns spells surrounding fire into pure nightmares.  It can be bound to any spell, as other staves, but if that spell is of the realm of fire then it will be transformed into pure hellfire.  All aspects of the spell will be increased.\n\nBe warned, hellfire is a force of destruction, and you may end up losing control of the power if you aren't careful.",
         "json": [
           {
-            "text": "Previously wielded only by demonic princes, this staff turns spells surrounding fire into pure nightmare. \n\nIt can be bound to any spell, as other staves, but if that "
+            "text": "過去に悪魔の王子にのみ利用されていたこの杖は、火に関わる呪文を純粋な悪夢に変えます。\n\n他の杖のようにどんな呪文とも紐づけられますが、"
           },
           {
-            "text": "spell is of the realm of fire then it will be transformed into pure hellfire",
+            "text": "火に関連する呪文の場合は、獄炎に変換されます",
             "color": "dark_purple"
           },
           {
-            "text": ". All aspects of the spell will be increased. Be warned, hellfire is a force of destruction, and you may end up losing control of the power if you aren't careful.\n\nAny fires the spell creates will also be hellfire, which spread more quickly and deal more damage to those inside them.\n\nThis staff can only be crafted by those who have allied themselves to the "
+            "text": "。呪文のすべての要素が強化されます。\n\nしかし獄炎は破壊の力なので、注意しなければ力が暴走してしまうかもしれません。\n\n呪文が生み出す炎は全て獄炎になり、普通の炎より素早く広がり大きなダメージを与えます。\n\nこの杖は、"
           },
           {
-            "text": "Demons of the Nether",
+            "text": "ネザーの悪魔",
             "color": "dark_red"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -15010,28 +14989,28 @@
         "value": "A staple of demonic power, in addition to being a powerful melee weapon, the hellfire trident uses brimstone to launch its user forward when used in a whirlwind of flame.  Doing so provides a significant damage boost to the attack if an entity is impacted, and is often used for advanced travel by demonic allies.",
         "json": [
           {
-            "text": "A staple of demonic power, in addition to being a powerful melee weapon, the "
+            "text": "悪魔の力の定番の"
           },
           {
-            "text": "Hellfire Trident",
+            "text": "獄炎のトライデント",
             "color": "blue"
           },
           {
-            "text": " uses brimstone when used to "
+            "text": "は、"
           },
           {
-            "text": "launch its user forward in a whirlwind of flame",
+            "text": "獄炎を利用して使用者を炎の旋風で前方に発射します",
             "color": "dark_purple"
           },
           {
-            "text": ". Doing so provides a significant damage boost to the attack if an entity is impacted, and is often used for advanced travel by demonic allies.\n\nThis staff can only be crafted by those who have allied themselves to the "
+            "text": "。\n\nこれをする事で、影響を受けた敵に対する攻撃に大きなダメージブーストを加えられ、悪魔の陣営にとってはよく高度な移動手段として利用されています。\n\nこの杖は、"
           },
           {
-            "text": "Demons of the Nether",
-            "color": "dark_red"
+            "text": "ネザーの悪魔",
+            "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -15056,14 +15035,14 @@
         "value": "I've created a sigil that when used will temporarily transfer the targeted ground into a separate dimension.  While there, the space is walkable as if mined.  After about ten seconds, the materials will snap back into place as if nothing happened, provided nothing has fallen into its place.  This can trap unwitting creatures, and I'm sure me as well.\n\nI had best make sure I'm not in the way when it comes back.\n\nAlso, it only seems to affect basic terrain.",
         "json": [
           {
-            "text": "I've created a sigil that when used will "
+            "text": "対象の"
           },
           {
-            "text": "temporarily transfer the targeted ground into a pocket dimension",
+            "text": "地面を、一時的にポケット次元に転送する",
             "color": "dark_purple"
           },
           {
-            "text": ". While there, the space is walkable as if mined. After about ten seconds, the materials will snap back into place as if nothing happened, provided nothing has fallen into its place. \n\nThis can trap unwitting creatures, and I'm sure me as well. I had best make sure I'm not in the way when it comes back. \n\nAlso, it only seems to affect basic terrain."
+            "text": "印を作成しました。\n\nそこに転送されている間、その空間に何もないかのように通り抜けれます。\nおよそ十秒後、その場所に何かが落ちていない限り、何もなかったかのように元の場所に戻ります。\n\nこれは無智な生き物や、自分も閉じ込めてしますかもしれません。\n\nこの効果は、一般的な地形しか影響しないようです。"
           }
         ]
       }
@@ -19749,7 +19728,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "龍脈力"
+        "value": "龍脈エネルギー"
       },
       {
         "type": "text",
@@ -20325,7 +20304,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "龍脈の力の供給"
+        "value": "龍脈のエネルギーの供給"
       },
       {
         "type": "text",
@@ -23353,56 +23332,56 @@
     "sections": [
       {
         "type": "title",
-        "value": "Contingent Charms"
+        "value": "臨時の御守り"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "Wizards are not much more resilient than anyone else. They are at their most effective when given time to prepare.\n\n"
+            "text": "魔術師は、他の元と同じ程度の強靭さしかありません。彼らは、準備する時間がある場合に一番能力を発揮します。\n\n"
           },
           {
-            "text": "Contingent Charms",
+            "text": "臨時御守り",
             "color": "blue"
           },
           {
-            "text": " are trinkets that exist for a number of instances in which a wizard may want a "
+            "text": "は、"
           },
           {
-            "text": "spell to automatically be cast when a given condition is met",
+            "text": "特定の条件が満たされた時に自動で呪文を詠唱",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nTo make use of a Contingent Charm, first I'll need to craft one. That's easy enough to do at a "
+            "text": "したい魔術師の為のアクセサリー類です。\n\n臨時御守りを利用するには、まず作成する必要があります。"
           },
           {
-            "text": "Manaweaving Altar",
+            "text": "マナ織の祭壇",
             "color": "blue"
           },
           {
-            "text": ".\n\nNext, I'll need to make use of a "
+            "text": "で十分簡単にできます。\n\nその後、"
           },
           {
-            "text": "Transcription Table",
+            "text": "転写台",
             "color": "blue"
           },
           {
-            "text": " to set the spell.\n\nOnce I have a spell set, I just need to hang the charm on my charm bracelet "
+            "text": "を利用することで呪文を設定する必要があります。\n\n一度呪文を設定したら、御守りのブレスレットにつける（"
           },
           {
-            "text": "(equip it in the Charm slot)",
+            "text": "御守りスロットに装備",
             "italic": true
           },
           {
-            "text": " - unlike the "
+            "text": "）だけでいいです。"
           },
           {
-            "text": "Feather Charms",
+            "text": "羽根の御守り",
             "color": "blue"
           },
           {
-            "text": " these will not work simply by being in my bag. When the condition is met, the charm will trigger, and will consume the spell from the charm."
+            "text": "とは違ってインベントリの中にあるだけでは機能しません。\n\n条件が満たされた場合、御守りが起動し、御守りから呪文が消費されます。"
           }
         ]
       }
@@ -24917,21 +24896,21 @@
         "value": "",
         "json": [
           {
-            "text": "This amulet fortifies me when worn, granting me "
+            "text": "このアミュレットは装備したら自分を補強し、"
           },
           {
-            "text": "immunity to critical hits. ",
+            "text": "クリティカルヒットに耐性",
             "color": "dark_purple"
           },
           {
-            "text": "It will, if charged, also "
+            "text": "を得ます。\n\nさらに、充填されている場合"
           },
           {
-            "text": "protect me from death one time.",
+            "text": "一度だけ自分を死から防いでくれます",
             "color": "dark_purple"
           },
           {
-            "text": " It will need to be recharged after, and the effect has a long cooldown."
+            "text": "。その後は再充填が必要で、長いクールダウンがあります。"
           }
         ]
       }
@@ -24949,65 +24928,54 @@
     "sections": [
       {
         "type": "title",
-        "value": "Exigent Charms"
+        "value": "緊急の御守り"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "Exigent Charms",
+            "text": "緊急御守り",
             "color": "blue"
           },
           {
-            "text": " are just like "
+            "text": "は"
           },
           {
-            "text": "Contingent Charms",
+            "text": "臨時御守り",
             "color": "blue"
           },
           {
-            "text": ", however they operate on a charge system and are "
+            "text": "と同じような物ですが、回数制限で運用され、"
           },
           {
-            "text": "able to hold multiple charges of the same spell",
+            "text": "同じ呪文の充填を複数保持",
             "color": "dark_purple"
           },
           {
-            "text": ". They are also "
+            "text": "できます。\n\nさらに、"
           },
           {
-            "text": "not destroyed when the condition triggers",
+            "text": "条件が満たされた場合に破壊されず",
             "color": "dark_purple"
           },
           {
-            "text": ", instead just going dormant if they run out of charges until another spell is placed on them.\n\n"
+            "text": "充填がなくなった場合は、再び充填されるまで不活性化するだけです。\n\n緊急御守りに"
           },
           {
-            "text": "To add charges to an ",
+            "text": "充填を追加するには、",
             "color": "dark_purple"
           },
           {
-            "text": "Exigent Charm",
+            "text": "転写台",
             "color": "blue"
           },
           {
-            "text": ", all I need to do is "
-          },
-          {
-            "text": "run it through the ",
+            "text": "を複数回利用",
             "color": "dark_purple"
           },
           {
-            "text": "Transcription Table",
-            "color": "blue"
-          },
-          {
-            "text": " multiple times",
-            "color": "dark_purple"
-          },
-          {
-            "text": ". Each time I do this it will add another charge, up to the maximum."
+            "text": "するだけでできます。\n\n転写台に利用するたびに充填が１増え、最大まで追加されます。"
           }
         ]
       }
@@ -25347,24 +25315,24 @@
     "sections": [
       {
         "type": "title",
-        "value": "Bookshelves"
+        "value": "本棚"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "These bookshelves are perfect for "
+            "text": "これらの本棚は見栄え良く、"
           },
           {
-            "text": "storing books and other items",
+            "text": "本や他のアイテムを保存",
             "color": "dark_purple"
           },
           {
-            "text": " in a pleasing manner.\n\n"
+            "text": "するのに適しています。\n\n"
           },
           {
-            "text": "Note that anything that isn't an M&A book will be displayed as a spell book whose dye color is derived from the item ID of the item.  Items that are normally dyeable will use their dye color for the spell book.",
+            "text": "M&Aの本ではないアイテムは、そのアイテムIDから染料とした呪文の本として表示されます。染色可能なアイテムの場合は、その色の呪文の本として表示されます。",
             "italic": true
           }
         ]
@@ -25383,24 +25351,24 @@
     "sections": [
       {
         "type": "title",
-        "value": "Scroll and Potion Shelves"
+        "value": "呪文スクロールとポーション棚"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "These shelves are perfect for storing large amounts of "
+            "text": "これらの棚は、大量の"
           },
           {
-            "text": "Torn Journal Pages, Theses, items containing spells, and potions",
+            "text": "破れた学術誌のページ、論文、呪文を含むアイテム、そしてポーションを保持",
             "color": "dark_purple"
           },
           {
-            "text": ", though it can store any item."
+            "text": "するのに適していますが、どんなアイテムでも保持できます。\n\n"
           },
           {
-            "text": "\n\nItems not in the above list will render as scrolls in the display slots.  There is a tag to make additional items render as potions in the shelf instead.",
+            "text": "上のリストにないアイテムはスクロールとして表示されます。棚にポーションとして表示されるようにするタグは存在しています。",
             "italic": true
           }
         ]
@@ -25419,17 +25387,17 @@
     "sections": [
       {
         "type": "title",
-        "value": "Arcane Lectern"
+        "value": "神秘の書見台"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "What wizard lab would be complete without a fancy way to display and use the Codex?\n\n"
+            "text": "コーデックスを格好よく展示して利用できない魔術ラボなんて本当に魔術ラボなのでしょうか？\n\n"
           },
           {
-            "text": "Right click with a codex to insert it.  Sneak right click to remove.  Right click while a codex is on the lectern to read the codex.",
+            "text": "コーデックスで右クリックで挿入します。スニーク＋右クリックで取り除きなます。コーデックスが書見台にある時に右クリックでコーデックスを読めます。",
             "italic": true
           }
         ]
@@ -25455,70 +25423,61 @@
         "value": "",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Dowsing Rod",
+            "text": "ダウジングロッド",
             "color": "blue"
           },
           {
-            "text": " is a very useful tool for novice and experienced wizards alike.  It is capable of finding several different kinds of things depending on what the user has in their other hand.\n\nWith "
+            "text": "は、新人と経験者の魔術師両方にとってもかなり便利な道具です。オフハンドに持っている物に応じて、いろんなものを探せます。\n\nオフハンドに何も持っていない場合は、ダウジングロッドは使用者をその"
           },
           {
-            "text": "nothing ",
-            "color": "blue"
-          },
-          {
-            "text": "in the other hand, the dowsing rod will orient the user "
-          },
-          {
-            "text": "towards their bed",
+            "text": "ベッドの方角",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nWith a "
+            "text": "に向けます。\n\nオフハンドに目印のルーンを持っている場合は、ダウジングロッドは使用者を"
           },
           {
-            "text": "Rune of Marking",
-            "color": "blue"
-          },
-          {
-            "text": " in the other hand, the dowsing rod will orient the user "
-          },
-          {
-            "text": "towards the marked position",
+            "text": "その目印の方角",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nWith a"
+            "text": "に向けます。\n\n"
           },
           {
-            "text": " Player Charm",
+            "text": "オフハンドに",
+            "color": "black"
+          },
+          {
+            "text": "プレイヤーの御守り",
             "color": "blue"
           },
           {
-            "text": " in the other hand, the dowsing rod will orient the user "
+            "text": "を持っている場合は、ダウジングロッドは使用者を"
           },
           {
-            "text": "towards the attuned player's position",
+            "text": "その調整されたプレイヤーの方角",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nWith a"
+            "text": "に向けます。\n\n"
           },
           {
-            "text": " Chimerite Gem",
+            "text": "オフハンドに",
+            "color": "black"
+          },
+          {
+            "text": "キメライトクリスタル",
             "color": "blue"
           },
           {
-            "text": " in the other hand, the dowsing rod will orient the user "
+            "text": "をオフハンドに持っている場合は、使用者を"
           },
           {
-            "text": "towards the nearest wellspring",
+            "text": "一番近い龍穴",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "の方角に向けます。"
           }
         ]
       }
