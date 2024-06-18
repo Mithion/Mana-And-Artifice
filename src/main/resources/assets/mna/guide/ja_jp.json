@@ -11628,28 +11628,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Silks"
+        "value": "絹"
       },
       {
         "type": "text",
         "value": "Certain silks can be created by combining the right ingredients at a manaweaving altar.  These silks are used in other crafting recipes.",
         "json": [
           {
-            "text": "Certain "
+            "text": "いくつかの"
           },
           {
-            "text": "silks",
+            "text": "絹",
             "color": "blue"
           },
           {
-            "text": " can be created by combining the right ingredients at a "
+            "text": "は、"
           },
           {
-            "text": "Manaweaving Altar",
+            "text": "マナ織の祭壇",
             "color": "blue"
           },
           {
-            "text": ". These silks are used in other crafting recipes."
+            "text": "で正しい素材を組み合わせる事で作成できます。\n\nこれらの絹は、作成レシピに利用できます。"
           }
         ]
       }
