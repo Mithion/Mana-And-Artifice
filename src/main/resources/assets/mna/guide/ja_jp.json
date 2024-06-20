@@ -1997,255 +1997,238 @@
     "sections": [
       {
         "type": "title",
-        "value": "Automation: Sided Inventories"
+        "value": "自動化：インベントリの面"
       },
       {
         "type": "text",
         "value": "Sided Inventories determine which sides of inventories can accept items.  This is important, because when marking a block with a Rune of Marking, the side is also stored as well as the location.  Other mods that use automation can also make use of this functionality.  The following is an explanation of which blocks input/output on which sides.",
         "json": [
           {
-            "text": "Sided Inventories determine which sides of inventories can accept items. This is important, because when marking a block with a "
+            "text": "インベントリの面は、どの面がアイテムを受け取れるか決めます。これは、"
           },
           {
-            "text": "Rune of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ", "
+            "text": "がブロックの"
           },
           {
-            "text": "the side is also stored as well as the location",
+            "text": "座標だけでなく面も記憶する",
             "color": "dark_purple"
           },
           {
-            "text": ". Other mods that use automation can also make use of this functionality. The following is an explanation of which blocks input/output on which sides."
+            "text": "ため重要になります。\n\n他のMODもこの機能を利用するかもしれません。\n\n以下は、どのブロックがどの面で入力/出力できるか："
           }
         ]
       },
       {
         "type": "title",
-        "value": "Runescribing Table"
+        "value": "ルーン刻印台"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Runescribing Table",
+            "text": "ルーン刻印台",
             "color": "blue"
           },
           {
-            "text": " can accept hammers, chisels, clay, and patterns from all sides. Hammers, chisels, and clay can be extracted from the sides, and patterns can be extracted from the top/bottom.\n\n"
+            "text": "は全ての面からハンマー、ノミ、粘土、パターンを入れられます。\n\nハンマー、ノミ、粘土は横の面から取り出す事ができ、パターンは上か下の面からのみ取り出せます。\n\n"
           },
           {
-            "text": "Sneaking while activating the Runescribing Table will allow you to store/retrieve Runesmith Hammers without needing to open the GUI.",
+            "text": "スニークしながらルーン刻印台を起動することで、GUIを開かずにハンマーを設置/取り出す事ができます。",
             "italic": true
           }
         ]
       },
       {
         "type": "title",
-        "value": "Runic Anvil"
+        "value": "ルーン金床"
       },
       {
         "type": "text",
         "value": "The Runic Anvil will accept items from any side, and provide items from any side.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Runic Anvil",
-            "color": "blue"
-          },
-          {
-            "text": " will accept items from any side, and provide items from any side."
+            "text": "ルーン金床は全ての面からアイテムを入れることができ、すべての面から取り出せます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Runeforge"
+        "value": "ルーンかまど"
       },
       {
         "type": "text",
         "value": "The Runeforge will accept items from any side if it is empty.  It will provide items from any side as long as it isn't currently cooking.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Runeforge",
+            "text": "ルーンかまど",
             "color": "blue"
           },
           {
-            "text": " will accept items from any side "
+            "text": "は"
           },
           {
-            "text": "if it is empty",
+            "text": "空いている場合",
             "color": "dark_purple"
           },
           {
-            "text": ". It will provide items from any side "
+            "text": "どの面からでもアイテムを入れる事ができ"
           },
           {
-            "text": "as long as it isn't currently cooking",
+            "text": "、",
+            "color": "black"
+          },
+          {
+            "text": "処理中でなければ",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "どの面からでも取り出せます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Affinity Tinker Table"
+        "value": "親和性調整台"
       },
       {
         "type": "text",
         "value": "The Affinity Tinker Table will accept spells for processing from any horizontal side if it is empty.  It will allow extraction of resulting items from the top and bottom as long as it isn't currently processing.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Affinity Tinker Table",
+            "text": "親和性調整台",
             "color": "blue"
           },
           {
-            "text": " will accept spells for processing from any horizontal side "
+            "text": "は"
           },
           {
-            "text": "if it is empty",
+            "text": "空いている場合",
+            "color": "blue"
+          },
+          {
+            "text": "は横の面から呪文を入れる事ができます。\n\n"
+          },
+          {
+            "text": "処理中ない限り、",
             "color": "dark_purple"
           },
           {
-            "text": ". It will allow extraction of resulting items from the top and bottom "
-          },
-          {
-            "text": "as long as it isn't currently processing",
-            "color": "dark_purple"
-          },
-          {
-            "text": "."
+            "text": "上か下の面かアイテムを取りだす事ができます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Disenchanter"
+        "value": "エンチャント除去台"
       },
       {
         "type": "text",
         "value": "The Disenchanter will accept items for processing and projection runes from any side, and projection runes from the top and bottom if it is empty.  It will allow extraction of projection runes from the top and bottom, and source items from horizontal sides as long as it isn't currently processing.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Disenchanter",
+            "text": "エンチャント除去台",
             "color": "blue"
           },
           {
-            "text": " will accept items for processing and projection runes from any side, and projection runes from the top and bottom "
+            "text": "は処理のためのアイテムと投影のルーンはどの面からでも入れる事ができますが、"
           },
           {
-            "text": "if the corresponding slot is empty",
+            "text": "対応したスロットが空",
             "color": "dark_purple"
           },
           {
-            "text": ". It will allow extraction of projection runes from the top and bottom, and source items from horizontal sides "
+            "text": "である必要があります。\n\n"
           },
           {
-            "text": "as long as it isn't currently processing",
+            "text": "処理中でない限り、",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "投影のルーンは上か下の面、元のアイテムが横の面から取り出せます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Eldrin Fume Filter"
+        "value": "龍脈煙フィルター"
       },
       {
         "type": "text",
         "value": "The Eldrin Fume Filter will accept fuel and motes from any side.  It will allow extraction of items from all sides as long as it isn't currently processing.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Eldrin Fume Filter",
-            "color": "blue"
-          },
-          {
-            "text": " will accept fuel and motes from any side. It will allow extraction of items from all sides "
-          },
-          {
-            "text": "as long as it isn't currently processing",
+            "text": "龍脈煙フィルター",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "は燃料と雫をどの面からでも入れる事ができます。\n\n"
+          },
+          {
+            "text": "処理中でない限り",
+            "color": "dark_purple"
+          },
+          {
+            "text": "、どの面からでもアイテムを取りだせます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Inscription Table"
+        "value": "術式刻印台"
       },
       {
         "type": "text",
         "value": "The Inscription Table will accept paper, ink, and arcane ash from any horizontal side.  It will allow extraction of items from all horizontal sides, and spell recipes from the top/bottom, as long as it isn't currently processing.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Inscription Table",
+            "text": "術式刻印台",
             "color": "blue"
           },
           {
-            "text": " will accept paper, ink, and arcane ash from any horizontal side. It will allow extraction of items from all horizontal sides, and spell recipes from the top/bottom, "
+            "text": "は紙、インク、神秘の灰をどの面からでも入れる事ができます。\n\n"
           },
           {
-            "text": "as long as it isn't currently processing",
+            "text": "処理中でない限り、",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "アイテムの取り出しは横の面から行え、呪文のレシピは上と下の面から行えます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Study Desk"
+        "value": "勉強机"
       },
       {
         "type": "text",
         "value": "The Study Desk will accept Torn Journal Fragments and Arcane Theses from any side.  The same goes for extraction, as long as it isn't currently processing.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Study Desk",
+            "text": "勉強机",
             "color": "blue"
           },
           {
-            "text": " will accept Torn Journal Fragments, Arcane Theses, and Charged Staves, Wands, or Bangles from any side. The same goes for extraction, "
+            "text": "は全ての面から破れた学術誌のページ、神秘の論文、充填された大杖、小杖、腕輪を入れることができます"
           },
           {
-            "text": "as long as it isn't currently processing",
+            "text": "。",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "\n\n"
+          },
+          {
+            "text": "処理中でない限り",
+            "color": "dark_purple"
+          },
+          {
+            "text": "、取り出しも同じです。"
           }
         ]
       },
@@ -2258,48 +2241,42 @@
         "value": "The Study Desk will accept Arcanist Ink and Vellum from any horizontal side.  The same goes for extraction with the addition of output items from the top and bottom, as long as it isn't currently processing.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Thesis Desk",
+            "text": "論文台",
             "color": "blue"
           },
           {
-            "text": " will accept Arcanist Ink and Vellum from any horizontal side. The same goes for extraction with the addition of output items from the top and bottom, "
+            "text": "は横の面からインクと皮紙を入れる事ができます。\n\n"
           },
           {
-            "text": "as long as it isn't currently processing",
+            "text": "処理中でない限り",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "、前記のアイテムを横から、出力したアイテムを上か下から取り出せます。"
           }
         ]
       },
       {
         "type": "title",
-        "value": "Transcription Table"
+        "value": "転写台"
       },
       {
         "type": "text",
         "value": "The Transcription Table will accept Arcanist Ink, Lapis, and Runes/Staves/Vellum from any side.  The same goes for extraction with the exception of output items only from the top and bottom, as long as it isn't currently processing.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Transcription Table",
+            "text": "転写台",
             "color": "blue"
           },
           {
-            "text": " will accept Arcanist Ink, Lapis, and Runes/Staves/Vellum from any side. The same goes for extraction with the exception of output items only from the top and bottom, "
+            "text": "はインク、ラピス、ルーン/杖/皮紙をどの面からでも入れる事ができます。\n\n"
           },
           {
-            "text": "as long as it isn't currently processing",
+            "text": "処理中でない限り",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "、前記のアイテムを横の面から、出力したアイテムを上か下の面から取り出せます。"
           }
         ]
       }
@@ -10332,7 +10309,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "空の板の作成"
+        "value": "空のパターンの作成"
       },
       {
         "type": "text",
@@ -10342,7 +10319,7 @@
             "text": "ルーンを刻むためには、まず"
           },
           {
-            "text": "空の板",
+            "text": "空のパターン",
             "color": "blue"
           },
           {
@@ -10375,9 +10352,6 @@
         "value": "ルーンかまどは、空中の環境マナを利用して働く魔法のかまどです。追加で燃料を必要としません。オリジナルのレシピもありますが、焚火のレシピを半分の時間、そしてかまどのレシピを通常の二倍の時間で焼くことができます。\n\n一度に16個までアイテムを入れられますが、その分クラフト時間は増加します。",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "ルーンかまど",
             "color": "blue"
           },
@@ -10389,7 +10363,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。 \n\nオリジナルのレシピもありますが、焚火のレシピを半分の時間、そしてかまどのレシピを通常の二倍の時間で焼くことができます。 \n\n度に16個までアイテムを入れられますが、その分クラフト時間は増加します。"
+            "text": "。\n\nオリジナルのレシピもありますが、焚火のレシピを半分の時間、そしてかまどのレシピを通常の二倍の時間で焼くことができます。\n\n度に16個までアイテムを入れられますが、その分クラフト時間は増加します。"
           }
         ]
       },
@@ -10682,28 +10656,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Superheating Vinteum"
+        "value": "過熱ヴィンテウム"
       },
       {
         "type": "text",
         "value": "Regular furnaces don't seem to put out the right kind of heat to superheat vinteum bars.  That's where the Runeforge is useful.  By placing these bars in the runeforge, its magically infused fire will cause these bars to heat up to temperatures I need in order to forge them into shape.",
         "json": [
           {
-            "text": "Regular furnaces don't seem to put out the right kind of heat to superheat "
+            "text": "通常のかまどは、"
           },
           {
-            "text": "Vinteum Bars",
+            "text": "ヴィンテウムインゴット",
             "color": "blue"
           },
           {
-            "text": ". \n\nThat's where the "
+            "text": "を過熱させるのに適した熱を発しないようです。\n\nここで、"
           },
           {
-            "text": "Runeforge ",
+            "text": "ルーンかまど",
             "color": "blue"
           },
           {
-            "text": "is useful. By placing these bars in the Runeforge, its magically infused fire will cause these bars to heat up to temperatures I need in order to forge them into shape."
+            "text": "です。ルーンかまどにインゴットを設置する事で、魔術で注入された炎がインゴットを変形させるのに十分な温度にしてくれます。"
           }
         ]
       }
@@ -10732,32 +10706,32 @@
     "sections": [
       {
         "type": "title",
-        "value": "Purified Vinteum Bars"
+        "value": "浄化ヴィンテウムインゴット"
       },
       {
         "type": "text",
         "value": "If I can coat iron with vinteum dust and smelt it to get bars, I should be able to do something similar with purified vinteum dust.  I just need to remember to smelt the purified vinteum coated iron in a furnace or blast furnace too.",
         "json": [
           {
-            "text": "If I can "
-          },
-          {
-            "text": "coat iron",
+            "text": "鉄をヴィンテウムの粉でコーティング",
             "color": "blue"
           },
           {
-            "text": " with vinteum dust and smelt it to get bars, I should be able to do something similar with "
+            "text": "して後に熱してインゴットにする事ができるのであれば、"
           },
           {
-            "text": "Purified Vinteum Dust",
+            "text": "浄化ヴィンテウムの粉",
             "color": "blue"
           },
           {
-            "text": ". \n\nI just need to remember to smelt the purified vinteum coated iron in a furnace or blast furnace too.\n\nThis should allow for more durable creations, like "
+            "text": "でも同じ事ができるはずです。\n\n浄化ヴィンテウムでコーティングした鉄を製錬するのを忘れないようにしましょう。\n\nこれで、"
           },
           {
-            "text": "Constructs.",
+            "text": "コンストラクト",
             "color": "blue"
+          },
+          {
+            "text": "のようにさらに丈夫な物を生み出するはずです。"
           }
         ]
       }
@@ -10779,28 +10753,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Book of Marks"
+        "value": "目印の書"
       },
       {
         "type": "text",
         "value": "The book of marks allows me to place several marks within it and switch between them for convenience.  It will work with spells that use marking runes such as recall.",
         "json": [
           {
-            "text": "The book of marks allows me to place several marks within it and switch between them for convenience. It will work with spells that use "
+            "text": "この目印の書は、中に複数の目印を入れることができ、便利に切り替えられます。\n\n"
           },
           {
-            "text": "Runes of Marking",
+            "text": "帰還の呪文",
             "color": "blue"
           },
           {
-            "text": " such as "
+            "text": "などの、"
           },
           {
-            "text": "Recall",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "を利用する呪文で利用できます。"
           }
         ]
       }
@@ -14570,7 +14544,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "ウィザーボーン"
+        "value": "ウィザーの骨"
       },
       {
         "type": "text",
@@ -15109,7 +15083,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "\n\n\nコーデックスでいろんな部品を比べてみて、どの部品が適しているか考えてみるべきでしょう。\n\n 部品が決まったら、素材を決めてください。\n\n七つの種類の素材があり、"
+            "text": "\n\nコーデックスでいろんな部品を比べてみて、どの部品が適しているか考えてみるべきでしょう。\n\n部品が決まったら、素材を決めてください。\n\n七つの種類の素材があり、"
           },
           {
             "text": "それぞれコンストラクトの性質を変更",
@@ -15296,42 +15270,43 @@
         "value": "The primary choice for village golem material, iron has seen a significant amount of use.  It is more resilient than stone, it sinks faster, moves slower, and resists being knocked back more.  Iron constructs unlock at Tier 3.  Iron Constructs tend to specialize in defense.",
         "json": [
           {
-            "text": "The primary choice for village golem material, "
+            "text": "村のゴーレムとしてよく使用される "
           },
           {
             "text": "鉄製",
             "color": "blue"
           },
           {
-            "text": " constructs have seen a significant amount of use. It "
+            "text": "のコンストラクトはよく使用されます。それは"
           },
           {
-            "text": "すぐに沈んで遅く移動する ",
+            "text": "すぐに沈んで遅く移動",
             "color": "dark_purple"
           },
           {
-            "text": "but "
+            "text": "しますが、",
+            "color": "black"
           },
           {
             "text": "ノックバックに耐性を持ち",
             "color": "dark_purple"
           },
           {
-            "text": "and "
+            "text": "、"
           },
           {
             "text": "体力と鎧が多いです",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIron Constructs tend to "
+            "text": ".\n\n鉄のコンストラクトは、"
           },
           {
-            "text": "specialize in defense and survivability",
+            "text": "防御と生き残る能力に長けています",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       },
@@ -15345,39 +15320,39 @@
         "value": "Gold constructs are very similar to iron constructs, with a little more knockback resistance at the expense of health. Gold constructs unlock at Tier 3.  Gold Constructs tend to specialize in spell casting tasks.",
         "json": [
           {
-            "text": "金製 ",
+            "text": "金製のコンストrラクトは、",
             "color": "blue"
           },
           {
-            "text": "constructs, similar to iron 早く沈みます.  They "
+            "text": ", 鉄と同じように水に早く沈みます。彼らは"
           },
           {
-            "text": "移動速度が速く",
+            "text": "移動速度が鉄より速く、",
             "color": "dark_purple"
           },
           {
-            "text": " than their iron counterparts, and their "
+            "text": "そして彼らの"
           },
           {
-            "text": "マナ胴体は容量が多く",
+            "text": "マナ胴体は容量が多いですが",
             "color": "dark_purple"
           },
           {
-            "text": ", however they have "
+            "text": "、鉄より"
           },
           {
             "text": "低い体力と鎧",
             "color": "dark_purple"
           },
           {
-            "text": " than iron.\n\nGold Constructs tend to "
+            "text": "を持ちます。\n\n金のコンストラクトは、"
           },
           {
-            "text": "specialize in spell casting tasks",
+            "text": "呪文を詠唱するタスクに長けています",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       },
@@ -15391,53 +15366,40 @@
         "value": "Obsidian constructs are fragile but deal extreme amounts of damage, higher than any other material.  However they sink extremely quickly.  Obsidian constructs unlock at Tier 4.  Obsidian constructs tend to act in a striker role.",
         "json": [
           {
-            "text": "黒曜石製 ",
+            "text": "黒曜石製",
             "color": "blue"
           },
           {
-            "text": "constructs are somewhat "
+            "text": "のコンストラクトはそれなりに",
+            "color": "black"
           },
           {
             "text": "脆く、普通の体力",
             "color": "dark_purple"
           },
           {
-            "text": " but deal "
+            "text": "ですが他のどんな素材よりも"
           },
           {
-            "text": "高い攻撃力",
+            "text": "高い攻撃力をもちます",
             "color": "dark_purple"
           },
           {
-            "text": ", higher than any other material.  Their material uniquely does make them "
+            "text": "。彼らの素材は特異的で"
           },
           {
             "text": "火と溶岩を無効にします",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nThey have "
+            "text": "。\n\n彼らは"
           },
           {
-            "text": "水に浮きにくい",
+            "text": "水に浮きにくいですが、結構早く動けます",
             "color": "dark_purple"
           },
           {
-            "text": ", but can "
-          },
-          {
-            "text": "結構早く動けます",
-            "color": "dark_purple"
-          },
-          {
-            "text": "。\n\nObsidian constructs "
-          },
-          {
-            "text": "tend to act in a striker role",
-            "color": "dark_purple"
-          },
-          {
-            "text": "."
+            "text": "。\n\n黒曜石のコンストラクトは、よくアタッカーとしての役割をもいます。"
           }
         ]
       },
@@ -15451,46 +15413,47 @@
         "value": "Diamond constructs are very resilient and not overly heavy in terms of buoyancy.  They're quicker too, but offer no knockback resistance. Diamond constructs unlock at Tier 5.  Diamond constructs are a jack-of-all-trades, excelling at almost any task though not necessarily the best at every task.",
         "json": [
           {
-            "text": "ダイアモンド製 ",
+            "text": "ダイアモンド製",
             "color": "blue"
           },
           {
-            "text": "constructs are"
+            "text": "のコンストラクトは",
+            "color": "black"
           },
           {
             "text": "耐久性が高く、",
             "color": "dark_purple"
           },
           {
-            "text": " and "
+            "text": "浮力という面では"
           },
           {
             "text": "そこまで重くない",
             "color": "dark_purple"
           },
           {
-            "text": " in terms of buoyancy. They're "
+            "text": "です。彼らは"
           },
           {
             "text": "素早い",
             "color": "dark_purple"
           },
           {
-            "text": "too, but offer "
+            "text": "ですが、"
           },
           {
             "text": "ノックバック耐性を持ちません。",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nDiamond constructs are a "
+            "text": ".\n\nダイアモンドのコンストラクトは"
           },
           {
             "text": "万能",
             "color": "dark_purple"
           },
           {
-            "text": ", excelling at almost any task though not necessarily the best at every task."
+            "text": "で、すべてのタスクを十分にこなせますが、どのタスクでも一番ではありません。"
           }
         ]
       }
@@ -15569,9 +15532,6 @@
         "value": "The magic broom has been enchanted to collect all dropped items within a radius of the container it is placed on and return them to said container.  It's such a helpful construct.  I wonder if there are others I can build?  I'm sure I can make a more powerful version of this broom once I've gained some more knowledge.  I should check back later.\n\nI can collect the broom again if I sneak up on it and grab it (right click).",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "魔法の箒は、範囲内にある場合",
             "color": "blue"
           },
@@ -15580,17 +15540,14 @@
             "color": "dark_purple"
           },
           {
-            "text": " ようにエンチャントされており、"
+            "text": " ようにエンチャントされており、設置された容器に戻します。便利なコンストラクトです。\n\n他に作成できるのがあるか気になります。\nもっと力と知識を得たのち、もっと強力なバージョンの箒が作成できるはずです。成長したら再び確認するべきでしょう。\n\n屈んで掴む（"
           },
           {
-            "text": "設置された容器に戻します。便利なコンストラクトです。 \n\nI wonder if there are others I can build? I'm sure I can make a more powerful version of this broom once I've gained some more knowledge. I should check back later. \n\nI can collect the broom again if I sneak up on it and grab it "
-          },
-          {
-            "text": "(right click)",
+            "text": "右クリック",
             "italic": true
           },
           {
-            "text": "."
+            "text": "）することで、箒を回収できます。"
           }
         ]
       }
@@ -15634,7 +15591,7 @@
             "color": "blue"
           },
           {
-            "text": "をセットアップする必要があります。このセットアップはコンストラクトに "
+            "text": "をセットアップする必要があります。\n\nこのセットアップはコンストラクトに "
           },
           {
             "text": "属性",
@@ -15661,9 +15618,6 @@
         "type": "text",
         "value": "The requirements for the Construct Gantry are pretty flexible.  You need the workbench itself, and a total of 8 Chimerite Crystals within 5 blocks of the workbench in any direction.  They can be on walls, ceilings, floors, without line of sight; it doesn't matter.",
         "json": [
-          {
-            "text": ""
-          },
           {
             "text": "コンストラクト構台",
             "color": "blue"
@@ -15716,7 +15670,7 @@
       },
       {
         "type": "title",
-        "value": "Affinity Effects",
+        "value": "親和性の効果",
         "newPage": true
       },
       {
@@ -15810,21 +15764,21 @@
             "color": "dark_purple"
           },
           {
-            "text": ". This is determined by their materials and their affinity. I can see a construct's buoyancy by using the "
+            "text": "これは、素材と親和性によって決められまます。\n\nコンストラクトの浮力は、"
           },
           {
-            "text": "Diagnostics ",
+            "text": "命令の鐘",
             "color": "blue"
           },
           {
-            "text": "command on a "
+            "text": "で"
           },
           {
-            "text": "Bell of Bidding",
+            "text": "診断",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "コマンドを行うことで確認できます。"
           }
         ]
       }
@@ -15880,7 +15834,7 @@
             "text": "でできます。\n\n"
           },
           {
-            "text": "円メニューを開いて命令を選択し、何かに右クリックしてください。命令は、状況に応じて行われます。 The following commands are available:",
+            "text": "円メニューを開いて命令を選択し、何かに右クリックしてください。命令は、状況に応じて行われます。 い以下の命令をできます：",
             "italic": true
           }
         ]
@@ -15890,14 +15844,14 @@
         "value": "Follow\n\nTarget: Construct\n\nCauses the construct to follow you.  Constructs capabile of attacking will defend you while on follow mode.",
         "json": [
           {
-            "text": "Follow:",
+            "text": "追尾",
             "color": "blue"
           },
           {
-            "text": " Causes the construct to follow me. Constructs capable of attacking will defend me while on follow mode.  "
+            "text": "：コンストラクトが自分についてくるように命令します。攻撃できるコンストラクトは、追尾中に自分を守ってくれます。\n\n"
           },
           {
-            "text": "I need to target a construct to issue this command.",
+            "text": "この命令を行うには、コンストラクトを対象にする必要があります。",
             "color": "dark_purple"
           }
         ]
@@ -15907,15 +15861,18 @@
         "value": "Move\n\nTarget: Block\n\nCauses all constructs currently following you to move to the specified position and stay there.",
         "json": [
           {
-            "text": "Move: ",
+            "text": "移動",
             "color": "blue"
           },
           {
-            "text": "Causes all constructs currently following me to move to the specified position and stay there.  "
+            "text": "：自分についてきてる全てのコンストラクトを指定した位置に移動し、そこに留まらせます。\n\n"
           },
           {
-            "text": "I need to target a block within the world to issue this command.",
+            "text": "この命令を行うには、ワールドの座標を指定する必要があります",
             "color": "dark_purple"
+          },
+          {
+            "text": "。"
           }
         ]
       },
@@ -15924,14 +15881,14 @@
         "value": "Stay\n\nTarget: Construct\n\nCauses the construct to stop where it is and stay there.  It will not attack while staying.",
         "json": [
           {
-            "text": "Stay: ",
+            "text": "待機",
             "color": "blue"
           },
           {
-            "text": "Causes the construct to stop where it is and stay there. It will not attack while staying.  "
+            "text": "：コンストラクトがその場に止まり、留まります。大気中は攻撃をしません。\n\n"
           },
           {
-            "text": "I need to target a construct to issue this command.",
+            "text": "この命令を行うには、コンストラクトを対象にする必要があります。",
             "color": "dark_purple"
           }
         ]
@@ -15941,14 +15898,14 @@
         "value": "Attack\n\nTarget: Entity\n\nCauses all constructs following you to attack that target if they are able.",
         "json": [
           {
-            "text": "Attack Target: ",
+            "text": "対象を攻撃",
             "color": "blue"
           },
           {
-            "text": "Causes all constructs following me to attack that target if they are able.  "
+            "text": "：自分を追尾している全てのコンストラクトに、可能であれば対象を攻撃するように命令します。\n\n"
           },
           {
-            "text": "I need to target an entity to issue this command.",
+            "text": "この命令を行うには、エンティティを対象にする必要があります。",
             "color": "dark_purple"
           }
         ]
@@ -15958,14 +15915,14 @@
         "value": "Diagnostics\n\nTarget: Construct\n\nOpens the diagnostics screen for the construct showing detailed information about its stats and capabilities.",
         "json": [
           {
-            "text": "Diagnostics: ",
+            "text": "診断",
             "color": "blue"
           },
           {
-            "text": "Opens the diagnostics screen for the construct showing detailed information about its stats and capabilities.  "
+            "text": "：詳細な能力と情報を表示する、診断画面を開きます。\n\n"
           },
           {
-            "text": "I need to target a construct to issue this command.",
+            "text": "この命令を行うには、コンストラクトを対象にする必要があります。",
             "color": "dark_purple"
           }
         ]
@@ -15975,14 +15932,14 @@
         "value": "Eat Item\n\nTarget: Construct\n\nCauses the construct to eat its current held item, destroying it.",
         "json": [
           {
-            "text": "Eat Item",
+            "text": "アイテムを食べる",
             "color": "blue"
           },
           {
-            "text": ": Causes the construct to eat its current held item, destroying it.  "
+            "text": "：コンストラクトが持っているアイテムを食べさせ、アイテムを破壊します。\n\n"
           },
           {
-            "text": "I need to target a construct to issue this command.",
+            "text": "この命令を行うには、コンストラクトを対象にする必要があります。",
             "color": "dark_purple"
           }
         ]
@@ -15992,11 +15949,11 @@
         "value": "Interact\n\nTarget: Block\n\nContextually attempts to instruct all following constructs to interact with the given block (or pick up items directly above the block).  This is used to assign them to Delegation Stations, return to Gantries to be modified, and several other incidental interaction tasks where capabilities allow.",
         "json": [
           {
-            "text": "Interact",
+            "text": "操作",
             "color": "blue"
           },
           {
-            "text": ": Contextually attempts to instruct all following constructs to interact with the given block (or pick up items directly above the block). This is used to assign them to Delegation Stations, return to Gantries to be modified, and several other incidental interaction tasks where capabilities allow."
+            "text": "：自分についてきているコンストラクトに、指定したブロックに干渉（もしくはその上のブロックを回収）するように命令します。。\n\nこれは、彼らを命令台に割り当てたり、改造するために構台に戻したり、能力が許すいくつかの似たような作業をするのに使用されます。"
           }
         ]
       },
@@ -16005,21 +15962,17 @@
         "value": "",
         "json": [
           {
-            "text": "Wear Item As Hat",
+            "text": "アイテムを帽子として被る：自分に追尾しているコンストラクトに、対象のアイテムを帽子として被るように命令します。\n\n"
+          },
+          {
+            "text": "診断",
             "color": "blue"
           },
           {
-            "text": ": Instructs constructs following me to attempt to wear the target item as a hat. I can retrieve the hat from the construct using the "
+            "text": "メニューを利用して、帽子を回収することができます。\n\n"
           },
           {
-            "text": "Diagnostics",
-            "color": "blue"
-          },
-          {
-            "text": " menu.  \n\n"
-          },
-          {
-            "text": "The item targeted must be thrown on the ground; it will not pull from my other hand.  Target the item by targeting the block it is resting on.",
+            "text": "対象のアイテムは地面に落ちている必要があります。インベントリからは使いません。そのアイテムの下のブロックを対象にすることで、アイテムを対象にできます。",
             "italic": true
           }
         ]
@@ -16033,9 +15986,6 @@
         "value": "The Delegation Station is a block you can use to create complex logic for your constructs.  To start, simply drag a task from the menu on the left to the stage.  Then, drag the blue start node at the top left of the stage to the yellow input node at the top left of the task.  This will set the start of the flow.\n\nYour construct will loop this task once assigned to the Delegation Station.\n\nEvery task has two output nodes, a green at the top right and a red just below it.  They represent the outputs of the tasks, green being success or red being failure.  Drag these nodes to the start nodes of other tasks to chain logic.\n\nYou can loop a task's output node back in to its input node to cause it to tight loop.  This is useful for performing a task repeatedly until failure, or until construct confusion (see Construct Intelligence).",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "命令台",
             "color": "blue"
           },
@@ -16047,10 +15997,10 @@
             "color": "dark_purple"
           },
           {
-            "text": " を可能にするブロックです。 \n\n"
+            "text": " を可能にするブロックです。\n\n"
           },
           {
-            "text": "始めるには、まず左のメニューから右側にタスクをドラッグして移動します。 ",
+            "text": "始めるには、まず左のメニューから右側にタスクをドラッグして移動します。",
             "italic": true
           },
           {
@@ -16066,7 +16016,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。 ",
+            "text": "。",
             "italic": true
           },
           {
@@ -16150,31 +16100,28 @@
         "value": "Most commands within the delegation station have parameters.  Click a task to see its parameters on the right.  Some parameters take items, others are buttons/checkboxes/sliders.  In the case of items, ghost items are used.  Simply drop the item in like you would any inventory slot.  The item will be copied and used.",
         "json": [
           {
-            "text": "Most "
-          },
-          {
-            "text": "tasks ",
+            "text": "命令台",
             "color": "blue"
           },
           {
-            "text": "within the delegation station have "
+            "text": "のほとんどのタスクは"
           },
           {
-            "text": "parameters",
+            "text": "値",
             "color": "blue"
           },
           {
-            "text": ". \n\n"
+            "text": "があります。\n\n"
           },
           {
-            "text": "Click a task to see its parameters on the right. Some parameters take items, others are buttons/checkboxes/sliders. ",
+            "text": "タスクをクリックする事で、右側に値を見れます。いくつかの値はアイテムを受け付け、他はボタン/チェックボックス/スライダーです。",
             "italic": true
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "In the case of items, ghost items are used. Drop the item in like you would any inventory slot. The item will be copied and used without being consumed.",
+            "text": "アイテム場合は、ゴーストアイテムが使われます。インベントリのスロットにアイテムを置いてください。アイテムは消費されずにコピーされ、利用されます。",
             "italic": true
           }
         ]
@@ -16188,10 +16135,6 @@
         "value": "The Lodestar is a much more advanced method of commanding constructs and has a greatly expanded list of available commands, as well as several conditions that you can have your constructs evaluate.",
         "json": [
           {
-            "text": "",
-            "italic": true
-          },
-          {
             "text": "ロードスター",
             "italic": true,
             "color": "blue"
@@ -16199,6 +16142,9 @@
           {
             "text": "は、コンストラクトへより高度な命令を送るための手段で、",
             "italic": true
+          },
+          {
+            "text": "\n\n"
           },
           {
             "text": "命令で可能なタスクの種類が大幅に上昇",
@@ -16215,7 +16161,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "して、特定の場合に特定の行動を行うように設定できるようになります。",
+            "text": "して、特定の状況に特定の行動を行うように設定できるようになります。",
             "italic": true
           }
         ]
@@ -16224,14 +16170,14 @@
         "type": "text",
         "json": [
           {
-            "text": "Constructs practice "
+            "text": "コンストラクトは、命令台やロードスターを通してタスクを行う際に"
           },
           {
-            "text": "co-la-bo-ra-tion ",
+            "text": "協力作業",
             "color": "blue"
           },
           {
-            "text": "when performing tasks through a Lodestar or a Delegation Station.  When I have multiple constructs assigned to the same Lodestar or Delegation Station, they will share the work, splitting the tasks among them instead of each one trying to do the same thing."
+            "text": "を行います。\n\n複数のコンストラクトが命令台やロードスターに紐づけされている場合、同じ事を一緒にやろうとせずに分担作業を行います。"
           }
         ]
       }
@@ -16276,56 +16222,49 @@
         "value": "",
         "json": [
           {
-            "text": "The Patterning Prism is much more than an ingredient for the Lodestar.  It is capable of "
+            "text": "パターンプリズムは、ただのロードスターの素材ではありません。\n\nこれは"
           },
           {
-            "text": "copying logic",
-            "color": "dark_purple"
-          },
-          {
-            "text": " between "
-          },
-          {
-            "text": "Lodestars ",
+            "text": "ロードスター",
             "color": "blue"
           },
           {
-            "text": "(or "
+            "text": "間（もしくは命令台）で"
           },
           {
-            "text": "Delegation Stations",
+            "text": "論理のコピー",
+            "color": "dark_purple"
+          },
+          {
+            "text": "、や"
+          },
+          {
+            "text": "パーティクル放射器",
             "color": "blue"
           },
           {
-            "text": "), as well as "
+            "text": "の"
           },
           {
-            "text": "copying data",
+            "text": "データのコピー",
             "color": "dark_purple"
           },
           {
-            "text": " between "
+            "text": "ができます。\n\nさらに、"
           },
           {
-            "text": "Particle Emitters",
-            "color": "blue"
-          },
-          {
-            "text": ".\n\nIn addition, it "
-          },
-          {
-            "text": "contains several simple templates for Construct logic that can be used to quickly set up basic logic flows",
+            "text": "基本的な論理フローを簡単に設定できるいくつかの単純なテンプレート",
             "color": "dark_purple"
           },
           {
-            "text": ".  It is capable of copying/pasting to/from the system clipboard, so it "
+            "text": "を保持しています。\n\nシステムのクリップボードにコピー/ペーストする事がで、"
           },
           {
-            "text": "can also be used to share logic flows across games or with other players",
+            "text": "別のセーブデータ間や他のプレイヤーと共有",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nTo use all of this functionality, simply hold a patterning prism and use the radial menu, default 'Z'."
+            "text": "できます。\n\nこの機能を利用するには、パターンプリズムを手に持ち円メニュー（デフォルト\"Z\"）を使用してください。"
           }
         ]
       }
@@ -16338,35 +16277,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Sharing Constructs"
+        "value": "コンストラクトを共有"
       },
       {
         "type": "text",
         "value": "By default, constructs can only be commanded by you.  They will not listen to commands given by another player.  However, if you are on the same scoreboard team as another player, they will be allowed to command your constructs and vice-versa.  This also applies to the prevention of damage from players; you cannot directly damage constructs that you can issue commands to.",
         "json": [
           {
-            "text": "By default, "
+            "text": "デフォルトでは、"
           },
           {
-            "text": "my constructs can only be commanded by me",
+            "text": "自分のコンストラクトは自分しか命令できません",
             "color": "dark_purple"
           },
           {
-            "text": ". They will not listen to commands given by another wizard. \n\nHowever, if I am on the "
+            "text": "。他の魔術師からの命令は聞きあません。\nしかし、他"
           },
           {
-            "text": "same scoreboard team as another wizard",
+            "text": "の魔術師の同じスコアボードのチーム",
             "color": "dark_purple"
           },
           {
-            "text": ", they will be allowed to command my constructs and vice-versa. \n\nThis also applies to the prevention of damage from owners; "
+            "text": "に居る場合、お互いのコンストラクトに命令できます・\n\nこれは、所有者からのダメージを防ぐ機能も含みます；"
           },
           {
-            "text": "I cannot directly damage constructs that I can issue commands to",
+            "text": "自分が命令する事ができるコンストラクトに、直接ダメージを与えられません",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -16378,53 +16317,50 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Intelligence"
+        "value": "コンストラクトの知能"
       },
       {
         "type": "text",
         "value": "Constructs have an intelligence attribute which determines how many instructions they can follow in a lodestar (default is 8, with the exception of Wickerwood which is 5).  When following a Delegation Station or Lodestar, if the number of commands they have executed becomes higher than their intelligence, they will become confused and start over.\n\nCraft Smart Construct Heads out of different materials to get around this limitation.\n\nYou can also use conditional logic to help with this, as the number is how many tasks they have actually done, not how many are in the Delegation Station/Lodestar in total.",
         "json": [
           {
-            "text": "Constructs ",
+            "text": "コンストラクト",
             "color": "blue"
           },
           {
-            "text": "have an "
+            "text": "は、"
           },
           {
-            "text": "intelligence ",
+            "text": "ロードスター",
             "color": "blue"
           },
           {
-            "text": "attribute which determines "
-          },
-          {
-            "text": "how many instructions they can follow in a lodestar",
+            "text": "からの指令を何個従えるか",
             "color": "dark_purple"
           },
           {
-            "text": " (default is 8, with the exception of Wickerwood which is 5). \n\nWhen following a Delegation Station or Lodestar, if the number of "
+            "text": "を決める知能という値があります（デフォルトは８で、例外として柳材は５です）。\n\n命令台かロードスターに従う時、"
           },
           {
-            "text": "commands they have executed",
+            "text": "実行した命令の数が知能を超過した場合",
             "color": "dark_purple"
           },
           {
-            "text": " becomes higher than their intelligence, they will become confused and start the logic flow over.\n\nI can craft "
+            "text": "、彼らは混乱して論フローを最初からやり直します。\n\n"
           },
           {
-            "text": "Smart Construct Heads",
+            "text": "賢いコンストラクトの頭",
             "color": "blue"
           },
           {
-            "text": " out of different materials to get around this limitation. \n\nI can also use conditional logic to help with this, as the "
+            "text": "をいろんな素材から作成することで、この制限を避けれます。\n\n条件倫理を利用する事でもこの制限を避けるのに有用で、な"
           },
           {
-            "text": "limit is how many tasks they have actually done, not how many are in the Delegation Station/Lodestar in total",
+            "text": "ぜなら制限は実行したタスクの数で、命令台/ロードスターにある総数とは関係ない",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "からです。\n"
           }
         ]
       },
@@ -16433,31 +16369,21 @@
         "value": "Certain tasks within the Lodestar have a minimum intelligence requirement, such as Adventure, Mine, or Craft.  If a construct's intelligence is lower than this requirement, it will not be able to perform the task (it counts as failure for logic flow purposes).  The specific intelligence requirements for tasks are detailed in their respective codex entries.",
         "json": [
           {
-            "text": "Certain tasks within the "
-          },
-          {
-            "text": "Lodestar ",
+            "text": "ロードスター",
             "color": "blue"
           },
           {
-            "text": "have a "
+            "text": "のタスクのいくつかには最低限必要な知能があり、"
           },
           {
-            "text": "minimum intelligence requirement",
+            "text": "冒険、採掘、クラフトなど",
             "color": "dark_purple"
           },
           {
-            "text": ", such as "
+            "text": "です。\n\nコンストラクトの知能が要件より少ない場合、タスクを行えません（論理フローでは失敗とカウントされます）。\n\n\n"
           },
           {
-            "text": "Adventure, Mine, or Craft",
-            "color": "dark_purple"
-          },
-          {
-            "text": ". If a construct's intelligence is lower than this requirement, it will not be able to perform the task (it counts as failure for logic flow purposes). \n\n"
-          },
-          {
-            "text": "The specific intelligence requirements for tasks are detailed in their respective codex entries.",
+            "text": "特定の要求知能は、それぞれのコーデックスの項目に詳細が書かれています。",
             "italic": true
           }
         ]
@@ -16467,7 +16393,7 @@
         "value": "",
         "json": [
           {
-            "text": "The smarter a construct is, the more it is capable of doing in general.  For example, smarter constructs will attempt to run away if they are ranged attacking and something is too close.  They are also capable of recognizing if their owner is undead and about to light on fire, and will spray them with water to give the Soaked effect before they ignite."
+            "text": "コンストラクトが賢いほど、いろんな事ができます。\n\n例えば、賢いコンストラクトが遠距離攻撃を行っている場合、敵が近すぎると相手から離れようとします。\n\n彼らは所有者が不死者で、火が付きそうな場合は所有者に水をかけ、ずぶ濡れの効果を与える事で燃えないようにします。"
           }
         ]
       }
@@ -16479,56 +16405,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Diagnostics"
+        "value": "コンストラクトの診断"
       },
       {
         "type": "text",
         "value": "From time to time, you may find yourself asking \"What is my construct doing??\"  Enter the Construct Diagnostics Command.  Select this command from your Bell of Bidding's radial menu and right click your construct with it to get a live view into its brain.",
         "json": [
           {
-            "text": "From time to time, I find myself asking \"What is my construct doing??\" \n\nEnter the "
+            "text": "時々、自分が”コンストラクト何してるんだろう？？”と考えています。\n\nここで、"
           },
           {
-            "text": "Construct Diagnostics Command",
+            "text": "コンストラクト診断の命令",
             "color": "blue"
           },
           {
-            "text": ". \n\nI can select this command from your "
+            "text": "が役に立ちます。\n\n命令の鐘の円メニューからこの命令が選択でき、コンストラクトにクリックする事で、コンストラクトの脳の現在の情報が見れます。\n\n診断のメニューから直接コンストラクトの"
           },
           {
-            "text": "Bell of Bidding",
+            "text": "インベントリ",
             "color": "blue"
           },
           {
-            "text": "'s radial menu and activate a construct to get a live view into its brain.\n\nThis diagnostics screen provides a great deal of information about my construct including its stats, capabilities and its "
+            "text": "にアイテムを入れる事はできませんが、ス"
           },
           {
-            "text": "inventory",
-            "color": "blue"
-          },
-          {
-            "text": ".\n\nWhile I cannot directly put items into a construct's inventory through Diagnostics, "
-          },
-          {
-            "text": "I can use it to instruct the construct to drop any item in a slot",
+            "text": "ロット内のアイテムを地面に落とす",
             "color": "dark_purple"
           },
           {
-            "text": " "
+            "text": "ように指令（アイテムをクリック）する事はできます。\n\nコンストラクトの診断をHUDに"
           },
           {
-            "text": "(click on the item)",
-            "italic": true
-          },
-          {
-            "text": ".  I can also "
-          },
-          {
-            "text": "pin",
+            "text": "ピン止め",
             "color": "blue"
           },
           {
-            "text": " a construct's diagnostics to the main HUD, which will show me a live view of their tasks while I do other things.  I can unpin it using the button in my inventory."
+            "text": "することもでき、自分が他の事をしている間に現在のコンストラクトの情報が確認できます。インベントリ内のボタンをクリックする事でピン止めを外せます。"
           }
         ]
       }
@@ -16552,42 +16464,35 @@
         "type": "text",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトが"
           },
           {
-            "text": "take an item out of the specified inventory",
+            "text": "指定されたインベントリからアイテムを取りだす",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThe "
+            "text": "ようにします。\n\n"
           },
           {
-            "text": "Rune of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": " specifies the "
+            "text": "が、探す容器の"
           },
           {
-            "text": "side and position",
+            "text": "座標と面",
             "color": "dark_purple"
           },
           {
-            "text": " of the container to search. \n\n"
+            "text": "を指定します。\n\nフィルターは任意で、空白の場合どのアイテムでも取り出します。\n\nアイテムを持つには"
           },
           {
-            "text": "The filter is optional",
+            "text": "最低一つの掴み腕もしくはストレージ胴体",
             "color": "dark_purple"
           },
           {
-            "text": ", and will take any item if left blank. \n\nIt requires the construct have "
-          },
-          {
-            "text": "at least one grabber arm or storage torso",
-            "color": "dark_purple"
-          },
-          {
-            "text": " to hold the item, and it can't already have something in it.  Stack merging is done as part of taking, but not during the initial check for performance reasons. As such, this command requires at least one empty slot somewhere in the construct's inventory. \n\nIf you give a construct two hands and want to fill both or wish to fill several inventory slots, you will need to use this command multiple times in a row."
+            "text": "がアイテムを掴むのに必要で、他のアイテムを持っていない必要があります。スタックの合体は掴みの処理と一緒に行われますが、パフォーマンスのため初期のチェックでは行われません。そのため、この命令はコンストラクトのインベントリに最低一つの空きがある火うようがあります。\n\nコンストラクトに二つの手を与えて両方にアイテムを与えるかインベントリのスロットを複数埋めたい場合は、この命令を同時に複数回行う必要があります。"
           }
         ]
       }
@@ -16606,14 +16511,14 @@
         "value": "This command will cause the construct to wait for the specified number of seconds before continuing on to further instructions.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトが他の命令を従うまでに"
           },
           {
-            "text": "wait for the specified number of seconds",
+            "text": "数秒間待機",
             "color": "dark_purple"
           },
           {
-            "text": " before continuing on to further instructions."
+            "text": "するようにします。"
           }
         ]
       }
@@ -16665,35 +16570,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "命令: ルーン刻み"
+        "value": "命令: ルーン刻印"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to attempt to chisel a pattern specified into a blank rune pattern at the given Runescribing table.  It requires a pattern already be present in the table.  The Runescribing Recipe in the table itself is used to determine which pattern is scribed.  This will require a hammer arm on the Construct.  The better the material, the faster the construct will work.",
         "json": [
           {
-            "text": "This command will cause the construct to attempt to "
+            "text": "この命令は"
           },
           {
-            "text": "chisel a pattern",
-            "color": "dark_purple"
-          },
-          {
-            "text": " specified into a blank rune pattern at the given "
-          },
-          {
-            "text": "Runescribing Table",
+            "text": "ルーン刻印台",
             "color": "blue"
           },
           {
-            "text": ". \n\nIt requires a pattern already be present in the table. \n\nThe Runescribing Recipe in the table itself is used to determine which pattern is scribed. \n\nThis will "
+            "text": "で空のルーンパターンに、指定された"
           },
           {
-            "text": "require a hammer arm on the Construct",
+            "text": "パターンを刻み込もうとします",
             "color": "dark_purple"
           },
           {
-            "text": ". The better the material, the faster the construct will work."
+            "text": "。\n\n既に台にルーンパターンが設置してある必要があります。\n\n刻印台に置いてあるルーン刻印レシピが、刻むパターンを決めるのに利用されます。\n\nこの命令は、"
+          },
+          {
+            "text": "コンストラクトにハンマー腕を必要とします",
+            "color": "dark_purple"
+          },
+          {
+            "text": "。素材がいいほど、速く作業を行います。"
           }
         ]
       }
@@ -16745,33 +16650,40 @@
         "value": "This command will cause the construct to harvest plants within the specified region.  It requires that the construct have a blade arm.  Target the plants themselves when setting up this task.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトに"
           },
           {
-            "text": "harvest plants within the specified region",
+            "text": "指定された範囲の植物を収穫",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\n"
+            "text": "させます。\n\n"
           },
           {
-            "text": "It requires a blade arm.",
+            "text": "剣の腕を要求します",
             "color": "dark_purple"
           },
           {
-            "text": "\n\n"
+            "text": "。\n\n"
           },
           {
-            "text": "Smart constructs will re-plant ageable crops where possible automatically, without needing to be instructed to do so.\n\n",
+            "text": "賢いコンストラクトは、命令せずとも可能な植物を植えなおします",
             "color": "blue"
           },
           {
-            "text": "Target the plants",
+            "text": "。\n\n"
+          },
+          {
+            "text": "目印のルーンで範囲を指定する際、その下の土ではなく直接",
+            "italic": true
+          },
+          {
+            "text": "植物を対象に",
             "italic": true,
             "color": "dark_purple"
           },
           {
-            "text": " themselves with the Runes of Marking when setting up this task, not the dirt below them.",
+            "text": "してください。",
             "italic": true
           }
         ]
@@ -16791,28 +16703,21 @@
         "value": "This command will cause the construct to plant the item held in its hand in farmland within the specified region.  It requires that the construct have a gripper arm, and be carrying a plantable item (use a take item command to get it).  Target the soil/grass/sand/soul sand to determine where to plant, not the air above it.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は指定された範囲に、"
           },
           {
-            "text": "plant the item held in its hand in farmland, grass, sand, or soul sand where appropriate",
+            "text": "手に持っているアイテムを農地、草地、砂、ソウルサンドに適切な場合に植えます",
             "color": "dark_purple"
           },
           {
-            "text": " within the specified region. \n\nIt "
+            "text": "。\n\n掴み腕が必要で、植えれるアイテムを持っている必要があります。\n\nアイテムを取るの命令を利用してコンストラクトの手に持たせるようにしましょう。\n\nその上の空気ではなく、"
           },
           {
-            "text": "requires a grabber arm",
+            "text": "農地/草地/砂/ソウルサンドを植える対象にしてください",
             "color": "dark_purple"
           },
           {
-            "text": ", and the construct must be carrying a plantable item. \nConsider using a take item command to get it into the construct's hand.\n\n"
-          },
-          {
-            "text": "Target the soil/grass/sand/soul sand to determine where to plant,",
-            "color": "dark_purple"
-          },
-          {
-            "text": " not the air above it."
+            "text": "。"
           }
         ]
       }
@@ -16831,14 +16736,14 @@
         "value": "This command will cause the construct to attempt to simulate a player right clicking on the block at the specified location.  It is useful for things like buttons and levers.  It does not require any specific parts.",
         "json": [
           {
-            "text": "This command will cause the construct to attempt to "
+            "text": "この命令は、"
           },
           {
-            "text": "simulate a player right clicking on the block at the specified location",
+            "text": "指定されたブロックにプレイヤーの右クリックを模倣",
             "color": "dark_purple"
           },
           {
-            "text": ". It is useful for things like buttons and levers. It does not require any specific parts."
+            "text": "します。\n\nボタンやレバーを操作するのに便利です。特定の部品を要求しません。"
           }
         ]
       }
@@ -16850,7 +16755,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command:移動"
+        "value": "命令：移動"
       },
       {
         "type": "text",
@@ -16876,21 +16781,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: アイテムを落とす"
+        "value": "命令：アイテムを落とす"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to move to the given location and drop whatever items it is holding in its hands.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトを"
           },
           {
-            "text": "move to the given location and drop whatever items it is holding in its hands",
+            "text": "指定された場所に移動し、手に持っているアイテムを落とさせます",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -16909,21 +16814,21 @@
         "value": "",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "このコマンドは、コンストラクトを"
           },
           {
-            "text": "move to the specified point and match its facing",
+            "text": "指定された場所と方向に移動",
             "color": "dark_purple"
           },
           {
-            "text": ", standing guard and attacking enemies that come within range of its sight (if it is capable of doing so).  If its attack causes it to move too far away from the guard point (based on the construct's perception stat), "
+            "text": "し、そこを警備して視線に入った敵を攻撃するようにします（可能であれば）。攻撃する事で警備する事で指定された地点から離れすぎてしまう場合（認知に依存）は、"
           },
           {
-            "text": "it will cease attack and return to its post",
+            "text": "攻撃をやめて元の位置に戻ります",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nAfter standing guard for the specified number of seconds, the task will complete and the construct will go on to any other tasks afterward."
+            "text": "。\n\n指定された時間の間警備したのち、タスクが完了となり次のタスクに移行します。"
           }
         ]
       }
@@ -16935,28 +16840,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: パトロール"
+        "value": "命令： パトロール"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to patrol among one to four points specified, attacking enemies it sees along the way (if it is capable of doing so).  At each point, it will remain for the specified number of seconds before continuing on to the next.  At the end of the final point, it will continue any other tasks within the lodestar before returning to patrol.  It's a particularly good use of time if you're having your construct wait for something.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトを"
           },
           {
-            "text": "patrol among one to four points specified",
+            "text": "一から四つの指定されたポイントをパトロール",
             "color": "dark_purple"
           },
           {
-            "text": ", attacking enemies it sees along the way (if it is capable of doing so). At each point, "
+            "text": "させ、可能であれば見つかった敵を攻撃します。すべてのポイントで、"
           },
           {
-            "text": "it will remain for the specified number of seconds before continuing on to the next",
+            "text": "次のポイントに移動するまで指定された時間待機",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nAt the end of the final point, it will continue any other tasks within the lodestar before returning to patrol. It's a particularly good use of time if you're having your construct wait for something."
+            "text": "します。\n\n最後のポイントの後には、ロードスター内の他のタスクを終わらせてからパトロールに戻ります。\n\nコンストラクトに暇な時間がある場合に行わせることで時間を有効活用できます。"
           }
         ]
       }
@@ -16968,53 +16873,53 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 作成"
+        "value": "命令：作成"
       },
       {
         "type": "text",
         "value": "This command requires a rune of marking pointed at a Magician's Workbench.  The construct will move to the workbench where it will attempt to craft the item from the materials stored within the workbench's inventory.\n\nThe recipe used for the item will be from the Workbench's saved recipes.\n\nThe resultant item will be placed in the construct's hand (up to as much as it can carry, with the remainder dropped on the ground).\n\nThe construct needs a minimum intelligence of 16 to perform this task.",
         "json": [
           {
-            "text": "This command requires a "
+            "text": "この命令は、"
           },
           {
-            "text": "Rune of Marking",
+            "text": "魔術師の作業台",
             "color": "blue"
           },
           {
-            "text": " pointed at a "
+            "text": "を指定した"
           },
           {
-            "text": "Magician's Workbench",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". \n\nThe construct will move to the workbench where it will attempt to "
+            "text": "が",
+            "color": "black"
           },
           {
-            "text": "craft the item",
+            "text": "必要です。\n\nコンストラクトは魔術師の作業台に移動し、その内部のアイテムを使用して"
+          },
+          {
+            "text": "アイテムの作成",
             "color": "dark_purple"
           },
           {
-            "text": " from the materials stored within the workbench's inventory. The "
+            "text": "を試みます。作成するアイテムの"
           },
           {
-            "text": "recipe used for the item will be from the Workbench's saved recipes",
+            "text": "レシピは、作業台に保存してあるレシピを利用",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThe resultant item will be placed in the construct's hand (up to as much as it can carry, with the remainder dropped on the ground)."
+            "text": "します。\n\n完成したアイテムはコンストラクトの手に置かれます（持てる限りで、残りは地面に落とされます）。\n\n\n"
           },
           {
-            "text": " ",
+            "text": "このタスクを行うには、コンストラクトに最低１６の知能が必要です",
             "color": "dark_purple"
           },
           {
-            "text": "\n\n"
-          },
-          {
-            "text": "The construct needs a minimum intelligence of 16 to perform this task.",
-            "color": "dark_purple"
+            "text": "。"
           }
         ]
       }
@@ -17032,42 +16937,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 粉砕"
+        "value": "命令：粉砕"
       },
       {
         "type": "text",
         "value": "This command requires a rune of marking pointed at a Grindstone.  The construct will move to the grindstone and will attempt to look up a crushing recipe that uses the current item in the construct's hand as the recipe's input.  If found, the construct will crush all of the items in its hand.\n\nThe output of the crushing will be placed in the Construct's hand, with the remainder being dropped on the ground.",
         "json": [
           {
-            "text": "This command requires a "
+            "text": "この命令は、"
           },
           {
-            "text": "Rune of Marking",
+            "text": "砥石",
             "color": "blue"
           },
           {
-            "text": " pointed at a "
+            "text": "を指定した"
           },
           {
-            "text": "Grindstone",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". \n\nThe construct will move to the grindstone and will attempt to look up a crushing recipe that uses the current item in the construct's hand as the recipe's input. \n\nIf found, the construct will "
+            "text": "が必要です。\n\nコンストラクトが砥石に移動し、手に持ったアイテムをレシピの入力とする、粉砕のレシピを探します。\n\n見つかった場合、コンストラクトが"
           },
           {
-            "text": "crush all of the items in its hand",
+            "text": "手に持ったアイテムを全て粉砕",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThe output of the crushing will be placed in the Construct's hand, with the remainder being dropped on the ground.\n\nThe construct needs a "
+            "text": "します。\n\n粉砕の出力はコンストラクトの手に置かれて、残りは地面に落とされます。\n\nこのタスクを行うには、コンストラクトに"
           },
           {
-            "text": "Hammer Arm ",
+            "text": "ハンマー腕",
             "color": "blue"
           },
           {
-            "text": "in order to perform this task."
+            "text": "が必要です。"
           }
         ]
       }
@@ -17139,35 +17044,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 繁殖"
+        "value": "命令：繁殖"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to attempt to use the item in its hand to breed animals within its radius.  For example, use a Take Item command to have the construct collect wheat, then use this command with a radius that includes cows or sheep.  The construct will breed them as long as there are at least 2 adult animals in the detection area that can breed.\n\nThe construct needs to have the carrying capability in order to perform this task.",
         "json": [
           {
-            "text": "This command will cause the construct to attempt to"
+            "text": "この命令は、コンストラクトに"
           },
           {
-            "text": " use the item in its hand to breed animals within its radius",
+            "text": "手に持っているアイテムを利用して、範囲内の動物を繁殖を試みます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nFor example, use a Take Item command to have the construct collect wheat, then use this command with a radius that includes cows or sheep. The construct will breed them as long as there are "
+            "text": "。\n\n例えば、アイテムを取る命令で小麦を回収し、この命令を範囲内に牛や羊がいる場所で使用してください。\n"
           },
           {
-            "text": "at least 2 adult animals in the detection area that can breed",
+            "text": "二つ以上の大人の動物が探知範囲内に居る",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThe construct "
+            "text": "場合に、コンストラクトが繁殖させます。\n\nこのタスクを行うには、コンストラクトが"
           },
           {
-            "text": "needs to have the carrying capability",
+            "text": "アイテムを保持できる能力を持っている",
             "color": "dark_purple"
           },
           {
-            "text": " in order to perform this task."
+            "text": "必要があります。"
           }
         ]
       }
@@ -17179,21 +17084,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 屠殺"
+        "value": "命令：屠殺"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to kill adult animals within the specified range.  It will leave the specified number of pairs alive.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトに"
           },
           {
-            "text": "kill adult animals within the specified range",
+            "text": "指定した範囲内の大人の動物を屠殺",
             "color": "dark_purple"
           },
           {
-            "text": ". It will leave the specified number of pairs alive."
+            "text": "させます。\n\n指定した数の大人のペアを残します。"
           }
         ]
       }
@@ -17205,48 +17110,55 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 刈り取り/摘み取り"
+        "value": "命令： 刈り取り/摘み取り"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトに指定された範囲内の"
           },
           {
-            "text": "shear nearby sheep, mooshrooms, and other animals that can be sheared, as well as periodically pluck feathers from chickens",
+            "text": "付近の羊、きのこ、刈り取れる生物を刈り取る",
             "color": "dark_purple"
           },
           {
-            "text": " within the configured radius.\n\nIf the construct does not have a "
+            "text": "ようにし、"
           },
           {
-            "text": "smart head",
+            "text": "定期的に鶏の羽根を摘み取り",
             "color": "dark_purple"
           },
           {
-            "text": ", it will cause minor injury to chickens.\n\nThe construct "
+            "text": "ます。\n\nコンストラクトが"
           },
           {
-            "text": "must have a blade arm",
+            "text": "賢い頭",
             "color": "dark_purple"
           },
           {
-            "text": " in order to use this task.\n\nIf the "
+            "text": "を持っていない場合、鶏に少しのダメージを与えてしまいます。\n\nこのタスクを行うには、コンストラクトが"
           },
           {
-            "text": "parameter ",
+            "text": "剣の腕を必要",
+            "color": "dark_purple"
+          },
+          {
+            "text": "とします。\n\n有効にする"
+          },
+          {
+            "text": "値",
             "color": "blue"
           },
           {
-            "text": "to do so is turned on, the construct will instead "
+            "text": "がオンになっている場合、コンストラクトは生き物の代わりに"
           },
           {
-            "text": "shear blocks",
+            "text": "ブロックを刈り取り",
             "color": "dark_purple"
           },
           {
-            "text": " instead of mobs."
+            "text": "ます。"
           }
         ]
       }
@@ -17258,27 +17170,31 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command:乳搾り"
+        "value": "命令：乳搾り"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトに指定した範囲内の"
           },
           {
-            "text": "milk nearby cows and cow variants where possible",
+            "text": "牛や牛の亜種の乳搾り",
             "color": "dark_purple"
           },
           {
-            "text": " within the configured radius. \n\nThe construct "
+            "text": "を",
+            "color": "black"
           },
           {
-            "text": "must have a fluid nozzle and tank torso",
+            "text": "させます。\n\nこのタスクを行うコンストラクトは、"
+          },
+          {
+            "text": "液体ノズルとタンク胴体",
             "color": "dark_purple"
           },
           {
-            "text": " in order to use this task."
+            "text": "を持っている必要があります。"
           }
         ]
       }
@@ -17290,27 +17206,27 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: ブロック設置"
+        "value": "命令：ブロック設置"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、"
           },
           {
-            "text": "place the block that it currently has in its hand  at the given location",
+            "text": "手に持っているブロックを指定された場所に設置",
             "color": "dark_purple"
           },
           {
-            "text": ", provided it is a block or an item that creates a block (like seeds or saplings). \n\nThe construct "
+            "text": "します。ブロックか、設置した際にブロックを作成するアイテム（種や苗木）である必用があります。\n\nこのタスクを行うには、コンストラクトが"
           },
           {
-            "text": "needs to have the carrying capability",
+            "text": "アイテムを保持できる能力を持っている",
             "color": "dark_purple"
           },
           {
-            "text": " in order to do this task."
+            "text": "必要があります。"
           }
         ]
       }
@@ -17322,28 +17238,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 伐採"
+        "value": "命令：伐採"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to chop down trees within the specified area.  Only the bases of the trees need to be included for the tree to be targeted.  The construct needs an axe arm in order to perform this action.",
         "json": [
           {
-            "text": "This command will cause the construct to"
+            "text": "この命令は、コンストラクトに"
           },
           {
-            "text": " chop down trees within the specified area",
+            "text": "指定された範囲内の木を切り倒させます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nOnly the bases of the trees need to be included for the tree to be targeted. \n\nThe construct "
+            "text": "。\n\n木を対象にする際、木の根元さえ含まれていれば利用できます。\n\nこのタスクを行うには、コンストラクトに"
           },
           {
-            "text": "needs an axe arm",
+            "text": "斧腕",
             "color": "dark_purple"
           },
           {
-            "text": " in order to perform this action."
+            "text": "が必要です。"
           }
         ]
       }
@@ -17355,28 +17271,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 源のブロックから液体を回収"
+        "value": "命令：源のブロックから液体を回収"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to attempt to gather fluid from source blocks within the configured area.  The construct needs to be able to dispense fluid and store fluid in order to perform this task.",
         "json": [
           {
-            "text": "This command will cause the construct to attempt to "
+            "text": "この命令は、指定した範囲内の"
           },
           {
-            "text": "gather fluid from source blocks within the configured area",
+            "text": "源ブロックから液体を回収",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nThe construct "
+            "text": "します。\n\nこのタスクを行うには、コンストラクトに"
           },
           {
-            "text": "needs to be able to dispense fluid and store fluid",
+            "text": "液体を供給し、貯蔵する能力を持っている必要",
             "color": "dark_purple"
           },
           {
-            "text": " in order to perform this task.\n\nConstructs can only carry one type of fluid at a time."
+            "text": "があります。\n\nコンストラクトは、一度に一種類の液体しか保持できません。"
           }
         ]
       }
@@ -17421,35 +17337,36 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 水やり"
+        "value": "命令： 水やり"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to water plants within the specified area making them grow faster.  The construct needs to have the ability to store and dispense fluid, and be carrying enough water to perform this task.  The larger the area, the more water is required.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトに"
           },
           {
-            "text": "water plants within the specified area making them grow faster",
+            "text": "指定した範囲内の植物に水やりをして成長速度を速く",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThe construct needs to have the "
+            "text": "します。\n\nこのタスクを行うコンストラクトには"
           },
           {
-            "text": "ability to store and dispense fluid",
+            "text": "液体を供給、貯蔵、",
             "color": "dark_purple"
           },
           {
-            "text": ", and "
+            "text": "そして",
+            "color": "black"
           },
           {
-            "text": "be carrying enough water",
+            "text": "十分な水を保持",
             "color": "dark_purple"
           },
           {
-            "text": " to perform this task. The larger the area, the more water is required."
+            "text": "している必要があります。\n\n範囲が広いほど、多量の水が必要になります。"
           }
         ]
       }
@@ -17461,35 +17378,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: アイテム回収"
+        "value": "命令： アイテム回収"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to pick up items within the area.  The construct needs grabber arms to perform this task.  It will store items in a storage torso if possible when performing this task.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令はコンストラクトに、"
           },
           {
-            "text": "pick up items within the area",
+            "text": "範囲内の落ちているアイテムを拾わせます",
             "color": "dark_purple"
           },
           {
-            "text": ". The construct "
+            "text": "。\n\nこのタスクを行うには、コンストラクトに"
           },
           {
-            "text": "needs the carrying capability ",
+            "text": "アイテムを保持できる能力が必要",
             "color": "dark_purple"
           },
           {
-            "text": "to perform this task. \n\nIt will store items in a"
+            "text": "です。\n\nこのタスクを行った場合、可能であればアイテムを"
           },
           {
-            "text": " storage torso",
+            "text": "ストレージ胴体",
             "color": "blue"
           },
           {
-            "text": " if possible when performing this task."
+            "text": "に保管します。"
           }
         ]
       }
@@ -17501,35 +17418,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 釣り"
+        "value": "命令：釣り"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to fish at the specified location.  It must have a fishing rod arm to perform this task.  Whatever it catches will be placed on the ground near the construct.  You should set up some way of collecting it.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトに"
           },
           {
-            "text": "fish at the specified location",
-            "color": "dark_purple"
-          },
-          {
-            "text": ". The location must be a water source block.  To target with a "
-          },
-          {
-            "text": "Rune of Marking",
+            "text": "指定した位置で釣りを",
             "color": "blue"
           },
           {
-            "text": ", place a block, target it, then break the block and replace it with water.\n\nIt "
+            "text": "させます。指定した位置は水源である必用があります。\n\n"
           },
           {
-            "text": "must have a fishing rod arm",
+            "text": "目印のルーン",
+            "color": "blue"
+          },
+          {
+            "text": "で指定するにはブロックを設置し、そのブロックを破壊して水で置き換えてください。\n\n\nこのタスクを行うコンストラクトには、"
+          },
+          {
+            "text": "釣り竿の腕",
             "color": "dark_purple"
           },
           {
-            "text": " to perform this task. \n\nWhatever it catches will be placed on the ground near the construct."
+            "text": "が必要です。\n\n捕まえた物は、コンストラクトの近くの地面に落とされます。"
           }
         ]
       }
@@ -17541,21 +17458,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: アイテムを食べる"
+        "value": "命令：アイテムを食べる"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to eat the current item it is holding.  They're adorable little trash cans.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトが現在"
           },
           {
-            "text": "eat the current item it is holding.",
+            "text": "持っているアイテムを食べさせます",
             "color": "dark_purple"
           },
           {
-            "text": " They're adorable little trash cans."
+            "text": "。\n\n彼らはかわいい小さなゴミ箱です。"
           }
         ]
       }
@@ -17567,46 +17484,56 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 採掘"
+        "value": "命令：採掘"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to dig down into the earth and disappear for a few minutes.  When it returns it will have some random mining loot it found on its journey.  It needs a hammer arm to go mining, as well as a grabber arm at least to store items.  It will be able to bring back more items if it has a storage torso.\n\nThe construct needs a minimum intelligence of 16 to perform this task.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令をするとコンストラクトは"
           },
           {
-            "text": "dig down into the earth and disappear for a few minutes on a mining journey",
+            "text": "下に地面を掘りはじめ、採掘の旅として数分間どこかに姿を消します",
             "color": "dark_purple"
           },
           {
-            "text": ". When it returns it will have some random mining loot it found on its journey. \n\nIt "
+            "text": "。\n\n帰還した際に、旅の途中で見つけた"
           },
           {
-            "text": "needs a hammer arm",
+            "text": "ランダムな採掘の戦利品をもって帰ります",
             "color": "dark_purple"
           },
           {
-            "text": " to go mining, "
+            "text": "。\n\nコンストラクトには、採掘を行うための"
           },
           {
-            "text": "as well as a grabber arm",
+            "text": "ハンマー腕",
             "color": "dark_purple"
           },
           {
-            "text": " at least to store items. \n\nIt will be able to bring back more items if it has a "
+            "text": "に加えて、アイテムを保持するために"
           },
           {
-            "text": "storage torso",
+            "text": "掴み腕",
+            "color": "dark_purple"
+          },
+          {
+            "text": "が必要です。\n\n"
+          },
+          {
+            "text": "ストレージ胴体",
             "color": "blue"
           },
           {
-            "text": ". \n\n"
+            "text": "がある場合は、より多くのアイテムを持ち帰ることが可能になります。\n\n"
           },
           {
-            "text": "The construct needs a minimum intelligence of 16 to perform this task.",
+            "text": "コンストラクトは、このタスクを行うのに最低でも１６の知能が必要です",
             "color": "dark_purple"
+          },
+          {
+            "text": "。"
           }
         ]
       }
@@ -17618,39 +17545,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 冒険"
+        "value": "命令：冒険"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to wander off and disappear for a few minutes.  When it returns it will have some random adventuring loot it found on its journey.  It needs a grabber arm at least to store items.  It will be able to bring back more items if it has a storage torso.\n\nThe construct needs a smart head and a minimum intelligence of 16 to perform this task.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令はコンストラクトに、"
           },
           {
-            "text": "wander off and disappear for a few minutes as it goes on an adventure",
+            "text": "ふらふらと姿を消し、冒険の旅に数分間行かせます",
             "color": "dark_purple"
           },
           {
-            "text": ". When it returns it will have some random adventuring loot it found on its journey. \n\nIt "
+            "text": "。\n\n帰還した際に、旅の途中で見つけたランダムな冒険の戦利品を持ち帰ります。\n\n最低限"
           },
           {
-            "text": "needs a grabber arm",
+            "text": "掴み腕",
             "color": "dark_purple"
           },
           {
-            "text": " at least to store items. It will be able to bring back more items if it has a "
+            "text": "がアイテムを保持するのに必要です。"
           },
           {
-            "text": "storage torso",
+            "text": "ストレージ胴体",
             "color": "blue"
           },
           {
-            "text": ". \n\n"
+            "text": "があればもっと多く持ち帰れます。\n\n"
           },
           {
-            "text": "The construct needs a minimum intelligence of 16 to perform this task.",
+            "text": "このタスクを行うコンストラクトには、知能が最低１６必要です",
             "color": "dark_purple"
+          },
+          {
+            "text": "。"
           }
         ]
       }
@@ -17662,63 +17592,51 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 狩り"
+        "value": "命令：狩り"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトに"
           },
           {
-            "text": "wander off and disappear for a few minutes as it goes monster hunting",
+            "text": "ふらふらと姿を消させ、モンスターハントに数分間行かせます",
             "color": "dark_purple"
           },
           {
-            "text": ". When it returns it will have some random dimension-appropriate hunting loot it found on its journey. \n\n"
+            "text": "。\n\n帰還した際に、その旅の途中で見つけたランダムな、そのディメンションに合った狩りの戦利品を持ち帰ります。\n\n"
           },
           {
-            "text": "It will require either a "
-          },
-          {
-            "text": "storage torso",
+            "text": "ストレージ胴体",
             "color": "blue"
           },
           {
-            "text": " and/or a "
+            "text": "か、"
           },
           {
-            "text": "grabber arm",
+            "text": "掴み腕",
             "color": "blue"
           },
           {
-            "text": " in order to carry home the loot.\n\n"
+            "text": "がアイテムを持って帰るのに必要です。\n\n"
           },
           {
-            "text": "What monsters it fights depends on the configuration of the task.\n\n",
+            "text": "どのモンスターと戦うかは、タスクの設定に依存します。",
             "color": "dark_purple"
           },
           {
-            "text": "It is possible for the construct to die during this task, but the risk can be mitigated:",
+            "text": "\n\n\n"
+          },
+          {
+            "text": "タスク中にコンストラクトが死亡する可能性がありますが、リスクは減らすことができます：",
             "color": "dark_red"
           },
           {
-            "text": "\n\n The construct must be able to engage with at least one of the configured enemy types (ranged attacks, flight, teleportation, or spell casting for flying monsters, buoyancy for water monsters, and perception 20 or lights (consumed) in its inventory for underground.  It will skip any types that it does not meet the criteria for.  For example, setting surface and underground will cause the construct to still perform a surface hunt if it doesn't have the required perception or light sources available."
+            "text": "\n\n\nコンストラクトは、指定された敵の種類（遠距離攻撃、飛行、転移、飛行モンスターのための呪文詠唱、水中の敵のための浮力）のうち最低でも一種類の敵と戦え、地下の場合は認知２０か、インベントリに消費できる光源が必要です。条件が満たされていない種類の敵はスキップされます。例えば、設定を地上と地下に設定し、必要な認知/光源がない場合は、地上での狩りは行いますが地下では行いません。\n\nリスクレベルは、戦闘を試みる対象の危険度を決定します。強力な戦闘能力（ダメージ）や、防御力、防具強度は受けるダメージを減らします。\n\n親和性もコンストラクトの生存に影響し、風/神秘は飛行する敵から守り、水は水棲の敵から守り、大地/炎/エンダーは地下の敵から守り、大地は地上の敵からも守ってくれます。\n\n地上が一番安全で、その次に水、飛行、そして最後に地下です。\n\n狩りの最中に味方の派閥に出会った場合は、代わりに回復してくれます。彼らの戦利品を手に入れる事はありません。\n\n体力の条件タスクを利用する事で、仮に行く前に体力が最大になっているようにする事をお勧めします。かれらの自然回復は、最大まで回復してくれますので。\n\n"
           },
           {
-            "text": "\n\n The risk level determines how dangerous the prey it will attempt to fight.  Stronger combat capabilities (more damage) will mitigate damage taken, as will armor and toughness.\n\nAffinity also plays a role in the construct's survivability, with wind/arcane protecting from flying monsters, water protecting from aquatic monsters, earth/fire/ender protecting from underground, and earth protecting from surface encounters."
-          },
-          {
-            "text": "\n\n Surface is the least dangerous, followed by water, flying, and finally underground."
-          },
-          {
-            "text": "\n\n Friendly faction mobs encountered during the hunt will serve instead to heal the construct.  Their loot will never be returned."
-          },
-          {
-            "text": "\n\n It is suggested to make use of the health condition task in a lodestar to ensure the construct has healed before leaving on a hunt.  Their natural regeneration can heal them to full, after all."
-          },
-          {
-            "text": "\n\nThe construct needs a minimum intelligence of 16 to perform this task, and higher perception will result in more encounters.  Having intelligence 36 and perception 20 will allow the construct to bring back drops that require a player kill.",
+            "text": "このタスクを行うコンストラクトは知能が最低でも16必要で、より高い知能ではより多くの接敵をします。そして知能３６、認知２０あると、プレイヤーによる討伐が必要なアイテムも持ち帰ることが可能になります。",
             "color": "dark_purple"
           }
         ]
@@ -17731,28 +17649,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: ブロックにアイテムを使用"
+        "value": "命令：ブロックにアイテムを使用"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to attempt to use its current held item on the given block.  If it is holding more than one item, it will try one randomly.  The construct needs to be able to hold items to perform this task.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令はコンストラクトに、"
           },
           {
-            "text": "attempt to use its current held item on the given block",
+            "text": "手に持っているアイテムを指定した場所に使用を試みさせます",
             "color": "dark_purple"
           },
           {
-            "text": ". If it is holding more than one item, it will try one randomly. \n\nThe construct "
+            "text": "。\n\n一つ以上のアイテムを持っている場合、ランダムに一つ試します。\n\nこのタスクを行うコンストラクトは、"
           },
           {
-            "text": "needs to be able to hold items",
+            "text": "アイテムを保持できる必要",
             "color": "dark_purple"
           },
           {
-            "text": " to perform this task."
+            "text": "があります。"
           }
         ]
       }
@@ -17764,28 +17682,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 容器からアイテムを取る"
+        "value": "命令：容器から液体を回収"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to attempt to gather fluid from the specified container.  The construct needs to be able to dispense fluid and store fluid in order to perform this task.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトに"
           },
           {
-            "text": "attempt to gather fluid from the specified container",
+            "text": "指定した容器から液体の回収を試み",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThe construct "
+            "text": "させます。\n\nこのタスクを行うには、コンストラクトに"
           },
           {
-            "text": "needs to be able to dispense fluid and store fluid",
+            "text": "液体を供給、貯蔵する能力が必要",
             "color": "dark_purple"
           },
           {
-            "text": " in order to perform this task."
+            "text": "です。"
           }
         ]
       }
@@ -17797,28 +17715,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: 容器に液体を追加"
+        "value": "命令：容器に液体を追加"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to attempt to place the fluid in its tank in the specified container.  The construct needs to be able to dispense fluid and store fluid in order to perform this task.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクトに"
           },
           {
-            "text": "attempt to place the fluid in its tank in the specified container",
+            "text": "指定された容器の中に液体を供給",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nThe construct needs to be able to "
+            "text": "を試みさせます。\n\nこのタスクを行うには、コンストラクトに"
           },
           {
-            "text": "dispense fluid and store fluid",
+            "text": "液体を供給、貯蔵する能力が必要",
             "color": "dark_purple"
           },
           {
-            "text": " in order to perform this task."
+            "text": "です。"
           }
         ]
       }
@@ -17830,28 +17748,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: ブロックを破壊"
+        "value": "命令：ブロックを破壊"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令はコンストラクトに、指定された範囲のブロックの破壊を試みます。\n\nこのタスクを行うコンストラクトは、"
           },
           {
-            "text": "attempt to break any blocks in the given area",
+            "text": "ブロックを破壊できる能力が必要",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nThe construct needs to be able to "
-          },
-          {
-            "text": "break blocks",
-            "color": "dark_purple"
-          },
-          {
-            "text": " in order to perform this task.  The material of the part granting this capability (for instance, a hammer arm) will determine the level of mining the construct is capable of performing."
+            "text": "です。\n\nこの能力を与える部品（例：ハンマー腕）の素材が、可能な破壊のレベルを決定します。"
           }
         ]
       }
@@ -17863,35 +17774,39 @@
     "sections": [
       {
         "type": "title",
-        "value": "Condition: 場所にブロックがあるか"
+        "value": "条件：場所にブロックがあるか"
       },
       {
         "type": "text",
         "value": "This condition will check if the specified block is at the given location, returning success if it is, and failure if it is not.",
         "json": [
           {
-            "text": "This condition will"
+            "text": "この条件は"
           },
           {
-            "text": " check if the specified block is at the given location",
+            "text": "指定されたブロックが特定の位置にあるか",
             "color": "dark_purple"
           },
           {
-            "text": ", returning "
+            "text": "を",
+            "color": "black"
           },
           {
-            "text": "success ",
+            "text": "確認し、あれば"
+          },
+          {
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "if it is, and "
+            "text": "、そうでなければ"
           },
           {
-            "text": "failure ",
+            "text": "失敗",
             "color": "dark_red"
           },
           {
-            "text": "if it is not."
+            "text": "を出力します。"
           }
         ]
       }
@@ -17903,35 +17818,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Condition: 範囲が空か"
+        "value": "条件：範囲が空か"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This condition will"
+            "text": "この条件は、"
           },
           {
-            "text": " check if the specified area contains only air blocks",
+            "text": "指定された範囲が空気ブロックのみ存在するか確認",
             "color": "dark_purple"
           },
           {
-            "text": ", returning "
+            "text": "し、そうであれば"
           },
           {
-            "text": "success ",
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "if it does, and "
+            "text": "、でなければ"
           },
           {
-            "text": "failure ",
+            "text": "失敗",
             "color": "dark_red"
           },
           {
-            "text": "if it does not."
+            "text": "を出力します。"
           }
         ]
       }
@@ -17943,35 +17858,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Condition: 体力が一定割合あるか"
+        "value": "条件： 体力が％あるか"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This condition will"
+            "text": "この条件は、"
           },
           {
-            "text": " check if the construct's health is above a given percent",
+            "text": "コンストラクトの体力が指定の％以上あるか確認",
             "color": "dark_purple"
           },
           {
-            "text": ", returning "
+            "text": "し、そうであれば"
           },
           {
-            "text": "success ",
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "if it is, and "
+            "text": "、でなければ"
           },
           {
-            "text": "failure ",
+            "text": "失敗",
             "color": "dark_red"
           },
           {
-            "text": "if it is not."
+            "text": "を出力します。"
           }
         ]
       }
@@ -18157,35 +18072,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Condition: 液体が容器にあるか"
+        "value": "条件：液体が容器にあるか"
       },
       {
         "type": "text",
         "value": "This condition will check if the specified container has the specified fluid in it (determined by the item; any fluid holding item containing the specified fluid will do), returning success if it does, and failure if it does not.",
         "json": [
           {
-            "text": "This condition will check if the "
+            "text": "この条件は、"
           },
           {
-            "text": "specified container has the specified fluid in it",
+            "text": "指定された容器に指定の液体",
             "color": "dark_purple"
           },
           {
-            "text": " (determined by the item; any fluid holding item containing the specified fluid will do), returning "
+            "text": "（アイテムによって決定：その液体が入っているアイテムなら問題ない）"
           },
           {
-            "text": "success ",
+            "text": "が入っているか確認",
+            "color": "dark_purple"
+          },
+          {
+            "text": "し、であれば"
+          },
+          {
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "if the container contains the fluid, and "
+            "text": "、でなければ"
           },
           {
-            "text": "failure ",
+            "text": "失敗",
             "color": "dark_red"
           },
           {
-            "text": "if it does not."
+            "text": "を出力します。"
           }
         ]
       }
@@ -18197,35 +18119,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Condition: アイテムが容器にあるか"
+        "value": "条件：アイテムが容器にあるか"
       },
       {
         "type": "text",
         "value": "This condition will check if the specified container has the specified item in it, returning success if it does, and failure if it does not.",
         "json": [
           {
-            "text": "This condition will check if the "
+            "text": "この条件は、"
           },
           {
-            "text": "specified container has the specified item in it",
+            "text": "指定の容器に指定のアイテムが含まれている",
             "color": "dark_purple"
           },
           {
-            "text": ", returning "
+            "text": "か確認し、そうであれば"
           },
           {
-            "text": "success ",
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "if it does, and "
+            "text": "、そうでなければ"
           },
           {
-            "text": "failure ",
+            "text": "失敗",
             "color": "dark_red"
           },
           {
-            "text": "if it does not."
+            "text": "を出力します。"
           }
         ]
       }
@@ -18237,35 +18159,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Condition: どの時間帯か"
+        "value": "条件：どの時間帯か"
       },
       {
         "type": "text",
         "value": "This condition will check if the time of day is within the specified range, returning success if it is, and failure if it is not.",
         "json": [
           {
-            "text": "This condition will check"
+            "text": "この条件は、"
           },
           {
-            "text": " if the time of day is within the specified range,",
+            "text": "時間が指定した範囲内であるか確認",
             "color": "dark_purple"
           },
           {
-            "text": " returning "
+            "text": "し、そうであれば"
           },
           {
-            "text": "success ",
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "if it is, and "
+            "text": "、そうでなければ"
           },
           {
-            "text": "failure ",
+            "text": "失敗",
             "color": "dark_red"
           },
           {
-            "text": "if it is not."
+            "text": "を出力します。"
           }
         ]
       }
@@ -18277,35 +18199,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Condition: レッドストーン信号がされているか"
+        "value": "条件：レッドストーン信号がされているか"
       },
       {
         "type": "text",
         "value": "This condition will check if the specified block is receiving a redstone signal of the given strength or more, returning success if it is, and failure if it is not.",
         "json": [
           {
-            "text": "This condition will check "
+            "text": "この条件は、"
           },
           {
-            "text": "if the specified block is receiving a redstone signal of the given strength or more",
+            "text": "指定されたブロックが指定された強さよりも強い信号を受けているか確認",
             "color": "dark_purple"
           },
           {
-            "text": ", returning "
+            "text": "し、そうであれば"
           },
           {
-            "text": "success ",
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "if it is, and "
+            "text": "、そうでなければ"
           },
           {
-            "text": "failure ",
+            "text": "失敗",
             "color": "dark_red"
           },
           {
-            "text": "if it is not."
+            "text": "を出力します。"
           }
         ]
       }
@@ -18317,28 +18239,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Condition: ランダムな確率"
+        "value": "条件：ランダムな確率"
       },
       {
         "type": "text",
         "value": "This condition will returning success randomly, with a percentage of success being determined by configuration.",
         "json": [
           {
-            "text": "This condition will returning "
+            "text": "この条件は、設定された確率に則ってランダムに"
           },
           {
-            "text": "success ",
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "or "
+            "text": "か"
           },
           {
-            "text": "failure ",
+            "text": "失敗",
             "color": "dark_red"
           },
           {
-            "text": "randomly, with a percentage of success being determined by configuration."
+            "text": "を出力します。"
           }
         ]
       }
@@ -18350,21 +18272,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Grabber Arms"
+        "value": "コンストラクト掴み腕"
       },
       {
         "type": "text",
         "value": "Construct grabber arms allow weak attacks and carrying of items.",
         "json": [
           {
-            "text": "Construct grabber arms allow weak attacks and "
+            "text": "コンストラクト掴み腕は弱い攻撃と、"
           },
           {
-            "text": "carrying of items",
+            "text": "アイテムの保持",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "を可能にします。"
           }
         ]
       }
@@ -18417,25 +18339,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Bladed Arms"
+        "value": "コンストラクトの剣の腕"
       },
       {
         "type": "text",
         "value": "Construct bladed arms allow for faster, more powerful attacks.",
         "json": [
           {
-            "text": "Construct bladed arms allow for "
+            "text": "コンストラクトの剣の腕は"
           },
           {
-            "text": "faster, more powerful attacks",
+            "text": "速い、強力な攻撃を可能にします",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nIf a construct has two blade arms, it will gain a "
+            "text": "。\n\n両腕に剣の腕を装備している場合、"
           },
           {
-            "text": "sweep attack.",
+            "text": "薙ぎ払い攻撃",
             "color": "dark_purple"
+          },
+          {
+            "text": "を得ます。"
           }
         ]
       }
@@ -18488,14 +18413,14 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Shield Arms"
+        "value": "コンストラクトの盾腕"
       },
       {
         "type": "text",
         "value": "Construct shield arms allow the construct to block incoming attacks in front of it, greatly increasing its survivability.  They also increase the construct's overall armor/toughness values based on their material:",
         "json": [
           {
-            "text": "Construct shield arms allow the construct to block incoming attacks in front of it, greatly increasing its survivability. They also increase the construct's overall armor/toughness values based on their material:\n\n"
+            "text": "コンストラクトの盾腕は、正面の攻撃を防ぐのを可能にし、生存能力を大きく上げます。さらに、素材に応じて防御力/防具強度を得ます：\n\nConstruct shield arms allow the construct to block incoming attacks in front of it, greatly increasing its survivability. They also increase the construct's overall armor/toughness values based on their material:\n\n"
           },
           {
             "text": "Wood",
@@ -18583,35 +18508,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Axe Arms"
+        "value": "コンストラクトの斧腕"
       },
       {
         "type": "text",
         "value": "Construct axe arms allow for moderate attacks and chopping down trees.",
         "json": [
           {
-            "text": "Construct axe arms allow for "
+            "text": "コンストラクトの斧腕は、"
           },
           {
-            "text": "moderate attacks and chopping down trees",
+            "text": "それなりの攻撃と木の伐採",
             "color": "dark_purple"
           },
           {
-            "text": ".  They can also occasionally "
+            "text": "を可能にします。さらに、しばしば"
           },
           {
-            "text": "disable shields",
+            "text": "盾を無効化",
             "color": "dark_purple"
           },
           {
-            "text": ".  The construct will also gain a special "
+            "text": "できます。両腕に装備した場合、特殊な"
           },
           {
-            "text": "leaping attack ",
+            "text": "飛び掛かり攻撃",
             "color": "dark_purple"
           },
           {
-            "text": "if it has 2 axe arms.  They do not need to be the same type of material."
+            "text": "を可能にします。同じ素材である必要はありません。"
           }
         ]
       }
@@ -18664,77 +18589,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Mana Cannon Arms"
+        "value": "コンストラクトのマナキャノン腕"
       },
       {
         "type": "text",
         "value": "Mana cannon arms give constructs the ability to attack at range, but due to the intricacy of the construction, this arm cannot be used for melee attacks.  These magic attacks can be very powerful, and moreso depending on the material used to craft the arm.  A mana torso is required for these to function, as well as periodic recharging by mana crystals.  See the mana torso entry for more information on capacity and recharging.  Damage per material is as follows:",
         "json": [
           {
-            "text": "Mana cannon arms give constructs the ability to "
+            "text": "マナキャノン腕は、コンストラクトの"
           },
           {
-            "text": "attack at range",
+            "text": "遠距離攻撃",
             "color": "dark_purple"
           },
           {
-            "text": ", but due to the intricacy of the construction, this arm cannot be used for melee attacks.\n\nThese magic attacks can be very powerful depending on the material used to craft the arm. A "
+            "text": "を可能にしますが、構造が複雑な為に近接攻撃には使用できません。\n\nこれらの魔法攻撃は、素材によってはかなり強力になりえます。"
           },
           {
-            "text": "mana torso",
+            "text": "マナ胴体",
             "color": "blue"
           },
           {
-            "text": " is required for these to function, as well as periodic recharging by "
+            "text": "が機能するために必要で、さらに定期的に"
           },
           {
-            "text": "mana crystals",
+            "text": "マナクリスタル",
             "color": "blue"
           },
           {
-            "text": ".\n\n"
-          },
-          {
-            "text": "Wood",
-            "color": "blue"
-          },
-          {
-            "text": ": 3 damage\n"
-          },
-          {
-            "text": "Stone",
-            "color": "blue"
-          },
-          {
-            "text": ": 5 damage\n"
-          },
-          {
-            "text": "Iron",
-            "color": "blue"
-          },
-          {
-            "text": ": 7 damage\n"
-          },
-          {
-            "text": "Obsidian",
-            "color": "blue"
-          },
-          {
-            "text": ": 10 damage\n"
-          },
-          {
-            "text": "Diamond",
-            "color": "blue"
-          },
-          {
-            "text": ": 15 damage\n"
-          },
-          {
-            "text": "Gold",
-            "color": "blue"
-          },
-          {
-            "text": ": 20 damage\n\nIf a construct has 2 mana cannon arms, it can target 2 different enemies per shot."
+            "text": "を利用して充填する必要があります。\n\n木製：３ダメージ\n石製：５ダメージ\n鉄製：７ダメージ\n黒曜石製：１０ダメージ\nダイアモンド製：１５ダメージ\n金製：２０ダメージ\n\nコンストラクトの両腕にマナキャノン腕を装備した場合、一発で二つの対象を攻撃できます。"
           }
         ]
       }
@@ -18791,21 +18674,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Hammer Arms"
+        "value": "コンストラクトのハンマー腕"
       },
       {
         "type": "text",
         "value": "Construct hammer arms allow for slower, moderately powerful attacks with higher knockback.",
         "json": [
           {
-            "text": "Construct hammer arms allow for "
+            "text": "コンストラクトのハンマー腕は、"
           },
           {
-            "text": "slower, moderately powerful attacks with higher knockback",
+            "text": "遅いが、それなりのダメージで高いノックバックの攻撃",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nIf a construct has 2 hammer arms, it gets a leaping slam attack that knocks back everything around it."
+            "text": "を可能にします。\n\nコンストラクトが両腕にハンマー腕を装備している場合、周りの物を吹き飛ばす、飛び掛かりスラム攻撃が可能になります。"
           }
         ]
       }
@@ -18858,21 +18741,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Fishing Arms"
+        "value": "コンストラクトの釣り竿腕"
       },
       {
         "type": "text",
         "value": "Construct fishing arms allow them to catch fish and other items from water source blocks.",
         "json": [
           {
-            "text": "Construct fishing arms allow them to "
+            "text": "コンストラクトの釣り竿腕は、"
           },
           {
-            "text": "catch fish and other items",
+            "text": "魚や他のアイテムを水源から釣る",
             "color": "dark_purple"
           },
           {
-            "text": " from water source blocks."
+            "text": "事を可能にします。"
           }
         ]
       }
@@ -18925,49 +18808,49 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Nozzle Arms"
+        "value": "コンストラクトの液体ノズル腕"
       },
       {
         "type": "text",
         "value": "Construct nozzle arms allow them to collect fluids from containers or source blocks in the world, place fluids in containers or as source blocks, and spray fluids at enemies.  The fluid type determines what effect is done.  For example, water has high knockback, lava lights on fire and does a lot of damage, and milk removes status effects.\n\nThe construct must be able to store fluid in order to use this arm type, see the Tank Torso.",
         "json": [
           {
-            "text": "Construct nozzle arms allow them to "
+            "text": "コンストラクトの液体ノズル腕は、容器や源ブロックから"
           },
           {
-            "text": "collect fluids",
+            "text": "液体の回収",
             "color": "dark_purple"
           },
           {
-            "text": " from containers or source blocks in the world, "
+            "text": "、"
           },
           {
-            "text": "place fluids",
+            "text": "設置",
             "color": "dark_purple"
           },
           {
-            "text": " in containers or as source blocks, and "
+            "text": "、そして敵や味方に"
           },
           {
-            "text": "spray fluids",
+            "text": "液体を散布",
+            "color": "dark_red"
+          },
+          {
+            "text": "できます。コンストラクトは、クリーパーがいると水で濡らそう（爆発から防ぐ）としたのち、移動して近接攻撃などの攻撃を試みます。\n\n液体の種類が、その効果と対象になる存在を決めます。\n\n水は高いノックバックで、火を消します。追尾しているコンストラクトは、その所有者を消火します。賢いコンストラクトは、火が付く前に使用者を濡らします。\n\n溶岩は対象に火を点け、高いダメージを与えます。\n\n牛乳は、状態異常を除去します。コンストラクトは、追尾していたりパトロールをしている場合に味方から悪影響を取り除くためにこれを利用しようと試みます。\n\nこの腕を利用するには、コンストラクトに"
+          },
+          {
+            "text": "液体を貯蔵する能力",
             "color": "dark_purple"
           },
           {
-            "text": " at enemies or allies.  Constructs will attempt to soak creepers with water if present (which will prevent them from igniting), and then move in to melee or use other attack types.\n\nThe fluid type determines what effect is done and who is targeted. \n\nWater has high knockback and puts out fire.  The construct will extinguish its owner if it is on follow mode.  Smarter constructs will attempt to keep owners soaked before they ignite.\n\nLava lights targets on fire and does a lot of damage. \n\nMilk removes status effects.  The construct will attempt to use it to dispel harmful effects from allies and beneficial effects from enemies when in a follow or patrol command.\n\nThe construct "
+            "text": "が必要です。"
           },
           {
-            "text": "must be able to store fluid",
-            "color": "dark_purple"
-          },
-          {
-            "text": " in order to use this arm type, see the "
-          },
-          {
-            "text": "Tank Torso",
+            "text": "タンク胴体",
             "color": "blue"
           },
           {
-            "text": ".\n\nIf a construct has 2 fluid nozzle arms its AoE cone and distance will be increased."
+            "text": "を参照。\n\nコンストラクトの両腕に液体ノズルがある場合、射程距離と攻撃範囲が上昇します。"
           }
         ]
       }
@@ -19013,35 +18896,39 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Caster Arms"
+        "value": "コンストラクトの詠唱腕"
       },
       {
         "type": "text",
         "value": "Construct nozzle arms allow them to cast spells.  This feature is currently not implemented.",
         "json": [
           {
-            "text": "Construct caster arms allow them to "
+            "text": "コンストラクトの詠唱腕は、彼らに"
           },
           {
-            "text": "cast spells",
+            "text": "呪文を詠唱できる",
             "color": "dark_purple"
           },
           {
-            "text": ".  They will cast harmful spells at enemies, and beneficial spells at allies or on themselves depending on the shape.\n\nCaster arms require a Mana Torso to use and recharging either through "
+            "text": "ようにします",
+            "color": "black"
           },
           {
-            "text": "Mana Crystals",
+            "text": "。彼らは敵に有害な呪文を詠唱し、有用な呪文を形によって味方か、自分に詠唱します。\n\n詠唱腕はマナ胴体が必要で、近くの"
+          },
+          {
+            "text": "マナクリスタルによって",
             "color": "blue"
           },
           {
-            "text": " nearby or by the use of a "
+            "text": "か、"
           },
           {
-            "text": "Mana Transfer",
+            "text": "マナ転送",
             "color": "blue"
           },
           {
-            "text": " spell."
+            "text": "の呪文で充填されている必要があります。"
           }
         ]
       }
@@ -19087,11 +18974,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Basic Torso"
+        "value": "コンストラクトの基本胴体"
       },
       {
         "type": "text",
-        "value": "The basic torso is inexpensive but doesn't offer any special benefits."
+        "value": "The basic torso is inexpensive but doesn't offer any special benefits.",
+        "json": [
+          {
+            "text": "基本胴体は安価ですが、特別な恩恵が何もありません。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -19125,56 +19017,56 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Armor Torso"
+        "value": "コンストラクト鎧胴体"
       },
       {
         "type": "text",
         "value": "The armor torso greatly increases the survivability of constructs by providing armor and/or toughness values.  The values are as follows:",
         "json": [
           {
-            "text": "The armor torso greatly increases the survivability of constructs by providing armor and/or toughness values.\n\n"
+            "text": "鎧胴体は防御力と防具強度を与える事で、コンストラクトの生存能力を大幅に上昇させます。\n\n"
           },
           {
-            "text": "Wood",
+            "text": "木製",
             "color": "blue"
           },
           {
-            "text": ": 2 armor, 0 toughness\n"
+            "text": "：防御力２、防具強度0\n"
           },
           {
-            "text": "Stone",
+            "text": "石製",
             "color": "blue"
           },
           {
-            "text": ": 3 armor, 0 toughness\n"
+            "text": "：防御力３、防具強度０\n"
           },
           {
-            "text": "Iron",
+            "text": "鉄製",
             "color": "blue"
           },
           {
-            "text": ": 8 armor, 3 toughness\n"
+            "text": "：防御力８、防具強度３\n"
           },
           {
-            "text": "Gold",
+            "text": "金製",
             "color": "blue"
           },
           {
-            "text": ": 4 armor, 0 toughness\n"
+            "text": "：防御力４、防具強度０\n"
           },
           {
-            "text": "Diamond",
+            "text": "ダイアモンド製",
             "color": "blue"
           },
           {
-            "text": ": 6 armor, 1 toughness\n"
+            "text": "：防御力６、防具強度１\n"
           },
           {
-            "text": "Obsidian",
+            "text": "黒曜石製",
             "color": "blue"
           },
           {
-            "text": ": 5 armor, 0 toughness"
+            "text": "：防御力５、防具強度０"
           }
         ]
       }
@@ -19204,30 +19096,62 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Storage Torso"
+        "value": "コンストラクトのストレージ胴体"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "The storage torso allows the construct to have an "
+            "text": "ストレージ胴体は、コンストラクトに"
           },
           {
-            "text": "additional 9 slots of inventory",
+            "text": "９つのインベントリのスロットを追加",
             "color": "dark_purple"
           },
           {
-            "text": ". This will cause them to bring back "
+            "text": "します。これは、"
           },
           {
-            "text": "more resources from mining and adventuring",
+            "text": "より多くの資源を採掘や冒険で拾える",
             "color": "dark_purple"
           },
           {
-            "text": ", and to be able to pick up more items. Better materials allow for larger stack sizes each additional slot:"
+            "text": "ようになります。素材が良いほど、追加されたスロットのスタック数が大きくなります。\n\n"
           },
           {
-            "text": "\n  Wickerwood: 4\n  Wood/Stone: 8\n  Iron/Gold: 16\n  Obsidian: 32\n  Diamond: 64\n\nThis is further increased by ender affinity, which will multiply the stack size by 8.  Regardless of material or affinity, stack size will always cap at 64."
+            "text": "籐製：４",
+            "color": ""
+          },
+          {
+            "text": "\n"
+          },
+          {
+            "text": "木製/石製：８",
+            "color": ""
+          },
+          {
+            "text": "\n"
+          },
+          {
+            "text": "鉄性/金製：１６",
+            "color": ""
+          },
+          {
+            "text": "\n"
+          },
+          {
+            "text": "黒曜石製：３２",
+            "color": ""
+          },
+          {
+            "text": "\n"
+          },
+          {
+            "text": "ダイアモンド製：６４",
+            "color": ""
+          },
+          {
+            "text": "\n\nこれはエンダーの親和性でさらに上昇でき、スタックサイズを８倍にします。\n\n素材や親和性に関わらず、スタックサイズは常に最大で６４です。"
           }
         ]
       }
@@ -19257,21 +19181,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Tank Torso"
+        "value": "コンストラクトのタンク胴体"
       },
       {
         "type": "text",
         "value": "The tank torso allows the construct to hold up to 16 buckets of any one type of liquid.  It can be bucketed into/out of by players, but for the construct to do anything with it they will also need a nozzle arm.  Better materials do not grant more storage.",
         "json": [
           {
-            "text": "The tank torso allows the construct to hold up to "
+            "text": "タンク胴体は、コンストラクトにどんな"
           },
           {
-            "text": "16 buckets of any one type of liquid",
+            "text": "液体でも一種類１６バケツ分保持",
             "color": "dark_purple"
           },
           {
-            "text": ". It can be bucketed into/out of by players, but for the construct to do anything with it they will also need a nozzle arm. Better materials do not grant more storage."
+            "text": "できるようにします。プレイヤーによってバケツで投入/取り出しできますが、コンストラクトが液体を利用するには液体ノズル腕が必要です。良い素材を使っても、容量は増えません。"
           }
         ]
       }
@@ -19301,77 +19225,77 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Mana Torso"
+        "value": "コンストラクトのマナ胴体"
       },
       {
         "type": "text",
         "value": "The mana torso gives a reservoir of mana to a construct to be used by various parts, such as the mana cannon.   The mana in the reservoir does not regenerate naturally and must be recharged by having the construct within the area of effect of a Mana Crystal.\n\nBetter materials can hold more mana. The amount of mana each material can hold is as follows:",
         "json": [
           {
-            "text": "The mana torso gives a "
+            "text": "マナ胴体は、コンストラクトに"
           },
           {
-            "text": "reservoir of mana",
+            "text": "マナの貯蔵",
             "color": "dark_purple"
           },
           {
-            "text": " to a construct to be used by various parts, such as the"
+            "text": "能力を与え、"
           },
           {
-            "text": " mana cannon",
+            "text": "マナキャノン",
             "color": "blue"
           },
           {
-            "text": " or "
+            "text": "や"
           },
           {
-            "text": "caster arm",
+            "text": "詠唱腕",
             "color": "blue"
           },
           {
-            "text": ". The mana in the reservoir does not regenerate naturally and must be recharged by having the construct within the area of effect of a Mana Crystal. \n\nBetter materials can hold more mana.\n\n"
+            "text": "などによって利用されます。貯蔵されたマナは自然回復せず、コンストラクトをマナクリスタルの効果範囲に置くことによって再充填される必要があります。\n\n素材が良いほど、より多くのマナを保持できます。\n\n"
           },
           {
-            "text": "Wood",
+            "text": "木材",
             "color": "blue"
           },
           {
-            "text": ": 500 mana\n"
+            "text": "：500マナ\n"
           },
           {
-            "text": "Stone",
+            "text": "石製",
             "color": "blue"
           },
           {
-            "text": ": 500 mana\n"
+            "text": "：500マナ\n"
           },
           {
-            "text": "Iron",
+            "text": "鉄製",
             "color": "blue"
           },
           {
-            "text": ": 400 mana\n"
+            "text": "：400マナ\n"
           },
           {
-            "text": "Gold",
+            "text": "金製",
             "color": "blue"
           },
           {
-            "text": ": 4000 mana\n"
+            "text": "：4000マナ\n"
           },
           {
-            "text": "Diamond",
+            "text": "ダイアモンド製",
             "color": "blue"
           },
           {
-            "text": ": 2000 mana\n"
+            "text": "：2000マナ\n"
           },
           {
-            "text": "Obsidian",
+            "text": "黒曜石製",
             "color": "blue"
           },
           {
-            "text": ": 1000 mana"
+            "text": "：1000マナ"
           }
         ]
       }
@@ -19401,11 +19325,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Basic Legs"
+        "value": "コンストラクトの基本足"
       },
       {
         "type": "text",
-        "value": "The basic legs are inexpensive but doesn't offer any special benefits."
+        "value": "The basic legs are inexpensive but doesn't offer any special benefits.",
+        "json": [
+          {
+            "text": "基本の足は安価ですが、特別な恩恵を持ちません。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -19437,21 +19366,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Reinforced Legs"
+        "value": "コンストラクトの強化足"
       },
       {
         "type": "text",
         "value": "The reinforced legs give the construct more armor and also allow it to carry me.  I can control it directly if I have it commanded to stay or follow when I ride it, or if it's following a Lodestar it will simply take me along for the ride.",
         "json": [
           {
-            "text": "The reinforced legs give the construct "
+            "text": "コンストラクトの強化足は"
           },
           {
-            "text": "more armor and also allow it to carry me like a horse",
+            "text": "防御力を増やし、馬のようにプレイヤーを運んでくれます",
             "color": "dark_purple"
           },
           {
-            "text": ". I can control it directly if I have it commanded to stay or follow when I ride it, or if it's following a Lodestar it will simply take me along for the ride."
+            "text": "。彼らに待機、もしくは追尾の命令をしている場合は乗った時に直接操作でき、もしロードスターに従っている場合はそっちに従ってプレイヤーを運びます。"
           }
         ]
       }
@@ -19481,21 +19410,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Ender Legs"
+        "value": "コンストラクトのエンダー足"
       },
       {
         "type": "text",
         "value": "The ender legs allow the construct to teleport short distances of between 6 and 32 blocks when performing tasks.",
         "json": [
           {
-            "text": "The ender legs allow the construct to "
+            "text": "エンダー足は、タスクを行っているコンストラクトに６～３２ブロックの"
           },
           {
-            "text": "teleport short distances",
+            "text": "短距離を転移",
             "color": "dark_purple"
           },
           {
-            "text": " of between 6 and 32 blocks when performing tasks."
+            "text": "する事を可能にします。"
           }
         ]
       }
@@ -19525,21 +19454,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Rocket Legs"
+        "value": "コンストラクトのロケット足"
       },
       {
         "type": "text",
         "value": "The rocket legs allow the construct to fly.",
         "json": [
           {
-            "text": "The rocket legs allow the construct to "
+            "text": "ロケット足は、コンストラクトに"
           },
           {
-            "text": "fly",
+            "text": "飛行の能力",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "を与えます。"
           }
         ]
       }
@@ -19569,11 +19498,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Basic Head"
+        "value": "コンストラクトの基本頭"
       },
       {
         "type": "text",
-        "value": "The basic head is inexpensive but doesn't offer any special benefits."
+        "value": "The basic head is inexpensive but doesn't offer any special benefits.",
+        "json": [
+          {
+            "text": "基本頭は安価ですが、何も特別な恩恵がありません。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -19605,21 +19539,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Horn Head"
+        "value": "コンストラクト角頭"
       },
       {
         "type": "text",
         "value": "The horn head will taunt enemies that the construct attacks in melee, allowing it to force targets to focus on it.",
         "json": [
           {
-            "text": "The horn head will "
+            "text": "角頭は、"
           },
           {
-            "text": "taunt enemies that the construct attacks in melee",
+            "text": "コンストラクトが近接攻撃した敵を煽り、対象の注意を強制的に引きつけます",
             "color": "dark_purple"
           },
           {
-            "text": ", allowing it to force targets to focus on it."
+            "text": "。"
           }
         ]
       }
@@ -19649,56 +19583,56 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Smart Head"
+        "value": "コンストラクトの賢い頭"
       },
       {
         "type": "text",
         "value": "The smart head allows constructs to execute more tasks within a lodestar.  The default is 8, and the material the smart head is made of determines the bonus:",
         "json": [
           {
-            "text": "The smart head increases intelligence, allowing constructs to execute more tasks within a lodestar. \n\nThe default is 8, and the material the smart head is made of determines the bonus:\n"
+            "text": "賢い頭は知能を上昇し、コンストラクトがロードスターでより多くのタスクを実行できるようになります。\n\nデフォルトは８で、素材によってボーナスが決まります：\n\n"
           },
           {
-            "text": "Wood",
+            "text": "木製",
             "color": "blue"
           },
           {
-            "text": ": 8 \n"
+            "text": "：８\n"
           },
           {
-            "text": "Stone",
+            "text": "石製",
             "color": "blue"
           },
           {
-            "text": ": 12 \n"
+            "text": "：１２\n"
           },
           {
-            "text": "Iron",
+            "text": "鉄製",
             "color": "blue"
           },
           {
-            "text": ": 16 \n"
+            "text": "：１６\n"
           },
           {
-            "text": "Obsidian",
+            "text": "黒曜石製",
             "color": "blue"
           },
           {
-            "text": ": 20 \n"
+            "text": "：２０\n"
           },
           {
-            "text": "Gold",
+            "text": "金製",
             "color": "blue"
           },
           {
-            "text": ": 30 \n"
+            "text": "：３０\n"
           },
           {
-            "text": "Diamond",
+            "text": "ダイアモンド製",
             "color": "blue"
           },
           {
-            "text": ": 50"
+            "text": "：５０"
           }
         ]
       }
@@ -21048,17 +20982,17 @@
         "value": "I can apply this enchantment to weapons to help guarantee that the heads of enemies I defeat will remain intact for later use.  This enchantment increases the chance that a head will drop from a kill.  If the loot generated already contains a head, it will not be increased more by this enchant.",
         "json": [
           {
-            "text": "I can apply this enchantment to weapons to help guarantee that the heads of enemies I defeat will remain intact for later use. This enchantment "
+            "text": "武器にこのエンチャントを加える事で、討伐した敵の頭が利用できる形で残りやすくするのを助けます。\n\nこのエンチャントは、"
           },
           {
-            "text": "increases the chance that a head will drop from a kill",
+            "text": "モンスターを倒した際に頭をドロップする確率を上昇します",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\n"
+            "text": "。\n\n"
           },
           {
-            "text": "If the loot generated already contains a head, it will not be increased more by this enchant.",
+            "text": "すでにドロップに頭が含まれている場合、このエンチャントは増える数を増やしません。",
             "italic": true
           }
         ]
@@ -21099,25 +21033,21 @@
         "value": "",
         "json": [
           {
-            "text": "I can apply this enchantment to things launched by  "
+            "text": "このエンチャントを"
           },
           {
-            "text": "Impulse ",
+            "text": "インパルス",
             "color": "blue"
           },
           {
-            "text": "or animated by "
+            "text": "で発射、もしくは"
           },
           {
-            "text": "Animus ",
+            "text": "生命化",
             "color": "blue"
           },
           {
-            "text": "to automatically return to my hand upon impact or the effect expiring.\n\n"
-          },
-          {
-            "text": "Where possible, they will attempt to be returned to your offhand.",
-            "italic": true
+            "text": "で命を吹き込まれるアイテムに付与する事で、着弾した場合か効果が切れた場合に自動で手に戻ってくるようにします。\n\n可能であれば、オフハンドに戻ろうとします。"
           }
         ]
       }
@@ -21141,14 +21071,21 @@
         "value": "This enchantment will cause me to bounce when I hit the ground after falling, provided I am not sneaking or affected by Gravity Well.  It must be applied to boots, given they're the first thing to hit the ground when falling.",
         "json": [
           {
-            "text": "This enchantment will "
+            "text": "このエンチャントは、スニークしていないか重力の井から影響されていない場合に、"
           },
           {
-            "text": "cause me to bounce when I hit the ground after falling",
+            "text": "落下して地面に当たったら反発して飛び跳ねる",
             "color": "dark_purple"
           },
           {
-            "text": ", provided I am not sneaking or affected by Gravity Well. \n\nIt must be applied to boots, given they're the first thing to hit the ground when falling."
+            "text": "ようになります。\n\n落下した際に最初に当たる部位のため、"
+          },
+          {
+            "text": "靴に付与",
+            "color": "dark_purple"
+          },
+          {
+            "text": "されている必要があります。"
           }
         ]
       }
@@ -21172,14 +21109,14 @@
         "value": "I've been considering the basic armor that mages make and how it can use the magic of its wearer to stitch itself back together.  I think I can enchant some magical thread to allow it to stitch alternate gear back together.",
         "json": [
           {
-            "text": "I've been considering the basic armor that mages make and how it can use the magic of its wearer to stitch itself back together. \n\nI think I can enchant other things, allowing them to be "
+            "text": "魔術師が作れる基本的な鎧が、どのように着用者のマナを利用して自身を縫い合わせるか考えていた。\n\n恐らく他の物もエンチャントするできるはずで、"
           },
           {
-            "text": "repaired automatically using my mana",
+            "text": "自分のマナを利用して自動で修繕される",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "事が可能になるはずです。"
           }
         ]
       }
@@ -21203,14 +21140,14 @@
         "value": "This enchantment creates a burst of air beneath my boots (where the enchantment must be applied) allowing me to jump again in midair.  Higher levels of the enchantment will allow me to jump more than once in midair.",
         "json": [
           {
-            "text": "This enchantment creates a burst of air beneath my boots (where the enchantment must be applied) "
+            "text": "このエンチャントは、靴（エンチャントが付与されている）の下に大気の塊を生み出し、"
           },
           {
-            "text": "allowing me to jump again in midair",
+            "text": "空中でジャンプを可能にします",
             "color": "dark_purple"
           },
           {
-            "text": ". Higher levels of the enchantment will allow me to jump more than once in midair."
+            "text": "。エンチャントのレベルが高いほど、複数回空中ジャンプを行えます。"
           }
         ]
       }
@@ -21242,14 +21179,14 @@
         "value": "This enchantment uses a small amount of gold to mask my armor to piglins, making it appear gold to them and keeping them docile, provided I don't provoke them in other ways.\n\nOnly one piece of my armor needs this enchant to gain the benefit of it.",
         "json": [
           {
-            "text": "This enchantment uses a small amount of gold to "
+            "text": "このエンチャントは、少量の金を利用して"
           },
           {
-            "text": "mask my armor to piglins, making it appear gold to them and keeping them docile",
+            "text": "鎧をピグリンに対して偽装し、彼らにとっては金に見えるようにし、他の方法で敵対しない限り中立",
             "color": "dark_purple"
           },
           {
-            "text": ", provided I don't provoke them in other ways.\n\nOnly one piece of my armor needs this enchant to gain the benefit of it."
+            "text": "にします。\n\n装備のうちの一つでもこのエンチャントが付与されていば十分です。"
           }
         ]
       }
@@ -21273,14 +21210,14 @@
         "value": "This enchantment will prevent the enchanted item from burning when thrown into lava or fire.  It won't however, make it float in lava.  This enchantment also only protects the item from burning up; it won't protect the wearer, nor will it protect from wear and tear damage done while being worn.",
         "json": [
           {
-            "text": "This enchantment will "
+            "text": "このエンチャントは、"
           },
           {
-            "text": "溶岩や炎でアイテムが燃えるのを防ぎます",
+            "text": "溶岩や炎でアイテムが燃えて消えるのを防ぎます",
             "color": "dark_purple"
           },
           {
-            "text": "。 \n\nIt won't however, make it float in lava. This enchantment also only protects the item from burning up; it won't protect the wearer, nor will it protect from wear and tear damage done while being worn."
+            "text": "。\n\nしかし、溶岩に浮くようにはしません。このエンチャントは燃えて消える事だけ防ぎます；\n着用者を守らず、燃えている場合の鎧に対してのダメージも防ぎません。"
           }
         ]
       }
@@ -21304,14 +21241,14 @@
         "value": "This aura will periodically drain my mana in order to apply a repairing effect to all of my equipped items, and to those in close proximity to me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed.  It also likely won't work with any other aura, but should be compatible with most of the other enchantments.",
         "json": [
           {
-            "text": "This aura will periodically drain my mana in order to "
+            "text": "このオーラは定期的にマナを吸い取り、自分の"
           },
           {
-            "text": "apply a repairing effect to all of my equipped items, and to those in close proximity to me",
+            "text": "すべての装備しているアイテムと近くにいるプレイヤーに修繕効果を与えます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+            "text": "。\n\nかなり複雑な魔術的な構造をしているため、十分な広さがあるチェストプレートにのみ付与できます。\nさらに他のオーラとも併用できませんが、ほとんどの他のエンチャントには対応しているはずです。"
           }
         ]
       }
@@ -21335,14 +21272,14 @@
         "value": "",
         "json": [
           {
-            "text": "This aura will periodically drain a small amount of my mana in order to "
+            "text": "このオーラは定期的にマナを吸い取り、"
           },
           {
-            "text": "apply an armor boosting effect to me and to those in close proximity to me",
+            "text": "自分と自分の周囲の者に防御力上昇効果を与えます",
             "color": "dark_purple"
           },
           {
-            "text": ". I can probably make stronger versions of this aura as I grow in strength and knowledge.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+            "text": "。\n知識や能力が成長した後に、このオーラのさらに強力なバージョンも作成できるはずです。\n\nかなり複雑な魔術的な構造をしているため、十分な広さがあるチェストプレートにのみ付与できます。\nさらに他のオーラとも併用できませんが、ほとんどの他のエンチャントには対応しているはずです。"
           }
         ]
       }
@@ -21374,14 +21311,14 @@
         "value": "This aura will periodically drain my mana in order to apply a minor healing effect to me and those in close proximity to me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed.  It also likely won't work with any other aura, but should be compatible with most of the other enchantments.",
         "json": [
           {
-            "text": "This aura will periodically drain my mana in order to "
+            "text": "このオーラは定期的にマナを吸収し、"
           },
           {
-            "text": "apply a minor healing effect to me and those in close proximity to me",
+            "text": "自分と自分の周囲の者に少しの回復効果を与えます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+            "text": "。\n\nかなり複雑な魔術的な構造をしているため、十分な広さがあるチェストプレートにのみ付与できます。\nさらに他のオーラとも併用できませんが、ほとんどの他のエンチャントには対応しているはずです。"
           }
         ]
       }
@@ -21398,28 +21335,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "ピルグリムのオーラ"
+        "value": "旅人のオーラ"
       },
       {
         "type": "text",
         "value": "This aura will periodically drain my mana in order to apply Pilgrim's Path.  It will not apply if I already have the haste buff.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed.  It also likely won't work with any other aura, but should be compatible with most of the other enchantments.",
         "json": [
           {
-            "text": "This aura will "
+            "text": "このオーラは"
           },
           {
-            "text": "apply Pilgrim's Path to me and nearby allies, increasing our movement, jumping, and granting step assist",
+            "text": "自分と周囲の味方に旅人の道を与え、移動速度と跳躍を上昇し、ステップアシストを与えます",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIt will not apply if I already have the "
+            "text": "。\n\nすでに"
           },
           {
-            "text": "Haste",
+            "text": "採掘速度上昇",
             "color": "blue"
           },
           {
-            "text": " buff. \n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+            "text": "のバフが付与されている場合は付与されません。\n\nかなり複雑な魔術的な構造をしているため、十分な広さがあるチェストプレートにのみ付与できます。\nさらに他のオーラとも併用できませんが、ほとんどの他のエンチャントには対応しているはずです。"
           }
         ]
       }
@@ -21443,17 +21380,17 @@
         "value": "This aura will periodically drain my mana in order to increase my ability to jump, as well as those in close proximity to me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed.  It also likely won't work with any other aura, but should be compatible with most of the other enchantments.",
         "json": [
           {
-            "text": "This aura will periodically drain my mana in order to "
+            "text": "このオーラは定期的に自分のマナを吸収し、"
           },
           {
-            "text": "increase my ability to jump, as well as those in close proximity to me. ",
+            "text": "自分と周囲の者の跳躍力を上昇",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments.\n\n"
+            "text": "させます。\n\nかなり複雑な魔術的な構造をしているため、十分な広さがあるチェストプレートにのみ付与できます。\nさらに他のオーラとも併用できませんが、ほとんどの他のエンチャントには対応しているはずです。\n\n"
           },
           {
-            "text": "M&A Fixes jump boost such that it also applies forward motion when you jump, allowing you to keep your momentum while jumping.",
+            "text": "M&Aは跳躍の効果を前へのブーストが掛かるように修正しました。まるで慣性を保持しているかのように移動できるようになっています",
             "italic": true
           }
         ]
@@ -21478,14 +21415,14 @@
         "value": "This aura will periodically drain my mana in order to apply an increase to my mining speed as well as to those around me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed.  It also likely won't work with any other aura, but should be compatible with most of the other enchantments.",
         "json": [
           {
-            "text": "This aura will periodically drain my mana in order to apply an "
+            "text": "このオーラは定期的に自分のマナを吸収し、"
           },
           {
-            "text": "increase to my mining speed as well as to those around me. ",
+            "text": "自分と自分の周囲の者の採掘速度を上昇させます",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+            "text": "。\n\nかなり複雑な魔術的な構造をしているため、十分な広さがあるチェストプレートにのみ付与できます。\nさらに他のオーラとも併用できませんが、ほとんどの他のエンチャントには対応しているはずです。"
           }
         ]
       }
@@ -21509,14 +21446,14 @@
         "value": "This aura will periodically drain my mana in order to apply a movement speed increase to me and those in close proximity to me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed.  It also likely won't work with any other aura, but should be compatible with most of the other enchantments.",
         "json": [
           {
-            "text": "This aura will periodically drain my mana in order to "
+            "text": "このオーラは定期的に自分のマナを吸収し、"
           },
           {
-            "text": "apply a movement speed increase to me and those in close proximity to me. ",
+            "text": "自分と自分の周囲の者の移動速度を上昇",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+            "text": "させます。\n\nかなり複雑な魔術的な構造をしているため、十分な広さがあるチェストプレートにのみ付与できます。\nさらに他のオーラとも併用できませんが、ほとんどの他のエンチャントには対応しているはずです。"
           }
         ]
       }
@@ -21540,14 +21477,14 @@
         "value": "This aura will periodically drain my mana in order to make me more attuned to activities underwater.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed.  It also likely won't work with any other aura, but should be compatible with most of the other enchantments.",
         "json": [
           {
-            "text": "This aura will periodically drain my mana in order to make me more attuned to activities underwater.  "
+            "text": "このオーラは自分のマナを定期的に吸収し、自分を水中の動作に適応させます。"
           },
           {
-            "text": "Nearby allies and I will be able to breathe underwater, see better underwater, and swim faster",
+            "text": "自分と近くの味方は水中で呼吸できるようになり、水中の視界が広くなり、速く泳げるようになります",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+            "text": "。\n\nかなり複雑な魔術的な構造をしているため、十分な広さがあるチェストプレートにのみ付与できます。\nさらに他のオーラとも併用できませんが、ほとんどの他のエンチャントには対応しているはずです。"
           }
         ]
       }
@@ -21571,21 +21508,28 @@
         "value": "The Aqua Affinity enchantment speeds up how fast you can mine blocks underwater. It basically makes mining underwater the same speed as mining on land.",
         "json": [
           {
-            "text": "The Aqua Affinity enchantment "
+            "text": "水中採掘のエンチャントは"
           },
           {
-            "text": "speeds up how fast you can mine blocks underwater",
+            "text": "、水中でブロックを破壊する速度を上昇",
             "color": "dark_purple"
           },
           {
-            "text": ". It basically makes mining underwater the same speed as mining on land.\n\nWizards using a Staff, Wand, or Bangle enchanted with Aqua Affinity will see their "
+            "text": "させます。水中の採掘が地上と同じ速度と同じになります。\n\n魔術師がこのエンチャントが付与された"
           },
           {
-            "text": "fire spells cast from that item work normally underwater",
+            "text": "小杖、大杖、腕輪",
+            "color": "blue"
+          },
+          {
+            "text": "を使用した場合、それで詠唱した"
+          },
+          {
+            "text": "火の呪文が水中でも普通に動作する",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "ようになります。"
           }
         ]
       }
@@ -21761,28 +21705,21 @@
         "value": "The Channeling enchantment can be added to a trident. With this enchantment, your trident will summon a lightning bolt at a mob if you throw the trident and it hits the mob (while its standing in the rain).",
         "json": [
           {
-            "text": "The Channeling enchantment can be added to a trident. With this enchantment, "
+            "text": "招雷のエンチャントは、トライデントに付与できます。このエンチャントを付与すると、"
           },
           {
-            "text": "your trident will summon a lightning bolt at a mob if you throw the trident and it hits the mob (while its standing in the rain)",
+            "text": "雨の中でトライデントがモブに当たった場合、雷をそこに落とします",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nWizards using a "
+            "text": "。\n\n魔術師がエンチャントされた"
           },
           {
-            "text": "Staff, Wand, or Bangle",
+            "text": "小杖、大杖、腕輪",
             "color": "blue"
           },
           {
-            "text": " enchanted with Channeling will be able to "
-          },
-          {
-            "text": "channel the spell on the item for twice as long",
-            "color": "dark_purple"
-          },
-          {
-            "text": ". "
+            "text": "を利用した場合、その呪文を２倍の時間継続して詠唱できるようになります。"
           }
         ]
       }
@@ -21845,28 +21782,28 @@
         "value": "The Efficiency enchantment speeds up how fast you can mine blocks.",
         "json": [
           {
-            "text": "The Efficiency enchantment "
+            "text": "効率強化のエンチャントは、"
           },
           {
-            "text": "speeds up how fast you can mine blocks",
+            "text": "ブロックを採掘する速度が上昇します",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nWizards using a "
+            "text": "。\n\n魔術師がこのエンチャントが付与された"
           },
           {
-            "text": "Staff, Wand, or Bangle",
+            "text": "小杖、大杖、腕輪",
             "color": "blue"
           },
           {
-            "text": " enchanted with Efficiency will see their "
+            "text": "を使用した場合は、その呪文の"
           },
           {
-            "text": "mana costs reduced",
+            "text": "マナ消費が低下",
             "color": "dark_purple"
           },
           {
-            "text": " for the spell that is on that item."
+            "text": "します。"
           }
         ]
       }
@@ -22027,42 +21964,42 @@
         "value": "The Flame enchantment turns your arrows into flaming arrows allowing you to set your targets on fire.",
         "json": [
           {
-            "text": "The Flame enchantment "
+            "text": "フレイムのエンチャントは"
           },
           {
-            "text": "turns your arrows into flaming arrows",
+            "text": "矢に火を点け",
             "color": "dark_purple"
           },
           {
-            "text": " allowing you to set your targets on fire.\n\nWizards aligned with the "
+            "text": "、敵に火を点ける事が可能になります。\n\n"
           },
           {
-            "text": "Demons of the Nether",
+            "text": "ネザーの悪魔",
             "color": "dark_red"
           },
           {
-            "text": " using a "
+            "text": "に所属している魔術師がこのエンチャントされた"
           },
           {
-            "text": "Staff, Wand, or Bangle",
+            "text": "小杖、大杖、腕輪",
             "color": "blue"
           },
           {
-            "text": " enchanted with Flame will see "
+            "text": "を使用した場合、"
           },
           {
-            "text": "overcasting from health become twice as efficient",
+            "text": "体力を消費しての詠唱が二倍効率的",
             "color": "dark_purple"
           },
           {
-            "text": " and have their "
+            "text": "になり、"
           },
           {
-            "text": "spell cooldowns reduced while on fire",
+            "text": "自分が炎上している際に呪文のクールダウンを低下",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "させます。"
           }
         ]
       }
@@ -22086,14 +22023,21 @@
         "value": "The Transitory Step enchantment can be applied to boots, and drains small amounts of your mana to automatically place transitory tiles in front of you as if on a bridge.  You must be on the ground for it to work, and you can sneak to prevent that functionality from occurring.\n\nThis won't do anything for walking backwards or strafing, so keep moving forward!",
         "json": [
           {
-            "text": "The Transitory Step enchantment can be applied to boots, and "
+            "text": "空中歩行のエンチャントは靴に付与する事ができ、"
           },
           {
-            "text": "drains small amounts of your mana to automatically place transitory tiles in front of you as if on a bridge",
+            "text": "少量のマナを消費",
             "color": "dark_purple"
           },
           {
-            "text": ". You must be on the ground for it to work, and you can sneak to prevent that functionality from occurring. This won't do anything for walking backwards or strafing, so keep moving forward!"
+            "text": "して"
+          },
+          {
+            "text": "自動で一時的なブロックを橋のように足の下に設置",
+            "color": "dark_purple"
+          },
+          {
+            "text": "します。\n\nこれが機能するためには地面の上にいる必要があり、スニークすることでこの機能が発生しないようにできます。\n\n後ろや斜めに移動していると機能しないので、前進しましょう！"
           }
         ]
       }
@@ -22156,42 +22100,35 @@
         "value": "The Frost Walker enchantment temporarily freezes the water around you and turns it into ice. You can then walk across the ice to quickly get around in the game.",
         "json": [
           {
-            "text": "The Frost Walker enchantment "
+            "text": "氷渡のエンチャントは、"
           },
           {
-            "text": "temporarily freezes the water around you and turns it into ice",
+            "text": "周囲の水を一時的に凍らせ、氷にします",
             "color": "dark_purple"
           },
           {
-            "text": ". You can then walk across the ice to quickly get around the world.\n\n"
+            "text": "。その氷の上を歩くことで素早く移動できます。\n\n"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": " wizards using a "
+            "text": "の魔術師が"
           },
           {
-            "text": "Staff, Wand, or Bangle",
+            "text": "小杖、大杖、腕輪",
             "color": "blue"
           },
           {
-            "text": " with Frost Walker enchanted on it will gain an "
+            "text": "にこのエンチャントを行うと、付近の敵に氷ダメージを与えるオーラを得ます。さらに屈みながらジャンプすることで、"
           },
           {
-            "text": "aura that pulses frost damage to nearby targets",
+            "text": "短時間の間だけ霧になる",
             "color": "dark_purple"
           },
           {
-            "text": ".  They will also "
-          },
-          {
-            "text": "gain a brief instance of Mist Form when jumping while sneaking",
-            "color": "dark_purple"
-          },
-          {
-            "text": "."
+            "text": "ことができます。"
           }
         ]
       }
@@ -22371,35 +22308,35 @@
         "value": "The Loyalty enchantment can be added to a trident. With this enchantment, your trident will automatically return to you when it is thrown like a spear.",
         "json": [
           {
-            "text": "The Loyalty enchantment can be added to a trident. With this enchantment, "
+            "text": "忠誠のエンチャントはトライデントに行うことができます。このエンチャントが付与された"
           },
           {
-            "text": "your trident will automatically return to you when it is thrown like a spear",
+            "text": "トライデントは槍のように投げた時に、自分の手に戻ってきます",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nWizards using a "
+            "text": "。\n\n魔術師の"
           },
           {
-            "text": "Staff, Wand, or Bangle",
+            "text": "小杖、大杖、腕輪",
             "color": "blue"
           },
           {
-            "text": " enchanted with Loyalty will see their summon spells "
+            "text": "に忠誠のエンチャントを加える事"
           },
           {
-            "text": "summon a higher number of creatures with each cast",
+            "text": "で一度の詠唱で多くの生物を召喚",
             "color": "dark_purple"
           },
           {
-            "text": " and will have an "
+            "text": "でき、さらに"
           },
           {
-            "text": "increased summon cap",
+            "text": "召喚の上限数を上昇",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "させます。"
           }
         ]
       }
@@ -22472,28 +22409,28 @@
         "value": "The Lure enchantment increases the rate of fish biting your hook.",
         "json": [
           {
-            "text": "The Lure enchantment increases the "
+            "text": "入れ食いのエンチャントは、"
           },
           {
-            "text": "rate of fish biting your hook",
+            "text": "魚が釣り針に食いつくまでの時間を減らします",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nWizards using a "
+            "text": "。\n\n魔術師の"
           },
           {
-            "text": "Staff, Wand, or Bangle",
+            "text": "小杖、大杖、腕輪",
             "color": "blue"
           },
           {
-            "text": " enchanted with Lure will see their spells "
+            "text": "に入れ食いが付与された場合、その呪文が影響した"
           },
           {
-            "text": "taunt targets",
+            "text": "敵を挑発",
             "color": "dark_purple"
           },
           {
-            "text": " that are successfully affected by the spell, prompting them to attack the caster."
+            "text": "し、詠唱者を狙うようにします。"
           }
         ]
       }
@@ -22631,38 +22568,38 @@
         "value": "The Power enchantment increases the amount of attack damage dealt to a player or mob when using your bow.",
         "json": [
           {
-            "text": "The Power enchantment "
+            "text": "射撃ダメージ上昇のエンチャントは、"
           },
           {
-            "text": "increases the amount of attack damage dealt to a player or mob when using your bow",
+            "text": "弓で敵を攻撃した際のダメージを上昇",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nWizards aligned with the "
+            "text": "します。\n\n"
           },
           {
-            "text": "Council of Wizards",
+            "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": " see their "
+            "text": "に所属している者がこのエンチャントをされた"
           },
           {
-            "text": "Embers and Projectiles gain homing capabilities, smites gain more damage from falling, and can place increased sigils",
+            "text": "小杖、大杖、腕輪",
+            "color": "blue"
+          },
+          {
+            "text": "を使用した際、"
+          },
+          {
+            "text": "余燼と発射体がホーミング能力を手に入れ、天撃が落下から多くのダメージを得て、印の設置できる数が増えます",
             "color": "dark_purple"
           },
           {
-            "text": " when any of these spells are cast from a "
+            "text": "。\n\n"
           },
           {
-            "text": "Wand, Staff, or Bangle",
-            "color": "blue"
-          },
-          {
-            "text": " with this enchantment on it.\n\n"
-          },
-          {
-            "text": "The increased sigils are only valid when placed using a staff with this enchant.  If another sigil is placed using a spell without the enchant, the sigils will again be clamped to the lower limit.",
+            "text": "増えた印は、このエンチャントが付与された杖などを使用しえ設置した場合のみ有効です。もし他の印がエンチャントが付与されていない呪文によって設置された場合、制限が元に戻ります。",
             "italic": true
           }
         ]
@@ -22875,28 +22812,28 @@
         "value": "The Quick Charge enchantment reduces the amount of time that it takes to reload a crossbow.",
         "json": [
           {
-            "text": "The Quick Charge enchantment "
+            "text": "高速装填のエンチャントは、"
           },
           {
-            "text": "reduces the amount of time that it takes to reload a crossbow",
+            "text": "クロスボウを装填する時間が少なく",
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nQuick Charge placed on a "
+            "text": "なります。\n\n"
           },
           {
-            "text": "Staff, Wand, or Bangle",
+            "text": "小杖、大杖、腕輪",
             "color": "blue"
           },
           {
-            "text": " will "
+            "text": "に付与されたこのエンチャントは、その"
           },
           {
-            "text": "reduce the cooldown of the spell",
+            "text": "呪文のクールダウンを減らします",
             "color": "dark_purple"
           },
           {
-            "text": " on that item."
+            "text": "。"
           }
         ]
       }
@@ -23177,35 +23114,35 @@
         "value": "The Thorns enchantment is added to your armor so that when a player or mob physically attacks you, they will take damage from your armor.",
         "json": [
           {
-            "text": "The Thorns enchantment is added to your armor so that when a "
+            "text": "棘の鎧のエンチャントは鎧に付与でき、"
           },
           {
-            "text": "player or mob physically attacks you, they will take damage",
+            "text": "近接攻撃を行った相手に鎧から反射ダメージ",
             "color": "dark_purple"
           },
           {
-            "text": " from your armor.\n\nWizards aligned with the "
+            "text": "を与えます。\n\n"
           },
           {
-            "text": "Fey Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": " can also place Thorns onto a "
+            "text": "に所属している魔術師の"
           },
           {
-            "text": "Staff, Wand, or Bangle",
+            "text": "小杖、大杖、腕輪",
             "color": "blue"
           },
           {
-            "text": " to cause melee attacks with that item to apply the "
+            "text": "にこのエンチャントが付与されている場合、近接攻撃が"
           },
           {
-            "text": "Writhing Brambles",
+            "text": "波打つ茨",
             "color": "blue"
           },
           {
-            "text": " effect, which causes damage upon movement."
+            "text": "の効果を付与し、相手が移動するとダメージを受けるようにできます。"
           }
         ]
       }
@@ -23271,28 +23208,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: Duel"
+        "value": "命令：決闘"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This command causes constructs to "
+            "text": "この命令は、コンストラクトに"
           },
           {
-            "text": "duel other constructs",
-            "color": "dark_purple"
-          },
-          {
-            "text": " within the area that are also dueling.  Constructs cannot be killed while dueling.\n\nTargets are selected by the "
-          },
-          {
-            "text": "banner ",
+            "text": "他の決闘を望んでいるコンストラクトと決闘",
             "color": "blue"
           },
           {
-            "text": "that the construct has.\n\nTo set a banner, right click a construct with the banner item.  Banners on constructs make use of ghost items, meaning you only need to make one of each."
+            "text": "をさせます。コンストラクトは、決闘中に死亡しません。\n\n対象は、コンストラクトが所有している"
+          },
+          {
+            "text": "旗",
+            "color": "blue"
+          },
+          {
+            "text": "によって決まります。\n\n旗を設定するには、コンストラクトで旗を右クリックします。コンストラクトに置かれる旗はゴーストアイテムで、一つの種類につき一つ作成すだけで済みます。"
           }
         ]
       }
@@ -23305,21 +23242,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: Cast Spell at Target"
+        "value": "命令：対象に呪文を詠唱"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This command causes constructs to "
+            "text": "この命令は、対象に十分コンストラクトが近づいた後、"
           },
           {
-            "text": "cast spells at the targeted position",
+            "text": "対象の位置に呪文を詠唱",
             "color": "dark_purple"
           },
           {
-            "text": " after getting close enough to do so. The construct must have enough mana in a mana torso to cast the spell and have at least one caster arm with a valid spell.  Use the Transcription Table or the Altar of Arcana to set a spell on a caster arm."
+            "text": "させます。コンストラクトは、マナ胴体に呪文を詠唱するために十分なマナが必要で、最低限１つの有効な呪文を持った詠唱腕が必要です。\n\n"
+          },
+          {
+            "text": "転写台",
+            "color": "blue"
+          },
+          {
+            "text": "か、"
+          },
+          {
+            "text": "神秘の祭壇",
+            "color": "blue"
+          },
+          {
+            "text": "を利用して詠唱腕に呪文を加えてください。"
           }
         ]
       }
@@ -24656,14 +24607,14 @@
         "value": "",
         "json": [
           {
-            "text": "This enchantment increases the melee damage of "
+            "text": "このエンチャントは、"
           },
           {
-            "text": "Staves, Wands, and Bangles",
+            "text": "小杖、大杖、腕輪",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "の近接ダメージ上昇します。"
           }
         ]
       }
@@ -24704,21 +24655,21 @@
         "value": "",
         "json": [
           {
-            "text": "This enchantment causes the spell on the "
+            "text": "このエンチャントは"
           },
           {
-            "text": "Staff, Wand, or Bangle",
+            "text": "小杖、大杖、腕輪",
             "color": "blue"
           },
           {
-            "text": " to "
+            "text": "の呪文の"
           },
           {
-            "text": "have its duration increased",
+            "text": "持続時間をエンチャントレベルに応じて上昇",
             "color": "dark_purple"
           },
           {
-            "text": " by a number of steps equal to the enchantment level."
+            "text": "させます。"
           }
         ]
       }
@@ -24755,21 +24706,21 @@
         "value": "",
         "json": [
           {
-            "text": "This enchantment causes the spell on the "
+            "text": "このエンチャントは、"
           },
           {
-            "text": "Staff, Wand, or Bangle",
+            "text": "小杖、大杖、腕輪",
             "color": "blue"
           },
           {
-            "text": " to have its "
+            "text": "の呪文の"
           },
           {
-            "text": "speed increased",
+            "text": "速度をエンチャントレベルに応じて上昇",
             "color": "dark_purple"
           },
           {
-            "text": " by a number of steps equal to the enchantment level."
+            "text": "させます。"
           }
         ]
       }
@@ -24799,28 +24750,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "距離上昇"
+        "value": "射程距離上昇"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This enchantment causes the spell on the "
+            "text": "このエンチャントは、"
           },
           {
-            "text": "Staff, Wand, or Bangle",
+            "text": "小杖、大杖、腕輪",
             "color": "blue"
           },
           {
-            "text": " to have its"
+            "text": "の呪文の"
           },
           {
-            "text": " range increased",
+            "text": "射程距離をエンチャントレベルに応じて上昇",
             "color": "dark_purple"
           },
           {
-            "text": " by a number of steps equal to the enchantment level."
+            "text": "させます。"
           }
         ]
       }
@@ -25130,11 +25081,15 @@
             "color": "dark_purple"
           },
           {
-            "text": "。\n\nThis enchant can only be made by those that have allied themselves with the "
+            "text": "。\n\nこのエンチャントは、"
           },
           {
             "text": "不死者",
             "color": "dark_gray"
+          },
+          {
+            "text": "に所属している者のみ作成できます。",
+            "color": "black"
           }
         ]
       }
@@ -25205,14 +25160,14 @@
         "value": "",
         "json": [
           {
-            "text": "This enchantment uses the relentless powers of water to transcend the barriers of death and will allow me to"
+            "text": "このエンチャントは水の猛烈な力で死の障壁を通り抜け、"
           },
           {
-            "text": " keep the enchanted item with me when I respawn",
+            "text": "リスポーンしてもエンチャントされたアイテムを保持したまま",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "にする事ができます。"
           }
         ]
       }
