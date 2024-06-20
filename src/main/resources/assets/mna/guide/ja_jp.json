@@ -10932,7 +10932,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mundane Bracelet"
+        "value": "ありきたりなブレスレット"
       },
       {
         "type": "text",
@@ -10975,7 +10975,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mundane Ring"
+        "value": "ありきたりな指輪"
       },
       {
         "type": "text",
@@ -11011,7 +11011,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Mundane Amulet"
+        "value": "ありきたりなアミュレット"
       },
       {
         "type": "text",
@@ -11047,7 +11047,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rune: Air"
+        "value": "ルーン：大気"
       },
       {
         "type": "text",
@@ -11071,7 +11071,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rune: Arcane"
+        "value": "ルーン：神秘"
       },
       {
         "type": "text",
@@ -11095,7 +11095,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rune: Aura"
+        "value": "ルーン：オーラ"
       },
       {
         "type": "text",
@@ -11131,7 +11131,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rune: Defense"
+        "value": "ルーン：防衛"
       },
       {
         "type": "text",
@@ -11155,7 +11155,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rune: Earth"
+        "value": "ルーン：大地"
       },
       {
         "type": "text",
@@ -11179,7 +11179,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rune: Ender"
+        "value": "ルーン：エンダー"
       },
       {
         "type": "text",
@@ -11203,7 +11203,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rune: Fire"
+        "value": "ルーン：火"
       },
       {
         "type": "text",
@@ -11227,7 +11227,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Belt Buckle"
+        "value": "ベルトの留め具"
       },
       {
         "type": "text",
@@ -11256,25 +11256,25 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rune: Marking"
+        "value": "ルーン：目印"
       },
       {
         "type": "text",
         "value": "The rune of marking is used to mark a location, and is used to target certain rituals.  Using the rune on a given block will store the block's coordinates within the rune.\n\nTypically these runes aren't powerful enough to have an effect over long distances.",
         "json": [
           {
-            "text": "The "
-          },
-          {
-            "text": "Rune of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": " is used to mark a location, and is used to target certain rituals and spells. \n\n"
+            "text": "は位置を指定する為に利用され、特定の儀式や呪文の対象を選ぶのに使われます。\n\n"
           },
           {
-            "text": "Using the rune on a given block will store the block's coordinates within the rune.",
+            "text": "このルーンをブロックに使う事で、そのブロックの座標をルーン内に保存します。",
             "italic": true
+          },
+          {
+            "text": "\n"
           }
         ]
       },
@@ -11283,13 +11283,18 @@
         "value": "When holding a rune that has a position set on it in your main hand you will see a green marker at the position.  If the rune is held in your offhand, you will see a red marker.  If you hold two runes, one in each hand with a position set, you will also see a yellow zone indicating which area the two runes mark out.",
         "json": [
           {
-            "text": "When holding a rune that has a position set on it in my main hand, I will see a green marker at the position. If the rune is held in my offhand, I will see a red marker. \n\nIf I hold two runes, one in each hand with a position set, you will also see a yellow zone indicating which area the two runes mark out."
+            "text": "座標を設定したルーンを手に持っている場合、その位置に緑のマーカーが見えます。\n\nオフハンドに持っていると、赤いマーカーが見えます。\n\n座標を設定した二つのルーンを両手に持った場合、二つの座標によって示される範囲が黄色く表示されます。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "A rune of marking can be placed into a crafting grid to clear its marked position, allowing it to stack again."
+        "value": "A rune of marking can be placed into a crafting grid to clear its marked position, allowing it to stack again.",
+        "json": [
+          {
+            "text": "目印のルーンは作業台でクラフトすることで座標を除去でき、再びスタックできるようになります。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -11309,11 +11314,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rune: Metal Ritual Rune"
+        "value": "ルーン：金属製のルーン"
       },
       {
         "type": "text",
-        "value": "This rune pattern is used to create permanent runes for use in rituals."
+        "value": "This rune pattern is used to create permanent runes for use in rituals.",
+        "json": [
+          {
+            "text": "このルーンのパターンは、永続の儀式用のルーンを作成するのに使われます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -11333,7 +11343,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rune: Water"
+        "value": "ルーン：水"
       },
       {
         "type": "text",
@@ -11357,11 +11367,16 @@
     "sections": [
       {
         "type": "title",
-        "value": "Rune: Projection"
+        "value": "ルーン：投影"
       },
       {
         "type": "text",
-        "value": "When disenchanting items, I need a rune to catch the enchantment from the item itself.  The projection rune should do nicely."
+        "value": "When disenchanting items, I need a rune to catch the enchantment from the item itself.  The projection rune should do nicely.",
+        "json": [
+          {
+            "text": "エンチャントを除去する場合、そのエンチャントを回収するためのルーンが必要です。投影のルーンがその役割を担ってくれるでしょう。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -11385,7 +11400,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Frame Patterns"
+        "value": "コンストラクトフレームのパターン"
       },
       {
         "type": "text",
@@ -11441,21 +11456,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "Construct Frames"
+        "value": "コンストラクトフレーム"
       },
       {
         "type": "text",
         "value": "Once the frames are scribed, I will need to forge them into runes.  It's similar to forging other runes, but uses superheated purified vinteum ingots instead of the standard purified vinteum ingots.",
         "json": [
           {
-            "text": "Once the frames are scribed, I will need to forge them into runes. It's similar to forging other runes, but uses "
+            "text": "フレームを刻んだ後、鍛造してルーンにする必要があります。\n\n他のルーンの鍛造に似ていますが、過熱ヴィンテウムインゴットの代わりに"
           },
           {
-            "text": "Superheated Purified Vinteum Ingots ",
+            "text": "過熱浄化ヴィンテウムインゴット",
             "color": "blue"
           },
           {
-            "text": "instead of the standard superheated vinteum ingots."
+            "text": "を使用する必要があります。"
           }
         ]
       }
@@ -18603,7 +18618,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "を可能にしますが、構造が複雑な為に近接攻撃には使用できません。\n\nこれらの魔法攻撃は、素材によってはかなり強力になりえます。"
+            "text": "を可能にしますが、構造が複雑な為に格闘攻撃には使用できません。\n\nこれらの魔法攻撃は、素材によってはかなり強力になりえます。"
           },
           {
             "text": "マナ胴体",
@@ -18836,7 +18851,7 @@
             "color": "dark_red"
           },
           {
-            "text": "できます。コンストラクトは、クリーパーがいると水で濡らそう（爆発から防ぐ）としたのち、移動して近接攻撃などの攻撃を試みます。\n\n液体の種類が、その効果と対象になる存在を決めます。\n\n水は高いノックバックで、火を消します。追尾しているコンストラクトは、その所有者を消火します。賢いコンストラクトは、火が付く前に使用者を濡らします。\n\n溶岩は対象に火を点け、高いダメージを与えます。\n\n牛乳は、状態異常を除去します。コンストラクトは、追尾していたりパトロールをしている場合に味方から悪影響を取り除くためにこれを利用しようと試みます。\n\nこの腕を利用するには、コンストラクトに"
+            "text": "できます。コンストラクトは、クリーパーがいると水で濡らそう（爆発から防ぐ）としたのち、移動して格闘などの攻撃を試みます。\n\n液体の種類が、その効果と対象になる存在を決めます。\n\n水は高いノックバックで、火を消します。追尾しているコンストラクトは、その所有者を消火します。賢いコンストラクトは、火が付く前に使用者を濡らします。\n\n溶岩は対象に火を点け、高いダメージを与えます。\n\n牛乳は、状態異常を除去します。コンストラクトは、追尾していたりパトロールをしている場合に味方から悪影響を取り除くためにこれを利用しようと試みます。\n\nこの腕を利用するには、コンストラクトに"
           },
           {
             "text": "液体を貯蔵する能力",
