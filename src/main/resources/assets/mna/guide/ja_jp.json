@@ -16507,7 +16507,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "がアイテムを掴むのに必要で、他のアイテムを持っていない必要があります。スタックの合体は掴みの処理と一緒に行われますが、パフォーマンスのため初期のチェックでは行われません。そのため、この命令はコンストラクトのインベントリに最低一つの空きがある火うようがあります。\n\nコンストラクトに二つの手を与えて両方にアイテムを与えるかインベントリのスロットを複数埋めたい場合は、この命令を同時に複数回行う必要があります。"
+            "text": "がアイテムを掴むのに必要で、他のアイテムを持っていない必要があります。\n\nスタックの合体は掴みの処理と一緒に行われますが、パフォーマンスのため初期のチェックでは行われません。\nそのため、この命令はコンストラクトのインベントリに最低一つの空きがある必用があります。\n\nコンストラクトに二つの手を与えて両方にアイテムを与えるかインベントリのスロットを複数埋めたい場合は、この命令を同時に複数回行う必要があります。"
           }
         ]
       }
@@ -16552,28 +16552,28 @@
         "value": "This command will cause the construct to place all held items and inventory items in the given container, from the given side marked by the marking rune.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令はコンストラクトに"
           },
           {
-            "text": "place all held items and inventory items in the given container",
+            "text": "インベントリと手の中のすべてのアイテムを",
             "color": "dark_purple"
           },
           {
-            "text": ", from the "
+            "text": "、"
           },
           {
-            "text": "given side",
-            "color": "dark_purple"
-          },
-          {
-            "text": " marked by the "
-          },
-          {
-            "text": "Rune of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "に"
+          },
+          {
+            "text": "指定された容器の指定された面に入れます",
+            "color": "dark_purple"
+          },
+          {
+            "text": "。"
           }
         ]
       }
@@ -16632,21 +16632,21 @@
         "value": "This command will cause the construct to attempt to Forge the rune set up on the runic anvil.  It requires that the given materials are already present. This requires a hammer arm on the Construct.  The better the material of the arm, the faster the construct will work.",
         "json": [
           {
-            "text": "This command will cause the construct to attempt to "
+            "text": "この命令は、コンストラクトに"
           },
           {
-            "text": "Forge the rune set up on the runic anvil",
+            "text": "ルーン金床の上のルーンの鍛造",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIt requires that the given materials are already present. \n\nThis "
+            "text": "を試みさせます。\n\n既に素材が置かれている必要があります。\n\nコンストラクトに"
           },
           {
-            "text": "requires a hammer arm",
+            "text": "ハンマー腕が必要",
             "color": "dark_purple"
           },
           {
-            "text": " on the Construct. The better the material of the arm, the faster the construct will work."
+            "text": "です。腕の素材が良いほど、作業速度が速くなります。"
           }
         ]
       }
@@ -16777,14 +16777,14 @@
         "value": "This command will cause the construct to move to the given location.  It does not require any specific parts, but can be useful for things like forcing triggering of pressure plates.",
         "json": [
           {
-            "text": "This command will cause the construct to "
+            "text": "この命令は、コンストラクト"
           },
           {
-            "text": "move to the given location",
+            "text": "指定の位置に移動させます",
             "color": "dark_purple"
           },
           {
-            "text": ". It does not require any specific parts, but can be useful for things like forcing triggering of pressure plates."
+            "text": "。特定の部品を要求せず、感圧版を起動するのにも便利です。"
           }
         ]
       }
@@ -16836,7 +16836,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "し、そこを警備して視線に入った敵を攻撃するようにします（可能であれば）。攻撃する事で警備する事で指定された地点から離れすぎてしまう場合（認知に依存）は、"
+            "text": "し、そこを警備して視線に入った敵を攻撃するようにします（可能であれば）。\n\n攻撃する事で指定された地点から離れすぎてしまう場合（距離は認知に依存）は、"
           },
           {
             "text": "攻撃をやめて元の位置に戻ります",
@@ -16869,7 +16869,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "させ、可能であれば見つかった敵を攻撃します。すべてのポイントで、"
+            "text": "させ、可能であれば見つかった敵を攻撃します。\n\nすべてのポイントで、"
           },
           {
             "text": "次のポイントに移動するまで指定された時間待機",
@@ -17319,28 +17319,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Command: ワールドに液体を設置"
+        "value": "命令: ワールドに液体を設置"
       },
       {
         "type": "text",
         "value": "This command will cause the construct to attempt to place the fluid in its tank as a source block at the configured point.  The construct needs to be able to dispense fluid and store fluid in order to perform this task.",
         "json": [
           {
-            "text": "This command will cause the construct to attempt to "
+            "text": "この命令は、"
           },
           {
-            "text": "place the fluid in its tank as a source block at the configured point",
+            "text": "自身の液体タンク内の液体を指定された位置に設置",
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nThe construct "
+            "text": "します。\n\nこのタスクを行うコンストラクトには、"
           },
           {
-            "text": "needs to be able to dispense fluid and store fluid",
+            "text": "液体を貯蔵、供給する能力が必要です",
             "color": "dark_purple"
           },
           {
-            "text": " in order to perform this task."
+            "text": "。"
           }
         ]
       }
@@ -17641,14 +17641,14 @@
             "color": "dark_purple"
           },
           {
-            "text": "\n\n\n"
+            "text": "\n\n\n\n"
           },
           {
             "text": "タスク中にコンストラクトが死亡する可能性がありますが、リスクは減らすことができます：",
             "color": "dark_red"
           },
           {
-            "text": "\n\n\nコンストラクトは、指定された敵の種類（遠距離攻撃、飛行、転移、飛行モンスターのための呪文詠唱、水中の敵のための浮力）のうち最低でも一種類の敵と戦え、地下の場合は認知２０か、インベントリに消費できる光源が必要です。条件が満たされていない種類の敵はスキップされます。例えば、設定を地上と地下に設定し、必要な認知/光源がない場合は、地上での狩りは行いますが地下では行いません。\n\nリスクレベルは、戦闘を試みる対象の危険度を決定します。強力な戦闘能力（ダメージ）や、防御力、防具強度は受けるダメージを減らします。\n\n親和性もコンストラクトの生存に影響し、風/神秘は飛行する敵から守り、水は水棲の敵から守り、大地/炎/エンダーは地下の敵から守り、大地は地上の敵からも守ってくれます。\n\n地上が一番安全で、その次に水、飛行、そして最後に地下です。\n\n狩りの最中に味方の派閥に出会った場合は、代わりに回復してくれます。彼らの戦利品を手に入れる事はありません。\n\n体力の条件タスクを利用する事で、仮に行く前に体力が最大になっているようにする事をお勧めします。かれらの自然回復は、最大まで回復してくれますので。\n\n"
+            "text": "\n\n\nコンストラクトは、指定された敵の種類のうち最低でも一種類の敵と戦う事が必要で（遠距離攻撃、飛行、転移、飛行モンスターのための呪文詠唱、水中の敵のための浮力）、\n\n地下の場合は認知２０か、インベントリに消費できる光源が必要です。\n\n条件が満たされていない種類の敵はスキップされます。例えば、設定を地上と地下に設定し、必要な認知/光源がない場合は、地上での狩りは行いますが地下では行いません。\n\nリスクレベルは、戦闘を試みる対象の危険度を決定します。強力な戦闘能力（ダメージ）や、防御力、防具強度は受けるダメージを減らします。\n\n親和性もコンストラクトの生存に影響し、風/神秘は飛行する敵から守り、水は水棲の敵から守り、大地/炎/エンダーは地下の敵から守り、大地は地上の敵からも守ってくれます。\n\n地上が一番安全で、その次に水、飛行、そして最後に地下です。\n\n狩りの最中に味方の派閥に出会った場合は、代わりに回復してくれます。彼らの戦利品を手に入れる事はありません。\n\n体力の条件タスクを利用する事で、仮に行く前に体力が最大になっているようにする事をお勧めします。かれらの自然回復は、最大まで回復してくれますので。\n\n"
           },
           {
             "text": "このタスクを行うコンストラクトは知能が最低でも16必要で、より高い知能ではより多くの接敵をします。そして知能３６、認知２０あると、プレイヤーによる討伐が必要なアイテムも持ち帰ることが可能になります。",
@@ -17913,42 +17913,42 @@
     "sections": [
       {
         "type": "title",
-        "value": "Condition: 名前が一致しているか"
+        "value": "条件：名前が一致しているか"
       },
       {
         "type": "text",
         "value": "",
         "json": [
           {
-            "text": "This condition will"
+            "text": "この条件は"
           },
           {
-            "text": " check if the construct's name matches the name of the given item",
+            "text": "コンストラクトの名前が指定のアイテムの名前と一致するか確認",
             "color": "dark_purple"
           },
           {
-            "text": ", returning "
+            "text": "し、すれば"
           },
           {
-            "text": "success ",
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "if it is, and "
+            "text": "、でなければ"
           },
           {
-            "text": "failure ",
+            "text": "失敗",
             "color": "dark_red"
           },
           {
-            "text": "if it is not.  An empty item will cause this condition to return "
+            "text": "を出力します。\n\n空のアイテムは、コンストラクトが何らかの名前がついている場合に"
           },
           {
-            "text": "success ",
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "if the construct has any custom name at all."
+            "text": "を出力するようになります。"
           }
         ]
       }
@@ -17960,35 +17960,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Condition: コンストラクトがアイテムを持っている"
+        "value": "条件：コンストラクトがアイテムを持っている"
       },
       {
         "type": "text",
         "value": "This condition will check if the construct has the given item in its hands or inventory, returning success if it does, and failure if it does not.",
         "json": [
           {
-            "text": "This condition will check "
+            "text": "この条件は"
           },
           {
-            "text": "if the construct has the given item in its hands or inventory",
+            "text": "コンストラクトの手かインベントリに指定されたアイテムが存在するか確認",
             "color": "dark_purple"
           },
           {
-            "text": ", returning "
+            "text": "し、あれば"
           },
           {
-            "text": "success ",
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "if it does, and "
+            "text": "、なければ"
           },
           {
-            "text": "failure ",
+            "text": "失敗",
             "color": "dark_red"
           },
           {
-            "text": "if it does not."
+            "text": "を出力します。"
           }
         ]
       }
@@ -18000,42 +18000,35 @@
     "sections": [
       {
         "type": "title",
-        "value": "Condition: 範囲にエンティティがいるか"
+        "value": "条件： 範囲にエンティティがいるか"
       },
       {
         "type": "text",
         "value": "This condition will check if the specified entity is in the given area (determined by a phylactery in the configuration, any amount of fill will do), returning success if it is found, and failure if it is not.",
         "json": [
           {
-            "text": "This condition will check if the "
+            "text": "この条件は"
           },
           {
-            "text": "specified entity is in the given area",
+            "text": "特定の（結晶聖箱によって指定）エンティティが指定の範囲にいるかを確認",
             "color": "dark_purple"
           },
           {
-            "text": " (determined by a "
+            "text": "し、見つかれば"
           },
           {
-            "text": "Crystal Phylactery",
-            "color": "blue"
-          },
-          {
-            "text": " in the configuration, any amount of fill amount in the Phylactery will do), returning "
-          },
-          {
-            "text": "success ",
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "if it is found, and "
+            "text": "、見つからなければ"
           },
           {
-            "text": "failure ",
+            "text": "失敗",
             "color": "dark_red"
           },
           {
-            "text": "if it is not."
+            "text": "を出力します。"
           }
         ]
       }
@@ -18047,41 +18040,41 @@
     "sections": [
       {
         "type": "title",
-        "value": "Condition: 容器が空か"
+        "value": "条件: 容器が空か"
       },
       {
         "type": "text",
         "value": "This condition will check if the specified container is empty, returning success if it is, and failure if it is not.",
         "json": [
           {
-            "text": "This condition will check "
+            "text": "この条件は"
           },
           {
-            "text": "if the specified container is empty",
+            "text": "指定された容器が空か確認",
             "color": "dark_purple"
           },
           {
-            "text": ", returning "
+            "text": "し、であれば"
           },
           {
-            "text": "success ",
+            "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "if it is, and "
+            "text": "、でなければ"
           },
           {
-            "text": "failure ",
+            "text": "失敗",
             "color": "dark_red"
           },
           {
-            "text": "if it is not."
+            "text": "を出力します。"
           }
         ]
       }
     ]
   },
-  "ondition: Is Fluid In Container": {
+  "Condition: Is Fluid In Container": {
     "index": 4,
     "category": "constructs",
     "sections": [
@@ -18435,49 +18428,49 @@
         "value": "Construct shield arms allow the construct to block incoming attacks in front of it, greatly increasing its survivability.  They also increase the construct's overall armor/toughness values based on their material:",
         "json": [
           {
-            "text": "コンストラクトの盾腕は、正面の攻撃を防ぐのを可能にし、生存能力を大きく上げます。さらに、素材に応じて防御力/防具強度を得ます：\n\nConstruct shield arms allow the construct to block incoming attacks in front of it, greatly increasing its survivability. They also increase the construct's overall armor/toughness values based on their material:\n\n"
+            "text": "コンストラクトの盾腕は、正面の攻撃を防ぐのを可能にし、生存能力を大きく上げます。さらに、素材に応じて防御力/防具強度を得ます：\n\n"
           },
           {
-            "text": "Wood",
+            "text": "木製",
             "color": "blue"
           },
           {
-            "text": ": 3 armor, 0 toughness\n"
+            "text": "：３防御力、０防具強度\n"
           },
           {
-            "text": "Stone",
+            "text": "石製",
             "color": "blue"
           },
           {
-            "text": ": 4 armor, 0 toughness\n"
+            "text": "：４防御力、０防具強度\n"
           },
           {
-            "text": "Iron",
+            "text": "鉄製",
             "color": "blue"
           },
           {
-            "text": ": 8 armor, 3 toughness\n"
+            "text": "：８防御力、３防具強度\n"
           },
           {
-            "text": "Gold",
+            "text": "金製",
             "color": "blue"
           },
           {
-            "text": ": 3 armor, 0 toughness\n"
+            "text": "：３防御力、１防具強度\n"
           },
           {
-            "text": "Diamond",
+            "text": "ダイアモンド製",
             "color": "blue"
           },
           {
-            "text": ": 6 armor, 1 toughness\n"
+            "text": "：６防御力、１防具強度\n"
           },
           {
-            "text": "Obsidian",
+            "text": "黒曜石製",
             "color": "blue"
           },
           {
-            "text": ": 5 armor, 0 toughness"
+            "text": "：５防御力、０防具強度"
           }
         ]
       }
@@ -18851,7 +18844,7 @@
             "color": "dark_red"
           },
           {
-            "text": "できます。コンストラクトは、クリーパーがいると水で濡らそう（爆発から防ぐ）としたのち、移動して格闘などの攻撃を試みます。\n\n液体の種類が、その効果と対象になる存在を決めます。\n\n水は高いノックバックで、火を消します。追尾しているコンストラクトは、その所有者を消火します。賢いコンストラクトは、火が付く前に使用者を濡らします。\n\n溶岩は対象に火を点け、高いダメージを与えます。\n\n牛乳は、状態異常を除去します。コンストラクトは、追尾していたりパトロールをしている場合に味方から悪影響を取り除くためにこれを利用しようと試みます。\n\nこの腕を利用するには、コンストラクトに"
+            "text": "できます。\n\nコンストラクトは、クリーパーを見つけると水で濡らそう（爆発から防ぐ）としたのち、移動して格闘などの攻撃を試みます。\n\n液体の種類が、その効果と対象になる存在を決めます。\n\n水は高いノックバックで、火を消します。追尾しているコンストラクトは、その所有者を消火します。賢いコンストラクトは、火が付く前に使用者を濡らします。\n\n溶岩は対象に火を点け、高いダメージを与えます。\n\n牛乳は、状態異常を除去します。コンストラクトは、追尾していたりパトロールをしている場合に味方から悪影響を取り除くためにこれを利用しようと試みます。\n\nこの腕を利用するには、コンストラクトに"
           },
           {
             "text": "液体を貯蔵する能力",
@@ -19210,7 +19203,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "できるようにします。プレイヤーによってバケツで投入/取り出しできますが、コンストラクトが液体を利用するには液体ノズル腕が必要です。良い素材を使っても、容量は増えません。"
+            "text": "できるようにします。\n\nプレイヤーによってバケツで投入/取り出しできますが、コンストラクトが液体を利用するには液体ノズル腕が必要です。\n\n良い素材を使っても、容量は増えません。"
           }
         ]
       }
@@ -19268,7 +19261,7 @@
             "color": "blue"
           },
           {
-            "text": "などによって利用されます。貯蔵されたマナは自然回復せず、コンストラクトをマナクリスタルの効果範囲に置くことによって再充填される必要があります。\n\n素材が良いほど、より多くのマナを保持できます。\n\n"
+            "text": "などによって利用されます。\n\n貯蔵されたマナは自然回復せず、コンストラクトをマナクリスタルの効果範囲に置くことによって再充填される必要があります。\n\n素材が良いほど、より多くのマナを保持できます。\n\n"
           },
           {
             "text": "木材",
