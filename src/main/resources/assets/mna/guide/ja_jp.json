@@ -6802,6 +6802,10 @@
       {
         "type": "spell_part",
         "location": "mna:shapes/bound_sword"
+      },
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/artifice/battlemage_amulet"
       }
     ]
   },
@@ -6947,7 +6951,12 @@
       {
         "type": "spell_part",
         "location": "mna:shapes/bound_bow"
+      },
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/artifice/battlemage_amulet"
       }
+      
     ]
   },
   "Shape: Summon": {
@@ -15132,15 +15141,15 @@
       },
       {
         "type": "title",
-        "value": "柳製",
+        "value": "籐製",
         "newPage": true
       },
       {
         "type": "text",
-        "value": "Wickerwood construct parts are made from sticks and wheat.  They are buoyant and light, meaning they help constructs to float and move more quickly.  However they cause the construct to take more damage from fire, and they don't have much in terms of health.  Wickerwood constructs are also extremely primitive and as such are not capabile of more complex tasks or displaying emotion.",
+        "value": "",
         "json": [
           {
-            "text": "柳製",
+            "text": "籐製",
             "color": "blue"
           },
           {
@@ -15161,11 +15170,11 @@
             "text": "であり、素早く移動できます。しかし、"
           },
           {
-            "text": "火から大ダメージを受け",
+            "text": "火から大ダメージを受け、ネザーで燃え",
             "color": "dark_purple"
           },
           {
-            "text": "、"
+            "text": "、さらに"
           },
           {
             "text": "耐久性があまりありません",
@@ -15221,7 +15230,7 @@
             "text": "。 要は "
           },
           {
-            "text": "柳製の少しマシなバージョンです",
+            "text": "籐製の少しマシなバージョンです",
             "color": "dark_purple"
           },
           {
@@ -24457,6 +24466,7 @@
   "Component: Greater Animus": {
     "index": "2",
     "category": "sorcery",
+    "tier": 5,
     "sections": [
       {
         "type": "title",
@@ -24561,7 +24571,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。これは自分が辺りを見渡すと一緒に動きます。\n\n"
+            "text": "。これは自分が辺りを見渡すと一緒に動きます。\n\n大地に縛られているため、他の呪文に比べて大きな半径を持ちます。\n\n"
           },
           {
             "text": "マウスのホイールを回すことで前、後ろに狙いを移動できます。",
@@ -25002,13 +25012,13 @@
       }
     ]
   },
-  "Automating Spell Creation": {
+  "Altar of Arcana": {
     "index": "0",
     "category": "sorcery",
     "sections": [
       {
         "type": "title",
-        "value": "呪文作成の自動化"
+        "value": "神秘の祭壇"
       },
       {
         "type": "text",
@@ -25457,5 +25467,5 @@
       }
     ]
   },
-  "version": "2.0.0.1"
+  "version": "3.0.0.15"
 }
