@@ -6956,7 +6956,6 @@
         "type": "manaweaving_altar",
         "location": "mna:manaweaving/artifice/battlemage_amulet"
       }
-      
     ]
   },
   "Shape: Summon": {
@@ -10941,28 +10940,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "ありきたりなブレスレット"
+        "value": "ありふれたブレスレット"
       },
       {
         "type": "text",
         "value": "I have a delicate setup for making all of my runes, these tools could easily make some jewellery that I could later imbue with magical properties.  I'll start with a simple bracelet.",
         "json": [
           {
-            "text": "I have a delicate setup for making all of my runes, these tools could easily make some jewellery that I could "
+            "text": "ルーンを作成するための繊細な準備ができており、これらの道具を使う事で"
           },
           {
-            "text": "later imbue with magical properties",
+            "text": "魔術的な性質を注入できる宝飾品",
             "color": "blue"
           },
           {
-            "text": ". I'll start with a simple "
+            "text": "が作れるはずです。\n\nそのためにまずはシンプルな"
           },
           {
-            "text": "bracelet",
+            "text": "ブレスレット",
             "color": "blue"
           },
           {
-            "text": "."
+            "text": "を作成します。"
           }
         ]
       }
@@ -10984,21 +10983,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "ありきたりな指輪"
+        "value": "ありふれた指輪"
       },
       {
         "type": "text",
         "value": "This simple ring doesn't offer too much on its own, but the enchantment possibilities lend it significantly more use.",
         "json": [
           {
-            "text": "This simple ring doesn't offer too much on its own, but the possibilities from "
+            "text": "この単純な指輪は単体では何もしませんが、"
           },
           {
-            "text": "using it in other crafting recipes",
+            "text": "他のクラフト素材に利用できる",
             "color": "blue"
           },
           {
-            "text": " lend it significantly more use."
+            "text": "のでよく使われます。"
           }
         ]
       }
@@ -11020,21 +11019,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "ありきたりなアミュレット"
+        "value": "ありふれたアミュレット"
       },
       {
         "type": "text",
         "value": "This simple amulet doesn't offer too much on its own, but the enchantment possibilities lend it significantly more use.",
         "json": [
           {
-            "text": "This simple amulet doesn't offer too much on its own, but the possibilities from "
+            "text": "この単純なアミュレットは単体では何もしませんが、"
           },
           {
-            "text": "using it in other crafting recipes",
+            "text": "他のクラフト素材に利用できる",
             "color": "blue"
           },
           {
-            "text": " lend it significantly more use."
+            "text": "のでよく使われます。"
           }
         ]
       }
@@ -11060,7 +11059,12 @@
       },
       {
         "type": "text",
-        "value": "The air rune pattern is used to apply enchantments focusing around the element of air."
+        "value": "The air rune pattern is used to apply enchantments focusing around the element of air.",
+        "json": [
+          {
+            "text": "大気のルーンのパターンは、大気の属性に関わるエンチャントを付与するのに利用されます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -11084,7 +11088,12 @@
       },
       {
         "type": "text",
-        "value": "The arcane rune pattern is used to apply enchantments focusing around the realm of the arcane."
+        "value": "The arcane rune pattern is used to apply enchantments focusing around the realm of the arcane.",
+        "json": [
+          {
+            "text": "神秘のルーンのパターンは、神秘の属性に関わるのエンチャントを付与するのに利用されます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -11144,7 +11153,12 @@
       },
       {
         "type": "text",
-        "value": "This rune pattern is used in conjunction with enchantments focusing on defense."
+        "value": "This rune pattern is used in conjunction with enchantments focusing on defense.",
+        "json": [
+          {
+            "text": "防衛のルーンのパターンは、防衛に焦点を置いたエンチャントを付与するのに利用されます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -11168,7 +11182,12 @@
       },
       {
         "type": "text",
-        "value": "The earth rune pattern is used to apply enchantments focusing around the element of earth."
+        "value": "The earth rune pattern is used to apply enchantments focusing around the element of earth.",
+        "json": [
+          {
+            "text": "大地のルーンのパターンは、大地の属性に関わるのエンチャントを付与するのに利用されます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -11192,7 +11211,12 @@
       },
       {
         "type": "text",
-        "value": "The ender rune pattern is used to apply enchantments focusing around the realm of the end."
+        "value": "The ender rune pattern is used to apply enchantments focusing around the realm of the end.",
+        "json": [
+          {
+            "text": "エンダーのルーンのパターンは、エンダーの次元に関わるのエンチャントを付与するのに利用されます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -11216,7 +11240,12 @@
       },
       {
         "type": "text",
-        "value": "The fire rune pattern is used to apply enchantments focusing around the element of fire."
+        "value": "The fire rune pattern is used to apply enchantments focusing around the element of fire.",
+        "json": [
+          {
+            "text": "火のルーンのパターンは、火の属性に関わるのエンチャントを付与するのに利用されます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -11243,7 +11272,7 @@
         "value": "The Belt Buckle is a component in enchanted belts.",
         "json": [
           {
-            "text": "The Belt Buckle is a component in crafting belts.  Who knew?"
+            "text": "ベルトの留め具はベルトを作成するための素材です。知ってましたか？"
           }
         ]
       }
@@ -11356,7 +11385,12 @@
       },
       {
         "type": "text",
-        "value": "The water rune pattern is used to apply enchantments focusing around the element of water."
+        "value": "The water rune pattern is used to apply enchantments focusing around the element of water.",
+        "json": [
+          {
+            "text": "水のルーンのパターンは、水の属性に関わるエンチャントを付与するのに利用されます。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -11416,14 +11450,11 @@
         "value": "When making constructs, it is often required to reinforce the parts you are crafting with various forged frames.  These frames add strength and help to hold the animus magic within the construct.",
         "json": [
           {
-            "text": "When making "
-          },
-          {
-            "text": "Constructs",
+            "text": "コンストラクト",
             "color": "blue"
           },
           {
-            "text": ", it is often required to reinforce the parts you are crafting with various forged frames. These frames add strength and help to hold the animus magic within the construct."
+            "text": "を作成する際、鍛造されたフレームで作成しうている部品を補強する必要があります。\n\nこのフレームは強度を追加し、コンストラクトの生命化の魔術を保持するのを助けます。"
           }
         ]
       }
@@ -21570,14 +21601,14 @@
         "value": "The Bane of Arthropods enchantment increases your attack damage against mobs such as spiders, cave spiders, silverfish, and endermites.",
         "json": [
           {
-            "text": "The Bane of Arthropods enchantment "
+            "text": "虫特攻のエンチャントは、"
           },
           {
-            "text": "increases your attack damage against mobs such as spiders, cave spiders, silverfish, and endermites",
+            "text": "蜘蛛、洞窟蜘蛛、シルバーフィッシュやエンダーマイトへの攻撃のダメージを増加",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "させます。"
           }
         ]
       }
@@ -21617,14 +21648,14 @@
         "value": "The Curse of Binding enchantment lets you curse an item. Once a cursed item is worn, it can not be removed until the item breaks or the wearer dies.",
         "json": [
           {
-            "text": "The Curse of Binding enchantment lets you curse an item. "
+            "text": "束縛の呪いのエンチャントは、アイテムを呪えます。"
           },
           {
-            "text": "Once a cursed item is worn, it can not be removed until the item breaks or the wearer dies",
+            "text": "呪われたアイテムが装備されるとそのアイテムが破壊されるか、着用者が死亡しない装備を外せなくなります",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -21648,14 +21679,14 @@
         "value": "The Curse of Vanishing enchantment lets you curse an item in the game. When an item is cursed with this enchantment, the cursed item will disappear when the wearer dies instead of being dropped.",
         "json": [
           {
-            "text": "The Curse of Vanishing enchantment lets you curse an item in the game. When an item is cursed with this enchantment, the "
+            "text": "消滅の呪いはのエンチャントは、アイテムを呪えるようにします。このエンチャントで呪われている場合、"
           },
           {
-            "text": "cursed item will disappear when the wearer dies instead of being dropped",
+            "text": "着用者が死亡した場合にアイテムがドロップせずに消滅",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "します。"
           }
         ]
       }
@@ -21679,14 +21710,14 @@
         "value": "The Blast Protection enchantment reduces the damage from explosions such as TNT explosions, creeper explosions, ghast fireballs, initial wither boss explosions, and ender crystals.",
         "json": [
           {
-            "text": "The Blast Protection enchantment "
+            "text": "爆破耐性のエンチャントはクリーパーの爆発や、TNTの爆発、ガストの火の弾、エンドクリスタルの爆発、ウィザーの最初の爆発などの"
           },
           {
-            "text": "reduces the damage from explosions",
+            "text": "爆発ダメージを軽",
             "color": "dark_purple"
           },
           {
-            "text": " such as TNT explosions, creeper explosions, ghast fireballs, initial wither boss explosions, and ender crystals."
+            "text": "減させます。"
           }
         ]
       }
@@ -21760,14 +21791,14 @@
         "value": "The Depth Strider enchantment speeds up how fast you can move underwater.",
         "json": [
           {
-            "text": "The Depth Strider enchantment "
+            "text": "水中歩行のエンチャントは、"
           },
           {
-            "text": "speeds up how fast you can move underwater",
+            "text": "水中で移動できる速度を上昇",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "されます。"
           }
         ]
       }
@@ -21860,14 +21891,14 @@
         "value": "The Feather Falling enchantment reduces damage from falling and damage from ender pearl teleportations.",
         "json": [
           {
-            "text": "The Feather Falling enchantment "
+            "text": "落下耐性のエンチャントは、"
           },
           {
-            "text": "reduces damage from falling and damage from ender pearl teleportations",
+            "text": "落下時のダメージとエンダーパールで転移する際のダメージを軽減",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "します。"
           }
         ]
       }
@@ -21903,14 +21934,14 @@
         "value": "The Fire Aspect enchantment sets your target on fire when you attack.",
         "json": [
           {
-            "text": "The Fire Aspect enchantment "
+            "text": "火属性のエンチャントは、"
           },
           {
-            "text": "sets your target on fire when you attack",
+            "text": "攻撃した対象に火を点けます",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -21938,14 +21969,14 @@
         "value": "The Fire Protection enchantment reduces the damage caused by fire and lava.",
         "json": [
           {
-            "text": "The Fire Protection enchantment "
+            "text": "火炎耐性のエンチャントは、"
           },
           {
-            "text": "reduces the damage caused by fire and lava",
+            "text": "溶岩と火によってのダメージを軽減",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "します。"
           }
         ]
       }
@@ -22078,14 +22109,14 @@
         "value": "The Fortune enchantment increases the block drops from mining. For example, with the Fortune enchantment you will have a better chance of getting flint from gravel or an apple from a tree.",
         "json": [
           {
-            "text": "The Fortune enchantment "
+            "text": "幸運のエンチャントは、"
           },
           {
-            "text": "increases the block drops from mining",
+            "text": "採掘した際のブロックのドロップ率を上昇",
             "color": "dark_purple"
           },
           {
-            "text": ". For example, with the Fortune enchantment you will have a better chance of getting flint from gravel or an apple from a tree."
+            "text": "させます。\n\n例：幸運エンチャントがあれば、砂利から火打石を得る確率や、木からリンゴを得られる確率が高くなります。"
           }
         ]
       }
@@ -22173,14 +22204,14 @@
         "value": "The Impaling enchantment increases your attack damage against sea creature mobs such as guardians, elder guardians, squids, dolphins, and turtles.",
         "json": [
           {
-            "text": "The Impaling enchantment "
+            "text": "水棲特攻のエンチャントは、エルダーガーディアンや、ガーディアン、亀、イカ、イルカなどの"
           },
           {
-            "text": "increases your attack damage against sea creature mobs",
+            "text": "水棲モブへの攻撃のダメージが増加",
             "color": "dark_purple"
           },
           {
-            "text": " such as guardians, elder guardians, squids, dolphins, and turtles."
+            "text": "します。"
           }
         ]
       }
@@ -22220,14 +22251,14 @@
         "value": "The Infinity enchantment allows you to shoot your bow without using up any of your arrows.\n\nThis enchantment only applies to arrows. It does not give you infinite spectral arrows or tipped arrows.",
         "json": [
           {
-            "text": "The Infinity enchantment "
+            "text": "無限のエンチャントは、弓を"
           },
           {
-            "text": "allows you to shoot your bow without using up any of your arrows",
+            "text": "矢を消費せずに撃つ事が可能になります",
             "color": "dark_purple"
           },
           {
-            "text": ". This enchantment only applies to arrows. It does not give you infinite spectral arrows or tipped arrows."
+            "text": "。\n\nこのエンチャントは、普通の矢にのみ適用されます。矢先のついた矢などには適用されません。"
           }
         ]
       }
@@ -22251,14 +22282,14 @@
         "value": "The Knockback enchantment increases the knockback dealt when attacking a player or mob. This will cause the player or mob to repel backwards more than usual.",
         "json": [
           {
-            "text": "The Knockback enchantment "
+            "text": "ノックバックのエンチャントは、"
           },
           {
-            "text": "increases the knockback dealt when attacking a player or mob",
+            "text": "プレイヤーやモブを攻撃した際に加わるノックバックが上昇",
             "color": "dark_purple"
           },
           {
-            "text": ". This will cause the player or mob to repel backwards more than usual."
+            "text": "します。\n\nこれは、プレイヤーやモブがもっと後ろに飛ばされるようになります。"
           }
         ]
       }
@@ -22286,14 +22317,14 @@
         "value": "The Looting enchantment increases the amount of loot that is dropped when a mob is killed.",
         "json": [
           {
-            "text": "The Looting enchantment "
+            "text": "ドロップ増加のエンチャントは、"
           },
           {
-            "text": "increases the amount of loot that is dropped when a mob is killed",
+            "text": "モブを殺した際にドロップするアイテムの数が増加",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "します。"
           }
         ]
       }
@@ -22386,14 +22417,14 @@
         "value": "The Luck of the Sea enchantment increases your chances of catching valuable items such as saddles, name tags, enchanted books, enchanted fishing rods, and enchanted bows.",
         "json": [
           {
-            "text": "The Luck of the Sea enchantment "
+            "text": "宝釣りのエンチャントは、鞍、名札、エンチャントされた本、釣り竿、弓などの"
           },
           {
-            "text": "increases your chances of catching valuable items",
+            "text": "高価なアイテムを釣り上げる確率が上昇",
             "color": "dark_purple"
           },
           {
-            "text": " such as saddles, name tags, enchanted books, enchanted fishing rods, and enchanted bows."
+            "text": "します。"
           }
         ]
       }
@@ -22480,14 +22511,14 @@
         "value": "The Mending enchantment uses xp (experience) to mend your equipped tools, weapons and armor. Each time you gain experience by killing mobs or mining certain items, the experience earned will automatically be used to repair any damaged tools, weapons or armor that you have equipped (and are enchanted with Mending).",
         "json": [
           {
-            "text": "The Mending enchantment "
+            "text": "修繕のエンチャントは、"
           },
           {
-            "text": "uses xp (experience) to mend your equipped tools, weapons and armor",
+            "text": "XP（経験値）を利用して装備している道具や武器、鎧を修理",
             "color": "dark_purple"
           },
           {
-            "text": ". Each time you gain experience by killing mobs or mining certain items, the experience earned will automatically be used to repair any damaged tools, weapons or armor that you have equipped (and are enchanted with Mending)."
+            "text": "します。\n\nモブを討伐したり特定のアイテムを採掘して経験値を得る度に、得た経験値が自動で使用され、手に持った耐久値が減ったアイテム（修繕がエンチャントされた）を修復します。"
           }
         ]
       }
@@ -22512,14 +22543,14 @@
         "value": "The Multishot enchantment allows a player to shoot 3 arrows at a time but only 1 arrow will be used from the inventory (the cost is only 1 arrow and not 3 arrows with this enchantment).",
         "json": [
           {
-            "text": "The Multishot enchantment allows a player to "
+            "text": "拡散のエンチャントは、プレイヤーに"
           },
           {
-            "text": "shoot 3 arrows at a time but only 1 arrow will be used from the inventory",
+            "text": "一度で三つの矢を撃つことができる",
             "color": "dark_purple"
           },
           {
-            "text": " (the cost is only 1 arrow and not 3 arrows with this enchantment)."
+            "text": "ようにしますが矢は一本しか消費しません。"
           }
         ]
       }
@@ -22544,11 +22575,14 @@
         "value": "The Piercing enchantment allows the arrow fired from a crossbow to pierce through multiple entities.",
         "json": [
           {
-            "text": "The Piercing enchantment "
+            "text": "貫通のエンチャントは、"
           },
           {
-            "text": "allows the arrow fired from a crossbow to pierce through multiple entities.",
+            "text": "クロスボウから発射された矢が複数のエンティティを貫く事が可能になります",
             "color": "dark_purple"
+          },
+          {
+            "text": "。"
           }
         ]
       }
@@ -22658,14 +22692,14 @@
         "value": "The Projectile Protection enchantment reduces the damage from projectile attacks such as arrows, ghast fireballs, and blaze fire charges.",
         "json": [
           {
-            "text": "The Projectile Protection enchantment "
+            "text": "飛び道具耐性のエンチャントは、矢や、ガストの火の球、ブレイズの火球などの"
           },
           {
-            "text": "reduces the damage from projectile attacks",
+            "text": "飛び道具からのダメージを軽減",
             "color": "dark_purple"
           },
           {
-            "text": " such as arrows, ghast fireballs, and blaze fire charges."
+            "text": "します。"
           }
         ]
       }
@@ -22702,14 +22736,14 @@
         "value": "The Protection enchantment is a comprehensive protection against all types of damage such as damage from attacks, fire, lava, and falling.",
         "json": [
           {
-            "text": "The Protection enchantment is a "
+            "text": "ダメージ軽減のエンチャントは、攻撃、火、溶岩、落下など"
           },
           {
-            "text": "comprehensive protection against all types of damage",
+            "text": "すべての攻撃に対して総括的な防護を得ます",
             "color": "dark_purple"
           },
           {
-            "text": " such as damage from attacks, fire, lava, and falling."
+            "text": "。"
           }
         ]
       }
@@ -22746,21 +22780,21 @@
         "value": "The Punch enchantment increases the knockback dealt when attacking a player or mob with your bow and arrow. This will cause the player or mob to repel backwards more than usual.",
         "json": [
           {
-            "text": "The Punch enchantment "
+            "text": "パンチのエンチャントは、"
           },
           {
-            "text": "increases the knockback dealt",
+            "text": "弓矢",
             "color": "dark_purple"
           },
           {
-            "text": " when attacking a player or mob with your "
+            "text": "によって与えられる"
           },
           {
-            "text": "bow and arrow",
+            "text": "ノックバックを上昇",
             "color": "dark_purple"
           },
           {
-            "text": ". This will cause the player or mob to repel backwards more than usual."
+            "text": "させます。\n\nこれは、プレイヤーやモブが通常より後ろに吹き飛ばされるようになります。"
           }
         ]
       }
@@ -22789,14 +22823,14 @@
         "value": "The Respiration enchantment extends how long you can breathe underwater. It also helps you see better underwater.",
         "json": [
           {
-            "text": "The Respiration enchantment "
+            "text": "水中呼吸のエンチャントは、"
           },
           {
-            "text": "extends how long you can breathe underwater",
+            "text": "水中で息を止めていられる時間を延ばしま",
             "color": "dark_purple"
           },
           {
-            "text": ". It also helps you see better underwater."
+            "text": "す。\n\n水中での視界も向上します。"
           }
         ]
       }
@@ -22883,14 +22917,14 @@
         "value": "The Riptide enchantment can be added to a trident. With this enchantment, your trident will propel you forward when you throw a trident while in the water or out in the rain.",
         "json": [
           {
-            "text": "The Riptide enchantment can be added to a trident. With this enchantment, "
+            "text": "激流のエンチャントは、トライデントに追加できます。\n\nこのエンチャントがトライデントにあると、"
           },
           {
-            "text": "your trident will propel you forward when you throw a trident while in the water or out in the rain",
+            "text": "水中か雨の中でトライデントを投げると、一緒にプレイやーも前に推進します",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。"
           }
         ]
       }
@@ -22923,14 +22957,14 @@
         "value": "The Sharpness enchantment increases the amount of attack damage dealt to a player or mob.",
         "json": [
           {
-            "text": "The Sharpness enchantment "
+            "text": "ダメージ増加のエンチャントは、"
           },
           {
-            "text": "increases the amount of attack damage",
+            "text": "プレイヤーかモブへの攻撃のダメージが上昇",
             "color": "dark_purple"
           },
           {
-            "text": " dealt to a player or mob."
+            "text": "します。"
           }
         ]
       }
@@ -22971,14 +23005,14 @@
         "value": "The Silk Touch enchantment allows you to mine blocks themselves instead of getting the usual dropped items. With this enchantment, you can gather items that are fragile and break such as glass or ice. Or you can mine and gather the block itself such as diamond ore or coal ore (instead of getting diamond and coal drops).",
         "json": [
           {
-            "text": "The Silk Touch enchantment allows you to "
+            "text": "シルクタッチのエンチャントは、"
           },
           {
-            "text": "mine blocks themselves instead of getting the usual dropped items",
+            "text": "採掘したブロックがアイテムをドロップせずにそのままブロックをドロップさせます",
             "color": "dark_purple"
           },
           {
-            "text": ". With this enchantment, you can gather items that are fragile and break such as glass or ice. Or you can mine and gather the block itself such as diamond ore or coal ore (instead of getting diamond and coal drops)."
+            "text": "。\n\nこのエンチャントでは、ガラスや氷などの脆いブロックを回収できるようになります。もしくは、石炭の鉱石やダイアモンドの鉱石をそのまま回収（ダイアモンドや石炭の代わりに）できるようになります。"
           }
         ]
       }
@@ -23003,14 +23037,14 @@
         "value": "The Smite enchantment increases your attack damage against undead mobs such as skeletons, wither skeletons, zombies, zombie pigmen, drowneds, and wither bosses.",
         "json": [
           {
-            "text": "The Smite enchantment "
+            "text": "アンデッド特攻は、"
           },
           {
-            "text": "increases your attack damage against undead mobs",
+            "text": "不死のモブへの攻撃のダメージを上昇",
             "color": "dark_purple"
           },
           {
-            "text": " such as skeletons, wither skeletons, zombies, zombie pigmen, drowneds, and wither bosses."
+            "text": "させます。\n\n例：スケルトン、ウィザースケルトン、ゾンビ、ゾンビピグリン、ドラウンド、ウィザーなど。"
           }
         ]
       }
@@ -23051,14 +23085,14 @@
         "value": "The Sweeping Edge enchantment increases the damage of a sweep attack.",
         "json": [
           {
-            "text": "The Sweeping Edge enchantment "
+            "text": "範囲攻撃のエンチャントは、"
           },
           {
-            "text": "increases the damage of sweep attacks",
+            "text": "薙ぎ払い攻撃のダメージを上昇",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "させます。"
           }
         ]
       }
@@ -23091,14 +23125,14 @@
         "value": "The Soul Speed enchantment allows you to move faster on soul sand and soul soil. This increased speed is very useful when travelling through the Soul Sand Valley biome in the Nether dimension.",
         "json": [
           {
-            "text": "The Soul Speed enchantment allows you to "
+            "text": "ソウルスピードのエンチャントは、"
           },
           {
-            "text": "move faster on soul sand and soul soil",
+            "text": "ソウルサンドやソウルソイルの上でより速く移動",
             "color": "dark_purple"
           },
           {
-            "text": ". This increased speed is very useful when traveling through the Soul Sand Valley biome in the Nether dimension."
+            "text": "できるようにします。\n\n上昇した速度は、ネザーのソウルサンドの谷を移動するのに便利です。"
           }
         ]
       }
@@ -23185,21 +23219,21 @@
     "sections": [
       {
         "type": "title",
-        "value": "耐久"
+        "value": "耐久力"
       },
       {
         "type": "text",
         "value": "The Unbreaking enchantment increases the durability of your tools, weapons, and armor so that they don't wear out as quickly.",
         "json": [
           {
-            "text": "The Unbreaking enchantment "
+            "text": "耐久力のエンチャントは、道具や武器、鎧の"
           },
           {
-            "text": "increases the durability",
+            "text": "耐久値を上昇",
             "color": "dark_purple"
           },
           {
-            "text": " of your tools, weapons, and armor so that they don't wear out as quickly."
+            "text": "させて長持ちするようにします。"
           }
         ]
       }
