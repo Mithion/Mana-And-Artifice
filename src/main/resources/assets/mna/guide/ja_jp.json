@@ -22,7 +22,7 @@
         "value": "項目を読んでいるとき、 右下、もしくは左下にページをめくるボタンが表示されてます (もし前後にページが存在していれば)。",
         "json": [
           {
-            "text": "項目を読んでいるとき、 右下、もしくは左下に "
+            "text": "項目を読んでいるとき、 右下もしくは左下に "
           },
           {
             "text": "ページをめくるボタン",
@@ -78,7 +78,7 @@
             "color": "blue"
           },
           {
-            "text": "をクリックすることでカテゴリーに戻ることができます。\n\n"
+            "text": "をクリックすることでカテゴリーに戻ることができます。"
           }
         ]
       },
@@ -99,14 +99,14 @@
         "value": "この本は、カテゴリに分けられています。 それらは横の緑色のタブで表示され、MOD内の様々な種類のアイテムを表しています。 カテゴリをクリックすると、その中にあるアイテムが表示されます。",
         "json": [
           {
-            "text": "この本は、"
+            "text": "この本は"
           },
           {
             "text": "カテゴリ",
             "color": "blue"
           },
           {
-            "text": "分けされています。それらは右の緑色のタブで表示され、MOD内の様々な種類のアイテムを表しています。 カテゴリをクリックすると、その中にあるアイテムが表示されます。"
+            "text": "分けされています。右の緑色のタブで表示され、MOD内の様々な種類のアイテムを表しています。 \n\nカテゴリをクリックすると、その中の項目が表示されます。"
           }
         ]
       },
@@ -134,7 +134,7 @@
             "color": "blue"
           },
           {
-            "text": " をクリックすると、検索ウィンドウが表示されます。 目的のものを検索し、検索結果をクリックすると、そのページにジャンプできます。"
+            "text": "をクリックすることで、検索ウィンドウが表示されます。 \n\n検索結果をクリックすることでそのページに移動できます。"
           }
         ]
       },
@@ -204,14 +204,14 @@
         "value": "レシピを閲覧している場合、その左上にピンが表示されています。これをクリックすることでレシピをHUDにピン止めできます。このレシピは本を閉じた後も表示され続けます。本で何らかのレシピのピンをクリックするか、ピン止めが存在する場合にインベントリに表示される赤いピンをクリックすることでピン止めを非表示にできます。",
         "json": [
           {
-            "text": "レシピを閲覧している場合、その左上にピンが表示されます。これをクリックすることで"
+            "text": "レシピを閲覧している場合はその左上にピンが表示され、これをクリックすることで"
           },
           {
             "text": "レシピをHUDにピン止め",
             "color": "blue"
           },
           {
-            "text": "できます。このレシピは本を閉じた後も表示され続けます。本で何らかのレシピのピンをクリックするか、ピン止めが存在する場合にインベントリに表示される赤いピンをクリックすることでピン止めを非表示にできます。"
+            "text": "できます。\n\nこのレシピは本を閉じた後も表示され続けます。\n\n本で何らかのレシピのピンをクリックするか、ピン止めが存在する場合にインベントリに表示される赤いピンをクリックすることでピン止めを非表示にできます。"
           }
         ]
       }
@@ -6007,9 +6007,6 @@
         "value": "Since I am unable to make vellum from paper, I'll need to find a reliable way to make leather.  I've seen the zombies that stalk the night, and though their flesh is rotten and rancid, I should be able to combine that with a little magic to return it to a usable form of leather.",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "皮紙",
             "color": "blue"
           },
@@ -6021,14 +6018,14 @@
             "color": "blue"
           },
           {
-            "text": "を作る安定した方法が必要です。 ときどき"
+            "text": "を作る安定した方法が必要です。\n\n ときどき"
           },
           {
             "text": "ゾンビ",
             "color": "blue"
           },
           {
-            "text": "が夜にうろついているのを見かけます。彼らの"
+            "text": "が夜にうろついているのを見かけます。\n\n彼らの"
           },
           {
             "text": "肉",
@@ -6074,21 +6071,21 @@
             "color": "blue"
           },
           {
-            "text": "を行うことで魔法をレシピに注入する必要があります。それは"
+            "text": "を行うことで魔法をレシピに注入する必要があります。\n\nそれは"
           },
           {
             "text": "アルカナの儀式",
             "color": "blue"
           },
           {
-            "text": "と呼びます。\n\n"
+            "text": "と呼ばれています。\n\n"
           },
           {
             "text": "呪文のレシピを見ることで儀式に必要な材料が分かります。",
             "color": "dark_purple"
           },
           {
-            "text": "自分がレシピを刻み込む際にメモしました。 \n\n この仕組みは、呪文に吸収された生の魔法のエッセンスが、自分の意思を通して作用をもたらしてくれます。特別に製作した焦点のようなものです。 \n\n このような焦点を使わずとも、 "
+            "text": "\n自分がレシピを刻み込む際にメモしました。\n\n呪文に吸収された生の魔法の力が、自分の意思を通して作用をもたらしてくれるという仕組みです。\n\n特別に製作した焦点のようなものです。\n\nこのような焦点を使わずとも、 "
           },
           {
             "text": "記憶だけで",
@@ -6161,9 +6158,6 @@
         "value": "After you have created a spell, simply hold it in your hand and activate the item.  The first time you do so, you'll be prompted to set the name and icon for the spell.\n\nType a name, pick an icon, and hit ESC to close the UI.\n\nAfter that, whenever you right click, you will attempt to cast the spell!\n\nThe spell will attempt to take effect, draining your mana in the process if successful.\n\nYou can hold a spell in each hand and activate them both at the same time.  You cannot choose which one to activate, though only one of them may succeed depending on targets.",
         "json": [
           {
-            "text": "一度"
-          },
-          {
             "text": "呪文",
             "color": "blue"
           },
@@ -6175,35 +6169,35 @@
             "color": "blue"
           },
           {
-            "text": "で作成したら、ついに詠唱できます。\n\nそのためには、呪文を持ちながら意識を集中する必要があります"
+            "text": "で作成したら、ついに詠唱できます。\n\nそのためには、呪文を持ちながら意識を集中"
           },
           {
             "text": "(右クリック)",
             "italic": true
           },
           {
-            "text": "。  その過程で、予想通り"
+            "text": "する必要があります。 \n\nその過程で"
           },
           {
             "text": "マナ",
             "color": "blue"
           },
           {
-            "text": "を消費します。.  一度に二つの呪文を持てますが、 "
+            "text": "を消費します。\n\n 一度に二つの呪文を持てますが、 "
           },
           {
             "text": "一度に一つの呪文にしか集中できません",
             "color": "dark_purple"
           },
           {
-            "text": "。\n\n そして、呪文を"
+            "text": "。\n\nそして、呪文に"
           },
           {
-            "text": "しっかりとラベル付け",
+            "text": "わかりやすい名前を付け",
             "color": "dark_purple"
           },
           {
-            "text": "しれおくことで、鞄のどこにあるか見つけやすくなります。  自分はその呪文を使おうとするまでいつも忘れてしまいます。"
+            "text": "ておくことで、鞄のどこにあるか見つけやすくなります。\n\n 自分はその呪文を使おうとするまでよくも忘れてしまいます。"
           }
         ]
       }
@@ -6616,42 +6610,35 @@
         "value": "Now that I have fully roted several spells, I want to look into mastering them further.  A Master's Dais can be constructed where I can spend experience and eldrin power in order to lower the cooldowns of my spells by up to 50%.",
         "json": [
           {
-            "text": "Now that I have fully roted several spells, I want to look into understanding them even further. \n\nA "
+            "text": "いくつかの呪文を完全に記憶しましたが、さらにその呪文の理解を深めたいです。\n\n"
           },
           {
-            "text": "Master's Dais",
+            "text": "名人の高座",
             "color": "blue"
           },
           {
-            "text": " can be constructed where I can spend "
+            "text": "を作成でき、"
           },
           {
-            "text": "experience",
+            "text": "経験値",
             "color": "blue"
           },
           {
-            "text": " and "
+            "text": "と"
           },
           {
-            "text": "Eldrin Power",
+            "text": "龍脈の力",
             "color": "blue"
           },
           {
-            "text": " in order to "
+            "text": "を消費する事によって"
           },
           {
-            "text": "lower the cooldowns of my spells",
+            "text": "呪文のクールダウン時間を減らせます",
             "color": "dark_purple"
           },
           {
-            "text": " "
-          },
-          {
-            "text": "(by up to 50%)",
-            "italic": true
-          },
-          {
-            "text": "."
+            "text": "（最高で５０％）。"
           }
         ]
       }
@@ -10324,14 +10311,14 @@
         "value": "In order to runescribe, I'll need to first make a blank plate.  I should be able to make one out of clay with a few runes embedded in it.  After that, I can fire it in the runeforge to make it able to be scribed.",
         "json": [
           {
-            "text": "ルーンを刻むためには、まず"
+            "text": "ルーンを刻むには、まず"
           },
           {
             "text": "空のパターン",
             "color": "blue"
           },
           {
-            "text": "を作成する必要があります。粘土にルーンを少し埋め込むことで作れるはずだ。 その後、ルーンかまどで焼くことでルーンを刻めるようになります。"
+            "text": "を作成する必要があります。\n\n粘土にルーンを少し埋め込むことで作れるはずだです。 それをルーンかまどで焼くことでルーンを刻めるようになります。"
           }
         ]
       }
@@ -10364,20 +10351,25 @@
             "color": "blue"
           },
           {
-            "text": "は、空中の環境マナを利用して働く魔法のかまどです。 ですので、"
+            "text": "は、空中の環境マナを利用して働く魔法のかまどです。 なので"
           },
           {
             "text": "追加で燃料を必要としません",
             "color": "dark_purple"
           },
           {
-            "text": "。\n\nオリジナルのレシピもありますが、焚火のレシピを半分の時間、そしてかまどのレシピを通常の二倍の時間で焼くことができます。\n\n度に16個までアイテムを入れられますが、その分クラフト時間は増加します。"
+            "text": "。\n\nオリジナルのレシピもありますが、焚火のレシピを半分の時間、そしてかまどのレシピを通常の二倍の時間で焼くことができます。\n\n度に16個までアイテムを入れられますがその分クラフト時間は増加します。"
           }
         ]
       },
       {
         "type": "text",
-        "value": "上位のティアに到達したのち、鉱石倍化や、速度増加、アイテム修復など、さまざまなアップグレードを追加できるようになります。"
+        "value": "上位のティアに到達したのち、鉱石倍化や、速度増加、アイテム修復など、さまざまなアップグレードを追加できるようになります。",
+        "json": [
+          {
+            "text": "上位のティアに到達したのち、鉱石倍化や、速度増加、アイテム修復など、さまざまなアップグレードを追加できるようになります。"
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -10514,14 +10506,15 @@
             "color": "blue"
           },
           {
-            "text": "をルーン金床に置きます。 \n\n 処理としては: "
+            "text": "をルーン金床に置きます。\n\n処理としては: "
           },
           {
-            "text": "パターンを金床に置き、そのあとに過熱ヴィンテウムインゴットを置きます。",
+            "text": "パターンを金床に置き、そのあとに過熱ヴィンテウムインゴットを置きます",
             "color": "dark_purple"
           },
           {
-            "text": "."
+            "text": "。",
+            "color": "black"
           }
         ]
       },
@@ -10536,7 +10529,7 @@
         "value": "Take your runesmith's hammer and begin to strike the items on the anvil.  Be careful to have everything set up correctly, or the items will not fit together properly, and they will pop off the anvil.\n\nOnce you hit the item enough times, your forging will be complete.",
         "json": [
           {
-            "text": "その後、"
+            "text": "その後に"
           },
           {
             "text": "ルーン鍛冶のハンマー",
@@ -10550,7 +10543,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。正しく準備されていることを確認するべきで、そうでなければアイテムはしっかりとハマらず、金床から飛び出してしまいます。\n\n十分アイテムを打ち付けたのち、鍛冶は完了します。\n\nルーンパターンはそれなりに脆いので、四回使ったのち壊れてしまいます。"
+            "text": "。\n\n正しく準備されていなければアイテムはしっかりとハマらず、金床から飛び出してしまいます。\n\n十分アイテムを打ち付けたのち、鍛冶は完了します。\n\nルーンパターンはそれなりに脆いので、四回使ったのち壊れてしまいます。"
           }
         ]
       }
@@ -10768,7 +10761,7 @@
         "value": "The book of marks allows me to place several marks within it and switch between them for convenience.  It will work with spells that use marking runes such as recall.",
         "json": [
           {
-            "text": "この目印の書は、中に複数の目印を入れることができ、便利に切り替えられます。\n\n"
+            "text": "この目印の書は、中に複数の目印を入れることができ便利に切り替えられます。\n\n"
           },
           {
             "text": "帰還の呪文",
@@ -10807,9 +10800,6 @@
         "value": "The brimstone forge is an upgrade to the runeforge that greatly increases the smelting speed.  Upgrade a forge by crafting a brimstone charm and right clicking the forge with it.",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "獄炎かまど",
             "color": "blue"
           },
@@ -10821,7 +10811,7 @@
             "color": "blue"
           },
           {
-            "text": "かまどの強化版であり、製錬速度が大幅に上がります。 \n\n"
+            "text": "かまどの強化版であり、製錬速度が大幅に上がります。\n\n"
           },
           {
             "text": "獄炎の御守り",
@@ -10852,9 +10842,6 @@
         "type": "text",
         "value": "By placing pedestals directly adjacent to a runeforge or brimstone forge with chimerite crystals on top of them, I can alter its effects slightly.\n\nRed, Yellow, or Orange crystals will apply an ore doubling effect if there are two of them.\n\nWhite, Cyan, Blue, or Light Blue will cause the forge to repair items put into it, though it will no longer be able to smelt if upgraded in this manner.\n\nThere may be more to come in the future.",
         "json": [
-          {
-            "text": ""
-          },
           {
             "text": "ルーンかまど",
             "color": "blue"
@@ -11574,38 +11561,35 @@
             "color": "blue"
           },
           {
-            "text": "のように、"
-          },
-          {
-            "text": "作成するアイテムのいくつかは、"
+            "text": "のように、作成するアイテムのいくつかは"
           },
           {
             "text": "マナを貯蔵",
             "color": "dark_purple"
           },
           {
-            "text": "しています。 これらのアイテムは、使用されるたびに貯蔵マナを消費します。\n\n これらは、長持ちさせるために自動で"
+            "text": "しています。 これらのアイテムは使用されるたびに貯蔵マナを消費します。\n\nこれらは、長持ちさせるために自動で"
           },
           {
             "text": "マナクリスタルの欠片",
             "color": "blue"
           },
           {
-            "text": "からマナを吸収します。 \n\n 貯蔵マナが切れた場合、いくつかのは手に持って右クリックを長押しすることでマナを充填できます。 全てのアイテムがこの方法で充填できるわけではありません。"
+            "text": "からマナを吸収できます。\n\n貯蔵マナが切れた場合、いくつかは手に持って右クリックを長押しすることでマナを充填できます。 \n\n全てのアイテムがこの方法で充填できるわけではありません。"
           },
           {
-            "text": "そのアイテムのツールチップが、対応している方法を表します。",
+            "text": "そのアイテムのツールチップが対応している方法を表します。",
             "italic": true
           },
           {
-            "text": " \n\n充填できるアイテムは、すべて"
+            "text": "\n\n充填できるアイテムは、すべて"
           },
           {
             "text": "ペデスタルチャージング",
             "color": "blue"
           },
           {
-            "text": "という方法で充填できます。これをするには、 まず "
+            "text": "という方法で充填できます。\n\n"
           },
           {
             "text": "マナクリスタル",
@@ -11619,7 +11603,7 @@
             "color": "blue"
           },
           {
-            "text": "を作成し、互いに８ブロック以内に設置してください。 ペデスタルにアイテムを置くことで、時間経過でマナを装填します。 \n\n"
+            "text": "を作成し互いに８ブロック以内に設置してください。 \n\nそのペデスタルにアイテムを置くことで、時間経過でマナを装填します。\n\n"
           },
           {
             "text": "クリスタル一つで、別々のペデスタルに置いてあるアイテムを複数装填できます。",
@@ -11774,14 +11758,14 @@
         "value": "Feather charms are simple single-use items that perform powerful, often protective effects.  They are all about preparation in advance.  Many a wizard has been saved by their use.  Most feather charms activate automatically under certain conditions (though some must be manually activated such as the Enderfeather Charm).  They can be equipped into the charm slot in the curio inventory, or be in your inventory / hotbar.  Any of these slots are valid.",
         "json": [
           {
-            "text": "羽根の御守りは、単純で使い捨ての、防御の効果をもつ強力なアイテムです。すべてはあらかじめの準備です。数々の魔術師がこれによって命を救われました。ほとんどの羽根の御守りは、特定の条件で起動します("
+            "text": "羽根の御守りは単純で使い捨ての、防御の効果をもつ強力なアイテムです。\n\nすべてはもしもの為の準備です。\n\n数々の魔術師がこれによって命を救われました。\n\nほとんどの羽根の御守りは、特定の条件で起動します("
           },
           {
             "text": "エンダー羽根の御守り",
             "color": "blue"
           },
           {
-            "text": "のように手動で起動するものもあります)。 "
+            "text": "のように手動で起動するものもあります)。 \n\n"
           },
           {
             "text": "curioのスロットに装備するか、インベントリかホットバーに入っていれば機能します。",
@@ -11804,9 +11788,6 @@
         "value": "The Enderfeather Charm is a single use item that, while expensive, will return me to my bed (or equivalent) regardless of distance as long as I'm in the same dimension.  I'm sure there are less expensive means of achieving a similar effect as I grow my abilities.",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "エンダー羽根の御守り",
             "color": "blue"
           },
@@ -11818,7 +11799,7 @@
             "color": "dark_purple"
           },
           {
-            "text": " (or equivalent) してくれる使い捨てのアイテムです。 \n\n 探求を進めることで、より少ないコストで同じような効果を持つアイテムを作成できるはずです。"
+            "text": " (or equivalent) してくれる使い捨てのアイテムです。\n\n探求を進めることで、より少ないコストで同じような効果を持つアイテムを作成できるはずです。"
           }
         ]
       },
@@ -11836,9 +11817,6 @@
         "type": "text",
         "value": "The Coalfeather Charm is a single use item that will extinguish me if I am on fire and solidify lava around me.",
         "json": [
-          {
-            "text": ""
-          },
           {
             "text": "石炭羽根の御守り",
             "color": "blue"
@@ -11877,9 +11855,6 @@
         "value": "The Reedfeather Charm is a single use item that will refill my breath if I start to drown.",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "葦羽根の御守り",
             "color": "blue"
           },
@@ -11910,9 +11885,6 @@
         "value": "The Bonefeather Charm is a single use item that will automatically protect me from lethal fall damage.  If a fall would not be lethal, the charm will do nothing.  I'm sure there are less expensive means of achieving a similar effect as I grow my abilities.",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "骨羽根のお守り",
             "color": "dark_purple"
           },
@@ -11924,7 +11896,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。落下で死亡しない場合、この御守りは発動しません。\n\n探求を進めることで、より少ないコストで同じような効果を持つアイテムを作成できるはずです。"
+            "text": "。\n\n落下で死亡しない場合、この御守りは発動しません。\n\n探求を進めることで、より少ないコストで同じような効果を持つアイテムを作成できるはずです。"
           }
         ]
       }
@@ -12033,7 +12005,7 @@
             "color": "blue"
           },
           {
-            "text": "ーは、魔術師のチョークでルーンがいくつか描かれ、ヴィンテウムの粉がかけられ、最後に属性を象徴する物と組み合わされた呪文の本です。"
+            "text": "ーは、魔術師のチョークでルーンがいくつか描かれヴィンテウムの粉がかけられ、最後に属性を象徴する物と組み合わされた呪文の本です。"
           }
         ]
       },
@@ -12062,14 +12034,14 @@
         "value": "While they contain simplistic targeting of standard monsters by default, much more granular targeting can be obtained by using a Seer Stone next to the Elemental Sentry.  This will cause the Elemental Sentry to target whatever the Seer Stone is targeting.",
         "json": [
           {
-            "text": "デフォルトでも、一般的な敵に対する単純な標的設定がありますが、"
+            "text": "デフォルトでも一般的な敵に対する単純な標的設定がありますが、"
           },
           {
             "text": "セントリー",
             "color": "dark_blue"
           },
           {
-            "text": "の横に千里石を置くことで、詳細な標的設定を行うことができます。\n\nこれをすると、"
+            "text": "の横に千里石を置くことで、より詳細な標的設定を行うことができます。\n\nこれをすると、"
           },
           {
             "text": "千里石が狙っている対象をセントリーが狙う",
@@ -12387,7 +12359,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "必要がありま。クリックすることで消火できます。火がついてない場合、スポーンを防ぎません。"
+            "text": "必要があります。\n\nクリックすることで消火できます。\n\n火がついてない場合、スポーンを防ぎません。"
           }
         ]
       }
@@ -12527,7 +12499,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "場合にレッドストーンシグナルを発します。最大のパワーを発し、そして数秒間をかけて０に戻ります。"
+            "text": "場合にレッドストーンシグナルを発します。\n\n最初に最大の信号を発し、そして数秒間をかけて０に戻ります。"
           }
         ]
       }
@@ -12559,7 +12531,7 @@
             "color": "blue"
           },
           {
-            "text": "のアップグレードや、"
+            "text": "のアップグレードや"
           },
           {
             "text": "龍脈祭壇",
@@ -12599,7 +12571,7 @@
             "color": "blue"
           },
           {
-            "text": "はよく装飾に利用されますが、それらはヴィンテウムやキメライトが注入されている場合、（正しく配置されれば）特定の条件下で魔法のエネルギーの導管として働きます。\n\nなので、魔術に焦点を当てている構造物によく利用されています。\n\n\n\n"
+            "text": "はよく装飾に利用されますが、それらはヴィンテウムやキメライトが注入されている場合、（正しく配置されれば）特定の条件下で魔法のエネルギーの導管として働きます。\n\nなので、魔術に焦点を当てている構造物によく利用されています。"
           }
         ]
       },
@@ -12612,7 +12584,7 @@
         "value": "Arcane stones can be shaped into walls, slabs, stairs, and more by following the same crafting processes that I would use for normal stone.  This is because when they are manaweaved, the magic is already infused in them, and they can thus be simply worked like normal stone either at a workbench or a stonecutter.",
         "json": [
           {
-            "text": "神秘の石は、普通の石と同じようにクラフトして壁、ハーフブロック、階段などに切り出せます。\n\nこれはマナ織によって作成された際に、すでに魔術が埋め込まれているためで、普通の石のように作業台や石きり台で加工できます。"
+            "text": "神秘の石は、普通の石と同じようにクラフトして壁、ハーフブロック、階段などに切り出せます。\n\nこれはマナ織によって作成された際にすでに魔術が埋め込まれているためで、普通の石のように作業台や石きり台で加工できます。"
           }
         ]
       }
@@ -12897,14 +12869,14 @@
             "color": "blue"
           },
           {
-            "text": "は、特定の呪"
+            "text": "は特定の呪"
           },
           {
             "text": "文の部品の暗記した知識を紙に載せる事で、他の人も学んで暗記できる",
             "color": "dark_purple"
           },
           {
-            "text": "ようにできます。かなりの経験値と、記載している部品の属性の"
+            "text": "ようにできます。\n\nかなりの経験値と、記載している部品の属性の"
           },
           {
             "text": "龍脈エネルギー",
@@ -12943,25 +12915,25 @@
             "text": "は、"
           },
           {
-            "text": "雫や属性の小袋を燃やして、少量の龍脈エネルギーを生成できます",
+            "text": "雫や属性の小袋を燃やして少量の龍脈エネルギーを生成できます",
             "color": "dark_purple"
           },
           {
-            "text": "。 かまどで燃料として使用できる物は燃料に使えるはずです。\n\n生成した龍脈力は、直に自分に吸収されます。しかし、 "
+            "text": "。\n\n かまどで燃料として使用できる物はその燃料に使えるはずです。\n\n生成した龍脈力は、直に自分に吸収されます。しかし "
           },
           {
-            "text": "この煙フィルターは直接他の装置に龍脈力を供給しません",
+            "text": "この煙フィルターは他の装置に龍脈力を供給できません",
             "color": "dark_purple"
           },
           {
-            "text": "。 それには、"
+            "text": "。 \n\nそれには、"
           },
           {
             "text": "導管",
             "color": "blue"
           },
           {
-            "text": "が必要です。\n\n雫は、使用されたら他の用途に使用できません。\n\nその代わり、雫は長い間燃えるので頻繁に置き換える必要がないです。 興味深いことに、装置を破壊したり別の種類の雫を利用すると、残っている雫は消失します。"
+            "text": "が必要です。\n\n雫は、使用されたら他の用途に使用できません。\n\nその代わり、雫は長い間燃えるので頻繁に置き換える必要がないです。 興味深いことに、装置を破壊したり別の種類の雫を利用すると残っている雫は消失します。"
           }
         ]
       }
@@ -13019,9 +12991,6 @@
         "value": "The Affinity Tinker Table allows me to use a moderate amount of Eldrin Power (supplied by a conduit placed within range, about 6 blocks) to switch a spell placed within the table to a new affinity.  The Eldrin Power required matches the affinity I am attempting to change the spell to.  In the case of Lightning and Ice, it seems that Fire and Water Eldrin Power are required, respectively.\n\nThe benefit is that I may specialize my magic, using my own affinity to maximum benefit.\n\nOnce the process has started, I may remove the spell at any time, but I should do so with care, as any progress made towards shifting the affinity of the spell will be lost.  For best results, I should leave the spell in the table until the process has completed.",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "親和性調整台",
             "color": "blue"
           },
@@ -13033,21 +13002,21 @@
             "color": "blue"
           },
           {
-            "text": " (近くに設置された"
+            "text": " (六ブロック以内に設置された"
           },
           {
             "text": "導管",
             "color": "blue"
           },
           {
-            "text": "からエネルギーを回収、およそ六ブロック以内) を使用し、台に置かれた"
+            "text": "からエネルギーを利用) を使用し、台に置かれた"
           },
           {
             "text": "呪文の親和性を任意の属性に変更",
             "color": "dark_purple"
           },
           {
-            "text": "します。 \n\n  使用する龍脈の力は、変更しようとしている属性のものになります。雷の場合は火、氷の場合水を要求します。 \n\n これをすることで、自分の親和性によるメリットを最大限に利用することができます。 一度処理が始まったのちでもいつでも呪文を取り除けますが、進捗がリセットされるため注意が必要です。 \n\n 処理が完了するまで呪文を台から取り除かないのが最善です。"
+            "text": "します。\n\n使用する龍脈の力は、変更しようとしている属性のものになります。\n\n雷の場合は火、氷の場合水を要求します。\n\nこれをすることで、自分の親和性によるメリットを最大限に利用することができます。\n\n 一度処理が始まった後でも呪文を取り除けますが、進捗がリセットされるため注意が必要です。\n\n処理が完了するまで呪文を台から取り除かないのが最善です。"
           }
         ]
       }
@@ -13076,7 +13045,7 @@
             "color": "blue"
           },
           {
-            "text": "はテラコッタと銀で作られた、"
+            "text": "はテラコッタと銀で作られた"
           },
           {
             "text": "液体を保持できる",
@@ -13116,11 +13085,18 @@
             "color": "blue"
           },
           {
-            "text": "は、設置された場合向かっている方向のブロックの見た目になろうとします。真似できるブロックを最大８ブロックまで探します。",
+            "text": "は、設置された場合向かっている方向のブロックの見た目になろうとします。",
             "color": "black"
           },
           {
             "text": "\n\n"
+          },
+          {
+            "text": "真似できるブロックを最大８ブロックまで探します。",
+            "color": "black"
+          },
+          {
+            "text": "\n\n\n"
           },
           {
             "text": "プレイヤーは通り抜けれますが、他のエンティティには通り抜けられません。",
@@ -13719,7 +13695,7 @@
         "value": "This enchanted bracelet will enhance my stealth while sneaking and allow me to deliver an unarmed punch that will send my target flying away from me.  It only contains so much magic, and will eventually break.\n\nThis can only be crafted by those aligned with the fey courts.",
         "json": [
           {
-            "text": "このブレスレットは、屈んでるときの"
+            "text": "このブレスレットは屈んでるときの"
           },
           {
             "text": "ステルス性を向上",
@@ -13733,7 +13709,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "事ができます。\n\nこれの魔法は有限で、再充填する必要があります。"
+            "text": "事ができます。\n\nこれの魔法は有限で、再充填する必要があります。\n\n"
           },
           {
             "text": "マナクリスタルの欠片",
@@ -13825,7 +13801,7 @@
         "value": "This sinister ring, when worn, seems to draw more of the mystical life force out of targets killed by undead wizards.\n\nWARNING: This ring can only be crafted by those that have allied themselves with the Undead.",
         "json": [
           {
-            "text": "この指輪は、装備している場合、不死者の魔術師によって殺された相手からより多くの生命力を引き出し、"
+            "text": "この指輪は、不死者の魔術師によって殺された相手からより多くの生命力を引き出し、"
           },
           {
             "text": "すべての相手から得られる魂の量を増やします",
@@ -14020,7 +13996,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "\n\nさらに "
+            "text": "\n\n\nさらに "
           },
           {
             "text": "魔法の盾の維持コストがなくなります。",
@@ -14255,17 +14231,17 @@
         "value": "This ring, when worn, will enhance my break spells to be more delicate, allowing me to harvest things I wouldn't normally be able to otherwise.",
         "json": [
           {
-            "text": "この指輪は、装備しているときに"
+            "text": "この指輪は、"
           },
           {
             "text": "破壊",
             "color": "blue"
           },
           {
-            "text": "呪文をもっと繊細にし、"
+            "text": "呪文をより繊細にし、"
           },
           {
-            "text": "いままで入手できなかったアイテムも入手できるようになります。",
+            "text": "いままで入手できなかったアイテムも入手できるようになります。（シルクタッチのエンチャントと同じ効果）",
             "color": "dark_purple"
           }
         ]
@@ -15100,7 +15076,7 @@
             "color": "blue"
           },
           {
-            "text": "は、魔法が注入され生命を得た人型の創造物です。単純なコンストラクトは軽量の素材から作成でき、 必要なルーンは"
+            "text": "は、魔法が注入され生命を得た人型の創造物です。\n\n単純なコンストラクトは軽量の素材から作成でき、 必要なルーンは"
           },
           {
             "text": "ルーン師の村人",
@@ -15138,7 +15114,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "\n\nコーデックスでいろんな部品を比べてみて、どの部品が適しているか考えてみるべきでしょう。\n\n部品が決まったら、素材を決めてください。\n\n七つの種類の素材があり、"
+            "text": "\n\n\nコーデックスでいろんな部品を比べてみて、どの部品が適しているか考えてみるべきでしょう。\n\n部品が決まったら、素材を決めてください。\n\n七つの種類の素材があり"
           },
           {
             "text": "それぞれコンストラクトの性質を変更",
@@ -15152,14 +15128,21 @@
             "color": "dark_purple"
           },
           {
-            "text": "メリットとデメリットのバランスを変化させます。いろんな組み合わせを実験して、自分に合った組み合わせを見つけてもいいかもしれません。"
+            "text": "メリットとデメリットのバランスを変化させます。\n\nいろんな組み合わせを実験して、自分に合った組み合わせを見つけてもいいかもしれません。\n\n"
           },
           {
-            "text": "基本的には、より上位のティアの素材のほうがタスクを早くこなせますが、例外もあります。例外が存在するものはアウトラインされています。",
+            "text": "基本的にはより上位のティアの素材のほうがタスクを早くこなせますが、例外もあります。",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nコンストラクトは、空の"
+            "text": "\n\n"
+          },
+          {
+            "text": "例外が存在するものはアウトラインされています。",
+            "color": "dark_purple"
+          },
+          {
+            "text": "\n\n\nコンストラクトは、空の"
           },
           {
             "text": "コンストラクト構台",
@@ -15587,15 +15570,19 @@
         "value": "The magic broom has been enchanted to collect all dropped items within a radius of the container it is placed on and return them to said container.  It's such a helpful construct.  I wonder if there are others I can build?  I'm sure I can make a more powerful version of this broom once I've gained some more knowledge.  I should check back later.\n\nI can collect the broom again if I sneak up on it and grab it (right click).",
         "json": [
           {
-            "text": "魔法の箒は、範囲内にある場合",
+            "text": "魔法の箒",
             "color": "blue"
+          },
+          {
+            "text": "は近くの",
+            "color": "black"
           },
           {
             "text": "落としたアイテムを拾う",
             "color": "dark_purple"
           },
           {
-            "text": " ようにエンチャントされており、設置された容器に戻します。便利なコンストラクトです。\n\n他に作成できるのがあるか気になります。\nもっと力と知識を得たのち、もっと強力なバージョンの箒が作成できるはずです。成長したら再び確認するべきでしょう。\n\n屈んで掴む（"
+            "text": "ようにエンチャントされており、設置された容器に戻します。\n便利なコンストラクトです。\n\n他に作成できるのがあるか気になります。\n\nもっと力と知識を得たのち、もっと強力なバージョンの箒が作成できるはずです。成長したら再び確認するべきでしょう。\n\n屈んで掴む（"
           },
           {
             "text": "右クリック",
@@ -15646,7 +15633,7 @@
             "color": "blue"
           },
           {
-            "text": "をセットアップする必要があります。\n\nこのセットアップはコンストラクトに "
+            "text": "をセットアップする必要があります。\n\nこのセットアップはコンストラクトに"
           },
           {
             "text": "属性",
@@ -15678,14 +15665,14 @@
             "color": "blue"
           },
           {
-            "text": "の条件は結構柔軟です。 構台と、合計で"
+            "text": "の条件は結構柔軟です。\n \n構台と、合計で"
           },
           {
             "text": "８個のキメライトが構台の５ブロック以内",
             "color": "dark_purple"
           },
           {
-            "text": "に、方向関係なく必要です。間に壁がっても、壁/天井/床/地中に置いても問題なく作用します。"
+            "text": "に、方向関係なく必要です。\n\n間に壁があっても、壁/天井/床/地中に置いても問題なく作用します。"
           }
         ]
       },
@@ -15754,7 +15741,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "るので、長所を伸ばしたり、短所を減らすようにするべきです。\n\n コンストラクトでは、反発する属性は影響しません。\n\n さらに、属性のポイントにつき、コンストラクトにその属性への耐性を付与し、ポイントにつき1/2ハートのダメージを防ぎます。"
+            "text": "るので、長所を伸ばしたり、短所を減らすようにするべきです。\n\nコンストラクトでは、反発する属性は影響しません。\n\nさらに、属性のポイントにつき、コンストラクトにその属性への耐性を付与し、ポイントにつき1/2ハートのダメージを防ぎます。"
           }
         ]
       },
@@ -15767,35 +15754,35 @@
             "color": "blue"
           },
           {
-            "text": ": 移動速度増加、 +0.25 ノックバック/ポイント, +1 範囲ダメージ/2ポイント, 移動ダメージ耐性 \n"
+            "text": ": 移動速度増加、 +0.25 ノックバック/ポイント, +1 範囲ダメージ/2ポイント, 移動ダメージ耐性\n\n"
           },
           {
             "text": "魔法",
             "color": "blue"
           },
           {
-            "text": ": 25% マナ容量増加/ポイント, 魔法ダメージ耐性 \n"
+            "text": ": 25% マナ容量増加/ポイント, 魔法ダメージ耐性\n\n"
           },
           {
             "text": "大地",
             "color": "blue"
           },
           {
-            "text": ": +1 物理ダメージ上昇/2ポイント, +1 防具/ポイント, +1 防具強度/2ポイント, 物理ダメージ耐性 \n"
+            "text": ": +1 物理ダメージ上昇/2ポイント, +1 防具/ポイント, +1 防具強度/2ポイント, 物理ダメージに耐性\n\n"
           },
           {
             "text": "エンダー",
             "color": "blue"
           },
           {
-            "text": ": 両手に +1 携帯容量/ポイント, 虚無/ドラゴンブレスダメージ耐性 \n"
+            "text": ": 両手に +1 携帯容量/ポイント, 虚無/ドラゴンブレスダメージ耐性\n"
           },
           {
             "text": "炎",
             "color": "blue"
           },
           {
-            "text": ": 攻撃時、一秒/ポイントの発火, 火/溶岩/爆破/雷ダメージ耐性 \n"
+            "text": ": 攻撃時、一秒/ポイントの発火, 火/溶岩/爆破/雷ダメージ耐性\n\n"
           },
           {
             "text": "水",
@@ -15879,7 +15866,7 @@
         "value": "Incidental commands are given using a Bell of Bidding.  Use the radial menu on the bell to select your command, then right click on something.  The commands are contextual.  The following commands are available:",
         "json": [
           {
-            "text": "一度きりの命令は、"
+            "text": "使い捨ての命令は、"
           },
           {
             "text": "命令の鐘",
@@ -15889,7 +15876,14 @@
             "text": "でできます。\n\n"
           },
           {
-            "text": "円メニューを開いて命令を選択し、何かに右クリックしてください。命令は、状況に応じて行われます。 い以下の命令をできます：",
+            "text": "円メニューを開いて命令を選択し、何かに右クリックしてください。命令は、状況に応じて行われます。 ",
+            "italic": true
+          },
+          {
+            "text": "\n\n"
+          },
+          {
+            "text": "以下の命令が可能です：",
             "italic": true
           }
         ]
@@ -15991,7 +15985,7 @@
             "color": "blue"
           },
           {
-            "text": "：コンストラクトが持っているアイテムを食べさせ、アイテムを破壊します。\n\n"
+            "text": "：コンストラクトが持っているアイテムを食べさせ、アイテムを消滅させます。\n\n"
           },
           {
             "text": "この命令を行うには、コンストラクトを対象にする必要があります。",
@@ -16008,7 +16002,7 @@
             "color": "blue"
           },
           {
-            "text": "：自分についてきているコンストラクトに、指定したブロックに干渉（もしくはその上のブロックを回収）するように命令します。。\n\nこれは、彼らを命令台に割り当てたり、改造するために構台に戻したり、能力が許すいくつかの似たような作業をするのに使用されます。"
+            "text": "：自分についてきているコンストラクトに、指定したブロックに干渉（もしくはその上のブロックを回収）するように命令します。。\n\nこれはコンストラクトを命令台に割り当てたり、改造するために構台に戻したり、能力が許すいくつかの似たような作業をするのに使用されます。"
           }
         ]
       },
@@ -16467,35 +16461,35 @@
         "value": "From time to time, you may find yourself asking \"What is my construct doing??\"  Enter the Construct Diagnostics Command.  Select this command from your Bell of Bidding's radial menu and right click your construct with it to get a live view into its brain.",
         "json": [
           {
-            "text": "時々、自分が”コンストラクト何してるんだろう？？”と考えています。\n\nここで、"
+            "text": "時々、自分は”コンストラクト何してるんだろう？？”と考えています。\n\nここで、"
           },
           {
             "text": "コンストラクト診断の命令",
             "color": "blue"
           },
           {
-            "text": "が役に立ちます。\n\n命令の鐘の円メニューからこの命令が選択でき、コンストラクトにクリックする事で、コンストラクトの脳の現在の情報が見れます。\n\n診断のメニューから直接コンストラクトの"
+            "text": "が役に立ちます。\n\n命令の鐘の円メニューからこの命令が選択でき、コンストラクトにクリックする事でコンストラクトの脳の現在の情報が見れます。\n\n診断のメニューから直接コンストラクトの"
           },
           {
             "text": "インベントリ",
             "color": "blue"
           },
           {
-            "text": "にアイテムを入れる事はできませんが、ス"
+            "text": "にアイテムを入れる事はできませんが、"
           },
           {
-            "text": "ロット内のアイテムを地面に落とす",
+            "text": "スロット内のアイテムを地面に落とす",
             "color": "dark_purple"
           },
           {
-            "text": "ように指令（アイテムをクリック）する事はできます。\n\nコンストラクトの診断をHUDに"
+            "text": "ように命令（アイテムをクリックで）する事はできます。\n\nコンストラクトの診断をHUDに"
           },
           {
             "text": "ピン止め",
             "color": "blue"
           },
           {
-            "text": "することもでき、自分が他の事をしている間に現在のコンストラクトの情報が確認できます。インベントリ内のボタンをクリックする事でピン止めを外せます。"
+            "text": "することもでき、自分が他の事をしている間に現在のコンストラクトの情報が確認できます。\n\nインベントリ内のボタンをクリックする事でピン止めを外せます。"
           }
         ]
       }
@@ -16592,7 +16586,7 @@
         "value": "This command will cause the construct to place all held items and inventory items in the given container, from the given side marked by the marking rune.",
         "json": [
           {
-            "text": "この命令はコンストラクトに"
+            "text": "この命令はコンストラクトの"
           },
           {
             "text": "インベントリと手の中のすべてのアイテムを",
@@ -16609,7 +16603,7 @@
             "text": "に"
           },
           {
-            "text": "指定された容器の指定された面に入れます",
+            "text": "指定された容器の指定された面に入れさせます",
             "color": "dark_purple"
           },
           {
@@ -16679,14 +16673,14 @@
             "color": "dark_purple"
           },
           {
-            "text": "を試みさせます。\n\n既に素材が置かれている必要があります。\n\nコンストラクトに"
+            "text": "を試みさせます。\n\n既に素材が金床の上に置かれている必要があります。\n\nコンストラクトに"
           },
           {
             "text": "ハンマー腕が必要",
             "color": "dark_purple"
           },
           {
-            "text": "です。腕の素材が良いほど、作業速度が速くなります。"
+            "text": "です。\n\n腕の素材が良いほど、作業速度が速くなります。"
           }
         ]
       }
@@ -16824,7 +16818,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。特定の部品を要求せず、感圧版を起動するのにも便利です。"
+            "text": "。\n\n特定の部品を要求せず、感圧版を起動するのにも便利です。"
           }
         ]
       }
@@ -19766,7 +19760,7 @@
             "color": "blue"
           },
           {
-            "text": "のような魔法のラボの道具に使用できます。一度入手した"
+            "text": "のような魔法のラボの道具に使用できます。\n\n一度入手した"
           },
           {
             "text": "龍脈の力",
@@ -19801,14 +19795,14 @@
             "color": "dark_purple"
           },
           {
-            "text": "を燃やすことでしか入手できません。生成は遅いが安定していて、消費するアイテムを必要とします。\n\nティアが高くなると、特定の属性の魔法のエネルギーがかなり高い"
+            "text": "を燃やすことでしか入手できません。\n\n生成は遅いが安定していて、消費するアイテムを必要とします。\n\nティアが高くなると、特定の属性の魔法のエネルギーがかなり高い"
           },
           {
             "text": "龍穴",
             "color": "blue"
           },
           {
-            "text": "を見ることができるようになります。これらの龍穴を確保することで、受動的に安定して龍脈の力を得られます。"
+            "text": "を見ることができるようになります。\n\nこれらの龍穴を確保することで、受動的に安定して龍脈の力を得られます。"
           }
         ]
       }
@@ -19857,35 +19851,35 @@
         "value": "There is a network of points of power scattered through the world.  These points are called Eldrin Wellsprings.  Wellsprings are associated with one of the affinities, and vary in power as well.",
         "json": [
           {
-            "text": "この世界には、エネルギーが一点に集中したネットワークが、散らばって存在しています。これらの地点は"
+            "text": "この世界には、エネルギーが一点に集中したネットワークが、散らばって存在しています。\n\nこれらの地点は"
           },
           {
             "text": "龍穴",
             "color": "blue"
           },
           {
-            "text": "と呼ばれています。ほとんどの龍穴は属性を持っており、力の強さも様々です。\n\n かなりレアな種類の龍穴として、白いビームと青い螺旋がある、"
+            "text": "と呼ばれています。\n\nほとんどの龍穴は属性を持っており、力の強さも様々です。\n\nかなりレアな種類の龍穴として、白いビームと青い螺旋がある"
           },
           {
             "text": "無属性",
             "color": "dark_purple"
           },
           {
-            "text": "があります。このレアな龍穴は、"
+            "text": "があります。\n\nこのレアな龍穴は、"
           },
           {
             "text": "捕獲に最初に利用された種類のレンズの属性に永続的に変化します",
             "color": "dark_purple"
           },
           {
-            "text": "。\n\n 龍穴は、"
+            "text": "。\n\n龍穴は、"
           },
           {
             "text": "龍穴視力上昇剤",
             "color": "blue"
           },
           {
-            "text": " (もしくは、より強力な、 "
+            "text": " (もしくはより強力な、 "
           },
           {
             "text": "魔術師評議会",
@@ -19899,14 +19893,14 @@
             "color": "blue"
           },
           {
-            "text": ") を使用しているか、捕獲されていない限り目に見えません。 場所が分かれば、龍穴が目に見えなくても捕獲することができます。 \n\n"
+            "text": ") を使用しているか、捕獲されていない限り目に見えません。 \n\n場所が分かれば、龍穴が目に見えなくても捕獲することができます。\n\n"
           },
           {
             "text": "魔術師評議会",
             "color": "blue"
           },
           {
-            "text": "と同盟を組んだ人は、"
+            "text": "と同盟を組んだ人は"
           },
           {
             "text": "龍脈飛行",
@@ -19920,7 +19914,7 @@
             "color": "blue"
           },
           {
-            "text": " を利用することで、龍穴の近くにいる場合に力を吸収することで、呪文のマナコストを軽減できます。 しかし、すべての派閥は、龍脈の力をクラフトに利用できます。"
+            "text": "で付近の龍穴の力を吸収することで呪文のマナコストを軽減できます。 \n\nすべての派閥は、龍脈の力をクラフトに利用できます。"
           }
         ]
       }
@@ -19961,9 +19955,6 @@
         "value": "派閥によって、龍穴を探す異なる手段があります。",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "派閥",
             "color": "blue"
           },
@@ -19987,14 +19978,11 @@
         "value": "The eldrin sight unguent is a concoction that, when applied to the eyes, allows the recipient to see more of the magical aura around them for a short time.  \n\nIt also helps to pierce veils and illusions created by other mages.\n\nCreating the Eldrin Sight Unguent requires the creator to be aligned with the Council of Wizards.",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "龍脈視力上昇剤",
             "color": "blue"
           },
           {
-            "text": "の薬は目の上に加えることで、短い時間の間自分の近くの魔法のオーラが見えるようになります。例："
+            "text": "の薬は目の上に加えることで、短い時間の間自分の近くの魔法のオーラが見えるようになります。\n\n例："
           },
           {
             "text": "近くの龍穴が見えるようになります",
@@ -20027,14 +20015,11 @@
         "value": "The unguent of Wellspring Seeing is a less powerful version of the Sight Unguent, which allows those not aligned with the Council to see eldrin wellsprings, though without any of the other benefits the Sight Unguent provides.",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "龍穴視力上昇剤",
             "color": "blue"
           },
           {
-            "text": "は、"
+            "text": "は"
           },
           {
             "text": "龍脈視力上昇剤",
@@ -20048,7 +20033,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "が、他の利益はありません。その代わり、持続時間が長いので龍穴を探すという点に関しては優れています。"
+            "text": "が、他の利益はありません。\n\nその代わり、持続時間が長いので龍穴を探すという点に関しては優れています。"
           }
         ]
       },
@@ -20066,9 +20051,6 @@
         "type": "text",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "評議会",
             "color": "blue"
           },
@@ -20080,14 +20062,14 @@
             "color": "blue"
           },
           {
-            "text": "を利用する許可を得ていない限り)、他の魔術師はもっとありふれた方法で龍穴を見つける必要があります。\n\n そこで"
+            "text": "を利用する許可を得ていない限り)、他の魔術師はもっとありふれた方法で龍穴を見つける必要があります。\n\nそこで"
           },
           {
             "text": "ダウジングロッド",
             "color": "blue"
           },
           {
-            "text": "です。 この杖は、継続的に利用した場合"
+            "text": "です。 \n\nこの杖は継続的に利用した場合"
           },
           {
             "text": "(右クリック長押し)",
@@ -20098,10 +20080,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "すこしずつ視点を龍穴に向かせます"
-          },
-          {
-            "text": "。\n\n 杖を機能させるのに少量のマナが必要ですが、そこまで多く感じないはずです。"
+            "text": "すこしずつ視点を龍穴に向かせます。\n\n杖を機能させるのに少量のマナが必要ですが、そこまで多く感じないはずです。"
           }
         ]
       },
@@ -20214,28 +20193,25 @@
         "value": "I've figured out a way that I can harness some of the power of the eldrin wellsprings.  I need to be careful to only take small amounts, as the raw power would simply melt any kind of apparatus that would take more.  The secret is to use a lens that only refracts small amounts of power into a void dimension, which is needed to contain the raw power.  This lens requires a very specific resonant structure to be built around it in order to support the magic.  I could then use some other kind of apparatus to draw energy in from this void when it's needed.",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "龍穴",
             "color": "blue"
           },
           {
-            "text": "の力の一部を利用する方法が見つかりました。少量のみ抽出するように気を付けないと、生のエネルギーは装置を簡単に溶かしてしますでしょう。\n\n これを避ける秘密は力の一部を、生の力を保持するのに必要な、虚無の次元に屈折させるレンズを利用することです。 このレンズは、その周りに共鳴する特殊な構造物がが魔術を補助するのに必要です。\n\n"
+            "text": "の力の一部を利用する方法が見つかりました。\n\n少量のみ抽出するように気を付けないと、生のエネルギーは装置を簡単に溶かしてしますでしょう。\n\nこれを避ける秘密は力の一部を、生の力を保持するのに必要な虚無の次元に屈折させるレンズを利用することです。\n\nこのレンズは、その周りに共鳴する特殊な構造物がが魔術を補助するのに必要です。\n\n"
           },
           {
             "text": "生成速度と、採取したエネルギーはオキュラスで確認できます。",
             "color": "dark_purple"
           },
           {
-            "text": "\n\nキメライトの砂岩もしくはキメライトの石で"
+            "text": "\n\n\nキメライトの砂岩もしくはキメライトの石で"
           },
           {
             "text": "龍穴プリズム",
             "color": "blue"
           },
           {
-            "text": "が作成できます。"
+            "text": "が作成できます。\n\n"
           },
           {
             "text": "中心が龍穴になるように設置する",
@@ -20293,34 +20269,28 @@
         "value": "",
         "json": [
           {
-            "text": "一度"
+            "text": "一度龍穴を捕獲するか龍脈煙フィルターで"
           },
           {
             "text": "龍脈の力",
             "color": "blue"
           },
           {
-            "text": "を龍穴を捕獲するか、龍脈煙フィルターで得たのち、"
+            "text": "を得たのちに、"
           },
           {
             "text": "龍脈導管を利用することで装置にエネルギーを供給",
             "color": "dark_purple"
           },
           {
-            "text": "できます。導管が、エネルギーを現実世界に転送します。導管は、種類によって別の属性のエネルギーを供給します。\n\n 下位導管はエネルギーを転送する速度が遅く、内部ストレージバッファが小さいです。 需要を満たすためには複数設置するか、上位の導管にアップグレードする必要があります。"
-          },
-          {
-            "text": "\n\n導管はさらに "
+            "text": "できます。\n\n導管がエネルギーを現実世界に転送します。\n\n導管は種類によって別の属性のエネルギーを供給します。\n\n下位導管はエネルギーを転送する速度が遅く、内部ストレージバッファが小さいです。 \n\n需要を満たすためには複数設置するか、上位の導管にアップグレードする必要があります。\n\n導管はさらに "
           },
           {
             "text": "範囲と充電速度があり",
             "color": "dark_purple"
           },
           {
-            "text": "、どれだけ遠くに共有できるか、そしてどれだけ早く内部容量に龍脈の力を転送するかを決めます。需要を満たせない場合、導管はオーバーヒートすることがあります。これは導管を破壊しませんが、供給しているのを遅くします。導管はレッドストーンシグナルを与えることで、オフにすることもできます。"
-          },
-          {
-            "text": "\n\n オーバーヒートは視覚的に判断でき、さらに、起動することで誰が導管を使用するか変更できます。"
+            "text": "、どれだけ遠くに共有できるか、そしてどれだけ早く内部容量に龍脈の力を転送するかを決めます。\n\n需要を満たせない場合、導管はオーバーヒートすることがあります。\n\nこれは導管を破壊しませんが、供給を遅くします。\n\n導管はレッドストーン信号を与えることで、オフにすることもできます。\n\nオーバーヒートは視覚的に判断できます。\n\nクリックすることで誰が導管を使用するか変更できます。"
           }
         ]
       }
@@ -20363,21 +20333,18 @@
         "value": "The Eldrin Altar will allow me to create some of the most powerful magical artifacts, those hinted at only by legend in ages to come.  First, I will need to make the altar itself, and surround it just so with pedestals.",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "龍脈の祭壇",
             "color": "blue"
           },
           {
-            "text": "は、過去の伝説に記されている、最上位の魔道具を作成できます。 まず、祭壇を作成し、それをペデスタルで囲みます。\n\nその後、"
+            "text": "は、過去の伝説に記されている最上位の魔道具を作成できます。\n \nまず、祭壇を作成して設置しペデスタルで囲みます。\n\nその後に"
           },
           {
             "text": "龍脈導管",
             "color": "blue"
           },
           {
-            "text": "を作成して、七ブロック以内の、導管の上のクリスタルが祭壇を直接見える位置に設置します。そのレシピが必要な属性の導管を設置するだけで問題ありません。"
+            "text": "を作成し、導管の上のクリスタルが祭壇を直接見える七ブロック以内の位置に設置します。\n\nそのレシピが必要な属性の導管を設置するだけで問題ありません。\n\n"
           },
           {
             "text": "下位の導管は、祭壇に影響を与えるための十分なエネルギーを供給できません",
@@ -20391,7 +20358,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "、順番や場所は関係ありません)、 空の手で中心の祭壇を起動します。その後は、ショーを楽しむだけです！"
+            "text": "、順番や場所は関係ありません)、 空いている手で中心の祭壇を起動します。\n\nその後は、ショーを楽しむだけです！"
           }
         ]
       }
@@ -20477,7 +20444,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。なぜならステップアシスト、跳躍力上昇や、マルチジャンプがある事で、鎧が与える効果が最大限に発揮されるからです。"
+            "text": "。\n\nなぜならステップアシスト、跳躍力上昇や、マルチジャンプがあれば、鎧の能力が最大限に発揮できるからです。"
           }
         ]
       }
@@ -20686,9 +20653,6 @@
         "value": "Members of the undead embody the unstoppable resilience of death while wearing the Witherbone armor.  It is as strong as even the most hardy armor forged from the metals of the nether, boasting near immunity to physical damage.  This armor causes the wearer to drain life away at a touch, regenerating souls simply by causing damage.  It also prevents the death of the wearer, instead shifting them to a cloud of mist allowing them to fly and make their escape.\n\nIf you take damage that would kill you while wearing this armor, that damage is reduced so that you are left with one hit point and you immediately enter mist form.  If you have one hit point, you die as normal.  This effect has no cooldown.",
         "json": [
           {
-            "text": ""
-          },
-          {
             "text": "不死者",
             "color": "dark_gray"
           },
@@ -20700,21 +20664,21 @@
             "color": "dark_gray"
           },
           {
-            "text": "を装備している間、死でさえ止められない耐久力を得ます。 \n\n これはネザーの金属で作られた鎧と同等の強度を誇り、"
+            "text": "を装備している間、死でさえ止められない耐久力を得ます。\n\nこれはネザーの金属で作られた鎧と同等の強度を誇り、"
           },
           {
             "text": "物理ダメージに抵抗持っている",
             "color": "dark_purple"
           },
           {
-            "text": "といってもいいほどです。 \n\n この鎧は、接触した相手から生気を吸い取る能力があり、 "
+            "text": "といってもいいほどです。\n\nこの鎧は接触した相手から生気を吸い取る能力があり、 "
           },
           {
             "text": "ダメージを与えた際に魂が回復",
             "color": "dark_purple"
           },
           {
-            "text": "するようになります。 \n\nさらに装備している者の"
+            "text": "するようになります。\n\nさらに装備している者の"
           },
           {
             "text": "死を防ぎ",
@@ -20728,14 +20692,14 @@
             "color": "dark_purple"
           },
           {
-            "text": "飛んで逃げ出すことを可能にします。\n\n この鎧を装備しているときに致命傷を受けた場合体力を1だけ残して食いしばり、即座に霧に変化します。体力がすでに1しかない場合はそのまま死亡します。"
+            "text": "飛んで逃げ出すことを可能にします。\n\nこの鎧を装備しているときに致命傷を受けた場合体力を1だけ残して食いしばり、即座に霧に変化します。\n\n体力がすでに1しかない場合はそのまま死亡します。\n\n"
           },
           {
             "text": "この能力にクールダウンはありません",
             "color": "dark_purple"
           },
           {
-            "text": "。  最後に、この鎧は "
+            "text": "。 最後に、この鎧は "
           },
           {
             "text": "霧化の呪文を強化し、制限時間が無限になり飛行速度も上昇します。",
@@ -23266,21 +23230,21 @@
         "value": "",
         "json": [
           {
-            "text": "この命令は、コンストラクトに"
+            "text": "この命令はコンストラクトに"
           },
           {
             "text": "他の決闘を望んでいるコンストラクトと決闘",
             "color": "blue"
           },
           {
-            "text": "をさせます。コンストラクトは、決闘中に死亡しません。\n\n対象は、コンストラクトが所有している"
+            "text": "をさせます。\n\nコンストラクトは、決闘中に死亡しません。\n\n対象は、コンストラクトが所有している"
           },
           {
             "text": "旗",
             "color": "blue"
           },
           {
-            "text": "によって決まります。\n\n旗を設定するには、コンストラクトで旗を右クリックします。コンストラクトに置かれる旗はゴーストアイテムで、一つの種類につき一つ作成すだけで済みます。"
+            "text": "によって決まります。\n\n旗を設定するには、コンストラクトで旗を右クリックします。\n\nコンストラクトに置かれる旗はゴーストアイテムで、一つの種類につき一つ作成するだけで済みます。"
           }
         ]
       }
@@ -23307,7 +23271,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "させます。コンストラクトは、マナ胴体に呪文を詠唱するために十分なマナが必要で、最低限１つの有効な呪文を持った詠唱腕が必要です。\n\n"
+            "text": "させます。\n\nコンストラクトのマナ胴体に呪文を詠唱するために十分なマナが必要で、最低限１つの有効な呪文を持った詠唱腕が必要です。\n\n"
           },
           {
             "text": "転写台",
@@ -24500,7 +24464,6 @@
   "Component: Greater Animus": {
     "index": "2",
     "category": "sorcery",
-    "tier": 5,
     "sections": [
       {
         "type": "title",
@@ -25368,7 +25331,14 @@
             "text": "するのに適していますが、どんなアイテムでも保持できます。\n\n"
           },
           {
-            "text": "上のリストにないアイテムはスクロールとして表示されます。棚にポーションとして表示されるようにするタグは存在しています。",
+            "text": "上のリストにないアイテムはスクロールとして表示されます。",
+            "italic": true
+          },
+          {
+            "text": "\n\n"
+          },
+          {
+            "text": "棚にポーションとして表示されるようにするタグもあります。",
             "italic": true
           }
         ]
@@ -25397,7 +25367,21 @@
             "text": "コーデックスを格好よく展示して利用できない魔術ラボなんて本当に魔術ラボなのでしょうか？\n\n"
           },
           {
-            "text": "コーデックスで右クリックで挿入します。スニーク＋右クリックで取り除きなます。コーデックスが書見台にある時に右クリックでコーデックスを読めます。",
+            "text": "コーデックスで右クリックで挿入できます。",
+            "italic": true
+          },
+          {
+            "text": "\n"
+          },
+          {
+            "text": "スニーク＋右クリックで取り除けます。",
+            "italic": true
+          },
+          {
+            "text": "\n\n"
+          },
+          {
+            "text": "コーデックスが書見台にある時に右クリックする事でコーデックスを読めます。",
             "italic": true
           }
         ]
@@ -25427,7 +25411,7 @@
             "color": "blue"
           },
           {
-            "text": "は、新人と経験者の魔術師両方にとってもかなり便利な道具です。オフハンドに持っている物に応じて、いろんなものを探せます。\n\nオフハンドに何も持っていない場合は、ダウジングロッドは使用者をその"
+            "text": "は、新人と経験者の魔術師両方にとってもかなり便利な道具です。\n\nオフハンドに持っている物に応じて、いろんなものを探せます。\n\nオフハンドに何も持っていない場合は、ダウジングロッドは使用者をその"
           },
           {
             "text": "ベッドの方角",
