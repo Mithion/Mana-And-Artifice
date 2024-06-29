@@ -6650,6 +6650,11 @@
       {
         "type": "spell_part",
         "location": "mna:shapes/bound_sword"
+      },
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/artifice/battlemage_amulet"
+
       }
     ]
   },
@@ -6703,6 +6708,11 @@
       {
         "type": "spell_part",
         "location": "mna:shapes/bound_shield"
+      },
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/artifice/warding_amulet"
+
       }
     ]
   },
@@ -6749,6 +6759,11 @@
       {
         "type": "spell_part",
         "location": "mna:shapes/bound_axe"
+      },
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/artifice/battlemage_amulet"
+
       }
     ]
   },
@@ -6795,6 +6810,11 @@
       {
         "type": "spell_part",
         "location": "mna:shapes/bound_bow"
+      },
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/artifice/battlemage_amulet"
+
       }
     ]
   },
@@ -10105,7 +10125,7 @@
       },
       {
         "type": "text",
-        "value": "我可以通过改变法术构成式而增强法术效果，但这一效果增强侧重的是长期效果而不是瞬时效果。此种增强侧重的是长期效果而不是瞬时效果，但是也许我之后能够找到侧重于后者的修饰。这一点区别很重要，可别忘了。"
+        "value": "我可以通过改变法术构成式而增强法术效果。此种增强侧重的是长期效果而不是瞬时效果，但是也许我之后能够找到侧重于后者的修饰。这一点区别很重要，可别忘了。"
       }
     ],
     "related_recipes": [
@@ -14974,7 +14994,7 @@
             "text": "，这意味着它可以帮助构装体漂浮于水面之上，且移动速度也更快。然而，它也会让构装体"
           },
           {
-            "text": "受到更高的火焰伤害",
+            "text": "受到更高的火焰伤害并会在下界中燃烧",
             "color": "dark_purple"
           },
           {
@@ -15013,7 +15033,7 @@
             "text": "，这意味着它可以帮助构装体漂浮于水面之上，且移动速度也更快。然而，装载有这种部件的构装体会"
           },
           {
-            "text": "受到更高的火焰伤害",
+            "text": "受到更高的火焰伤害并会在下界中燃烧",
             "color": "dark_purple"
           },
           {
@@ -24366,7 +24386,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。它总是和地面绑定在一起，当我停止引导时，它就会引爆法术。"
+            "text": "。它总是和地面绑定在一起，当我停止引导时，它就会引爆法术。由于与地面绑定的特性，裂缝天生比其他类似形状具有更大的半径。"
           }
         ]
       }
@@ -24854,13 +24874,13 @@
       }
     ]
   },
-  "Automating Spell Creation": {
+  "Altar of Arcana": {
     "index": "0",
     "category": "sorcery",
     "sections": [
       {
         "type": "title",
-        "value": "自动创造法术"
+        "value": "奥秘祭坛"
       },
       {
         "type": "text",
