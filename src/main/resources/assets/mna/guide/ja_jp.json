@@ -925,7 +925,7 @@
         "value": "I can't believe it's been under my nose this whole time - a hidden magical ore that I mistook for excess bits of rock when mining other valuable ores!  I call it Chimerite because it can look just like mining debris until one's magical senses are honed to be able to detect it.\n\nIt's easiest to find in emerald ore, something to do with the structure of emeralds themselves.  Most mages will be able to sense these with only a little bit of magical experience, probably mages that are at least level 5.\n\nNext are diamonds.  While not as easy as emeralds, chimerite can be found here by mages with a little bit more experience, above level 10.\n\nLastly is coal.  Chimerite is technically there in trace elements, but it takes a finely tuned magical mind to pick up the traces that are large enough to be useable.  I would say no mage under level 20 would see it.\n\nOn that point, I should note that the chimerite is also often destroyed as part of the mining process, and isn't always retrievable from every mining attempt.  Emeralds seem to have the best success rate here, followed by diamonds, and then again by coal.\n\nIt can be crafted into blocks and back using a crafting table.",
         "json": [
           {
-            "text": "他の貴重な鉱石を採掘するときに、余分な岩石のかけらと間違えて、隠れた魔法の鉱石を採掘していたなんて! \n\n魔法の感覚が研ぎ澄まされるまでは、採掘くずと同じように見えるので、キメライトと呼ばれています。\n\nエメラルド鉱石の中で最も見つけやすく、エメラルド自体の構造に関係するものです。 \n\nほとんどの魔術師は、ほんの少しの魔法経験でこれを感知することができます。\n\nおそらくレベル5以上の魔術師が感知できるだろう。\n\n次はダイヤモンド。 \nエメラルドほどではないが、レベル10以上の魔術師ならここでキメライトを見つけることができます。\n\n キメラライトは微量元素として存在するんだけど、その微量元素を使い物になる大きさに拾い上げるには、繊細な魔力が必要なんだ。\nその点、キメラライトは採掘の過程で破壊されることも多く、採掘のたびに回収できるわけではありません。\n\n 一番成功率が高いのはエメラルド、次がダイヤモンド、そして石炭です。\n\n工作台を使ってブロックに細工して戻すことができる。"
+            "text": "他の貴重な鉱石を採掘するときに、余分な岩石のかけらと間違えて、隠れた魔法の鉱石を採掘していたなんて! \n\n魔法の感覚が研ぎ澄まされるまでは、採掘くずと同じように見えるので、キメライトと呼ばれています。\n\nエメラルド鉱石の中で最も見つけやすく、エメラルド自体の構造に関係するものです。 \n\nほとんどの魔術師は、ほんの少しの魔法経験でこれを感知することができます。\n\nおそらくレベル5以上の魔術師が感知できるだろう。\n\n次はダイヤモンド。 \nエメラルドほどではないが、レベル10以上の魔術師ならここでキメライトを見つけることができます。\n\n キメラライトは微量元素として存在するんだけど、その微量元素を使い物になる大きさに拾い上げるには、繊細な魔力が必要なんだ。\nその点、キメラライトは採掘の過程で破壊されることも多く、採掘のたびに回収できるわけではありません。\n\n 一番成功率が高いのはエメラルド、次がダイヤモンド、そして石炭です。\n\n作業台を使ってブロックに細工して戻すことができる。"
           }
         ]
       }
@@ -3270,13 +3270,13 @@
       },
       {
         "type": "text",
-        "value": "いくつかの儀式は触媒を表示するためにアイテムが必要で、例：アルカナの儀式は呪文のレシピが必要です。まずアイテムを置く必要があり、その後に必要な触媒が表示されます。  触媒を表示するのに儀式を浄化ヴィンテウムの粉で再度起動する必要はありません。",
+        "value": "いくつかの儀式は触媒を表示するためにアイテムが必要で、例：神秘の儀式は呪文のレシピが必要です。まずアイテムを置く必要があり、その後に必要な触媒が表示されます。  触媒を表示するのに儀式を浄化ヴィンテウムの粉で再度起動する必要はありません。",
         "json": [
           {
             "text": "いくつかの儀式は触媒を表示するためにアイテムが必要で、\n\n（例："
           },
           {
-            "text": "アルカナの儀式",
+            "text": "神秘の儀式",
             "color": "blue"
           },
           {
@@ -4470,7 +4470,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "アルカナの儀式"
+        "value": "神秘の儀式"
       },
       {
         "type": "text",
@@ -6125,7 +6125,7 @@
             "text": "を行うことで魔法をレシピに注入する必要があります。\n\nそれは"
           },
           {
-            "text": "アルカナの儀式",
+            "text": "神秘の儀式",
             "color": "blue"
           },
           {
@@ -6216,7 +6216,7 @@
             "text": "を"
           },
           {
-            "text": "アルカナの儀式",
+            "text": "神秘の儀式",
             "color": "blue"
           },
           {
@@ -25160,14 +25160,14 @@
             "text": "毎回"
           },
           {
-            "text": "アルカナの儀式",
+            "text": "神秘の儀式",
             "color": "blue"
           },
           {
             "text": "を行うのは面倒です。 \n\nですので、"
           },
           {
-            "text": "アルカナの祭壇",
+            "text": "神秘の祭壇",
             "color": "blue"
           },
           {
@@ -25188,7 +25188,7 @@
             "text": "を祭壇に入れて開始してください。 \n\n自動でクラフトしてくれます。 \n\nもちろん、まだ "
           },
           {
-            "text": "アルカナの儀式",
+            "text": "神秘の儀式",
             "color": "blue"
           },
           {
