@@ -2620,7 +2620,7 @@
 	"mna:tier_2/obtain_spell_book.title": "参照システムか何かが必要だ",
 	"mna:tier_2/obtain_spell_book.description": "呪文の書を入手",
 	"mna:tier_2/study_desk_rote.title": "生徒",
-	"mna:tier_2/study_desk_rote.description": "勉強台で、論文か破れた論文のページを使用して暗記の進捗を上昇させる",
+	"mna:tier_2/study_desk_rote.description": "勉強台で、論文か破れた学術誌のページを使用して暗記の進捗を上昇させる",
 	"mna:tier_2/advance_tier_3.title": "熟練",
 	"mna:tier_2/advance_tier_3.description": "ティア 3 に進む",		
 	
