@@ -1,4 +1,6 @@
 {
+	"curios.identifier.spell": "Spell",
+	
 	"mna:dimension_current": "Current Dimension",
 
 	"itemGroup.mna.items": "Mana and Artifice",
@@ -420,7 +422,8 @@
 	"item.mna.stone_rune_pink": "Pink Glyph",
 	"item.mna.stone_rune_purple": "Purple Glyph",
 	"item.mna.stone_rune_white": "White Glyph",
-	"item.mna.stone_rune_yellow": "Yellow Glyph",	
+	"item.mna.stone_rune_yellow": "Yellow Glyph",
+	"item.mna.stone_rune_red": "Red Glyph",	
 	"item.mna.spell_book": "Spell Book",	
 	"item.mna.spell": "Magic Spell",
 	"item.mna.spell.recipe_display_name": "Spell Recipe: %s - %s",
@@ -589,6 +592,7 @@
 	"block.mna.pylon.bind_wounds": "Pylon: Bind Wounds",
 	"block.mna.pylon.camouflage": "Pylon: Camouflage",	
 	"block.mna.pylon.elytra_flight": "Pylon: Soar",
+	"block.mna.pylon.freeze": "Pylon: Freeze",
 	"block.mna.pylon.grow": "Pylon: Grow",
 	"block.mna.pylon.haste": "Pylon: Haste",
 	"block.mna.pylon.insight": "Pylon: Insight",
@@ -597,6 +601,7 @@
 	"block.mna.pylon.leap": "Pylon: Leap",
 	"block.mna.pylon.levitate": "Pylon: Levitate",
 	"block.mna.pylon.levitate_2": "Pylon: Creative Flight",
+	"block.mna.pylon.light": "Pylon: Light",
 	"block.mna.pylon.night_vision": "Pylon: Night Vision",
 	"block.mna.pylon.pilgrim": "Pylon: Pilgrim's Path",
 	"block.mna.pylon.recharge": "Pylon: Recharge",
@@ -611,6 +616,8 @@
 	"block.mna.brazier": "Brazier",
 	"block.mna.brazier.auto_on": "Auto-active is on",
 	"block.mna.brazier.auto_off": "Auto-active is off",
+	
+	"block.mna.clay_mug": "Clay Mug",
 	
 	"block.mna.storm_cloud": "Raincloud",
 	
@@ -2048,6 +2055,11 @@
 	"key.categories.mna": "Mana and Artifice",
 	"key.spellbookopen": "Spell Book Quick Select",
 	"key.spellbookchord": "Spell Book Chord",
+	"key.open-belt-pouch": "Open Belt Pouch",
+	"key.cast-hand-slot": "Cast Spell From Curios Hand Slot",
+	"key.cast-belt-slot": "Cast Spell From Curios Belt Slot",
+	"key.cast-back-slot": "Cast Spell From Curios Back Slot",
+	"key.cast-any-slot": "Cast Spell From Curios Hand, Belt, or Back Slot",
 	"key.gui-key-modifier": "Container Gui Open Modifier",
 	
 	"death.attack.mna_lightning": "%s was electrocuted",	
@@ -2075,6 +2087,7 @@
 	"mna.commands.tier.success": "Set %s's tier to %d.",
 	"mna.commands.completeProgression.success": "Completed %s's current tier progression.",
 	"mna.commands.fullReset.success": "Fully reset %s's M&A progression.",
+	"mna.commands.resetCodex.success": "Reset %s's codex unlocks.  They will need to log out and back in to see the changes.",
 	"mna.commands.factionRaid.success": "Set %s's raid chance to 100%.  They will be raided as soon as it can be spawned.",
 	"mna.commands.faction.success": "Set %s's faction to %s.",
 	"mna.commands.faction.not_found": "Could not find the faction specified.",
