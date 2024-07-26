@@ -6935,6 +6935,10 @@
       {
         "type": "spell_part",
         "location": "mna:shapes/bound_shield"
+      },
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/artifice/warding_amulet"
       }
     ]
   },
@@ -6981,6 +6985,10 @@
       {
         "type": "spell_part",
         "location": "mna:shapes/bound_axe"
+      },
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/artifice/battlemage_amulet"
       }
     ]
   },
@@ -9474,14 +9482,14 @@
         "value": "Trickery is something the fey are known for.  It's true, this decoy will create an illusory double of me that will run forward.  It will draw the attention of enemies that seek to do me harm, and is more likely to do so with a higher magnitude.\n\nThis component will cause all further components within the spell to affect the decoy rather than the original target.\n\nWARNING: This can only be crafted by those allied with the Fey Courts.",
         "json": [
           {
-            "text": "妖精は幻術が得意な事で知られていて、それは正しいです。\n\nこのデコイの呪文は、"
+            "text": "妖精は幻術が得意な事で知られていて、その認識は正しいです。\n\nこのデコイの呪文は、"
           },
           {
             "text": "幻術で自分の分身を作成",
             "color": "dark_purple"
           },
           {
-            "text": "して前に走らせます。\n\nそれは、自分に"
+            "text": "して前に走らせます。\n\nそれは自分に"
           },
           {
             "text": "敵対する者の注意を引きます",
@@ -9566,10 +9574,10 @@
             "color": "dark_purple"
           },
           {
-            "text": "が土や石は破壊しません。\n\n生物を対象にした場合、風はかなり強いです。"
+            "text": "が土や石は破壊しません。\n\n生物を対象にした場合、風はかなり強く作用し、"
           },
           {
-            "text": "彼らを空に打ち上げます",
+            "text": "空に打ち上げます",
             "color": "dark_purple"
           },
           {
@@ -15021,6 +15029,114 @@
       }
     ]
   },
+  "Bone Scythe": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Bone Scythe"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "The Bone Scythe is a "
+          },
+          {
+            "text": "hybrid between a staff and a sword",
+            "color": "dark_purple"
+          },
+          {
+            "text": ", capable of making "
+          },
+          {
+            "text": "sweep attacks",
+            "color": "blue"
+          },
+          {
+            "text": ", and applying a "
+          },
+          {
+            "text": "sweeping edge enchant",
+            "color": "blue"
+          },
+          {
+            "text": ".\n\nIt uses "
+          },
+          {
+            "text": "sharpness instead of bludgeoning",
+            "color": "blue"
+          },
+          {
+            "text": ".  \n\nIt counts as a sword for the "
+          },
+          {
+            "text": "Amulet of the Battlemage",
+            "color": "blue"
+          },
+          {
+            "text": ", and can also have a spell put on it like any other staff.  If it doesn't have a spell, it can be used to block, like a sword."
+          },
+          {
+            "text": "\n\nThis scythe can only be crafted by those who have allied themselves to the "
+          },
+          {
+            "text": "Undead",
+            "color": "dark_gray"
+          },
+          {
+            "text": "."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/artifice/bone_scythe"
+      }
+    ]
+  },
+  "Staff of the Woodlands": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Staff of the Woodlands"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "The Staff of the Woodlands can have enchantments and spells put on it like any other staff, however when an enemy is struck in melee by this staff, a woodland creature will come to your aid for a few seconds, attacking that target.\n\n"
+          },
+          {
+            "text": "This can fail if there is not enough space or a spawn location cannot be found.",
+            "italic": true,
+            "color": "dark_gray"
+          },
+          {
+            "text": "\n\nThis staff can only be crafted by those who have allied themselves to the "
+          },
+          {
+            "text": "Fey Courts",
+            "color": "dark_green"
+          },
+          {
+            "text": "."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/artifice/staff_fox"
+      }
+    ]
+  },
   "Faction Horns": {
     "index": 1,
     "category": "artifice",
@@ -15231,17 +15347,17 @@
             "color": "blue"
           },
           {
-            "text": "は五つの部品から作成されます: "
+            "text": "は五つの部品から作成されます: \n\n"
           },
           {
             "text": "頭、胴体、足、そして二本の腕",
             "color": "blue"
           },
           {
-            "text": "です。"
+            "text": "です。\n\n"
           },
           {
-            "text": "この部品は、コンストラクトの能力を決定します。",
+            "text": "この部品が、コンストラクトの能力を決定します。",
             "color": "dark_purple"
           },
           {
@@ -15266,7 +15382,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "\n\n"
+            "text": "\n\n\n"
           },
           {
             "text": "例外が存在するものはアウトラインされています。",
@@ -15298,7 +15414,7 @@
             "color": "blue"
           },
           {
-            "text": "の部品は、棒と藁でできています。それは"
+            "text": "の部品は、棒と藁でできています。\n\n"
           },
           {
             "text": "水に浮き",
@@ -15326,7 +15442,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。 \n\nそして、これらのパーツは原始的で、知能が少なく単純なタスクしか行えません。"
+            "text": "。\n\nそして、これらのパーツは原始的で、知能が少なく単純なタスクしか行えません。"
           }
         ]
       },
@@ -15358,7 +15474,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "であり、素早く移動できます。しかし、"
+            "text": "であり、素早く移動できます。\n\nしかし"
           },
           {
             "text": "火から大ダメージを受け",
@@ -15372,7 +15488,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。 要は "
+            "text": "。 要は"
           },
           {
             "text": "籐製の少しマシなバージョンです",
@@ -15431,6 +15547,58 @@
       },
       {
         "type": "title",
+        "value": "骨製",
+        "newPage": true
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "骨",
+            "color": "blue"
+          },
+          {
+            "text": "のコンストラクト部品は、骨からできています。木製のように"
+          },
+          {
+            "text": "軽量",
+            "color": "dark_purple"
+          },
+          {
+            "text": "で"
+          },
+          {
+            "text": "水に浮かび",
+            "color": "dark_purple"
+          },
+          {
+            "text": "、高速で移動できます。\n\n骨のコンストラクトは、"
+          },
+          {
+            "text": "中くらいの体力と鎧",
+            "color": "dark_purple"
+          },
+          {
+            "text": "を持ちます。"
+          },
+          {
+            "text": "木製の上位互換",
+            "color": "dark_purple"
+          },
+          {
+            "text": "のような物です。\n\n骨のコンストラクトは、他のコンストラクトよりも"
+          },
+          {
+            "text": "速く体力を再生",
+            "color": "dark_purple"
+          },
+          {
+            "text": "します。"
+          }
+        ]
+      },
+      {
+        "type": "title",
         "value": "鉄製",
         "newPage": true
       },
@@ -15439,14 +15607,14 @@
         "value": "The primary choice for village golem material, iron has seen a significant amount of use.  It is more resilient than stone, it sinks faster, moves slower, and resists being knocked back more.  Iron constructs unlock at Tier 3.  Iron Constructs tend to specialize in defense.",
         "json": [
           {
-            "text": "村のゴーレムとしてよく使用される "
+            "text": "村のゴーレムとしてもよく使用される"
           },
           {
-            "text": "鉄製",
+            "text": "鉄",
             "color": "blue"
           },
           {
-            "text": "のコンストラクトはよく使用されます。それは"
+            "text": "のコンストラクトは頻繁に使用されます。\n\nそれは"
           },
           {
             "text": "すぐに沈んで遅く移動",
@@ -15468,7 +15636,7 @@
             "color": "dark_purple"
           },
           {
-            "text": ".\n\n鉄のコンストラクトは、"
+            "text": "。\n\n鉄のコンストラクトは、"
           },
           {
             "text": "防御と生き残る能力に長けています",
@@ -15493,7 +15661,7 @@
             "color": "blue"
           },
           {
-            "text": ", 鉄と同じように水に早く沈みます。彼らは"
+            "text": "鉄と同じように水に早く沈みます。\n\n彼らは"
           },
           {
             "text": "移動速度が鉄より速く、",
@@ -15554,10 +15722,10 @@
             "color": "dark_purple"
           },
           {
-            "text": "。彼らの素材は特異的で"
+            "text": "。\n\n彼らの素材は特異的で"
           },
           {
-            "text": "火と溶岩を無効にします",
+            "text": "火と溶岩が効きません",
             "color": "dark_purple"
           },
           {
@@ -15601,7 +15769,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "です。彼らは"
+            "text": "です。\n\n彼らは"
           },
           {
             "text": "素早い",
@@ -15615,14 +15783,14 @@
             "color": "dark_purple"
           },
           {
-            "text": ".\n\nダイアモンドのコンストラクトは"
+            "text": "\n\nダイアモンドのコンストラクトは"
           },
           {
             "text": "万能",
             "color": "dark_purple"
           },
           {
-            "text": "で、すべてのタスクを十分にこなせますが、どのタスクでも一番ではありません。"
+            "text": "で、すべてのタスクを十分にこなせますが、どのタスクでも一番になれません。"
           }
         ]
       }
@@ -16694,7 +16862,7 @@
             "text": "この命令は、コンストラクトが他の命令を従うまでに"
           },
           {
-            "text": "数秒間待機",
+            "text": "指定した時間の間待機",
             "color": "dark_purple"
           },
           {
@@ -16750,7 +16918,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "命令: ルーン刻印"
+        "value": "命令: ルーン刻"
       },
       {
         "type": "text",
@@ -18266,14 +18434,14 @@
             "color": "dark_purple"
           },
           {
-            "text": "し、であれば"
+            "text": "し、そうであれば"
           },
           {
             "text": "成功",
             "color": "dark_green"
           },
           {
-            "text": "、でなければ"
+            "text": "、そうでなければ"
           },
           {
             "text": "失敗",
@@ -18477,6 +18645,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_grabber_arm_left",
           "mna:manaweaving/constructs/stone/stone_grabber_arm_left",
+          "mna:manaweaving/constructs/bone/bone_grabber_arm_left",
           "mna:manaweaving/constructs/iron/iron_grabber_arm_left",
           "mna:manaweaving/constructs/gold/gold_grabber_arm_left"
         ]
@@ -18486,6 +18655,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_grabber_arm_right",
           "mna:manaweaving/constructs/stone/stone_grabber_arm_right",
+          "mna:manaweaving/constructs/bone/bone_grabber_arm_right",
           "mna:manaweaving/constructs/iron/iron_grabber_arm_right",
           "mna:manaweaving/constructs/gold/gold_grabber_arm_right"
         ]
@@ -18551,6 +18721,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_bladed_arm_left",
           "mna:manaweaving/constructs/stone/stone_bladed_arm_left",
+          "mna:manaweaving/constructs/bone/bone_bladed_arm_left",
           "mna:manaweaving/constructs/iron/iron_bladed_arm_left",
           "mna:manaweaving/constructs/gold/gold_bladed_arm_left"
         ]
@@ -18560,6 +18731,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_bladed_arm_right",
           "mna:manaweaving/constructs/stone/stone_bladed_arm_right",
+          "mna:manaweaving/constructs/bone/bone_bladed_arm_right",
           "mna:manaweaving/constructs/iron/iron_bladed_arm_right",
           "mna:manaweaving/constructs/gold/gold_bladed_arm_right"
         ]
@@ -18610,6 +18782,13 @@
             "text": "：４防御力、０防具強度\n"
           },
           {
+            "text": "Bone",
+            "color": "blue"
+          },
+          {
+            "text": ": 4 armor, 1 toughness\n"
+          },
+          {
             "text": "鉄製",
             "color": "blue"
           },
@@ -18646,6 +18825,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_shield_arm_left",
           "mna:manaweaving/constructs/stone/stone_shield_arm_left",
+          "mna:manaweaving/constructs/bone/bone_shield_arm_left",
           "mna:manaweaving/constructs/iron/iron_shield_arm_left",
           "mna:manaweaving/constructs/gold/gold_shield_arm_left"
         ]
@@ -18654,6 +18834,7 @@
         "type": "manaweaving_altar",
         "locations": [
           "mna:manaweaving/constructs/wood/wood_shield_arm_right",
+          "mna:manaweaving/constructs/bone/bone_shield_arm_right",
           "mna:manaweaving/constructs/stone/stone_shield_arm_right",
           "mna:manaweaving/constructs/iron/iron_shield_arm_right",
           "mna:manaweaving/constructs/gold/gold_shield_arm_right"
@@ -18727,6 +18908,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_axe_arm_left",
           "mna:manaweaving/constructs/stone/stone_axe_arm_left",
+          "mna:manaweaving/constructs/bone/bone_axe_arm_left",
           "mna:manaweaving/constructs/iron/iron_axe_arm_left",
           "mna:manaweaving/constructs/gold/gold_axe_arm_left"
         ]
@@ -18736,6 +18918,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_axe_arm_right",
           "mna:manaweaving/constructs/stone/stone_axe_arm_right",
+          "mna:manaweaving/constructs/bone/bone_axe_arm_right",
           "mna:manaweaving/constructs/iron/iron_axe_arm_right",
           "mna:manaweaving/constructs/gold/gold_axe_arm_right"
         ]
@@ -18790,7 +18973,7 @@
             "color": "blue"
           },
           {
-            "text": "を利用して充填する必要があります。\n\n木製：３ダメージ\n石製：５ダメージ\n鉄製：７ダメージ\n黒曜石製：１０ダメージ\nダイアモンド製：１５ダメージ\n金製：２０ダメージ\n\nコンストラクトの両腕にマナキャノン腕を装備した場合、一発で二つの対象を攻撃できます。"
+            "text": "を利用して充填する必要があります。\n\n木製：３ダメージ\n石製：５ダメージ\nBone:3 damage\n鉄製：７ダメージ\n黒曜石製：１０ダメージ\nダイアモンド製：１５ダメージ\n金製：２０ダメージ\n\nコンストラクトの両腕にマナキャノン腕を装備した場合、一発で二つの対象を攻撃できます。"
           }
         ]
       }
@@ -18801,6 +18984,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_mana_cannon_left",
           "mna:manaweaving/constructs/stone/stone_mana_cannon_left",
+          "mna:manaweaving/constructs/bone/bone_mana_cannon_left",
           "mna:manaweaving/constructs/iron/iron_mana_cannon_left",
           "mna:manaweaving/constructs/gold/gold_mana_cannon_left"
         ]
@@ -18810,6 +18994,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_mana_cannon_right",
           "mna:manaweaving/constructs/stone/stone_mana_cannon_right",
+          "mna:manaweaving/constructs/bone/bone_mana_cannon_right",
           "mna:manaweaving/constructs/iron/iron_mana_cannon_right",
           "mna:manaweaving/constructs/gold/gold_mana_cannon_right"
         ]
@@ -18879,6 +19064,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_hammer_arm_left",
           "mna:manaweaving/constructs/stone/stone_hammer_arm_left",
+          "mna:manaweaving/constructs/bone/bone_hammer_arm_left",
           "mna:manaweaving/constructs/iron/iron_hammer_arm_left",
           "mna:manaweaving/constructs/gold/gold_hammer_arm_left"
         ]
@@ -18888,6 +19074,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_hammer_arm_right",
           "mna:manaweaving/constructs/stone/stone_hammer_arm_right",
+          "mna:manaweaving/constructs/bone/bone_hammer_arm_right",
           "mna:manaweaving/constructs/iron/iron_hammer_arm_right",
           "mna:manaweaving/constructs/gold/gold_hammer_arm_right"
         ]
@@ -18946,6 +19133,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_fisher_arm_left",
           "mna:manaweaving/constructs/stone/stone_fisher_arm_left",
+          "mna:manaweaving/constructs/bone/bone_fisher_arm_left",
           "mna:manaweaving/constructs/iron/iron_fisher_arm_left",
           "mna:manaweaving/constructs/gold/gold_fisher_arm_left"
         ]
@@ -18955,6 +19143,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_fisher_arm_right",
           "mna:manaweaving/constructs/stone/stone_fisher_arm_right",
+          "mna:manaweaving/constructs/bone/bone_fisher_arm_right",
           "mna:manaweaving/constructs/iron/iron_fisher_arm_right",
           "mna:manaweaving/constructs/gold/gold_fisher_arm_right"
         ]
@@ -19034,6 +19223,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_nozzle_arm_left",
           "mna:manaweaving/constructs/stone/stone_nozzle_arm_left",
+          "mna:manaweaving/constructs/bone/bone_nozzle_arm_left",
           "mna:manaweaving/constructs/iron/iron_nozzle_arm_left",
           "mna:manaweaving/constructs/gold/gold_nozzle_arm_left"
         ]
@@ -19043,6 +19233,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_nozzle_arm_right",
           "mna:manaweaving/constructs/stone/stone_nozzle_arm_right",
+          "mna:manaweaving/constructs/bone/bone_nozzle_arm_right",
           "mna:manaweaving/constructs/iron/iron_nozzle_arm_right",
           "mna:manaweaving/constructs/gold/gold_nozzle_arm_right"
         ]
@@ -19112,6 +19303,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_caster_arm_left",
           "mna:manaweaving/constructs/stone/stone_caster_arm_left",
+          "mna:manaweaving/constructs/bone/bone_caster_arm_left",
           "mna:manaweaving/constructs/iron/iron_caster_arm_left",
           "mna:manaweaving/constructs/gold/gold_caster_arm_left"
         ]
@@ -19121,6 +19313,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_caster_arm_right",
           "mna:manaweaving/constructs/stone/stone_caster_arm_right",
+          "mna:manaweaving/constructs/bone/bone_caster_arm_right",
           "mna:manaweaving/constructs/iron/iron_caster_arm_right",
           "mna:manaweaving/constructs/gold/gold_caster_arm_right"
         ]
@@ -19154,7 +19347,7 @@
         "value": "The basic torso is inexpensive but doesn't offer any special benefits.",
         "json": [
           {
-            "text": "基本胴体は安価ですが、特別な恩恵が何もありません。"
+            "text": "基本胴体は安価ですが、特別な恩恵は何もありません。"
           }
         ]
       }
@@ -19169,6 +19362,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_torso_basic",
           "mna:manaweaving/constructs/stone/stone_torso_basic",
+          "mna:manaweaving/constructs/bone/bone_torso_basic",
           "mna:manaweaving/constructs/iron/iron_torso_basic",
           "mna:manaweaving/constructs/gold/gold_torso_basic",
           "mna:manaweaving/constructs/diamond/diamond_torso_basic",
@@ -19214,6 +19408,13 @@
             "text": "：防御力３、防具強度０\n"
           },
           {
+            "text": "Bone",
+            "color": "blue"
+          },
+          {
+            "text": ": 4 armor, 1 toughness\n"
+          },
+          {
             "text": "鉄製",
             "color": "blue"
           },
@@ -19250,6 +19451,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_torso_armor",
           "mna:manaweaving/constructs/stone/stone_torso_armor",
+          "mna:manaweaving/constructs/stone/bone_torso_armor",
           "mna:manaweaving/constructs/iron/iron_torso_armor",
           "mna:manaweaving/constructs/gold/gold_torso_armor"
         ]
@@ -19299,7 +19501,7 @@
             "text": "\n"
           },
           {
-            "text": "木製/石製：８",
+            "text": "木製/石製/骨製：８",
             "color": ""
           },
           {
@@ -19379,6 +19581,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_torso_tank",
           "mna:manaweaving/constructs/stone/stone_torso_tank",
+          "mna:manaweaving/constructs/bone/bone_torso_tank",
           "mna:manaweaving/constructs/iron/iron_torso_tank",
           "mna:manaweaving/constructs/gold/gold_torso_tank"
         ]
@@ -19441,6 +19644,13 @@
           },
           {
             "text": "：500マナ\n"
+          },
+          {
+            "text": "Bone",
+            "color": "blue"
+          },
+          {
+            "text": ": 500 mana\n"
           },
           {
             "text": "鉄製",
@@ -19520,6 +19730,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_legs_basic",
           "mna:manaweaving/constructs/stone/stone_legs_basic",
+          "mna:manaweaving/constructs/bone/bone_legs_basic",
           "mna:manaweaving/constructs/iron/iron_legs_basic",
           "mna:manaweaving/constructs/gold/gold_legs_basic"
         ]
@@ -19564,6 +19775,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_legs_reinforced",
           "mna:manaweaving/constructs/stone/stone_legs_reinforced",
+          "mna:manaweaving/constructs/bone/bone_legs_reinforced",
           "mna:manaweaving/constructs/iron/iron_legs_reinforced",
           "mna:manaweaving/constructs/gold/gold_legs_reinforced"
         ]
@@ -19608,6 +19820,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_legs_ender",
           "mna:manaweaving/constructs/stone/stone_legs_ender",
+          "mna:manaweaving/constructs/bone/bone_legs_ender",
           "mna:manaweaving/constructs/iron/iron_legs_ender",
           "mna:manaweaving/constructs/gold/gold_legs_ender"
         ]
@@ -19737,6 +19950,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_head_horn",
           "mna:manaweaving/constructs/stone/stone_head_horn",
+          "mna:manaweaving/constructs/bone/bone_head_horn",
           "mna:manaweaving/constructs/iron/iron_head_horn",
           "mna:manaweaving/constructs/gold/gold_head_horn"
         ]
@@ -19775,6 +19989,13 @@
           {
             "text": "石製",
             "color": "blue"
+          },
+          {
+            "text": "Bone",
+            "color": "blue"
+          },
+          {
+            "text": ": 12 \n"
           },
           {
             "text": "：１２\n"
@@ -19816,6 +20037,7 @@
         "locations": [
           "mna:manaweaving/constructs/wood/wood_head_smart",
           "mna:manaweaving/constructs/stone/stone_head_smart",
+          "mna:manaweaving/constructs/stone/bone_head_smart",
           "mna:manaweaving/constructs/iron/iron_head_smart",
           "mna:manaweaving/constructs/gold/gold_head_smart"
         ]
@@ -25430,11 +25652,8 @@
             "text": "するのに適しています。\n\n"
           },
           {
-            "text": "M&Aの本ではないアイテムは、そのアイテムIDから染料とした呪文の本として表示されます。",
+            "text": "M&Aの本ではないアイテムは、そのアイテムIDから染料とした呪文の本として表示されます。\n\n",
             "italic": true
-          },
-          {
-            "text": "\n\n"
           },
           {
             "text": "染色可能なアイテムの場合は、その色の呪文の本として表示されます。",
@@ -25473,11 +25692,8 @@
             "text": "するのに適していますが、どんなアイテムでも保持できます。\n\n"
           },
           {
-            "text": "上のリストにないアイテムはスクロールとして表示されます。",
+            "text": "上のリストにないアイテムはスクロールとして表示されます。\n\n\n",
             "italic": true
-          },
-          {
-            "text": "\n\n\n"
           },
           {
             "text": "棚にポーションとして表示されるようにするタグもあります。",
@@ -25503,17 +25719,13 @@
       },
       {
         "type": "text",
-        "value": "",
         "json": [
           {
             "text": "コーデックスを格好よく展示して利用できない魔術ラボなんて本当に魔術ラボなのでしょうか？\n\n"
           },
           {
-            "text": "コーデックスで右クリックで挿入できます。",
+            "text": "コーデックスで右クリックで挿入できます。\n",
             "italic": true
-          },
-          {
-            "text": "\n"
           },
           {
             "text": "スニーク＋右クリックで取り除けます。",
@@ -25627,5 +25839,1111 @@
       }
     ]
   },
-  "version": "3.0.0.15"
+  "Pylons": {
+    "index": "-1",
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "パイロン"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "パイロンはルーンが刻まれた石柱で、"
+          },
+          {
+            "text": "指定した範囲に効果を与えます",
+            "color": "dark_purple"
+          },
+          {
+            "text": "。\n\nそれぞれ"
+          },
+          {
+            "text": "常に異なる量と属性の龍脈エネルギーを消費",
+            "color": "blue"
+          },
+          {
+            "text": "し、"
+          },
+          {
+            "text": "レッドストーン信号でオン/オフ",
+            "color": "blue"
+          },
+          {
+            "text": "できます。\n\nパイロンは、始動するのにまず十分で適切な量のエネルギーを数秒間供給されている必要があります。\n\nパイロンの半径は、二つの方法で設定できます。\n\nデフォルトでは、32ブロックの"
+          },
+          {
+            "text": "半径",
+            "underlined": true
+          },
+          {
+            "text": "に影響します。\nこれは増減でき、パイロンを中心とします。\n\nもう一つの方法は、二つの"
+          },
+          {
+            "text": "目印のルーン",
+            "color": "blue"
+          },
+          {
+            "text": "で範囲を指定する方法です。\nパイロンの"
+          },
+          {
+            "text": "土台が範囲に含まれている必要",
+            "color": "dark_purple"
+          },
+          {
+            "text": "があります。\n\nパイロンは、半径の大きさによって消費する"
+          },
+          {
+            "text": "龍脈エネルギー",
+            "color": "dark_purple"
+          },
+          {
+            "text": "が増減します。\n\n範囲の最低は１で、最高は１２８です。\n\n"
+          },
+          {
+            "text": "それぞれのパイロンのGUIで要求するエネルギーを表示できます。ツールチップにも載っています。",
+            "italic": true
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "crafting",
+        "location": "mna:inert_pylon"
+      }
+    ]
+  },
+  "Pylon: Haste": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Haste"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume trace amounts of "
+          },
+          {
+            "text": "Fire and Wind Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply a "
+          },
+          {
+            "text": "movement speed boost effect",
+            "color": "blue"
+          },
+          {
+            "text": " to targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/pylon/haste"
+      }
+    ]
+  },
+  "Pylon: Insight": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Insight"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume trace amounts of "
+          },
+          {
+            "text": "Arcane Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect showing damage numbers",
+            "color": "blue"
+          },
+          {
+            "text": " on targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/pylon/insight"
+      }
+    ]
+  },
+  "Pylon: Leap": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Leap"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume trace amounts of "
+          },
+          {
+            "text": "Wind Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect increasing jump height",
+            "color": "blue"
+          },
+          {
+            "text": " to targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/pylon/leap"
+      }
+    ]
+  },
+  "Pylon: Slowfall": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Slowfall"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume small amounts of "
+          },
+          {
+            "text": "Wind Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect that slows descent and prevents fall damage",
+            "color": "blue"
+          },
+          {
+            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/pylon/slowfall"
+      }
+    ]
+  },
+  "Pylon: Spider Climbing": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Spider Climbing"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume small amounts of "
+          },
+          {
+            "text": "Ender Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect that lets targets climb walls like spiders",
+            "color": "blue"
+          },
+          {
+            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/pylon/spider_climb"
+      }
+    ]
+  },
+  "Pylon: Swift Swim": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Swift Swim"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume small amounts of "
+          },
+          {
+            "text": "Water Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect that increases swim speed",
+            "color": "blue"
+          },
+          {
+            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/pylon/swift_swim"
+      }
+    ]
+  },
+  "Pylon: Water Walking": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Water Walking"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume small amounts of "
+          },
+          {
+            "text": "Water Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect that allows walking on water",
+            "color": "blue"
+          },
+          {
+            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/pylon/water_walking"
+      }
+    ]
+  },
+  "Pylon: Bind Wounds": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Bind Wounds"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume moderate amounts of "
+          },
+          {
+            "text": "Water and Earth Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect that closes wounds while standing still",
+            "color": "blue"
+          },
+          {
+            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/bind_wounds"
+      }
+    ]
+  },
+  "Pylon: Camouflage": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Camouflage"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume small amounts of "
+          },
+          {
+            "text": "Water Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect that conceals target from detection while not moving or moving very slowly",
+            "color": "blue"
+          },
+          {
+            "text": " within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/camouflage"
+      }
+    ]
+  },
+  "Pylon: Flight": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Flight"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume vast amounts of "
+          },
+          {
+            "text": "Wind and Earth Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect that allows fast controlled flight",
+            "color": "blue"
+          },
+          {
+            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/creative_flight"
+      }
+    ]
+  },
+  "Pylon: Grow": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Grow"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume large amounts of "
+          },
+          {
+            "text": "Ender Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect that causes targets to grow in size",
+            "color": "blue"
+          },
+          {
+            "text": " within a configurable range.  Affected targets health, reach, step height, move speed, and jump height are all increased by this effect.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/grow"
+      }
+    ]
+  },
+  "Pylon: Interdiction (Inbound)": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Interdiction (Inbound)"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume small amounts of "
+          },
+          {
+            "text": "Ender Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to "
+          },
+          {
+            "text": "prevent inbound teleportation",
+            "color": "blue"
+          },
+          {
+            "text": " within a configurable range. Inbound means that the teleportation destination is inside of the configured bounds.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/interdiction_in"
+      }
+    ]
+  },
+  "Pylon: Interdiction (Outbound)": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Interdiction (Outbound)"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume small amounts of "
+          },
+          {
+            "text": "Ender Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to "
+          },
+          {
+            "text": "prevent outbound teleportation",
+            "color": "blue"
+          },
+          {
+            "text": " within a configurable range. Outbound means that the teleportation destination is outside of the configured bounds.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/interdiction_out"
+      }
+    ]
+  },
+  "Pylon: Levitate": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Levitate"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume small amounts of "
+          },
+          {
+            "text": "Wind Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect allowing slow flight",
+            "color": "blue"
+          },
+          {
+            "text": " to targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/levitate"
+      }
+    ]
+  },
+  "Pylon: Light": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Light"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume small amounts of "
+          },
+          {
+            "text": "Arcane Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to "
+          },
+          {
+            "text": "slowly light up its affected area",
+            "color": "blue"
+          },
+          {
+            "text": ", a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking.",
+            "color": "blue"
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/light"
+      }
+    ]
+  },
+  "Pylon: Freeze": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Freeze"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume small amounts of "
+          },
+          {
+            "text": "Air and Water Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to "
+          },
+          {
+            "text": "slowly freeze standing water to ice and flowing water to snow",
+            "color": "blue"
+          },
+          {
+            "text": " in a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking.",
+            "color": "blue"
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/freeze"
+      }
+    ]
+  },
+  "Pylon: Night Vision": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Night Vision"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume small amounts of "
+          },
+          {
+            "text": "Ender Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect allowing targets to see in the dark",
+            "color": "blue"
+          },
+          {
+            "text": " within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/night_vision"
+      }
+    ]
+  },
+  "Pylon: Pilgrim's Path": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Pilgrim's Path"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume small amounts of "
+          },
+          {
+            "text": "Arcane, Fire, and Wind Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect granting targets increased speed, step height, swim speed and jump height",
+            "color": "blue"
+          },
+          {
+            "text": " within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/pilgrim"
+      }
+    ]
+  },
+  "Pylon: Recharging": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Recharging"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume large amounts of "
+          },
+          {
+            "text": "Arcane Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to "
+          },
+          {
+            "text": "recharge items similar to pedestal charging",
+            "color": "blue"
+          },
+          {
+            "text": " in the inventory or equipped on targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/recharge"
+      }
+    ]
+  },
+  "Pylon: Repair": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Repair"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume large amounts of "
+          },
+          {
+            "text": "Arcane, Earth, and Fire Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect that repairs items",
+            "color": "blue"
+          },
+          {
+            "text": " in targets' inventories within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/repair"
+      }
+    ]
+  },
+  "Pylon: Shrink": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Shrink"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume large amounts of "
+          },
+          {
+            "text": "Ender Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect that causes targets to shrink in size",
+            "color": "blue"
+          },
+          {
+            "text": " within a configurable range.  Affected targets maximum health is reduced significantly along with the size.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/shrink"
+      }
+    ]
+  },
+  "Pylon: Soar": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Soar"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume moderate amounts of "
+          },
+          {
+            "text": "Wind Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect that allows elytra-style flight",
+            "color": "blue"
+          },
+          {
+            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/soar"
+      }
+    ]
+  },
+  "Pylon: Water Breathing": {
+    "index": 0,
+    "category": "artifice",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Pylon: Water Breathing"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This pylon will consume moderate amounts of "
+          },
+          {
+            "text": "Water Eldrin Power",
+            "color": "dark_purple"
+          },
+          {
+            "text": " to apply an "
+          },
+          {
+            "text": "effect that allows breathing underwater",
+            "color": "blue"
+          },
+          {
+            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+          },
+          {
+            "text": "Runes of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ". It can also be toggled to only affect factions that are allied with my own."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "eldrin_altar",
+        "location": "mna:eldrin_altar/pylon/water_breathing"
+      }
+    ]
+  },
+  "version": "3.0.0.21"
 }
