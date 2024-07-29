@@ -4762,6 +4762,7 @@
   "Gate": {
     "index": 0,
     "category": "rituals",
+    "tier": 4,
     "sections": [
       {
         "type": "title",
@@ -5577,6 +5578,7 @@
   "Sanctum Invocation": {
     "index": 0,
     "category": "rituals",
+    "tier": 3,
     "sections": [
       {
         "type": "title",
@@ -5652,6 +5654,7 @@
   "Flat Lands": {
     "index": 0,
     "category": "rituals",
+    "tier": 2,
     "sections": [
       {
         "type": "title",
@@ -5768,6 +5771,7 @@
   "Monsoon": {
     "index": 0,
     "category": "rituals",
+    "tier": 4,
     "sections": [
       {
         "type": "title",
@@ -20054,6 +20058,7 @@
   "Eldrin Power": {
     "index": -100,
     "category": "eldrin_altar",
+    "tier": 2,
     "sections": [
       {
         "type": "title",
@@ -20536,6 +20541,7 @@
   "Capturing Eldrin Wellsprings": {
     "index": -97,
     "category": "eldrin_altar",
+    "tier": 4,
     "sections": [
       {
         "type": "title",
@@ -20676,6 +20682,7 @@
   "Eldrin Altar": {
     "index": -95,
     "category": "eldrin_altar",
+    "tier": 4,
     "sections": [
       {
         "type": "title",
@@ -20693,7 +20700,7 @@
             "text": "は、過去の伝説に記されている最上位の魔道具を作成できます。\n\nまず、祭壇を作成して設置しペデスタルで囲みます。\n\nその後に"
           },
           {
-            "text": "龍脈導管",
+            "text": "龍脈の導管",
             "color": "blue"
           },
           {
@@ -24821,6 +24828,7 @@
   "Component: Greater Animus": {
     "index": "2",
     "category": "sorcery",
+    "tier": 5,
     "sections": [
       {
         "type": "title",
