@@ -229,10 +229,10 @@
 	"item.mna.mark_of_the_undead": "Значок Нежити",
 
 	"mna:multiblock_recipe": "Список материалов: ",
-	"mna:multiblock/fey_circle": "Святилище Двора Фей",
-	"mna:multiblock/undead_circle": "Святилище Нежити",
-	"mna:multiblock/council_circle": "Святилище Совета",
-	"mna:multiblock/demon_circle": "Демоническое Святилище",
+	"mna:multiblock/fey_circle": "Прибежище Двора Фей",
+	"mna:multiblock/undead_circle": "Прибежище Нежити",
+	"mna:multiblock/council_circle": "Прибежище Совета",
+	"mna:multiblock/demon_circle": "Демоническое Прибежище",
 	"mna:multiblock/wellspring_capture": "Призма Источника",
 	"mna:multiblock/eldrin_altar": "Алтарь Элдрина",
 
