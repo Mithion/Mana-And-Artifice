@@ -5662,7 +5662,7 @@
       },
       {
         "type": "text",
-        "value": "This very powerful magic allows a mage to mark out an area using special runes of marking, then perform the ritual close to the marked location, within about 16m or so of either of the marked points.  The magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more.\n\nEach of the two Runes of Marking marks the opposite corners of a cube to target.",
+        "value": "This very powerful magic allows a mage to mark out an area using special 目印のルーン, then perform the ritual close to the marked location, within about 16m or so of either of the marked points.  The magic will stream out of the ritual and carve out the marked location, destroying trees, plants, dirt, rocks, ores, and more.\n\nEach of the two 目印のルーン marks the opposite corners of a cube to target.",
         "json": [
           {
             "text": "この強力な呪文を行うにはまず目印のルーンで範囲を指定し、指定されたいずれかの地点の16m以内の位置で儀式を行う必要があります。\n\n儀式から強力な魔術が放出され、指定された範囲の木や植物、土、石、鉱石などを破壊します。\n\n"
@@ -10890,7 +10890,7 @@
         "value": "The book of marks allows me to place several marks within it and switch between them for convenience.  It will work with spells that use marking runes such as recall.",
         "json": [
           {
-            "text": "この目印の書は、中に複数の目印を入れることができ便利に切り替えられます。\n\n"
+            "text": "この目印の書は、中に複数の目印を入れることができ便利に切り替える事ができます。\n\n"
           },
           {
             "text": "帰還の呪文",
@@ -12183,7 +12183,7 @@
       },
       {
         "type": "text",
-        "value": "Arcane Sentries shoot very slowly but deal very high magic damage.  They consume Arcane Eldrin Power.",
+        "value": "Arcane Sentries shoot very slowly but deal very high magic damage.  They consume 神秘の龍脈エネルギー.",
         "json": [
           {
             "text": "神秘のセントリー",
@@ -12203,7 +12203,7 @@
       },
       {
         "type": "text",
-        "value": "Ender Sentries shoot very slowly but teleport hit targets 10 blocks backwards in the direction the projectile is traveling.  They consume Ender Eldrin Power.",
+        "value": "Ender Sentries shoot very slowly but teleport hit targets 10 blocks backwards in the direction the projectile is traveling.  They consume エンダーの龍脈エネルギー.",
         "json": [
           {
             "text": "エンダーのセントリー",
@@ -12230,7 +12230,7 @@
       },
       {
         "type": "text",
-        "value": "Water Sentries shoot very slowly but deal minor damage and apply a very powerful slow.  They consume Water Eldrin Power.",
+        "value": "Water Sentries shoot very slowly but deal minor damage and apply a very powerful slow.  They consume 水の龍脈エネルギー.",
         "json": [
           {
             "text": "水のセントリー",
@@ -12257,7 +12257,7 @@
       },
       {
         "type": "text",
-        "value": "Wind Sentries shoot moderately slowly but apply a levitation effect to targets.  They consume Wind Eldrin Power.",
+        "value": "Wind Sentries shoot moderately slowly but apply a levitation effect to targets.  They consume 風の龍脈エネルギー.",
         "json": [
           {
             "text": "風のセントリー",
@@ -12784,7 +12784,7 @@
       },
       {
         "type": "text",
-        "value": "This powerful workbench allows you to spend some experience and some Fire and Wind eldrin power to remove an enchantment from the source item and transfer it to the projection rune where it can be re-applied to another item or discarded.  The enchantment chosen is random.",
+        "value": "This powerful workbench allows you to spend some experience and some Fire and 風の龍脈エネルギー to remove an enchantment from the source item and transfer it to the projection rune where it can be re-applied to another item or discarded.  The enchantment chosen is random.",
         "json": [
           {
             "text": "この強力な作業台は、すこしの経験値と"
@@ -13117,7 +13117,7 @@
       },
       {
         "type": "text",
-        "value": "The Affinity Tinker Table allows me to use a moderate amount of Eldrin Power (supplied by a conduit placed within range, about 6 blocks) to switch a spell placed within the table to a new affinity.  The Eldrin Power required matches the affinity I am attempting to change the spell to.  In the case of Lightning and Ice, it seems that Fire and Water Eldrin Power are required, respectively.\n\nThe benefit is that I may specialize my magic, using my own affinity to maximum benefit.\n\nOnce the process has started, I may remove the spell at any time, but I should do so with care, as any progress made towards shifting the affinity of the spell will be lost.  For best results, I should leave the spell in the table until the process has completed.",
+        "value": "The Affinity Tinker Table allows me to use a moderate amount of Eldrin Power (supplied by a conduit placed within range, about 6 blocks) to switch a spell placed within the table to a new affinity.  The Eldrin Power required matches the affinity I am attempting to change the spell to.  In the case of Lightning and Ice, it seems that Fire and 水の龍脈エネルギー are required, respectively.\n\nThe benefit is that I may specialize my magic, using my own affinity to maximum benefit.\n\nOnce the process has started, I may remove the spell at any time, but I should do so with care, as any progress made towards shifting the affinity of the spell will be lost.  For best results, I should leave the spell in the table until the process has completed.",
         "json": [
           {
             "text": "親和性調整台",
@@ -21788,7 +21788,7 @@
       },
       {
         "type": "text",
-        "value": "This aura will periodically drain my mana in order to apply an increase to my mining speed as well as to those around me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed.  It also likely won't work with any other aura, but should be compatible with most of the other enchantments.",
+        "value": "This aura will periodically drain my mana in orderを消費し範囲内の対象にincrease to my mining speed as well as to those around me.\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed.  It also likely won't work with any other aura, but should be compatible with most of the other enchantments.",
         "json": [
           {
             "text": "このオーラは定期的に自分のマナを吸収し、"
@@ -24624,7 +24624,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "滑空"
+        "value": "エリトラ飛行"
       },
       {
         "type": "text",
@@ -25930,34 +25930,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Haste"
+        "value": "パイロン： 移動速度上昇"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume trace amounts of "
+            "text": "このパイロンは、微量の"
           },
           {
-            "text": "Fire and Wind Eldrin Power",
+            "text": "火と風の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply a "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "movement speed boost effect",
+            "text": "移動速度上昇の効果",
             "color": "blue"
           },
           {
-            "text": " to targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": "で指定できます。 さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -25975,34 +25975,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Insight"
+        "value": "パイロン： 洞察"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume trace amounts of "
+            "text": "このパイロンは、微量の"
           },
           {
-            "text": "Arcane Eldrin Power",
+            "text": "神秘の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect showing damage numbers",
+            "text": "ダメージの数値を表示する効果",
             "color": "blue"
           },
           {
-            "text": " on targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": ". さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26020,34 +26020,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Leap"
+        "value": "パイロン： 跳躍"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume trace amounts of "
+            "text": "このパイロンは、微量の"
           },
           {
-            "text": "Wind Eldrin Power",
+            "text": "風の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect increasing jump height",
+            "text": "跳躍力上昇の効果",
             "color": "blue"
           },
           {
-            "text": " to targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": "で指定できます。 さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26065,34 +26065,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Slowfall"
+        "value": "パイロン： 低速落下"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume small amounts of "
+            "text": "このパイロンは、少量の"
           },
           {
-            "text": "Wind Eldrin Power",
+            "text": "風の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect that slows descent and prevents fall damage",
+            "text": "落下を遅くし落下ダメージを防ぐ効果",
             "color": "blue"
           },
           {
-            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": ". さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26110,34 +26110,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Spider Climbing"
+        "value": "パイロン： 蜘蛛の手足"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume small amounts of "
+            "text": "このパイロンは、少量の"
           },
           {
-            "text": "Ender Eldrin Power",
+            "text": "エンダーの龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect that lets targets climb walls like spiders",
+            "text": "蜘蛛のように壁を登れるようにする効果",
             "color": "blue"
           },
           {
-            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": ". さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26155,34 +26155,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Swift Swim"
+        "value": "パイロン： 高速水泳"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume small amounts of "
+            "text": "このパイロンは、少量の"
           },
           {
-            "text": "Water Eldrin Power",
+            "text": "水の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect that increases swim speed",
+            "text": "水泳速度を上昇する効果",
             "color": "blue"
           },
           {
-            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": ". さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26200,34 +26200,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Water Walking"
+        "value": "パイロン： 水上歩行"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume small amounts of "
+            "text": "このパイロンは、少量の"
           },
           {
-            "text": "Water Eldrin Power",
+            "text": "水の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect that allows walking on water",
+            "text": "水の上を歩けるようにする効果",
             "color": "blue"
           },
           {
-            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": ". さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26245,34 +26245,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Bind Wounds"
+        "value": "パイロン： 傷口縛り"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume moderate amounts of "
+            "text": "このパイロンは、中量の"
           },
           {
-            "text": "Water and Earth Eldrin Power",
+            "text": "水と土の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect that closes wounds while standing still",
+            "text": "静止している時に体力を回復する効果",
             "color": "blue"
           },
           {
-            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": ". さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26290,34 +26290,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Camouflage"
+        "value": "パイロン： カモフラージュ"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume small amounts of "
+            "text": "このパイロンは、少量の"
           },
           {
-            "text": "Water Eldrin Power",
+            "text": "水の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect that conceals target from detection while not moving or moving very slowly",
+            "text": "止まっているもしくは凄く遅く移動している場合に敵から見えなくする効果",
             "color": "blue"
           },
           {
-            "text": " within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": ". さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26335,34 +26335,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Flight"
+        "value": "パイロン： クリエイティブ飛行"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume vast amounts of "
+            "text": "このパイロンは、かなりの"
           },
           {
-            "text": "Wind and Earth Eldrin Power",
+            "text": "風と地の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect that allows fast controlled flight",
+            "text": "高速で精密な飛行を可能にする効果",
             "color": "blue"
           },
           {
-            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": "で指定できます。 さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26380,34 +26380,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Grow"
+        "value": "パイロン： 巨大化"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume large amounts of "
+            "text": "このパイロンは、多量の"
           },
           {
-            "text": "Ender Eldrin Power",
+            "text": "エンダーの龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect that causes targets to grow in size",
+            "text": "自身のサイズが大きくなる効果",
             "color": "blue"
           },
           {
-            "text": " within a configurable range.  Affected targets health, reach, step height, move speed, and jump height are all increased by this effect.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。 この効果は対象の体力、リーチ、ステップ高、移動速度、そして跳躍の高さを上昇させます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": ". さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26425,34 +26425,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Interdiction (Inbound)"
+        "value": "パイロン： 転移阻害(入)"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume small amounts of "
+            "text": "このパイロンは、少量の"
           },
           {
-            "text": "Ender Eldrin Power",
+            "text": "エンダーの龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to "
+            "text": "を消費して指定した半径の"
           },
           {
-            "text": "prevent inbound teleportation",
+            "text": "入ってくる転移を阻害",
             "color": "blue"
           },
           {
-            "text": " within a configurable range. Inbound means that the teleportation destination is inside of the configured bounds.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "します。 入ってくる転移とは、転移先の座標が指定した範囲内にある転移を指します。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": ". さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26470,34 +26470,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Interdiction (Outbound)"
+        "value": "パイロン： 転移阻害(出)"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume small amounts of "
+            "text": "このパイロンは、少量の"
           },
           {
-            "text": "Ender Eldrin Power",
+            "text": "エンダーの龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to "
+            "text": "を消費して指定した半径の"
           },
           {
-            "text": "prevent outbound teleportation",
+            "text": "外向きの転移を阻害",
             "color": "blue"
           },
           {
-            "text": " within a configurable range. Outbound means that the teleportation destination is outside of the configured bounds.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "します。外向きの転移とは転移先の座標が指定した半径の外にある転移を指します。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": ". さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26515,34 +26515,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Levitate"
+        "value": "パイロン： 空中浮遊"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume small amounts of "
+            "text": "このパイロンは、少量の"
           },
           {
-            "text": "Wind Eldrin Power",
+            "text": "風の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect allowing slow flight",
+            "text": "低速の飛行の効果",
             "color": "blue"
           },
           {
-            "text": " to targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n 範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": "で指定できます。さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26560,31 +26560,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Light"
+        "value": "パイロン： ライトアップ"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume small amounts of "
+            "text": "このパイロンは、少量の"
           },
           {
-            "text": "Arcane Eldrin Power",
+            "text": "神秘の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to "
+            "text": "を消費して"
           },
           {
-            "text": "slowly light up its affected area",
+            "text": "影響した範囲を少しずつ明るく",
             "color": "blue"
           },
           {
-            "text": ", a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "します。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking.",
+            "text": "目印のルーン",
             "color": "blue"
+          },
+          {
+            "text": "で指定されます。"
           }
         ]
       }
@@ -26602,30 +26605,30 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Freeze"
+        "value": "パイロン： 冷凍"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume small amounts of "
+            "text": "このパイロンは、少量の"
           },
           {
-            "text": "Air and Water Eldrin Power",
+            "text": "大気と水の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to "
+            "text": "を消費して指定した範囲内の"
           },
           {
-            "text": "slowly freeze standing water to ice and flowing water to snow",
+            "text": "水を氷に、流れている水を雪にします",
             "color": "blue"
           },
           {
-            "text": " in a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking.",
+            "text": "目印のルーン.",
             "color": "blue"
           }
         ]
@@ -26644,34 +26647,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Night Vision"
+        "value": "パイロン： 暗視"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume small amounts of "
+            "text": "このパイロンは、少量の"
           },
           {
-            "text": "Ender Eldrin Power",
+            "text": "エンダーの龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect allowing targets to see in the dark",
+            "text": "暗闇の中を見通せる効果",
             "color": "blue"
           },
           {
-            "text": " within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": "で指定できます。 さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26689,34 +26692,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Pilgrim's Path"
+        "value": "パイロン： 旅人の道"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume small amounts of "
+            "text": "このパイロンは、少量の"
           },
           {
-            "text": "Arcane, Fire, and Wind Eldrin Power",
+            "text": "神秘、火、そして風の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し指定した範囲内の対象に"
           },
           {
-            "text": "effect granting targets increased speed, step height, swim speed and jump height",
+            "text": "移動速度、ステップ高、水泳速度、そして跳躍を上昇する効果",
             "color": "blue"
           },
           {
-            "text": " within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": " を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": "で指定できます。 さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26734,34 +26737,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Recharging"
+        "value": "パイロン： リチャージ"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume large amounts of "
+            "text": "このパイロンは、多量の"
           },
           {
-            "text": "Arcane Eldrin Power",
+            "text": "神秘の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to "
+            "text": "を消費してインベントリ、もしくは装備している"
           },
           {
-            "text": "recharge items similar to pedestal charging",
+            "text": "アイテムをペデスタル充填のように充填",
             "color": "blue"
           },
           {
-            "text": " in the inventory or equipped on targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "します。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": "で指定できます。 さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26779,34 +26782,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Repair"
+        "value": "パイロン： 修繕"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume large amounts of "
+            "text": "このパイロンは、多量の"
           },
           {
-            "text": "Arcane, Earth, and Fire Eldrin Power",
+            "text": "神秘、土、そして火の神秘エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し指定した範囲内の対象に"
           },
           {
-            "text": "effect that repairs items",
+            "text": "インベントリと装備しているアイテムを修繕する効果",
             "color": "blue"
           },
           {
-            "text": " in targets' inventories within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": "で指定できます。 さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26824,34 +26827,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Shrink"
+        "value": "パイロン： 収縮"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume large amounts of "
+            "text": "このパイロンは、多量の"
           },
           {
-            "text": "Ender Eldrin Power",
+            "text": "エンダーの龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し指定した範囲内の対象に"
           },
           {
-            "text": "effect that causes targets to shrink in size",
+            "text": "自身のサイズを縮小させる効果",
             "color": "blue"
           },
           {
-            "text": " within a configurable range.  Affected targets maximum health is reduced significantly along with the size.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。 影響された対象の最大体力は、サイズとともに大きく減少します。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": "で指定できます。 さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26869,34 +26872,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Soar"
+        "value": "パイロン： エリトラ飛行"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume moderate amounts of "
+            "text": "このパイロンは、中量の"
           },
           {
-            "text": "Wind Eldrin Power",
+            "text": "風の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect that allows elytra-style flight",
+            "text": "エリトラのような飛行を可能にする効果",
             "color": "blue"
           },
           {
-            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": "で指定できます。 さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
@@ -26914,34 +26917,34 @@
     "sections": [
       {
         "type": "title",
-        "value": "Pylon: Water Breathing"
+        "value": "パイロン： 水中呼吸"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "This pylon will consume moderate amounts of "
+            "text": "このパイロンは、中量の"
           },
           {
-            "text": "Water Eldrin Power",
+            "text": "水の龍脈エネルギー",
             "color": "dark_purple"
           },
           {
-            "text": " to apply an "
+            "text": "を消費し範囲内の対象に"
           },
           {
-            "text": "effect that allows breathing underwater",
+            "text": "水中での呼吸を可能にする効果",
             "color": "blue"
           },
           {
-            "text": " to affected targets within a configurable range.\n\nThe range is either a radius centred on the pylon or can be specified by two "
+            "text": "を与えます。\n\n範囲はパイロンを中心とした半径か、二つの"
           },
           {
-            "text": "Runes of Marking",
+            "text": "目印のルーン",
             "color": "blue"
           },
           {
-            "text": ". It can also be toggled to only affect factions that are allied with my own."
+            "text": "で指定できます。 さらに、自分と同盟を組んでいる派閥にのみ効果を与えるように切り替える事ができます。"
           }
         ]
       }
