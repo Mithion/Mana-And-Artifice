@@ -15039,58 +15039,58 @@
     "sections": [
       {
         "type": "title",
-        "value": "Bone Scythe"
+        "value": "骨の大鎌"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "The Bone Scythe is a "
+            "text": "骨の大鎌は、"
           },
           {
-            "text": "hybrid between a staff and a sword",
+            "text": "杖と剣の中間で",
             "color": "dark_purple"
           },
           {
-            "text": ", capable of making "
+            "text": "、"
           },
           {
-            "text": "sweep attacks",
+            "text": "薙ぎ払い攻撃ができ",
             "color": "blue"
           },
           {
-            "text": ", and applying a "
+            "text": "、 "
           },
           {
-            "text": "sweeping edge enchant",
+            "text": "範囲ダメージ増加",
             "color": "blue"
           },
           {
-            "text": ".\n\nIt uses "
+            "text": "の効果が与えれられます。\n\nこれは"
           },
           {
-            "text": "sharpness instead of bludgeoning",
+            "text": "殴打の代わりにダメージ増加を使います",
             "color": "blue"
           },
           {
-            "text": ".  \n\nIt counts as a sword for the "
+            "text": "。  \n\n"
           },
           {
-            "text": "Amulet of the Battlemage",
+            "text": "魔法戦士のアミュレット",
             "color": "blue"
           },
           {
-            "text": ", and can also have a spell put on it like any other staff.  If it doesn't have a spell, it can be used to block, like a sword."
+            "text": "からは剣として扱われ、他の杖のように呪文を入れられます。呪文が挿入されていない場合、剣のようにブロックに使用できます。"
           },
           {
-            "text": "\n\nThis scythe can only be crafted by those who have allied themselves to the "
+            "text": "\n\nこの大鎌は、"
           },
           {
-            "text": "Undead",
+            "text": "不死者",
             "color": "dark_gray"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
@@ -15108,28 +15108,28 @@
     "sections": [
       {
         "type": "title",
-        "value": "Staff of the Woodlands"
+        "value": "樹海の大杖"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "The Staff of the Woodlands can have enchantments and spells put on it like any other staff, however when an enemy is struck in melee by this staff, a woodland creature will come to your aid for a few seconds, attacking that target.\n\n"
+            "text": "樹海の大杖は他の杖のように呪文やエンチャントを付与する事ができますが、さらにこの杖で敵に近接攻撃を行うと樹海の生物が数秒間現れ、対象を攻撃してくれます。\n\n"
           },
           {
-            "text": "This can fail if there is not enough space or a spawn location cannot be found.",
+            "text": "これは、呼び出す場所が見つからないか空間が足りない場合に失敗する可能性があります。",
             "italic": true,
             "color": "dark_gray"
           },
           {
-            "text": "\n\nThis staff can only be crafted by those who have allied themselves to the "
+            "text": "\n\nこの杖は、"
           },
           {
-            "text": "Fey Courts",
+            "text": "妖精の宮廷",
             "color": "dark_green"
           },
           {
-            "text": "."
+            "text": "に所属している者のみ作成できます。"
           }
         ]
       }
