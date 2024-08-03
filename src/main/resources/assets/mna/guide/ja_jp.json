@@ -4887,7 +4887,7 @@
             "text": "この儀式は、"
           },
           {
-            "text": "プレイヤーの御守り",
+            "text": "プレイヤーの御守りか目印のルーン",
             "color": "blue"
           },
           {
@@ -4912,14 +4912,14 @@
             "color": "blue"
           },
           {
-            "text": "が両方とも儀式に追加された場合、ポータルは代わりに"
+            "text": "が両方儀式に追加された場合、ポータルは代わりに"
           },
           {
             "text": "そのプレイヤーの最後の死亡地点を対象",
             "color": "dark_purple"
           },
           {
-            "text": "にします。"
+            "text": "にし、そうでなければ目印のルーンの座標を対象にします。。"
           }
         ]
       }
@@ -11014,7 +11014,7 @@
             "text": "のクリスタルは、かまどがアイテムを修復するようにしますが、通常の製錬はできなくなります。\n\n"
           },
           {
-            "text": "紫、桃、青紫色",
+            "text": "紫、桃、赤紫色",
             "color": "dark_purple"
           },
           {
@@ -12049,27 +12049,27 @@
       }
     ]
   },
-  "Transmuted Silver": {
+  "Quicksilver": {
     "index": -1,
     "category": "artifice",
     "sections": [
       {
         "type": "title",
-        "value": "変異銀"
+        "value": "クイックシルバー"
       },
       {
         "type": "text",
         "value": "While the cantrip for transmuted silver is useful, I need to have a way to make it more quickly and easily.  The recipes here show how.",
         "json": [
           {
-            "text": "変異銀を作成するための"
+            "text": "クイックシルバーを作成するための"
           },
           {
-            "text": "まじな",
+            "text": "まじない",
             "color": "blue"
           },
           {
-            "text": "いは便利ですが、もっと楽に素早く作成する手段が必要です。\n\nレシピにその手段が載っています。"
+            "text": "は便利ですが、もっと楽に素早く作成する手段が必要です。\n\nレシピにその手段が載っています。"
           }
         ]
       }

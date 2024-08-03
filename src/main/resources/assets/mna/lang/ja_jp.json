@@ -61,7 +61,7 @@
 	"item.mna.spell_part_thesis": "魔術の論文",
 	"item.mna.spell_part_thesis.empty": "論文が未完成である。",
 	"item.mna.spell_part_thesis.contains": "に関する詳しい文章が掲載されているようです。",
-	"item.mna.transmuted_silver": "変異銀",
+	"item.mna.transmuted_silver": "クイックシルバー",
 
 	"item.mna.break_ring_lesser": "破壊の指輪 (下位)",
 	"item.mna.break_ring_greater": "破壊の指輪 (上位)",
@@ -1368,7 +1368,7 @@
 	"gui.mna.codex_search.recipe.spell_part": "[スペルの呪文レシピ] > ",
 	"gui.mna.codex_search.recipe.eldrin_altar": "[龍脈儀式のレシピ] > ",
 	"gui.mna.codex_search.recipe.multiblock": "[マルチブロック] > ",
-	"gui.mna.codex_search.recipe.transmutation": "[変異銀] > ",
+	"gui.mna.codex_search.recipe.transmutation": "[クイックシルバー] > ",
 
 	
 	"event.mna.fey_ritual_no_decider": "利用しているデータパックにエラーがあります。 妖精の儀式は、夏/冬の花を組み込むことでmodがどっちの季節に適応するか選択します。   mna:items/ritual/fey_flowers を儀式のレシピに最低一つ含んでください。",
