@@ -3083,7 +3083,7 @@
             "text": "は、"
           },
           {
-            "text": "氷渡り‘",
+            "text": "氷渡り",
             "color": "dark_gray"
           },
           {
@@ -6852,7 +6852,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "形： 魔術の剣"
+        "value": "形：魔術の剣"
       },
       {
         "type": "text",
@@ -7951,7 +7951,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "空中浮遊"
+        "value": "空中浮遊(低速飛行)"
       },
       {
         "type": "text",
@@ -20865,7 +20865,7 @@
             "text": "。\n\nさらに"
           },
           {
-            "text": "空中浮遊",
+            "text": "空中浮遊（低速飛行）",
             "color": "dark_purple"
           },
           {
@@ -26515,7 +26515,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "パイロン： 空中浮遊"
+        "value": "パイロン： 空中浮遊（低速飛行）"
       },
       {
         "type": "text",
