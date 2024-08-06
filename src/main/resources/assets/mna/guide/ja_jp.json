@@ -2218,14 +2218,14 @@
       },
       {
         "type": "title",
-        "value": "術式刻印台"
+        "value": "転写台"
       },
       {
         "type": "text",
         "value": "The Inscription Table will accept paper, ink, and arcane ash from any horizontal side.  It will allow extraction of items from all horizontal sides, and spell recipes from the top/bottom, as long as it isn't currently processing.",
         "json": [
           {
-            "text": "術式刻印台",
+            "text": "転写台",
             "color": "blue"
           },
           {
@@ -2244,7 +2244,7 @@
         "type": "title",
         "value": "勉強机"
       },
-      {
+      { 
         "type": "text",
         "value": "The Study Desk will accept Torn Journal Fragments and Arcane Theses from any side.  The same goes for extraction, as long as it isn't currently processing.",
         "json": [
@@ -4474,13 +4474,13 @@
       },
       {
         "type": "text",
-        "value": "この儀式は呪文の作成に使用されます。まず、術式刻印台にて、羊皮紙に呪文を書き込む必要があります。",
+        "value": "この儀式は呪文の作成に使用されます。まず、転写台にて、羊皮紙に呪文を書き込む必要があります。",
         "json": [
           {
             "text": "この儀式は呪文の作成に使用されます。\n\nまず、"
           },
           {
-            "text": "術式刻印台",
+            "text": "転写台",
             "color": "blue"
           },
           {
@@ -6595,7 +6595,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "暗記の書で利用でき、追加する必要はないです。\n\n 暗記は、術式刻印台で作成した呪文よりも多くの部品とモディファイヤを追加できます。\n\n暗記の書で呪文を作成する際は、記憶した呪文を示しているだけなので、素材もクラフトも必要ありません。"
+            "text": "暗記の書で利用でき、追加する必要はないです。\n\n 暗記は、転写台で作成した呪文よりも多くの部品とモディファイヤを追加できます。\n\n暗記の書で呪文を作成する際は、記憶した呪文を示しているだけなので、素材もクラフトも必要ありません。"
           },
           {
             "text": "必要になってらいつでも呪文を作成できます。",
@@ -12819,7 +12819,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "術式刻印台"
+        "value": "転写台"
       },
       {
         "type": "text",
@@ -25586,7 +25586,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "。"
+            "text": "。\n\nそして体力がサイズに応じて上昇します。"
           }
         ]
       }
@@ -25625,7 +25625,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "になります。\n\n妖精の魔術師がこの呪文を詠唱した場合、持続時間が永続になり、もう一度詠唱する事でオフになります。"
+            "text": "になります。\n\nそして体力がサイズに応じて低下します。\n\n妖精の魔術師がこの呪文を詠唱した場合、持続時間が永続になり、もう一度詠唱する事でオフになります。"
           }
         ]
       }
