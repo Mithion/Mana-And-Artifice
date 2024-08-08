@@ -694,7 +694,7 @@
 	"block.mna.magicians_workbench": "Верстак Мага",
 	"block.mna.magicians_workbench.lock_prompt": "Нажмите правой кнопкой мыши, чтобы заблокировать/разблокировать",
 
-	"block.mna.lodestar": "Путеводная Зведа",
+	"block.mna.lodestar": "Путеводитель",
 	"block.mna.lodestar.logic_copied": "Логический поток скопирован!",
 	"block.mna.lodestar.logic_restored": "Логический поток восстановлен!",
 	"block.mna.particle_emitter.data_copied": "Настройки частиц скопированы!",
@@ -1120,7 +1120,7 @@
 	"gui.mna.construct.adventure": "Этот конструкт может отправиться на приключения.",
 	"gui.mna.construct.fish": "Этот конструкт способен ловить рыбу.",
 
-	"construct.mna:lodestar": "Выполнить другую звезду",
+	"construct.mna:lodestar": "Выполнить Другой Путиводитель",
 	"construct.mna:take_item": "Взять предмет из контейнера",
 	"construct.mna:place_item": "Поместить предмет в контейнер",
 	"construct.mna:runescribe": "Руна писца",
@@ -2268,8 +2268,8 @@
 	"mna.constructs.feedback.water_crops_success": "Я поливал начальника посевов. Выпейте маленькие растения!",
 	"mna.constructs.feedback.capability_missing": "Мне нужно иметь возможность %s, чтобы помочь вам с этим, извините, босс.",
 	"mna.constructs.feedback.low_intelligence": "Я стараюсь изо всех сил, но эта задача немного выше моих возможностей... если вы переделаете меня, чтобы я стал умнее, я был бы рад помочь!",
-	"mna.constructs.feedback.confused": "С этим Lodestar сложно справиться, я запутался... Я просто начну сначала.",
-	"mna.constructs.feedback.sub_command_null": "Эта команда Lodestar (индекс %d), кажется, не существует... Я думаю, это может быть ошибка. Я ее пропускаю.",
+	"mna.constructs.feedback.confused": "С этим Путеводителем сложно справиться, я запутался... Я просто начну сначала.",
+	"mna.constructs.feedback.sub_command_null": "Эта команда Путеводителя (индекс %d), кажется, не существует... Я думаю, это может быть ошибка. Я ее пропускаю.",
 	"mna.constructs.feedback.move_block_fail": "Я не могу понять, как добраться до %.2f, %.2f, %.2f",
 	"mna.constructs.feedback.move_block_success": "На пути к %.2f, %.2f, %.2f",
 	"mna.constructs.feedback.move_entity_fail": "Я не могу понять, как добраться до %s",
