@@ -7609,7 +7609,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "雷ダメージ"
+        "value": "電気ダメージ"
       },
       {
         "type": "text",
@@ -8328,7 +8328,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "エルドリン飛行"
+        "value": "龍脈飛行"
       },
       {
         "type": "text",
@@ -15661,7 +15661,7 @@
         "value": "Gold constructs are very similar to iron constructs, with a little more knockback resistance at the expense of health. Gold constructs unlock at Tier 3.  Gold Constructs tend to specialize in spell casting tasks.",
         "json": [
           {
-            "text": "金製のコンストrラクトは、",
+            "text": "金製のコンストラクトは、",
             "color": "blue"
           },
           {

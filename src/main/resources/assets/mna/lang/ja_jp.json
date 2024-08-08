@@ -1656,7 +1656,7 @@
 	"mna:components/magic_damage": "魔法ダメージ",
 	"mna:components/magic_damage.desc.delay": "この部品を適応するまでの遅延。  i-フレームを回避するのに便利です。",
 	"mna:components/magic_damage.desc.damage": "対象へのダメージ。",
-	"mna:components/lightning_damage": "雷ダメージ",
+	"mna:components/lightning_damage": "電気ダメージ",
 	"mna:components/lightning_damage.desc.delay": "この部品を適応するまでの遅延",
 	"mna:components/lightning_damage.desc.damage": "対象へのダメージ。",
 	"mna:components/lightning_damage.desc.lesser_magnitude": "ポイントにつき、10%の確率で横のモブにも攻撃があたります。 失敗するまで、一回あたる度に、失敗するまで確率を50％下げます。同じ詠唱で同じモブが二度あたることはないです。",
