@@ -881,7 +881,7 @@
 	"enchantment.mna.gilded.desc": "これを適用することで金装備の振りをすることができ、ピグリンを中立にします。",
 	"enchantment.mna.xp_to_souls": "経験魂",
 	"enchantment.mna.xp_to_souls.desc": "回収した経験値のいくらかを魂に変換します。",
-	"enchantment.mna.soulbound": "魂縛",
+	"enchantment.mna.soulbound": "ソウルバインド",
 	"enchantment.mna.soulbound.desc": "エンチャントされたアイテムが、死亡時にプレイヤーと一緒にリスポーンするようになります。",
 	"enchantment.mna.fireproof": "耐火",
 	"enchantment.mna.fireproof.desc": "エンチャントされたアイテムが炎やマグマで消失しなくなります。",
@@ -961,7 +961,7 @@
 
 	"effect.mna.life_tap": "ライフタップ",
 	"effect.mna.lift": "リフト",
-	"effect.mna.living_bomb": "生きている爆弾",
+	"effect.mna.living_bomb": "生きた爆弾",
 	"effect.mna.mana_burn": "マナ焼け",
 	"effect.mna.greater_invisibility": "上位の道",
 	"effect.mna.pilgrim": "旅人の道",
