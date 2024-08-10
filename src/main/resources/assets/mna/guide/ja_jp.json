@@ -5466,7 +5466,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "冷暗の儀式"
+        "value": "冷たい暗闇の儀式"
       },
       {
         "type": "text",
@@ -12998,10 +12998,10 @@
             "color": "blue"
           },
           {
-            "text": "は特定の呪"
+            "text": "は特定の"
           },
           {
-            "text": "文の部品の暗記した知識を紙に載せる事で、他の人も学んで暗記できる",
+            "text": "呪文の部品の暗記した知識を紙に載せる事で、他の人も学んで暗記できる",
             "color": "dark_purple"
           },
           {
@@ -13877,10 +13877,10 @@
         "value": "This ring, when worn, allows me to cast more movement spells (such as Blink or Fling) while I am airborne before I need to touch the ground again.\n\nIt seems to give one additional cast out the gate, plus an additional one for each tier of power I have attained.\n\nIt also seems to specifically augment Fling, allowing it to safely move me without fear of smashing into walls (though falling still can be perilous), and it seems to make the flinging effect stronger.",
         "json": [
           {
-            "text": "この指輪は、装備した場合、"
+            "text": "この指輪は装備した場合、"
           },
           {
-            "text": "空中にいる際に、地上に立つ必要になるまでにより多くの移動呪文を詠唱することが可能になります",
+            "text": "\n\n空中でより多くの移動呪文を詠唱することが可能になります",
             "color": "dark_purple"
           },
           {
@@ -14072,7 +14072,7 @@
         "value": "This amulet, when worn, will increase the damage of my spells cast by 15% while I have a sword in the other hand.\n\nBecause even wizards need to multiclass.",
         "json": [
           {
-            "text": "このアミュレットは、装備することで、"
+            "text": "このアミュレットは、装備することで、\n\n"
           },
           {
             "text": "反対の手に剣を持っている",
@@ -14086,7 +14086,7 @@
             "color": "dark_purple"
           },
           {
-            "text": "し、自分の"
+            "text": "し、\n\n自分の"
           },
           {
             "text": "マナ残量が少ないほど剣のダメージを増加",
@@ -14250,14 +14250,14 @@
         "value": "This amulet, when worn, will teleport nearby creepers that are about to explode away from me as long as it has charge remaining.  Hopefully they don't teleport near something else that's friendly.",
         "json": [
           {
-            "text": "`このアミュレットは、装備した場合、"
+            "text": "このアミュレットは装備された場合、"
           },
           {
             "text": "爆発寸前のクリーパーを自分のそばから離れた場所に転移",
             "color": "dark_purple"
           },
           {
-            "text": "させます。\n\nこれの魔法は有限で、再充填する必要があります。"
+            "text": "させます。\n\nこれの魔法は有限で、再充填する必要があります。\n\n"
           },
           {
             "text": "マナクリスタルの欠片",
@@ -14569,7 +14569,7 @@
     "sections": [
       {
         "type": "title",
-        "value": "記憶の欠片"
+        "value": "思い出の結晶"
       },
       {
         "type": "text",
@@ -20079,7 +20079,7 @@
             "text": "のように、六つの原始的な力が世界に流れています: "
           },
           {
-            "text": "魔法、エンダー、大地、風、そして水",
+            "text": "神秘、エンダー、大地、風、そして水",
             "color": "blue"
           },
           {
@@ -20466,7 +20466,7 @@
             "text": "が、以下のバイオームで、特定の龍穴が見つかりやすいです:\n\n"
           },
           {
-            "text": "魔法",
+            "text": "神秘",
             "color": "blue"
           },
           {
