@@ -125,7 +125,7 @@
 	"item.mna.chargeable.rightClickCharge": "または右クリック長押しで充電",
 	"item.mna.chimerite_gem": "キメライトの宝石",
 	"item.mna.component_pouch": "コンポーネント巾着",
-	"item.mna.crystal_phylactery": "結晶聖箱",
+	"item.mna.crystal_phylactery": "結晶聖櫃",
 	"item.mna.crystal_phylactery.tooltip": "%s (%d/%d)のエッセンス",
 	"item.mna.crystal_phylactery.empty": "空",
 
@@ -717,8 +717,8 @@
 
 	"block.mna.illusion_block": "幻ブロック",
 	"block.mna.seer_stone": "千里石",
-	"block.mna.seer_stone.whitelist": "ホワイトリストを決めるアイテム。  任意。プレイヤーの御守りと/もしくは結晶の聖箱。",
-	"block.mna.seer_stone.blacklist": "ブラックリストを決めるアイテム。  任意。プレイヤーの御守りと/もしく結晶の聖箱。",
+	"block.mna.seer_stone.whitelist": "ホワイトリストを決めるアイテム。  任意。プレイヤーの御守りと/もしくは結晶の聖櫃。",
+	"block.mna.seer_stone.blacklist": "ブラックリストを決めるアイテム。  任意。プレイヤーの御守りと/もしく結晶の聖櫃。",
 	"block.mna.seer_stone.area": "探知範囲の定義。任意。 最低一つの範囲の隅は千里石の32ブロック以内にある必用があります。",
 	
 	"block.mna.magicians_workbench": "魔術師の作業台",
@@ -750,7 +750,7 @@
 	"block.mna.particle_emitter.data_copied": "パーティクル設定をコピーしました!",
 	"block.mna.particle_emitter.data_restored": "パーティクル設定を復元しました!",
 	
-	"block.mna.redstone_trigger": "呪文レッドストーン検知",
+	"block.mna.redstone_trigger": "呪文レッドストーン検出器",
 	"block.mna.ritual_teleport_location": "儀式転移の座標",
 	"block.mna.runic_anvil": "ルーン金床",
 	"block.mna.runic_anvil.low_tier": "まだ知識と経験が足りていないようだ。",
@@ -992,7 +992,7 @@
 
 	"effect.mna.soaked": "ずぶ濡れ",
 	"effect.mna.sunder": "鎧低下",
-	"effect.mna.frailty": "衰え",
+	"effect.mna.frailty": "劣化",
 	"effect.mna.disjunction": "エンチャント低下",
 	"effect.mna.telekinesis": "念力",
 	"effect.mna.water_walking": "水上歩行",
@@ -1306,7 +1306,7 @@
 	
 	"gui.mna.parameter.time_of_day.time_min": "一日のうちの下側の時間帯",
 	"gui.mna.parameter.time_of_day.time_max": "一日のうちの上側の時間帯。",
-	"gui.mna.parameter.find_entity.filter": "任意の量の魂が入った聖箱。  どれを探すか決めます。",
+	"gui.mna.parameter.find_entity.filter": "任意の量の魂が入った聖櫃。  どれを探すか決めます。",
 	"gui.mna.parameter.find_entity.area": "どこでエンティテを探します？",
 	"gui.mna.parameter.has_item.filter": "探すアイテムのフィルター",
 	"gui.mna.parameter.container_empty.pos": "空の場合どの容器を探す?",
@@ -1607,7 +1607,7 @@
 	"mna:shapes/summon.desc.duration": "召喚の持続時間。",
 	"mna:shapes/summon.desc.range": "召喚できる距離。",
 	"mna:shapes/summon.desc.magnitude": "最大体力に応じた、召喚対象の強さを変更します。一ポイントにつきハート２０追加されます。",
-	"mna:shapes/summon.nophylactery": "この呪文を使用するには、左手に充填された結晶の聖箱が必要です。",
+	"mna:shapes/summon.nophylactery": "この呪文を使用するには、左手に充填された結晶の聖櫃が必要です。",
 	"mna:shapes/summon.blacklisted": "この召喚は設定によって無効にされています。",
 	"mna:shapes/wrath": "流星群",
 	"mna:shapes/wrath.desc.duration": "自動で流星群が終了するまでに、詠唱し続けられる時間。",
