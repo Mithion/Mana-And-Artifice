@@ -484,7 +484,7 @@
         "type": "text",
         "json": [
           {
-            "text": "I am not alone in my quest for magic.  In villages throughout the world I have seen other practitioners peddling their wares.  Each one seems to specialize in different facets of magic, from general magic, to weaving magic into the air, to smithing powerful runes to enchant gear.\n\nIn terms of currency, I have seen them ask for Transmuted Silver, so I should stock up on that before making the journey to trade. \n\nI'm certain I can complete my studies without their help if I needed to though."
+            "text": "I am not alone in my quest for magic.  In villages throughout the world I have seen other practitioners peddling their wares.  Each one seems to specialize in different facets of magic, from general magic, to weaving magic into the air, to smithing powerful runes to enchant gear.\n\nIn terms of currency, I have seen them ask for Quicksilver, so I should stock up on that before making the journey to trade. \n\nI'm certain I can complete my studies without their help if I needed to though."
           }
         ]
       },
@@ -994,7 +994,7 @@
       },
       {
         "type": "text",
-        "value": "- Transmuted Silver is transmuted from Copper Blocks."
+        "value": "- Quicksilver is transmuted from Copper Blocks."
       },
       {
         "type": "text",
@@ -3470,7 +3470,21 @@
             "color": "blue"
           },
           {
-            "text": ". \n\nTo use it, I need to place all items needed for the ritual inside the pouch. Activating the pouch on a sufficiently sized, empty flat space will instantly place and activate the ritual. Items will be consumed from the pouch.\n\n"
+            "text": ". \n\nTo use it, I need to place all items needed for the ritual inside the pouch. Activating the pouch on a sufficiently sized, empty flat space will instantly place and activate the ritual. Items will be consumed from the pouch.\n\nThe pouch is capable of placing rituals on "
+          },
+          {
+            "text": "Metal Ritual Runes",
+            "color": "blue"
+          },
+          {
+            "text": ", though it will not place/collect the runes.  If the metal runes on the ground match the current ritual stored in the pouch and every rune is empty, then it will place the reagents down and activate the ritual quickly.  If it's a different ritual, then only the "
+          },
+          {
+            "text": "Purified Vinteum Dust",
+            "color": "blue"
+          },
+          {
+            "text": " will be consumed, pre-activating the ritual and waiting for the reagents to be added.\n\n"
           },
           {
             "text": "To bind the pouch to a specific ritual pattern, sneak while activating the center of a ritual. Hold the GUI key (default left Ctrl) and right click the pouch to open it.  Practitioner's Pouches can store multiple rituals. Select a slot before binding or placing using the UI key (default 'z') and the radial menu.",
@@ -4759,18 +4773,18 @@
             "text": "This ritual will use a "
           },
           {
-            "text": "Player Charm",
+            "text": "Player Charm or Rune of Marking",
             "color": "blue"
           },
           {
-            "text": " to open a portal at the center of the ritual.\n\nThe portal will teleport any who step through to the location the player was at "
+            "text": " to open a portal at the center of the ritual.\n\nThe portal will teleport any who step through to the location indicated by the player charm or the Rune of Marking "
           },
           {
             "text": "when the ritual was completed.  ",
             "color": "dark_purple"
           },
           {
-            "text": "If the target player is in a different dimension, a "
+            "text": "If the target position is in a different dimension, a "
           },
           {
             "text": "World Charm ",
@@ -4789,6 +4803,9 @@
           {
             "text": "target of the player's last death.",
             "color": "dark_purple"
+          },
+          {
+            "text": "\n\nThis death teleport effect will be ignored if a Rune of Marking is used to target the portal."
           }
         ]
       }
@@ -8678,7 +8695,7 @@
         "type": "text",
         "json": [
           {
-            "text": "I can use arcane magic of to "
+            "text": "I can use arcane magic to "
           },
           {
             "text": "bind a creature within a diamond",
@@ -11080,7 +11097,7 @@
             "text": " is used to mark a location, and is used to target certain rituals and spells. \n\n"
           },
           {
-            "text": "Using the rune on a given block will store the block's coordinates within the rune.",
+            "text": "Using the rune on a given block will store the block's coordinates and direction within the rune.",
             "italic": true
           }
         ]
@@ -11095,7 +11112,11 @@
       },
       {
         "type": "text",
-        "value": "A rune of marking can be placed into a crafting grid to clear its marked position, allowing it to stack again."
+        "value": "Runes of marking can be dyed.  The dyed color can be cleared by washing the rune in a cauldron of water."
+      },
+      {
+        "type": "text",
+        "value": "A rune of marking can be placed into a crafting grid to clear its marked position, allowing it to stack again.  Clearing the marked position in this way will not clear the dye color (although the crafting grid preview will not show this)."
       }
     ],
     "related_recipes": [
@@ -11106,6 +11127,10 @@
       {
         "type": "runesmithing",
         "location": "mna:runeforging/runeforge_marking"
+      },
+      {
+      	"type": "crafting",
+      	"location": "mna:rune_marking_pair"
       }
     ]
   },
@@ -11384,10 +11409,6 @@
       {
         "type": "manaweaving_altar",
         "location": "mna:manaweaving/mana_crystal_fragment"
-      },
-      {
-        "type": "manaweaving_altar",
-        "location": "mna:manaweaving/mana_crystal"
       },
       {
         "type": "crafting",
@@ -11689,13 +11710,13 @@
       }
     ]
   },
-  "Transmuted Silver": {
+  "Quicksilver": {
     "index": -1,
     "category": "artifice",
     "sections": [
       {
         "type": "title",
-        "value": "Transmuted Silver"
+        "value": "Quicksilver"
       },
       {
         "type": "text",
@@ -11708,7 +11729,7 @@
             "color": "blue"
           },
           {
-            "text": " for transmuted silver is useful, I need to have a way to make it more quickly and easily. The recipes here show how."
+            "text": " for Quicksilver is useful, I need to have a way to make it more quickly and easily. The recipes here show how."
           }
         ]
       }
@@ -14652,7 +14673,7 @@
             "color": "blue"
           },
           {
-            "text": ", and can also have a spell put on it like any other staff.  If it doesn't have a spell, it can be used to block, like a sword."
+            "text": ", and can also have a spell put on it like any other staff."
           },
           {
            "text": "\n\nThis scythe can only be crafted by those who have allied themselves to the "
@@ -15716,6 +15737,79 @@
       }
     ]
   },
+  "Targeting Construct Tasks": {
+  	"index": "-97",
+    "category": "constructs",
+    "sections": [
+    	{
+        "type": "title",
+        "value": "Targeting Construct Tasks"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "When making construct tasks, you'll often need to tell them what to target, be it a block, a whole range of blocks, or entities (mobs) within an area.\n\nFor a single point, this can be done using a "
+          },
+          {
+            "text": "Rune of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ".  To set its location and direction, hold the rune of marking in your hand and "
+          },
+          {
+            "text": "right click on the block you want to mark",
+            "color": "dark_purple"
+          },
+          {
+            "text": ".  The arrow shows what side the construct will try to interact with the block from, and is based on the side of the block you clicked on.\n\nFor a range, this can be done in two ways.  The first way is to use two runes of marking and mark the opposite corners of the bounds you wish to use "
+          },
+          {
+            "text": "(remember, you can hold one rune in each hand to visualize the area)",
+            "italic": true,
+            "color": "dark_gray"
+          },
+          {
+            "text": ".\n\nThe second way is to use a "
+          },
+          {
+            "text": "Marking Rune Pair",
+            "color": "blue"
+          },
+          {
+            "text": ".  This allows you to set an area with a single click.  Right clicking on a block with a Marking Rune Pair will "
+          },
+          {
+            "text": "search a 9x9 area centered on the block that was clicked.  The bounding box that will be set will be one containing all blocks that are the same block as the one clicked on within the search area",
+            "color": "dark_purple"
+          },
+          {
+            "text": ".  For instance, all wheat blocks, or all chests, all oak logs, etc.  Tags are not searched.\n\nThe area can then be modified by opening the Marking Rune Pair's GUI, allowing you to fine-tune the x/y/z sizes to your liking.  The GUI is opened by holding the M&A GUI hotkey and right clicking with the rune, similar to a Practitioner's Pouch or Spell Book.\n\n"
+          },
+          {
+            "text": "Marking Rune Pairs, when used on a lodestar parameter that takes 2 marking runes will set both corners of the area.",
+            "color": "dark_purple"
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "runescribing",
+        "location": "mna:runescribing/runescribe_marking"
+      },
+      {
+        "type": "runesmithing",
+        "location": "mna:runeforging/runeforge_marking"
+      },
+      {
+        "type": "crafting",
+        "location": "mna:rune_of_marking_pair"
+      }
+   	]
+  },
   "Commanding Constructs": {
     "index": "-96",
     "category": "constructs",
@@ -15751,7 +15845,23 @@
             "color": "blue"
           },
           {
-            "text": " Causes the construct to follow me. Constructs capable of attacking will defend me while on follow mode.  "
+            "text": " Causes the construct to follow me. Constructs will not defend me while on follow mode.  "
+          },
+          {
+            "text": "I need to target a construct to issue this command.",
+            "color": "dark_purple"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "Guard:",
+            "color": "blue"
+          },
+          {
+            "text": " Causes the construct to follow and guard me. Constructs capable of attacking enemies will defend me while on guard mode, and constructs that are smart enough will attempt to use beneficial effects on me (water spray to douse flame, milk spray to dispel effects, etc).  "
           },
           {
             "text": "I need to target a construct to issue this command.",
@@ -16493,6 +16603,66 @@
           },
           {
             "text": "."
+          }
+        ]
+      }
+    ]
+  },
+  "Command: Sort Items": {
+    "index": 4,
+    "category": "constructs",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Command: Sort Items"
+      },
+      {
+        "type": "text",
+        "json": [
+          {
+            "text": "This command will cause the construct to "
+          },
+          {
+            "text": "sort all held items and inventory items into the marked containers",
+            "color": "dark_purple"
+          },
+          {
+            "text": ", from the "
+          },
+          {
+            "text": "given side",
+            "color": "dark_purple"
+          },
+          {
+            "text": " marked by the "
+          },
+          {
+            "text": "Rune of Marking",
+            "color": "blue"
+          },
+          {
+            "text": ".  The construct will search the containers in the order they are listed, from top to bottom.\n\n"
+          },
+          {
+            "text": "Only items that already exist in the given chests will be sorted.",
+            "color": "dark_purple"
+          },
+          {
+            "text": "\n\nThis task will return "
+          },
+          {
+            "text": "success",
+            "color": "green"
+          },
+          {
+            "text": " if the construct's inventory is emptied after sorting, and will return "
+          },
+          {
+            "text": "failure",
+            "color": "red"
+          },
+          {
+            "text": " if there are items left over in the construct's inventory, meaning that they weren't able to be sorted."
           }
         ]
       }
@@ -17867,7 +18037,11 @@
           },
           {
             "text": "if it does not."
-          }
+          },
+          {
+            "text": "\n\nOmitting the filter will check for any items in the construct's inventory.",
+            "color": "dark_purple"
+          }          
         ]
       }
     ]
@@ -18030,7 +18204,11 @@
           },
           {
             "text": "if it does not."
-          }
+          },
+          {
+            "text": "\n\nOmitting the filter will check for any items in the target container.",
+            "color": "dark_purple"
+          }   
         ]
       }
     ]
@@ -21237,14 +21415,7 @@
             "color": "dark_purple"
           },
           {
-            "text": ". \n\nIt will not apply if I already have the "
-          },
-          {
-            "text": "Haste",
-            "color": "blue"
-          },
-          {
-            "text": " buff. \n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
+            "text": " .\n\nDue to it being a particularly complicated magical construction, I can only place it on chest armor as it has enough space for all the rune work needed. It also likely won't work with any other aura, but should be compatible with most of the other enchantments."
           }
         ]
       }
@@ -23173,10 +23344,6 @@
       {
         "type": "runesmithing",
         "location": "mna:runeforging/runeforge_charm_base"
-      },
-      {
-        "type": "manaweaving_altar",
-        "location": "mna:manaweaving/artifice/contingent_charm_damage"
       },
       {
         "type": "manaweaving_altar",
@@ -26017,8 +26184,8 @@
     ],
     "related_recipes": [
       {
-        "type": "eldrin_altar",
-        "location": "mna:eldrin_altar/pylon/light"
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/pylon/light"
       }
     ]
   },
@@ -26059,8 +26226,8 @@
     ],
     "related_recipes": [
       {
-        "type": "eldrin_altar",
-        "location": "mna:eldrin_altar/pylon/freeze"
+        "type": "manaweaving_altar",
+        "location": "mna:manaweaving/pylon/freeze"
       }
     ]
   },
