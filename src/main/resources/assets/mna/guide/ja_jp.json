@@ -2202,14 +2202,14 @@
       },
       {
         "type": "title",
-        "value": "転写台"
+        "value": "術式刻印台"
       },
       {
         "type": "text",
         "value": "The Inscription Table will accept paper, ink, and arcane ash from any horizontal side.  It will allow extraction of items from all horizontal sides, and spell recipes from the top/bottom, as long as it isn't currently processing.",
         "json": [
           {
-            "text": "転写台",
+            "text": "術式刻印台",
             "color": "blue"
           },
           {
