@@ -3124,7 +3124,7 @@
             "color": "blue"
           },
           {
-            "text": "は、魔術の深淵により踏み込んだ詠唱法で、通常の即座に発動する呪文よりも強力もしくは持続的な効果を及ぼします。\n\n追加の準備、触媒、そして手順が必要になりますが、それによって得られる強力な効果は割に合います。\n\n始めるにはまず、地面に"
+            "text": "は魔術の深淵により踏み込んだ詠唱法で、通常の即座に発動する呪文よりも強力/持続的な効果を及ぼします。\n\n追加の準備、触媒、そして手順が必要になりますが、それによって得られる強力な効果は割に合うものです。\n\n始めるにはまず、地面に"
           },
           {
             "text": "魔術師のチョーク",
@@ -3224,7 +3224,7 @@
             "color": "blue"
           },
           {
-            "text": "を表示します。\n\nその場合"
+            "text": "を表示します。\n\nその場合は"
           },
           {
             "text": "要求されたマナ織を描くことで",
@@ -3989,7 +3989,7 @@
             "color": "blue"
           },
           {
-            "text": "に紐づけされた儀式を行う際は必要なアイテムを自身のインベントリから利用します。\n\n"
+            "text": "に紐づけされた儀式を行う際は必要なアイテムを巾着のインベントリから利用します。\n\n"
           },
           {
             "text": "実践者の巾着",
@@ -11853,17 +11853,17 @@
     "sections": [
       {
         "type": "title",
-        "value": "羽根の御守り"
+        "value": "御守り羽根"
       },
       {
         "type": "text",
         "value": "Feather charms are simple single-use items that perform powerful, often protective effects.  They are all about preparation in advance.  Many a wizard has been saved by their use.  Most feather charms activate automatically under certain conditions (though some must be manually activated such as the Enderfeather Charm).  They can be equipped into the charm slot in the curio inventory, or be in your inventory / hotbar.  Any of these slots are valid.",
         "json": [
           {
-            "text": "羽根の御守りは単純で使い捨ての、防御の効果をもつ強力なアイテムです。\n\nすべてはもしもの為の準備です。\n\n数々の魔術師がこれによって命を救われました。\n\nほとんどの羽根の御守りは、特定の条件で起動します("
+            "text": "御守り羽根は単純で使い捨ての、防御の効果をもつ強力なアイテムです。\n\nすべてはもしもの為の準備です。\n\n数々の魔術師がこれによって命を救われました。\n\nほとんどの羽根の御守りは、特定の条件で起動します("
           },
           {
-            "text": "エンダー羽根の御守り",
+            "text": "エンダーの羽根御守り",
             "color": "blue"
           },
           {
@@ -11877,7 +11877,7 @@
       },
       {
         "type": "title",
-        "value": "エンダー羽根の御守り",
+        "value": "エンダーの御守り羽根",
         "newPage": true
       },
       {
@@ -11890,7 +11890,7 @@
         "value": "The Enderfeather Charm is a single use item that, while expensive, will return me to my bed (or equivalent) regardless of distance as long as I'm in the same dimension.  I'm sure there are less expensive means of achieving a similar effect as I grow my abilities.",
         "json": [
           {
-            "text": "エンダー羽根の御守り",
+            "text": "エンダーの御守り羽根",
             "color": "blue"
           },
           {
@@ -11907,7 +11907,7 @@
       },
       {
         "type": "title",
-        "value": "石炭羽根の御守り",
+        "value": "石炭の御守り羽根",
         "newPage": true
       },
       {
@@ -11920,7 +11920,7 @@
         "value": "The Coalfeather Charm is a single use item that will extinguish me if I am on fire and solidify lava around me.",
         "json": [
           {
-            "text": "石炭羽根の御守り",
+            "text": "石炭の御守り羽根",
             "color": "blue"
           },
           {
@@ -11944,7 +11944,7 @@
       },
       {
         "type": "title",
-        "value": "葦羽根の御守り",
+        "value": "葦の御守り羽根",
         "newPage": true
       },
       {
@@ -11957,7 +11957,7 @@
         "value": "The Reedfeather Charm is a single use item that will refill my breath if I start to drown.",
         "json": [
           {
-            "text": "葦羽根の御守り",
+            "text": "葦の御守り羽根",
             "color": "blue"
           },
           {
@@ -11974,7 +11974,7 @@
       },
       {
         "type": "title",
-        "value": "骨羽根のお守り",
+        "value": "骨の御守り羽根",
         "newPage": true
       },
       {
@@ -11987,7 +11987,7 @@
         "value": "The Bonefeather Charm is a single use item that will automatically protect me from lethal fall damage.  If a fall would not be lethal, the charm will do nothing.  I'm sure there are less expensive means of achieving a similar effect as I grow my abilities.",
         "json": [
           {
-            "text": "骨羽根のお守り",
+            "text": "骨の御守り羽根",
             "color": "dark_purple"
           },
           {
