@@ -993,7 +993,7 @@
         "type": "text",
         "json": [
           {
-            "text": "I've detailed more about Cantrips in their entirety under the Manaweaving section of this Codex."
+            "text": "Более подробно о кантрийных заклинаниях я рассказываю в разделе «Манаплетение» этого Кодекса"
           }
         ]
       }
@@ -1027,13 +1027,13 @@
     "sections": [
       {
         "type": "title",
-        "value": "Common Mundane Materials"
+        "value": "Обычные мирские материалы"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "I've created ways to magically synthesize common mundane materials that are otherwise rare or hard to obtain, but frequently used for magic. \n\nI'm sure I'll come up with more as I progress.  I'll make sure to list them here."
+            "text": "Я создал способы магического синтеза обычных мирских материалов, которые в других случаях редки или труднодоступны, но часто используются в магии.\n\nУверен, что по мере продвижения я придумаю еще что-нибудь. Я обязательно расскажу об этом здесь."
           }
         ]
       },
@@ -1041,7 +1041,7 @@
         "type": "text",
         "json": [
           {
-            "text": "The included recipes are:\n- Leather\n- Crying Obsidian\n- Prismarine Crystal\n- Prismarine Shard\n- Gilded Blackstone\n- Name Tag\n- Poisonous Potato \n- Saddle"
+            "text": "В список входят следующие рецепты:\n- Кожа\n- Плачущий обсидиан\n- Призмариновый кристалл\n- Призмариновый осколок\n- Позолоченный черный камень\n- Именная бирка\n- Ядовитый картофель\n- Седло"
           }
         ]
       }
@@ -1087,23 +1087,23 @@
     "sections": [
       {
         "type": "title",
-        "value": "Enemies and Allies"
+        "value": "Враги и Союзники"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "There are at least four "
+            "text": "Существует как минимум четыре "
           },
           {
-            "text": "factions",
+            "text": "фракции",
             "color": "blue"
           },
           {
-            "text": ", all at war with each other.  Their troops are often encountered in the wild, but generally are passive to the factionless unless provoked.\n\nThe factions seem to deploy more powerful troops near where more powerful wizards exist.\n\n"
+            "text": ", каждая из которых воюет между собой. Их войска часто встречаются в дикой природе, но в целом пассивны по отношению к бесфракционным, если их не провоцировать.\n\nПохоже, что фракции размещают более мощные войска вблизи тех мест, где существуют более могущественные волшебники.\n\n"
           },
           {
-            "text": "They will attack members of opposing factions on sight, and defend those allied with their own faction.",
+            "text": "Они будут атаковать членов враждующих фракций на месте и защищать тех, кто состоит в союзе с их собственной фракцией.",
             "color": "dark_purple"
           }
         ]
@@ -1116,31 +1116,31 @@
       },
       {
         "type": "title",
-        "value": "Spellbreaker"
+        "value": "Разрушитель заклинаний"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "Spellbreakers",
+            "text": "Разрушители заклинаний",
             "color": "blue"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": " являются одними из солдат "
           },
           {
-            "text": "Council",
+            "text": "Совета.",
             "color": "blue"
           },
           {
-            "text": ".\n\nThey have a resilient shield that can reflect certain types of spells, although it "
+            "text": "\n\nУ них есть упругий щит, способный отражать некоторые типы заклинаний, хотя он "
           },
           {
-            "text": "can sometimes be broken by an axe",
+            "text": "иногда ломается топором.",
             "color": "dark_purple"
           },
           {
-            "text": ".  Their stunning shield bash can silence for short periods of time.\n\nThey can unleash a battle cry that causes nearby allies of theirs to heal quickly for a short time, and to take less damage and deal much more damage for a moderate time."
+            "text": "Их оглушающий удар щитом может на короткое время поставить опонента вступор.\n\nОни могут выкрикнуть боевой клич, благодаря которому ближайшие союзники в течение короткого времени быстрее исцеляются, а также получают меньше урона и наносят гораздо больше урона в течение небольшоего времени."
           }
         ]
       },
@@ -1152,24 +1152,24 @@
       },
       {
         "type": "title",
-        "value": "Witch Hunter"
+        "value": "Охотник на ведьм"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "Witch Hunters",
+            "text": "Охотники на ведьм",
             "color": "blue"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": " являются одними из солдат "
           },
           {
-            "text": "Council",
+            "text": "Совета.",
             "color": "blue"
           },
           {
-            "text": ". \n\nThey are trained in agility, allowing them to attempt to dodge certain attacks and are expert marksman. \n\nThey use their crossbows to deadly effect and carry potions that can slow the movement or the mana regeneration, or just deal damage to those unfortunate to be caught in their splash effect."
+            "text": "\n\nОни очень ловкие, что позволяет им уклоняться от некоторых атак, а так же они искусные стрелки.\n\nОни используют арбалеты и носят с собой зелья, которые могут замедлить движение или регенерацию маны, или просто нанести урон тем, кто, к несчастью, попал под тх действие."
           }
         ]
       },
@@ -1180,24 +1180,24 @@
       },
       {
         "type": "title",
-        "value": "Living Ward"
+        "value": "Живой страж"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "Living Wards",
+            "text": "Живые стражи",
             "color": "blue"
           },
           {
-            "text": " are creations of the "
+            "text": " являются созданиями "
           },
           {
-            "text": "Council",
+            "text": "Совета.",
             "color": "blue"
           },
           {
-            "text": ".\n\nCreated to counter the flying threats of the other factions, Living Wards are small flying constructs that heavily resist magic.  They fire bolts that dampen the magic of their targets and drain a small amount of their casting resource. \n\nWhen in danger, they can detonate to drain a large amount of nearby wizards casting resource."
+            "text": "\n\nСозданные для борьбы с летающими угрозами других фракций, Живые Стражи представляют собой небольшие летающие конструкции, которые сильно сопротивляются магии. Они стреляют зарядами, которые гасят магию цели и отнимают у нее небольшое количество ресурсов.\n\nВ случае опасности они могут взорваться, чтобы лишить ближайших волшебников большого количества ресурсов."
           }
         ]
       },
@@ -1209,24 +1209,24 @@
       },
       {
         "type": "title",
-        "value": "Deathcap"
+        "value": "Грибоголовый"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "Deathcaps",
+            "text": "Грибоголовые",
             "color": "dark_green"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": " - солдаты "
           },
           {
-            "text": "Fey Courts",
+            "text": "Суда Фей.",
             "color": "dark_green"
           },
           {
-            "text": ". \n\nThey are faster than they seem and wield powerful poison attacks from both near and far, however their close poison attacks are far more dangerous."
+            "text": "\n\nОни быстрее, чем кажутся, и обладают мощными ядовитыми атаками как с близкого, так и с дальнего расстояния, однако их ядовитые атаки с близкого расстояния гораздо опаснее."
           }
         ]
       },
@@ -1238,31 +1238,31 @@
       },
       {
         "type": "title",
-        "value": "Pixie"
+        "value": "Фея"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "Pixies",
+            "text": "Феи",
             "color": "dark_green"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": " являются одними из солдат "
           },
           {
-            "text": "Fey Courts",
+            "text": "Суда Фей.",
             "color": "dark_green"
           },
           {
-            "text": ". \n\nThey can spawn with one of the four elemental affinities, and each one will attack with elemental bolts.  They are small and hard to hit, and more powerful ones can teleport short distances to escape foes.\n\nFire pixies can melt equipped armor and the heat makes those affected do less damage with their attacks. \n\nWater pixies can slow with frost, or pull you underwater. \n\nAir pixies can toss you into the air. \n\nEarth pixies can blast you with physical damage, and can pull you to the earth if you are airborne. \n\nPixies by themselves are not much more than a nuisance, but a group of them can pose a serious threat, especially when they have "
+            "text": "\n\nОни могут появляться на свет с одной из четырех стихий, и каждая из них атакует элементальными зарядами. Они маленькие и вертлявые, а более сильные могут телепортироваться на небольшие расстояния, спасаясь от врагов.\n\nОгненные феи могут плавить экипированную броню, а жар заставляет пострадавших наносить меньше урона своими атаками.\n\nВодные феи могут замораживать или утягивать под воду.\n\nВоздушные феи могут подбрасывать вас в вохдух.\n\nФеи земли могут наносят физический урон и могут притянуть вас к земле, если вы находитесь в воздухе.\n\nФеи сами по себе безобидные, однако группа феи может доставить проблем, особенно когда у них есть  "
           },
           {
-            "text": "Deathcaps",
+            "text": "Грибоголовые",
             "color": "dark_green"
           },
           {
-            "text": " acting as their frontline."
+            "text": " выступющие в качестве их передовой."
           }
         ]
       },
@@ -1274,17 +1274,17 @@
       },
       {
         "type": "title",
-        "value": "Barkling"
+        "value": "Барклинг"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "Barklings",
+            "text": "Барклинги",
             "color": "dark_green"
           },
           {
-            "text": " are part of the Fey Courts, and serve as lightweight infantry. \n\nWielding improvised wooden weapons and shields, they are capable combatants that know how to stand up to a wizard if needed."
+            "text": " часть Суда Фей, и служат в качестве легкой пехоты.\n\nОбладая импровизированным деревянным оружием и щитами, они являются умелыми бойцами, которые знают, как противостоять волшебнику, если потребуется."
           }
         ]
       },
@@ -1296,24 +1296,24 @@
       },
       {
         "type": "title",
-        "value": "Imp"
+        "value": "Имп"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "Imps",
+            "text": "Импы",
             "color": "dark_red"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": " являются одними из солдат "
           },
           {
-            "text": "Demons of the Nether",
+            "text": "Демонов Ада.",
             "color": "dark_red"
           },
           {
-            "text": ". \n\nThey have powerful legs that let them leap great distances at their targets, covering ground quickly. Their sharp claws have made short work of many a wizard."
+            "text": "\n\nУ них мощные лапы, которые позволяют им прыгать на огромные расстояния, быстро преодолевая расстояние до цели. Их острые когти не раз выручали волшебников."
           }
         ]
       },
@@ -1325,24 +1325,24 @@
       },
       {
         "type": "title",
-        "value": "Lantern Wraith"
+        "value": "Призрак-фонарь"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "Lantern Wraiths",
+            "text": "Призраки-фонари",
             "color": "dark_red"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": " являются одними из солдат "
           },
           {
-            "text": "Demons of the Nether",
+            "text": "Демонов Ада.",
             "color": "dark_red"
           },
           {
-            "text": ". \n\nThey fire long range bolts made of the souls of those they've slain, and each one increasingly slows and deals more damage as their target is drained more and more. These bolts eat away at the very life force of their target, and have been said to also drain mana of those they hit."
+            "text": "\n\nОни стреляют на дальние расстояния снарядами душ убитых ими людей, и каждый заряд все больше замедляется и наносит все больший урон по мере того, как его цель истощается все больше и больше. Эти заряды съедают жизненные силы цели и, как говорят, также высасывают ману из тех, в кого попадают."
           }
         ]
       },
@@ -1354,24 +1354,24 @@
       },
       {
         "type": "title",
-        "value": "Hulking Zombie"
+        "value": "Зомби-халк"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "Hulking Zombies",
+            "text": "Зомби-халк",
             "color": "dark_gray"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": " являются одними из солдат "
           },
           {
-            "text": "Undead",
+            "text": "Нежети.",
             "color": "dark_gray"
           },
           {
-            "text": ". \n\nThey can take an extreme amount of damage, and can dish it out as well. Their attacks can either knock their target back or up into the air, and they've been known to leap at airborne targets with the intent of spiking them back down to the ground (often at the expense of their own safety)."
+            "text": "\n\nОни могу принимать на себя огромное количество урона, а также наносить его. Их атаки могут отбросить цель назад или поднять в воздух. Известны случаи, когда они прыгали на воздушные цели, пытаясь сбросить их обратно на землю (часто в ущерб собственной безопасности)."
           }
         ]
       },
@@ -1383,24 +1383,24 @@
       },
       {
         "type": "title",
-        "value": "Skeleton Assassin"
+        "value": "Скелет-ассасин"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "Skeleton Assassins",
+            "text": "Скелеты-ассасины",
             "color": "dark_gray"
           },
           {
-            "text": " are one of the soldiers of the "
+            "text": " являются одними из солдат "
           },
           {
-            "text": "Undead",
+            "text": "Нежети.",
             "color": "dark_gray"
           },
           {
-            "text": ". \n\nThese terrifying stalkers have the ability to drop smoke bombs to make themselves invisible. They know how to attack from concealment, making their attacks deal significantly more damage. They also can throw deadly shurikens with high speed, and will throw bolos at flying targets in an attempt to bring them to the ground."
+            "text": "\n\nЭти страшные преследователи умеют сбрасывать дымовые шашки, чтобы стать невидимыми. Они умеют атаковать незаметно, благодаря чему их атаки наносят значительно больше урона. Они также могут метать смертоносные сюрикены с высокой скоростью и бросать боло в летающие цели, пытаясь повалить их на землю."
           }
         ]
       },
@@ -1411,104 +1411,104 @@
       },
       {
         "type": "title",
-        "value": "Chatterer"
+        "value": "Болтун"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "An insidious creature within the legions of the ",
+            "text": "Коварное существо в легионах ",
             "color": "black"
           },
           {
-            "text": "undead",
+            "text": "нежети",
             "color": "dark_gray"
           },
           {
-            "text": ", the Chatterer's iconic clicking sound has conditioned many a miner to abandon whatever they were doing and instead focus on the now obvious threat. ",
+            "text": ", знаменитый щелчок Болтуна заставил многих шахтеров бросить все свои дела и сосредоточиться на очевидной угрозе. ",
             "color": "black"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "Found in the deepest depths and empowered with dark powers of plague and rot, the Chatterer will first use its magic to ",
+            "text": "Найденный в глубочайших глубинах и наделенный темными силами чумы и гнили, Болтун сначала использует свою магию, чтобы ",
             "color": "black"
           },
           {
-            "text": "blind its victim",
+            "text": "ослепить свою жертву. ",
             "color": "blue"
           },
           {
-            "text": ". This is, thankfully, the largest effect the weakest variants of the chatterer can muster. More powerful Chatterers can layer on additional ",
+            "text": "К счастью, это самое страшное, на что способны самые слабые варианты болтуна. Более мощные болтуны могут накладывать дополнительные ",
             "color": "black"
           },
           {
-            "text": "toxins, vulnerabilities",
+            "text": "токсины, уязвимости",
             "color": "blue"
           },
           {
-            "text": ", and even make their targets ",
+            "text": ", и даже ",
             "color": "black"
           },
           {
-            "text": "wither away",
+            "text": "иссушают",
             "color": "blue"
           },
           {
-            "text": ". ",
+            "text": "своих жертв. ",
             "color": "black"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "Once sufficiently weakened and helpless, the Chatterer will ",
+            "text": "Оказавшись достаточно ослабленным и беспомощным, Болтун начнет ",
             "color": "black"
           },
           {
-            "text": "destroy itself to summon additional undead",
+            "text": "разлогаться, чтобы призвать больше нежети",
             "color": "blue"
           },
           {
-            "text": " to finish its grim work. ",
+            "text": " чтобы закончить свою мрачную работу.",
             "color": "black"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "The only saving grace to be found lies in the magical link between their eye and their target. Looking directly into the eye seems to stun the Chatterer...but that becomes impossible to do when blinded. ",
+            "text": "Единственное спасение - магическая связь между глазом и целью. Взгляд прямо в глаза, кажется, ошеломляет Болтуна... но это становится невозможным, когда он ослеплен.",
             "color": "black"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "Some also tell of a bright source of light such as a wizard that has made themselves ",
+            "text": "Некоторые также рассказывают о ярком источнике света, например, о волшебнике, который заставил себя ",
             "color": "black"
           },
           {
-            "text": "glow ",
+            "text": "сиять ",
             "color": "blue"
           },
           {
-            "text": "being effective, provided they can get close enough. ",
+            "text": "чтобы подобраться достаточнго близко.",
             "color": "black"
           },
           {
             "text": "\n\n"
           },
           {
-            "text": "All of this is easier said than done as well, for ",
+            "text": "Все это легче сказать, чем сделать, поскольку ",
             "color": "black"
           },
           {
-            "text": "Chatterers seldom travel alone",
+            "text": "Болтуны редко путешествуют в одиночку.",
             "color": "blue"
           },
           {
-            "text": ". In particular, Skeleton Assassins are far more deadly with the support of a Chatterer.",
+            "text": "В частности, скелеты-ассасины становятся гораздо более смертоносными при поддержке болтуна.",
             "color": "black"
           }
         ]
@@ -1892,7 +1892,7 @@
             "text": " gaining one additional summon per tier they attain above 2. "
           },
           {
-          	"text": "\nChoose this path at your own risk.\n\nWhen looking at the occulus, anything requiring the Undead faction will be marked with the following icon:"
+            "text": "\nChoose this path at your own risk.\n\nWhen looking at the occulus, anything requiring the Undead faction will be marked with the following icon:"
           }
         ]
       },
@@ -2981,33 +2981,33 @@
       }
     ],
     "related_recipes": [
-    	{
-	  		"locations": [
-	        	"mna:staves/staff_amethyst",
-	          	"mna:staves/staff_aum",
-	          	"mna:staves/staff_cerublossom",
-	          	"mna:staves/staff_chimerite",
-	          	"mna:staves/staff_desertnova",
-	          	"mna:staves/staff_emerald",
-	          	"mna:staves/staff_glass",
-	          	"mna:staves/staff_gold",
-	          	"mna:staves/staff_iron",
-	          	"mna:staves/staff_lapis",
-	          	"mna:staves/staff_netherquartz",
-	          	"mna:staves/staff_prismarinecrystal",
-	          	"mna:staves/staff_prismarineshard",
-	          	"mna:staves/staff_redstone",
-	          	"mna:staves/staff_skull",
-	          	"mna:staves/staff_tarma",
-	          	"mna:staves/staff_vinteum",
-	          	"mna:staves/staff_wakebloom"
-	        ],
-	        "type": "crafting"
-    	},
-    	{
-	  		"location": "mna:staves/bangle",
-	        "type": "crafting"
-    	}
+      {
+        "locations": [
+          "mna:staves/staff_amethyst",
+          "mna:staves/staff_aum",
+          "mna:staves/staff_cerublossom",
+          "mna:staves/staff_chimerite",
+          "mna:staves/staff_desertnova",
+          "mna:staves/staff_emerald",
+          "mna:staves/staff_glass",
+          "mna:staves/staff_gold",
+          "mna:staves/staff_iron",
+          "mna:staves/staff_lapis",
+          "mna:staves/staff_netherquartz",
+          "mna:staves/staff_prismarinecrystal",
+          "mna:staves/staff_prismarineshard",
+          "mna:staves/staff_redstone",
+          "mna:staves/staff_skull",
+          "mna:staves/staff_tarma",
+          "mna:staves/staff_vinteum",
+          "mna:staves/staff_wakebloom"
+        ],
+        "type": "crafting"
+      },
+      {
+        "location": "mna:staves/bangle",
+        "type": "crafting"
+      }
     ]
   },
   "Ritual How-To": {
@@ -4267,7 +4267,7 @@
             "italic": true
           },
           {
-          	"text": "the locating patterns, as well as "
+            "text": "the locating patterns, as well as "
           },
           {
             "text": "Maps and Compasses.",
@@ -11118,8 +11118,8 @@
         "location": "mna:runeforging/runeforge_marking"
       },
       {
-      	"type": "crafting",
-      	"location": "mna:rune_marking_pair"
+        "type": "crafting",
+        "location": "mna:rune_marking_pair"
       }
     ]
   },
@@ -14665,14 +14665,14 @@
             "text": ", and can also have a spell put on it like any other staff."
           },
           {
-           "text": "\n\nThis scythe can only be crafted by those who have allied themselves to the "
+            "text": "\n\nThis scythe can only be crafted by those who have allied themselves to the "
           },
           {
             "text": "Undead",
             "color": "dark_gray"
           },
           {
-           "text": "."
+            "text": "."
           }
         ]
       }
@@ -14704,14 +14704,14 @@
             "color": "dark_gray"
           },
           {
-           "text": "\n\nThis staff can only be crafted by those who have allied themselves to the "
+            "text": "\n\nThis staff can only be crafted by those who have allied themselves to the "
           },
           {
             "text": "Fey Courts",
             "color": "dark_green"
           },
           {
-           "text": "."
+            "text": "."
           }
         ]
       }
@@ -15727,10 +15727,10 @@
     ]
   },
   "Targeting Construct Tasks": {
-  	"index": "-97",
+    "index": "-97",
     "category": "constructs",
     "sections": [
-    	{
+      {
         "type": "title",
         "value": "Targeting Construct Tasks"
       },
@@ -15797,7 +15797,7 @@
         "type": "crafting",
         "location": "mna:rune_of_marking_pair"
       }
-   	]
+    ]
   },
   "Commanding Constructs": {
     "index": "-96",
@@ -16167,19 +16167,19 @@
         ]
       },
       {
-      	"type": "text",
-      	"json": [
-      		{
-      			"text": "Constructs practice "
-      		},
-      		{
-      			"text": "co-la-bo-ra-tion ",
-      			"color": "blue"
-      		},
-      		{
-      			"text": "when performing tasks through a Lodestar or a Delegation Station.  When I have multiple constructs assigned to the same Lodestar or Delegation Station, they will share the work, splitting the tasks among them instead of each one trying to do the same thing."
-      		}
-      	]
+        "type": "text",
+        "json": [
+          {
+            "text": "Constructs practice "
+          },
+          {
+            "text": "co-la-bo-ra-tion ",
+            "color": "blue"
+          },
+          {
+            "text": "when performing tasks through a Lodestar or a Delegation Station.  When I have multiple constructs assigned to the same Lodestar or Delegation Station, they will share the work, splitting the tasks among them instead of each one trying to do the same thing."
+          }
+        ]
       }
     ],
     "related_recipes": [
@@ -16888,9 +16888,9 @@
     ]
   },
   "Command: Guard": {
-  	"index": 4,
-  	"category": "constructs",
-  	"sections": [
+    "index": 4,
+    "category": "constructs",
+    "sections": [
       {
         "type": "title",
         "value": "Command: Guard"
@@ -17652,7 +17652,7 @@
           },
           {
             "text": ". When it returns it will have some random dimension-appropriate hunting loot it found on its journey. \n\n"
-          },          
+          },
           {
             "text": "It will require either a "
           },
@@ -18030,7 +18030,7 @@
           {
             "text": "\n\nOmitting the filter will check for any items in the construct's inventory.",
             "color": "dark_purple"
-          }          
+          }
         ]
       }
     ]
@@ -18197,7 +18197,7 @@
           {
             "text": "\n\nOmitting the filter will check for any items in the target container.",
             "color": "dark_purple"
-          }   
+          }
         ]
       }
     ]
@@ -20081,7 +20081,7 @@
           }
         ]
       },
-     {
+      {
         "type": "title",
         "value": "Dowsing Rod",
         "newPage": true
@@ -20337,17 +20337,17 @@
             "text": " it by bringing that energy back into the material plane. Each conduit can bring forth a different energy.\n\nLesser conduits do not transfer power nearly as quickly, and have a smaller internal storage buffer.  I'll either need to upgrade them to greater conduits, or place multiple conduits down to meet demand."
           },
           {
-          	"text": "\n\nConduits also have a "
+            "text": "\n\nConduits also have a "
           },
           {
             "text": "range and charge rate",
             "color": "dark_purple"
           },
           {
-          	"text": " which determines how far they can supply eldrin power and how fast they pull eldrin power into their internal buffer.  Conduits may become over-taxed, meaning they cannot meet demand.  This will not damage the conduit, however, just slow down whatever they are powering.  They can also be shut down by a redstone signal of any strength, which will prevent them from supplying power entirely."
+            "text": " which determines how far they can supply eldrin power and how fast they pull eldrin power into their internal buffer.  Conduits may become over-taxed, meaning they cannot meet demand.  This will not damage the conduit, however, just slow down whatever they are powering.  They can also be shut down by a redstone signal of any strength, which will prevent them from supplying power entirely."
           },
           {
-          	"text": "\n\nI can see all of this as well as change who can use a conduit by activating it."
+            "text": "\n\nI can see all of this as well as change who can use a conduit by activating it."
           }
         ]
       }
@@ -25287,7 +25287,7 @@
           {
             "text": ", though it can store any item."
           },
-           {
+          {
             "text": "\n\nItems not in the above list will render as scrolls in the display slots.  There is a tag to make additional items render as potions in the shelf instead.",
             "italic": true
           }
