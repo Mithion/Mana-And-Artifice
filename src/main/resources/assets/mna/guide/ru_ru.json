@@ -1522,13 +1522,13 @@
     "sections": [
       {
         "type": "title",
-        "value": "Factions"
+        "value": "Фракции"
       },
       {
         "type": "text",
         "json": [
           {
-            "text": "If I want to continue my journey through the world of the arcane, I will need to choose a faction.  Only they can provide the knowledge I seek.\n\nThis is given to me as a choice of a series of tasks to complete. I must choose wisely. \nMy faction, once chosen, cannot be changed."
+            "text": "Если я хочу продолжить свое путешествие по миру арканы, мне нужно выбрать фракцию. Только они могут дать мне знания, которые я ищу.\n\nЭто дается мне как выбор из ряда заданий, которые нужно выполнить. Я должен выбирать с умом.\nМоя фракция, выбранная однажды, не может быть изменена."
           }
         ]
       },
@@ -1536,7 +1536,7 @@
         "type": "text",
         "json": [
           {
-            "text": "Once I choose a faction, I will make enemies out of the other ones.  Their troops, which can be found throughout the various worlds will become hostile to me.\n\nHowever, I do not stand alone.  My own faction's mobs will come to my aid if they see me in trouble."
+            "text": "Выбрав фракцию, я наживу себе врагов из других фракций. Их войска, которые можно найти во всех мирах, станут враждебными по отношению ко мне.\n\nОднако, я не одинок. Мобы моей фракции придут мне на помощь, если увидят, что я в беде."
           }
         ]
       },
