@@ -46,8 +46,8 @@
     "item.mna.torn_journal_page.contains": "似乎记录了些只言片语，乃是关于",
     "item.mna.torn_journal_page.learned.prefix": "你关于",
     "item.mna.torn_journal_page.learned.suffix": "的知识更为精深了！",
-    "item.mna.torn_journal_page.rote": "你觉得通过学习这个项目你可以学到一些东西。",
-    "item.mna.torn_journal_page.not_rote": "你觉得你无法从这个项目中获得更多的知识。",
+    "item.mna.torn_journal_page.rote": "你觉得你无法从这个项目中获得更多的知识。",
+    "item.mna.torn_journal_page.not_rote": "你觉得通过学习这个项目你可以学到一些东西。",
     "item.mna.spell_part_thesis": "奥术论文",
     "item.mna.spell_part_thesis.empty": "论文尚未完成",
     "item.mna.spell_part_thesis.contains": "似乎记录了些魔法详解，乃是关于",
@@ -2818,3 +2818,4 @@
     "mna:tier_4/craft_t4_pylon.title": "汝需修建更多魔力塔",
     "mna:tier_4/craft_t4_pylon.description": "制造任意四阶魔力塔"
 }
+
