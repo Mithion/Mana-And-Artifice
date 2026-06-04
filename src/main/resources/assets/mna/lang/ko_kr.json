@@ -1747,7 +1747,7 @@
 	"mna:rituals/odins_call.storm": "이 의식은 뇌우가 치는 동안에만 수행할 수 있습니다.",
 	"mna:rituals/wandering_wizard": "방랑하는 마법사의 의식",
 	"mna:rituals/broker": "철제 종의 의식",
-	"mna:rituals/locating": "탐지의 의식",
+	"mna:rituals/locating": "탐색의 의식",
 	"mna:rituals/locating.failed": "의식이 적당한 거리 안에서 대상을 찾지 못했습니다.",		
 	"mna:rituals/flat_lands.tooFar": "의식이 대상 영역에서 너무 멀리 떨어져 있어 실패한 것 같습니다.",
 	"mna:rituals/flat_lands.tooBig": "대상 영역이 의식으로 다루기에는 너무 커서 실패한 것 같습니다.",
